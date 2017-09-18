@@ -411,8 +411,14 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header2-0 .btn {
+  font-size: 11px;
+}
 #features1-1 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
+}
+#features1-1 .mbr-cards-col:nth-child(odd) .card-title DIV {
+  font-size: 14px;
 }
 #msg-box6-k .mbr-section-title,
 #msg-box6-k .lead p {

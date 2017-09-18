@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 28,
     "versionPublish": "4.3.0"
   },
   "pages": {
@@ -66,11 +66,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/17125563-1864796990459625-5245360717275594752-n-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/751653.line-796x591.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -84,9 +83,14 @@
               "size": 250
             }
           },
-          "title": "Negneger Cafe",
-          "text": "一起來那個那個吧",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>點我看菜單<br>&nbsp; &nbsp; &nbsp; menu<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"LatestNews.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">最新活動<br>Latest News<br></a>  "
+          "title": "Fixxface&nbsp;",
+          "text": "face &amp; nails",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>服務項目&nbsp;menu<br></a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"LatestNews.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">最新活動<br>Latest News<br></a>  ",
+          "_styles": {
+            ".btn": {
+              "font-size": "11px"
+            }
+          }
         },
         {
           "_tags": [
@@ -96,6 +100,9 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title DIV": {
+              "font-size": "14px"
             }
           },
           "_anchor": "features1-1",
@@ -106,9 +113,9 @@
             "ShowTexts": true,
             "showButtons": true,
             "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -124,39 +131,37 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/14361187-330976750588528-310404377975394702-o-600x398.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21294670-1225026544264957-5494170758303186944-n-600x449.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
-          "title1": "嘉義那個那個",
+          "title1": "<span style=\"font-weight: normal;\">「 休修臉 幫你修理肌膚問題 」</span><div><span style=\"font-weight: normal;\">有沒有覺得夏天特別容易出油</span></div><div><span style=\"font-weight: normal;\">粉刺特別浮躁，化妝容易糊掉</span></div><div><span style=\"font-weight: normal;\">怎麼保濕都做不夠呢？</span></div><div><span style=\"font-weight: normal;\">-</span></div><div><span style=\"font-weight: normal;\">想要變漂亮，就要趁現在啦</span></div><div><span style=\"font-weight: normal;\">跟姐妹們出去怎能允許被比下去～</span></div>",
           "subtitle1": "",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/nagnagercafe/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Facebook</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/fixface721/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Facebook</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/15156855-368543430165193-8096115303614207480-o-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20905343-1905449533029942-3268218659100688384-n-600x449.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title2": "",
-          "subtitle2": "《3月31日前，85折優惠》<div><br></div><div>各位台中鄉親大家好，</div><div>我們來自我介紹一下好了，</div><div>重點先講：</div><div>到3/31止，全面85折優惠。</div><div>台中秀泰廣場的那個那個在S2館的二樓，</div><div>金石堂書店中很多樹的那個地方就是了，</div>",
+          "subtitle2": "<div><span style=\"font-size: 0.875rem; background-color: initial;\">📍高雄市苓雅區中山二路461 號&lt;原燒對面-711旁&gt;</span><br></div><div>📩預約line: @llr0044b &lt;前面要記得加@&gt;</div><div>⏰營業時間:9:00-21:00&lt;預約制 時間可溝通&gt;</div>",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.google.com.tw/maps/place/%E9%82%A3%E5%80%8B%E9%82%A3%E5%80%8B%E5%92%96%E5%95%A1/@23.4812493,120.4504796,17z/data=!3m1!4b1!4m5!3m4!1s0x346e94338c0b6c97:0x9fb5532af8486039!8m2!3d23.4812493!4d120.4526683?hl=en\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GO嘉義那個那個</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/maps/Be2j76EWFLH2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GO 休修臉</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/17358875-284274915335862-2270450309396188034-o-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/17358875_284274915335862_2270450309396188034_o-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -172,7 +177,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://www.google.com.tw/maps/place/%E7%A7%80%E6%B3%B0%E5%BB%A3%E5%A0%B4S2+%E9%87%91%E7%9F%B3%E5%A0%82%E6%9B%B8%E5%BA%97(2F)/@24.1403428,120.6894168,17z/data=!3m1!4b1!4m5!3m4!1s0x34693d4092f64af3:0x2b9d5562179c6f5f!8m2!3d24.1403428!4d120.6916055?hl=en\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GO台中那個那個</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/17349921-285617425201611-3314172672899889492-o-600x879.jpg",
+              "src": "@PROJECT_PATH@/assets/images/17349921_285617425201611_3314172672899889492_o-600x879.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -210,23 +215,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 Mobirise."
         }
       ]
     },
