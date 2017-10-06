@@ -1,12 +1,12 @@
 {
   "settings": {
+    "name": "Site-10-06_2214",
     "currentPage": "index.html",
-    "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#f28281",
+        "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -21,15 +21,15 @@
         "isRtl": false
       }
     },
-    "versionFirst": "3.12.1",
-    "uniqCompNum": 28,
-    "versionPublish": "4.3.0"
+    "versionFirst": "4.3.2",
+    "uniqCompNum": 2,
+    "versionPublish": "4.3.2"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -37,11 +37,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-0",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -66,10 +61,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/751653.line-796x591.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -83,38 +75,24 @@
               "size": 250
             }
           },
-          "title": "Fixxface&nbsp;",
-          "text": "face &amp; nails",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>服務項目&nbsp;menu<br></a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"LatestNews.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">最新活動<br>Latest News<br></a>  ",
-          "_styles": {
-            ".btn": {
-              "font-size": "11px"
-            }
-          }
-        },
-        {
+          "title": "高雄．修休臉．美學",
+          "text": "＠fixxface",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">最新消息leastest new</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">服務項目menu</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title DIV": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "features1-1",
+          "_name": "header2",
+          "_anchor": "header2-0"
+        },
+        {
           "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "columnsColor": "#2e2e2e",
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -131,66 +109,36 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/21294670-1225026544264957-5494170758303186944-n-600x449.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+              "active": true
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">「 休修臉 幫你修理肌膚問題 」</span><div><span style=\"font-weight: normal;\">有沒有覺得夏天特別容易出油</span></div><div><span style=\"font-weight: normal;\">粉刺特別浮躁，化妝容易糊掉</span></div><div><span style=\"font-weight: normal;\">怎麼保濕都做不夠呢？</span></div><div><span style=\"font-weight: normal;\">-</span></div><div><span style=\"font-weight: normal;\">想要變漂亮，就要趁現在啦</span></div><div><span style=\"font-weight: normal;\">跟姐妹們出去怎能允許被比下去～</span></div>",
-          "subtitle1": "",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/fixface721/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Facebook</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/20905343-1905449533029942-3268218659100688384-n-600x449.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+              "active": true
             }
           },
-          "title2": "",
-          "subtitle2": "<div><span style=\"font-size: 0.875rem; background-color: initial;\">📍高雄市苓雅區中山二路461 號&lt;原燒對面-711旁&gt;</span><br></div><div>📩預約line: @llr0044b &lt;前面要記得加@&gt;</div><div>⏰營業時間:9:00-21:00&lt;預約制 時間可溝通&gt;</div>",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/maps/Be2j76EWFLH2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GO 休修臉</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/17358875_284274915335862_2270450309396188034_o-600x600.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title3": "",
-          "subtitle3": "",
-          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">這裡我們提供了義大利麵、披薩、熱壓三明治、咖啡、氣泡飲、還有一些酷炫又奇妙的好喝飲料。</span><br><br>那個那個希望提供你一個小小的舒壓場景，<br>當然是純的那種你知道的。",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.google.com.tw/maps/place/%E7%A7%80%E6%B3%B0%E5%BB%A3%E5%A0%B4S2+%E9%87%91%E7%9F%B3%E5%A0%82%E6%9B%B8%E5%BA%97(2F)/@24.1403428,120.6894168,17z/data=!3m1!4b1!4m5!3m4!1s0x34693d4092f64af3:0x2b9d5562179c6f5f!8m2!3d24.1403428!4d120.6916055?hl=en\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GO台中那個那個</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/17349921_285617425201611_3314172672899889492_o-600x879.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title4": "台中秀泰廣場那個那個",
-          "subtitle4": "",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/nagnagerTC/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Facebook</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -199,10 +147,6 @@
               "active": true
             }
           },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -211,258 +155,35 @@
               "active": true
             }
           },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "Page 3",
-        "order": 4
-      },
-      "components": [
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 Mobirise.",
-          "_anchor": "footer1-i"
-        }
-      ]
-    },
-    "LatestNews.html": {
-      "settings": {
-        "meta_descr": "Web Builder Description",
-        "title": "Latest News",
-        "order": 3
-      },
-      "components": [
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 Mobirise.",
-          "_anchor": "footer1-h"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            },
-            "H3": {
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "66",
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.5"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/20935039-351104731986213-1184253700946771394-o-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "《七夕肉麻情話大賽》<div><br></div><div><br></div><div>七夕情人節要到了，</div><div>我們想要舉辦一個『肉麻情（幹）話大賽』，</div><div>雖然說是大賽，但是真的比賽太麻煩了，</div><div>所以這次很簡單，</div><div>我們用抽獎的方式進行，</div><div><br></div><div><br></div><div>首先，請你公開分享本則貼文，</div><div>然後，在本則貼文底下留言標記你的情人/老婆/老公/暗戀對象，說一個肉麻的情話，</div><div>例如： ＠林羿均 雖然你矮肥短，但是我一樣愛你everyday。</div><div><br></div><div><br></div><div>我們將在8月27日（七夕前一天）晚上九點公布得獎名單，</div><div>這次預計將抽出：</div><div>『情人節大餐補助款- 新台幣3000元整』1名，</div><div>『那個那個台中秀泰店用餐抵用-新台幣500元整』3名，</div><div><br></div><div><br></div><div>貼心小提醒：</div><div>請記得一定要公開分享本則貼文，如果抽中你，但是你卻忘記公開分享那就會喪失資格喔。</div><div>然後單身的朋友們別傷心，老闆明天另開一個單身專區給大家抽獎，乖乖。</div><div><br></div><div>--------------------------------------------------------------------&nbsp;</div><div>那個那個 - 台中秀泰店</div><div>台中市東區南京路76號秀泰廣場站前店S2館2樓</div><div>04-22152921</div><div><br></div><div>＃跟我一起那個那個好嗎</div>",
-          "text": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box6",
-          "_anchor": "msg-box6-k"
-        }
-      ]
-    },
-    "menu.html": {
-      "settings": {
-        "title": "menu",
-        "meta_descr": "Web Page Builder Description",
-        "order": 2
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-c",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/17388886-284261755337178-4754405192859055966-o-1400x1979.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "_params": {
-            "showText": false
-          },
-          "text": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-d",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/17390654-284261762003844-7754348016077677595-o-1400x1979.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "_params": {
-            "showText": false
-          },
-          "text": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-e",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/17239624-284261805337173-547233986725409224-o-1400x1979.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "_params": {
-            "showText": false
-          },
-          "text": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-f",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/17390796-284261765337177-8219008768838667586-o-1400x1979.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "_params": {
-            "showText": false
-          },
-          "text": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-g",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/17436264-284261808670506-7518264779594707682-o-1400x1979.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "_params": {
-            "showText": true
-          },
-          "text": ""
+          "_name": "features3",
+          "_anchor": "features3-1"
         }
       ]
     }
