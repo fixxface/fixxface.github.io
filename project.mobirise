@@ -21,11 +21,12 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#f1aaa7"
+        "#f1aaa7",
+        "#5b5b5b"
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 4,
+    "uniqCompNum": 5,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -138,7 +139,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-2627-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21167316-476308226069337-3118074125503760460-o-600x449.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -179,12 +180,12 @@
               "active": true
             }
           },
-          "title1": "休修臉的成立，為的是讓辛苦的人們有一個能放鬆休息、沈澱自我、肌膚調養的發呆亭。<div>這可以瞭解到正確的保養觀念與方法、肌膚保養管理。</div><div>找回那流逝去的風采和自信，適合為了生活努力奮鬥的妳。</div><div>只給你們最好的❤️</div>",
+          "title1": "<br>",
           "subtitle1": "",
           "caption1": "",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "",
+          "subtitle2": "<span style=\"font-style: normal;\">［ 高雄 · 休修臉 · 美學 ］</span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">休修臉的成立</span><div><span style=\"font-style: normal;\">為的是讓辛苦的人們有一個能放鬆休息、沈澱自我、肌膚調養的發呆亭。</span></div><div><span style=\"font-style: normal;\">這可以瞭解到正確的保養觀念與方法、肌膚保養管理。</span></div><div><span style=\"font-style: normal;\"><br></span></div><div><span style=\"font-style: normal;\">找回那流逝去的風采和自信，適合為了生活努力奮鬥的妳</span></div><div><span style=\"font-style: normal;\">只給你們最好最舒適的 ❤️</span></div>",
+          "caption2": "",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -210,10 +211,44 @@
           "_anchor": "features3-1",
           "_styles": {
             "H4": {
-              "text-align": "center",
-              "font-size": "15px"
+              "text-align": "left",
+              "font-size": "15px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "color": "#7c706b"
+            },
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H5": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "left"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-4"
         }
       ]
     },
