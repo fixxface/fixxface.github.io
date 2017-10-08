@@ -83,7 +83,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">高雄．修休臉．美學</span>",
           "text": "＠fixxface &nbsp; &nbsp; &nbsp; &nbsp;face&amp;nails",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\">最新消息leastest new</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\">服務項目menu</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>最新消息leastest new</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>服務項目menu</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-rocket mbr-iconfont mbr-iconfont-btn\"></span>產品簡介 products</a>",
           "_tags": [
             "Theme"
           ],
@@ -115,7 +115,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -126,7 +126,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-2626-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -175,9 +175,9 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "休修臉的成立，為的是讓辛苦的人們有一個能放鬆休息、沈澱自我、肌膚調養的發呆亭。<div>這可以瞭解到正確的保養觀念與方法、肌膚保養管理。</div><div>找回那流逝去的風采和自信，適合為了生活努力奮鬥的妳。</div><div>只給你們最好的❤️</div>",
+          "subtitle1": "",
+          "caption1": "",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
@@ -193,8 +193,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">地址maps</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Facebook</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -203,7 +203,13 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-1"
+          "_anchor": "features3-1",
+          "_styles": {
+            "H4": {
+              "text-align": "center",
+              "font-size": "15px"
+            }
+          }
         }
       ]
     },
