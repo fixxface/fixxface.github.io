@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -87,7 +89,7 @@ h6,
   background-color: #f3c649 !important;
 }
 .bg-danger {
-  background-color: #f28281 !important;
+  background-color: #f1aaa7 !important;
 }
 .btn-primary {
   background-color: #c0a375;
@@ -190,8 +192,8 @@ h6,
   border-color: #e1a90f !important;
 }
 .btn-danger {
-  background-color: #f28281;
-  border-color: #f28281;
+  background-color: #f1aaa7;
+  border-color: #f1aaa7;
   color: #ffffff;
 }
 .btn-danger:hover,
@@ -200,14 +202,14 @@ h6,
 .btn-danger:active,
 .btn-danger.active {
   color: #ffffff;
-  background-color: #eb3d3c;
-  border-color: #eb3d3c;
+  background-color: #e76a65;
+  border-color: #e76a65;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #eb3d3c !important;
-  border-color: #eb3d3c !important;
+  background-color: #e76a65 !important;
+  border-color: #e76a65 !important;
 }
 .btn-primary-outline {
   background: none;
@@ -311,8 +313,8 @@ h6,
 }
 .btn-danger-outline {
   background: none;
-  border-color: #e82625;
-  color: #e82625;
+  border-color: #e3554f;
+  color: #e3554f;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
@@ -320,14 +322,14 @@ h6,
 .btn-danger-outline:active,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #f28281;
-  border-color: #f28281;
+  background-color: #f1aaa7;
+  border-color: #f1aaa7;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #f28281 !important;
-  border-color: #f28281 !important;
+  background-color: #f1aaa7 !important;
+  border-color: #f1aaa7 !important;
 }
 .text-primary {
   color: #c0a375 !important;
@@ -342,7 +344,7 @@ h6,
   color: #f3c649 !important;
 }
 .text-danger {
-  color: #f28281 !important;
+  color: #f1aaa7 !important;
 }
 .alert-success {
   background-color: #90a878;
@@ -354,7 +356,7 @@ h6,
   background-color: #f3c649;
 }
 .alert-danger {
-  background-color: #f28281;
+  background-color: #f1aaa7;
 }
 .btn-social {
   border-color: #c0a375;
@@ -410,4 +412,12 @@ h6,
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
+}
+#header2-0 .mbr-section-title {
+  font-size: 46px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#header2-0 .mbr-section-title SPAN {
+  color: #ffffff;
 }

@@ -11,7 +11,7 @@
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#f1aaa7",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -19,7 +19,10 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#f1aaa7"
+      ]
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 2,
@@ -45,7 +48,7 @@
             "showArrow": true,
             "imageSize": 50,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -61,7 +64,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/1501338106550-796x591.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -75,14 +81,25 @@
               "size": 250
             }
           },
-          "title": "高雄．修休臉．美學",
-          "text": "＠fixxface",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">最新消息leastest new</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">服務項目menu</a>",
+          "title": "<span style=\"font-weight: normal;\">高雄．修休臉．美學</span>",
+          "text": "＠fixxface &nbsp; &nbsp; &nbsp; &nbsp;face&amp;nails",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\">最新消息leastest new</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\">服務項目menu</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-0"
+          "_anchor": "header2-0",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -109,10 +126,13 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
@@ -186,6 +206,22 @@
           "_anchor": "features3-1"
         }
       ]
+    },
+    "menu.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "menu",
+        "order": 2
+      },
+      "components": []
+    },
+    "news.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "news",
+        "order": 1
+      },
+      "components": []
     }
   }
 }
