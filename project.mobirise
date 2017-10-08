@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "index.html",
+    "currentPage": "products.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 2,
+    "uniqCompNum": 4,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -46,9 +46,9 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "48",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-720x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -58,7 +58,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -83,7 +83,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">高雄．修休臉．美學</span>",
           "text": "＠fixxface &nbsp; &nbsp; &nbsp; &nbsp;face&amp;nails",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>最新消息leastest new</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>服務項目menu</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-rocket mbr-iconfont mbr-iconfont-btn\"></span>產品簡介 products</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>最新消息leastest new</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>服務項目menu</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-rocket mbr-iconfont mbr-iconfont-btn\"></span>產品簡介 products</a>",
           "_tags": [
             "Theme"
           ],
@@ -94,10 +94,11 @@
               "font-size": "46px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "text-align": "center"
+              "text-align": "right"
             },
             ".mbr-section-title SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "32px"
             }
           }
         },
@@ -137,10 +138,13 @@
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-2627-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
@@ -217,7 +221,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "menu",
-        "order": 2
+        "order": 3
       },
       "components": []
     },
@@ -225,9 +229,39 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "news",
-        "order": 1
+        "order": 2
       },
       "components": []
+    },
+    "products.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "products",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-3"
+        }
+      ]
     }
   }
 }
