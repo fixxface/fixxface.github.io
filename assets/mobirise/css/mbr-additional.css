@@ -4,7 +4,6 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 
 
 
@@ -442,101 +441,20 @@ h6,
   font-family: 'Open Sans', sans-serif;
   text-align: left;
 }
-
-
-
-
-
-
-#header3-m .mbr-section-title,
-#header3-m .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-m .mbr-section-title {
-  text-align: center;
-  font-family: 'Bitter', serif;
-  font-size: 23px;
-}
-#header3-m .mbr-section-title DIV {
-  font-size: 16px;
-  color: #f1aaa7;
-}
-#header3-m .mbr-section-subtitle SPAN {
-  font-size: 12px;
-  font-family: 'Bitter', serif;
-}
-#header3-m .mbr-section-title SPAN {
-  font-size: 9px;
-}
-#header3-m .mbr-section-subtitle {
-  text-align: center;
-}
-#features4-h .card-subtitle {
-  color: #f1aaa7;
-  font-size: 12px;
-  text-align: center;
-  font-family: 'Bitter', serif;
-}
-#features4-h .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#features4-h P {
-  font-size: 13px;
-  text-align: center;
-  color: #000000;
-  font-family: 'Bitter', serif;
-}
-#features4-h H4 {
-  color: #1a562b;
-  font-family: 'Bitter', serif;
-  font-size: 20px;
-}
-#testimonials3-8 .mbr-section-title {
-  color: #d4bb57;
-  text-align: center;
-  font-family: 'Bitter', serif;
-  font-size: 30px;
-}
-#testimonials3-8 .mbr-author-name {
-  color: #ccc;
-}
-#testimonials3-8 .mbr-section-title SPAN {
-  font-size: 21px;
-}
-#contacts5-i p,
-#contacts5-i .list-group-text,
-#contacts5-i .form-control-label {
-  color: #000;
-}
-#contacts5-i strong,
-#contacts5-i h4 {
-  color: #7e9b9f;
-}
-#contacts5-i form .form-control {
-  border-color: rgba(0, 0, 0, 0.2);
-  color: #565656;
-}
-#contacts5-i .mbr-footer-content li {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
-}
-#contacts5-i .mbr-company .list-group-text::after {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
-}
-#pricing-table2-j .mbr-plan-header,
-#pricing-table2-j .mbr-plan-body {
+#pricing-table2-16 .mbr-plan-header,
+#pricing-table2-16 .mbr-plan-body {
   background-color: #f4f4f4;
 }
-#pricing-table2-j ul,
-#pricing-table2-j .mbr-plan-title,
-#pricing-table2-j .mbr-price-value,
-#pricing-table2-j .mbr-price-figure,
-#pricing-table2-j .mbr-price-term {
+#pricing-table2-16 ul,
+#pricing-table2-16 .mbr-plan-title,
+#pricing-table2-16 .mbr-price-value,
+#pricing-table2-16 .mbr-price-figure,
+#pricing-table2-16 .mbr-price-term {
   color: #28262b;
 }
-#pricing-table2-j .mbr-plan {
+#pricing-table2-16 .mbr-plan {
   border-color: #e8e8e8;
 }
-#pricing-table2-j .mbr-plan .list-group-item {
+#pricing-table2-16 .mbr-plan .list-group-item {
   border-color: #cfcfcf;
 }
