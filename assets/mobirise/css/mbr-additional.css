@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 
 
 
@@ -443,20 +444,37 @@ h6,
 }
 
 
+
+
+#header3-1c .mbr-section-title,
+#header3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1c .mbr-section-title {
+  color: #c0a375;
+  font-size: 30px;
+  font-family: 'Bitter', serif;
+}
 #features1-18 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
 #features1-18 .mbr-cards-col:nth-child(odd) .card-title {
   text-align: center;
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Bitter', serif;
 }
 #features1-18 .mbr-cards-col:nth-child(even) .card-title {
   text-align: center;
-  font-family: 'Lora', serif;
+  font-family: 'Bitter', serif;
 }
 #features1-18 .mbr-cards-col:nth-child(even) .card-text {
   font-size: 14px;
 }
 #features1-18 .mbr-cards-col:nth-child(odd) .card-text {
   font-size: 14px;
+}
+#features1-18 .mbr-cards-col:nth-child(odd) .card-title SPAN {
+  font-family: 'Bitter', serif;
+}
+#footer1-1b P {
+  color: #c0a375;
 }
