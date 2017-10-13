@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 49,
+    "uniqCompNum": 52,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -300,7 +300,7 @@
             "columnsColor": "#2e2e2e",
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": 4,
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -368,15 +368,15 @@
           "title2": "速速保養區",
           "subtitle2": "",
           "caption2": "<br>醫美保養品結合換光導入儀<br>讓深層清潔的皮膚達到更完美的療效<br><br>（全療程純原液導入）<br><br>",
-          "title3": "特殊養護專區",
+          "title3": "基本養護<br><br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "換顏提亮療程/深層經絡淋巴排毒",
-          "title4": "身體保養區",
+          "caption3": "基礎清潔<br>基礎保養<br>保濕導入<br>解決單一困擾<br><br>",
+          "title4": "特殊養護專區",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "&nbsp;＿",
-          "title5": "Trendy Website Blocks",
+          "caption4": "<br>換顏提亮療程<br>深層經絡淋巴排毒",
+          "title5": "身體保養區",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "＿＿＿",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
@@ -486,7 +486,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Page 5",
-        "order": 5
+        "order": 6
       },
       "components": []
     },
@@ -494,9 +494,196 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Page 6",
-        "order": 4
+        "order": 5
       },
       "components": []
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Page 7",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#c0a375",
+              "font-size": "30px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#232323"
+          },
+          "title": "- - - - - - - - - - -<br>項 目 表<br><span style=\"font-weight: normal;\">- - - - - - - - - - - -</span>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1d"
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">修理專區</span>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<br>改善任何肌膚的臉部問題<br><br>粉刺/痘痘/內胞/暗枕/毛孔阻塞/脫皮缺水/斑點<br><br><br><br>",
+          "title2": "速速保養區",
+          "subtitle2": "",
+          "caption2": "<br>醫美保養品結合換光導入儀<br>讓深層清潔的皮膚達到更完美的療效<br><br>（全療程純原液導入）<br><br>",
+          "title3": "特殊養護專區",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "換顏提亮療程/深層經絡淋巴排毒",
+          "title4": "身體保養區",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "&nbsp;＿",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "text-align": "center",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "text-align": "center",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-size": "14px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "14px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title SPAN": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
+          "_anchor": "features1-1e"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "- 高雄 休修臉 美學 -<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#c0a375"
+            }
+          },
+          "_anchor": "footer1-1f"
+        }
+      ]
     }
   }
 }
