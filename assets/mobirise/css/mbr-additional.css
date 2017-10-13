@@ -89,7 +89,7 @@ h6,
   background-color: #c0a375 !important;
 }
 .bg-info {
-  background-color: #7e9b9f !important;
+  background-color: #f3c649 !important;
 }
 .bg-warning {
   background-color: #f3c649 !important;
@@ -138,8 +138,8 @@ h6,
   border-color: #94ada8 !important;
 }
 .btn-info {
-  background-color: #7e9b9f;
-  border-color: #7e9b9f;
+  background-color: #f3c649;
+  border-color: #f3c649;
   color: #ffffff;
 }
 .btn-info:hover,
@@ -148,14 +148,14 @@ h6,
 .btn-info:active,
 .btn-info.active {
   color: #ffffff;
-  background-color: #597478;
-  border-color: #597478;
+  background-color: #e1a90f;
+  border-color: #e1a90f;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #597478 !important;
-  border-color: #597478 !important;
+  background-color: #e1a90f !important;
+  border-color: #e1a90f !important;
 }
 .btn-success {
   background-color: #c0a375;
@@ -259,8 +259,8 @@ h6,
 }
 .btn-info-outline {
   background: none;
-  border-color: #4e6669;
-  color: #4e6669;
+  border-color: #c9970d;
+  color: #c9970d;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
@@ -268,14 +268,14 @@ h6,
 .btn-info-outline:active,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #7e9b9f;
-  border-color: #7e9b9f;
+  background-color: #f3c649;
+  border-color: #f3c649;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #7e9b9f !important;
-  border-color: #7e9b9f !important;
+  background-color: #f3c649 !important;
+  border-color: #f3c649 !important;
 }
 .btn-success-outline {
   background: none;
@@ -344,7 +344,7 @@ h6,
   color: #c0a375 !important;
 }
 .text-info {
-  color: #7e9b9f !important;
+  color: #f3c649 !important;
 }
 .text-warning {
   color: #f3c649 !important;
@@ -356,7 +356,7 @@ h6,
   background-color: #c0a375;
 }
 .alert-info {
-  background-color: #7e9b9f;
+  background-color: #f3c649;
 }
 .alert-warning {
   background-color: #f3c649;
@@ -402,7 +402,7 @@ h6,
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #c7d4d5;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -478,39 +478,20 @@ h6,
 #footer1-1b P {
   color: #c0a375;
 }
-
-
-
-
-#header3-1d .mbr-section-title,
-#header3-1d .mbr-section-subtitle {
-  text-align: center;
+#pricing-table2-1t .mbr-plan-header,
+#pricing-table2-1t .mbr-plan-body {
+  background-color: #f4f4f4;
 }
-#header3-1d .mbr-section-title {
-  color: #c0a375;
-  font-size: 30px;
-  font-family: 'Bitter', serif;
+#pricing-table2-1t ul,
+#pricing-table2-1t .mbr-plan-title,
+#pricing-table2-1t .mbr-price-value,
+#pricing-table2-1t .mbr-price-figure,
+#pricing-table2-1t .mbr-price-term {
+  color: #28262b;
 }
-#features1-1e .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+#pricing-table2-1t .mbr-plan {
+  border-color: #e8e8e8;
 }
-#features1-1e .mbr-cards-col:nth-child(odd) .card-title {
-  text-align: center;
-  font-family: 'Bitter', serif;
-}
-#features1-1e .mbr-cards-col:nth-child(even) .card-title {
-  text-align: center;
-  font-family: 'Bitter', serif;
-}
-#features1-1e .mbr-cards-col:nth-child(even) .card-text {
-  font-size: 14px;
-}
-#features1-1e .mbr-cards-col:nth-child(odd) .card-text {
-  font-size: 14px;
-}
-#features1-1e .mbr-cards-col:nth-child(odd) .card-title SPAN {
-  font-family: 'Bitter', serif;
-}
-#footer1-1f P {
-  color: #c0a375;
+#pricing-table2-1t .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
 }
