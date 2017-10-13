@@ -519,6 +519,44 @@
             },
             ".mbr-plan .list-group-item": {
               "border-color": "#cfcfcf"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "font-size": "32px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-section__container .mbr-section-subtitle SPAN": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-plan-price-desc": {
+              "text-align": "center"
+            },
+            ".mbr-plan-price-desc SPAN": {
+              "font-size": "12px"
+            },
+            ".mbr-price-figure": {
+              "font-size": "32px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-price-term": {
+              "font-size": "20px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-price-value": {
+              "font-size": "16px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-plan-title": {
+              "font-size": "19px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-price-term B": {
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -528,14 +566,14 @@
             "secondType": "bg-primary",
             "thirdType": "",
             "fourthType": "hidden",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "4",
             "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-864x1080.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -544,9 +582,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "description1": "More details",
-          "description2": "More details",
-          "description3": "More details",
+          "description1": "<br><span style=\"font-style: normal;\">適合出油，或因毛孔阻塞引起的肌膚問題，深入毛孔深層淨化，平衡油脂分泌，清除惱人的痘痘粉刺內包。<br></span><br><span style=\"font-style: normal;\">（拔粉刺/手清粉刺/基礎保養/舒緩膜)</span>",
+          "description2": "<br><span style=\"font-style: normal;\">適合乾燥肌膚，一些粉刺問題，清除粉刺後補水，補足保濕促進肌膚柔嫩，打造水亮肌。<br>（拔粉刺/手清粉刺/基礎保濕導入/海洋軟膜）</span><br>",
+          "description3": "<br><span style=\"font-style: normal;\">適合善敏感、乾燥、脫穴問題的肌膚，清除粉刺後加強舒緩安定，緩和皮膚發炎泛紅反應。<br>（拔粉刺/手清粉刺/舒緩導入/抗敏消炎軟膜）</span>",
           "description4": "More details",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
@@ -556,30 +594,30 @@
             "Theme"
           ],
           "title": "臉部養護",
-          "subtitle": "<span style=\"font-style: normal;\">修理專區&nbsp;</span>",
-          "title1": "STANDARD",
-          "title2": "BUSINESS",
-          "title3": "PREMIUM",
+          "subtitle": "<span style=\"font-style: normal;\">__</span><span style=\"font-style: normal;\">修理專區 __&nbsp;</span>",
+          "title1": "修理頑固痘痘粉刺內胞",
+          "title2": "<br>修理 乾燥肌膚換回水嫩",
+          "title3": "修理敏感肌膚重建保護層<div><br></div>",
           "title4": "ULTIMATE",
-          "subtitle1": "Description",
-          "subtitle2": "Description",
-          "subtitle3": "Description",
+          "subtitle1": "",
+          "subtitle2": "",
+          "subtitle3": "",
           "subtitle4": "Description",
           "label1": "HOT!",
           "label2": "HOT!",
           "label3": "HOT!",
           "label4": "HOT!",
-          "currency1": "$",
-          "currency2": "$",
-          "currency3": "$",
+          "currency1": "體驗價$",
+          "currency2": "體驗價$",
+          "currency3": "體驗價$",
           "currency4": "$",
-          "price1": "0",
-          "price2": "0",
-          "price3": "0",
+          "price1": "<b>599</b>",
+          "price2": "",
+          "price3": "<b>599</b>",
           "price4": "0",
-          "period1": "/mo.",
-          "period2": "/mo.",
-          "period3": "/mo.",
+          "period1": "/ 90min.",
+          "period2": "<b>699</b>/ 90min.<br>",
+          "period3": "/ 90min.",
           "period4": "/mo.",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
