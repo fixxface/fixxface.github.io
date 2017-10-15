@@ -568,11 +568,11 @@
             "fourthType": "hidden",
             "paddingTop": "1",
             "paddingBottom": "4",
-            "showButtons": true,
+            "showButtons": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-864x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -586,10 +586,10 @@
           "description2": "<br><span style=\"font-style: normal;\">適合乾燥肌膚，一些粉刺問題，清除粉刺後補水，補足保濕促進肌膚柔嫩，打造水亮肌。<br>（拔粉刺/手清粉刺/基礎保濕導入/海洋軟膜）</span><br>",
           "description3": "<br><span style=\"font-style: normal;\">適合善敏感、乾燥、脫穴問題的肌膚，清除粉刺後加強舒緩安定，緩和皮膚發炎泛紅反應。<br>（拔粉刺/手清粉刺/舒緩導入/抗敏消炎軟膜）</span>",
           "description4": "More details",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\"></a>",
           "_tags": [
             "Theme"
           ],
