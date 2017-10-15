@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#847272",
         "#232323",
         "#f1aaa7",
         "#5b5b5b",
         "#1a562b",
         "#d4bb57",
-        "#faadac",
-        "#bcbcbc"
+        "#faadac"
       ]
     },
     "versionFirst": "4.3.2",
@@ -507,23 +507,69 @@
             ".mbr-section__container .mbr-section-title": {
               "font-size": "32px",
               "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#f1aaa7"
             },
             ".mbr-section__container .mbr-section-subtitle SPAN": {
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "UL": {
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#847272",
+              "font-size": "14px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-plan-title DIV": {
+              "color": "#000000",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-price-value": {
+              "font-size": "16px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-price-figure": {
+              "font-size": "32px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-price-term": {
+              "font-size": "20px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-plan-title": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#847272",
+              "font-size": "14px"
+            },
+            "B": {
+              "color": "#847272",
+              "font-size": "14px"
+            },
+            ".mbr-plan-label": {
+              "color": "#efefef"
             }
           },
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
-            "secondType": "bg-primary",
+            "secondType": "",
             "thirdType": "",
-            "fourthType": "",
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "showButtons": true,
+            "fourthType": "bg-primary",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "showButtons": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -537,10 +583,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "description1": "More details",
-          "description2": "More details",
-          "description3": "More details",
-          "description4": "More details",
+          "description1": "",
+          "description2": "",
+          "description3": "",
+          "description4": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
@@ -550,34 +596,34 @@
           ],
           "title": "速速專區",
           "subtitle": "<br><span style=\"font-style: normal;\">醫美保養品結合換光導入儀</span><br><span style=\"font-style: normal;\">讓深層清潔的皮膚達到更完美的療效</span><br><span style=\"font-style: normal;\">（全療程純原液導入）</span>",
-          "title1": "<div><br></div><div>醫美保養品結合換光導入儀</div><div>讓深層清潔的皮膚達到更完美的療效</div><div><br></div><div>（全療程純原液導入）</div>",
-          "title2": "BUSINESS",
-          "title3": "PREMIUM",
-          "title4": "ULTIMATE",
-          "subtitle1": "Description",
-          "subtitle2": "Description",
-          "subtitle3": "Description",
-          "subtitle4": "Description",
+          "title1": "<div><br></div><div>水膜磁鎖水美塑 療程</div>",
+          "title2": "<br>微導E鎮靜舒敏療程",
+          "title3": "<br>六胜肽魚子抗老修護療程",
+          "title4": "藍銅胜肽活膚緊緻療程",
+          "subtitle1": "",
+          "subtitle2": "",
+          "subtitle3": "",
+          "subtitle4": "&nbsp;",
           "label1": "HOT!",
           "label2": "HOT!",
           "label3": "HOT!",
           "label4": "HOT!",
-          "currency1": "$",
-          "currency2": "$",
-          "currency3": "$",
-          "currency4": "$",
-          "price1": "0",
-          "price2": "0",
-          "price3": "0",
-          "price4": "0",
-          "period1": "/mo.",
-          "period2": "/mo.",
-          "period3": "/mo.",
-          "period4": "/mo.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "currency1": "體驗價$",
+          "currency2": "體驗價$",
+          "currency3": "體驗價$",
+          "currency4": "體驗價$",
+          "price1": "700",
+          "price2": "700",
+          "price3": "900",
+          "price4": "999",
+          "period1": "/ 90min.",
+          "period2": "/ 90min.",
+          "period3": "/ 90min.",
+          "period4": "/ 90min.",
+          "list1": "<p>適合混合性混合偏乾性的肌膚</p><p>玻尿酸植物性膠原蛋白，適度補充膠原蛋白再表層肌膚加上獨家水膜磁在肌膚上能延展形成補水薄膜，感受由裡到外的水嫩感，為肌膚健康打底，讓皮膚感覺細緻好上妝，並賦予高能量的抗老修護，緊緻皮膚、全面賦活彈潤緊實，能為肌膚達到保濕、緊緻、控油、防禦等多效保養。\n</p><p>基礎保養/膠原蛋白拔粉刺/煥光美塑導入/海洋軟膜</p><p>（全療程純玻尿酸及水膜磁原液導入）</p><p>\n</p>",
+          "list2": "<p>適合容易敏感的肌膚</p><p>維他命Ｅ可以保護細胞膜免於氧化性傷害以及紫外線的初期傷害還能補充平均皮膚的養分，可防止脂質的過氧化，防止肌膚老化加上洋甘菊護敏舒敏、減少紅腫現象有效防護環境對於肌膚的刺激與傷害。</p><p><br></p><p>基礎保養/膠原蛋白拔粉刺/ 煥光美塑導入/海洋軟膜</p><p><b>全療程純維他命e洋甘菊原液導入</b></p>",
+          "list3": "<p>適合任何肌膚</p><p>六胜肽Gatuline EXPRESSIONS能撫平皺紋，預防皺紋細紋，魚子複合萃取精華，結合肌動蛋白的寡肽及墨角藻萃取，三種海洋成份的協同增效，賦予肌膚濃郁的養分，針對皮膚滋養，賦予肌膚濃郁的養分和再生功能。</p><p><br></p><p>\n</p><p>基礎保養/拔粉刺/煥光美塑保濕導入/海洋緊緻膜\n</p><p><b>（全療程純六胜肽魚子原液導入）</b></p><p></p>",
+          "list4": "<p>適合任何肌膚</p><p>3000ppm的藍銅胜肽精華，極致修護深入肌底修復完美膚質，提高肌膚抗老化能力，舒緩修護肌膚使肌膚平滑細緻，加速傷口癒合，修護臉部乾燥，淡化老化細紋，同時維持肌膚彈性及緊緻度，提升水合保濕力，使肌膚呈現水嫩，改善疲態與黯沉 ，全面復活彈潤緊實。</p><p><br></p><p>按摩/拔粉刺/手清粉刺/煥光美塑保濕導入/海洋緊緻膜</p><p><b>全療程純藍銅及維他命E精華原液導入</b></p><p></p>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-1v"
         }
