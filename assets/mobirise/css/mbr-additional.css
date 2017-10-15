@@ -605,3 +605,50 @@ h6,
 #pricing-table2-1t .mbr-price-term B {
   font-size: 32px;
 }
+
+
+
+
+#pricing-table2-1w .mbr-plan-header,
+#pricing-table2-1w .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-1w ul,
+#pricing-table2-1w .mbr-plan-title,
+#pricing-table2-1w .mbr-price-value,
+#pricing-table2-1w .mbr-price-figure,
+#pricing-table2-1w .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-1w .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-1w .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-1w DIV {
+  color: #000000;
+  font-family: 'Bitter', serif;
+  font-size: 14px;
+}
+#pricing-table2-1w .mbr-plan-label {
+  color: #41a85f;
+}
+#pricing-table2-1w .mbr-section__container .mbr-section-title {
+  font-size: 32px;
+  font-family: 'Bitter', serif;
+}
+#pricing-table2-1w .mbr-plan-title {
+  font-size: 19px;
+  font-family: 'Bitter', serif;
+}
+#pricing-table2-1w .mbr-price-value {
+  font-size: 16px;
+  font-family: 'Bitter', serif;
+}
+#pricing-table2-1w .mbr-price-figure {
+  font-size: 32px;
+}
+#pricing-table2-1w .mbr-price-term {
+  font-size: 17px;
+}
