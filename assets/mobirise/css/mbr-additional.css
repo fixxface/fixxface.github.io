@@ -608,6 +608,7 @@ h6,
 }
 
 
+
 #pricing-table2-1x .mbr-plan-header,
 #pricing-table2-1x .mbr-plan-body {
   background-color: #f4f4f4;
@@ -626,7 +627,10 @@ h6,
   border-color: #cfcfcf;
 }
 #pricing-table2-1x DIV {
-  color: #000000;
+  color: #c0a375;
+  text-align: center;
+  font-family: 'Bitter', serif;
+  font-size: 15px;
 }
 #pricing-table2-1x .mbr-price-value {
   text-align: left;
@@ -635,7 +639,7 @@ h6,
 }
 #pricing-table2-1x .mbr-price-figure {
   font-size: 14px;
-  text-align: left;
+  text-align: center;
   font-family: 'Bitter', serif;
 }
 
