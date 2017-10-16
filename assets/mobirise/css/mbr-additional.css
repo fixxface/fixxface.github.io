@@ -608,6 +608,38 @@ h6,
 }
 
 
+#pricing-table2-1x .mbr-plan-header,
+#pricing-table2-1x .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-1x ul,
+#pricing-table2-1x .mbr-plan-title,
+#pricing-table2-1x .mbr-price-value,
+#pricing-table2-1x .mbr-price-figure,
+#pricing-table2-1x .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-1x .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-1x .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-1x DIV {
+  color: #000000;
+}
+#pricing-table2-1x .mbr-price-value {
+  text-align: left;
+  font-family: 'Bitter', serif;
+  font-size: 14px;
+}
+#pricing-table2-1x .mbr-price-figure {
+  font-size: 14px;
+  text-align: left;
+  font-family: 'Bitter', serif;
+}
+
+
 
 
 #pricing-table2-1w .mbr-plan-header,
