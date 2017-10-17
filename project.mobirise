@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#fce794",
         "#28262b",
         "#847272",
         "#232323",
         "#f1aaa7",
         "#5b5b5b",
-        "#1a562b",
-        "#d4bb57"
+        "#1a562b"
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 79,
+    "uniqCompNum": 85,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -236,24 +236,51 @@
         },
         {
           "_params": {
-            "showText": true
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
-          "media": {
+          "logo": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/s-13877260-128x128.jpg",
+              "width": 128,
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "link": "",
+              "alt": "",
+              "title": ""
             },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text1": "<br>／ 預約方式 ／<br><br>＿<br>Line＠行動條碼<br>＠llroo44b<br><a href=\"https://line.me/R/ti/p/%40llr0044b\" target=\"_blank\" class=\"text-primary\">https://line.me/R/ti/p/%40llr0044b</a><br>",
+          "text2": "＿<br>Phone: 0988-856-272<br><br>",
+          "text3": "＿<br><strong><br></strong>instagram：<a href=\"https://www.instagram.com/fixxface/\" target=\"_blank\">fixxface</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-4"
+          "_name": "contacts1",
+          "_anchor": "contacts1-2c",
+          "_styles": {
+            "STRONG": {
+              "color": "#28262b"
+            },
+            "B": {
+              "color": "#28262b"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -384,7 +411,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
