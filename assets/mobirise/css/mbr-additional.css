@@ -541,7 +541,7 @@ h6,
 #pricing-table2-1v P {
   text-align: center;
   color: #847272;
-  font-size: 14px;
+  font-size: 13px;
 }
 #pricing-table2-1v B {
   color: #847272;
@@ -549,6 +549,46 @@ h6,
 }
 #pricing-table2-1v .mbr-plan-label {
   color: #efefef;
+}
+
+
+
+#header3-21 .mbr-section-title,
+#header3-21 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-21 .mbr-section-title {
+  text-align: center;
+  font-family: 'Bitter', serif;
+  font-size: 36px;
+}
+#features7-22 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-22 .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
+}
+#features7-22 H4 {
+  font-family: 'Bitter', serif;
+  color: #c0a375;
+}
+#header3-26 .mbr-section-title,
+#header3-26 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-26 .mbr-section-title {
+  font-family: 'Bitter', serif;
+  font-size: 23px;
+  text-align: center;
+  color: #c0a375;
+}
+#header3-26 .mbr-section-subtitle {
+  text-align: center;
+  color: #000000;
+}
+#header3-26 .mbr-section-subtitle SPAN {
+  color: #28262b;
 }
 
 
