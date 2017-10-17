@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page8.html",
+    "currentPage": "menu.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -382,8 +382,8 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page7.html#pricing-table2-1t\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
