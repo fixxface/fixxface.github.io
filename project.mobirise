@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 143,
+    "uniqCompNum": 150,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -2056,11 +2056,38 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/201606011719491-600x760.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-45"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><span style=\"font-size: 1.09rem; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\">能為肌膚達到保濕、緊緻、控油、防禦等多效保養；在肌膚上能延展形成補水薄膜，感受由裡到外的水嫩感，為肌膚健康打底，皮膚感覺細緻好上妝，並賦予高能量的抗老修護，並賦予高能量的抗老修護，緊緻皮膚、全面賦活彈潤緊實，進一步創造完美年輕肌齡。</span><br></p></blockquote><blockquote><br></blockquote><blockquote><span style=\"font-style: normal;\">明星成分介紹：</span></blockquote><blockquote><span style=\"font-style: normal;\">1. 超級保濕成分水膜磁─玻尿酸交聯聚合體，把原先點的補水交織成全面的補水防護，在肌膚上能充分延展形成補水薄膜，內層鎖水外層防護，提升肌膚具有保濕能力</span></blockquote><blockquote><span style=\"font-style: normal;\">2. 歐洲Ecocert有機認證─冬眠水仙經過有機認證珍貴成份，確保安心與健康</span></blockquote><blockquote><span style=\"font-style: normal;\">3. 高科技成分加植物配方─溫和不刺激，提升肌膚保濕緊緻，打造無瑕肌膚之完美觸感</span></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\">能為肌膚達到保濕、緊緻、控油、防禦等多效保養；在肌膚上能延展形成補水薄膜，感受由裡到外的水嫩感，為肌膚健康打底，皮膚感覺細緻好上妝，並賦予高能量的抗老修護，並賦予高能量的抗老修護，緊緻皮膚、全面賦活彈潤緊實，進一步創造完美年輕肌齡。</span><br></p></blockquote><blockquote><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">明星成分介紹：</span></p></blockquote><blockquote><span style=\"font-style: normal;\">1. 超級保濕成分水膜磁─玻尿酸交聯聚合體，把原先點的補水交織成全面的補水防護，在肌膚上能充分延展形成補水薄膜，內層鎖水外層防護，提升肌膚具有保濕能力</span></blockquote><blockquote><span style=\"font-style: normal;\">2. 歐洲Ecocert有機認證─冬眠水仙經過有機認證珍貴成份，確保安心與健康</span></blockquote><blockquote><span style=\"font-style: normal;\">3. 高科技成分加植物配方─溫和不刺激，提升肌膚保濕緊緻，打造無瑕肌膚之完美觸感</span></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2068,12 +2095,164 @@
           "_anchor": "content2-3y",
           "_styles": {
             "SPAN": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "15px"
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "14px"
             },
             "P": {
-              "font-size": "16px"
+              "font-size": "13px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lnmcyr7-650x1215.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-3z"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/edm02-900x370.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-40"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/edm03-900x915.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-41"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ktjrmtp-650x1219.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-42"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pcel7x2-650x863.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-43"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "- 高雄 休修臉 美學 -<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1b",
+          "_styles": {
+            "P": {
+              "color": "#c0a375",
+              "text-align": "center",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "12px"
             }
           }
         }

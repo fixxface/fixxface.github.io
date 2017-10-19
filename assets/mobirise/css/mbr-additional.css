@@ -6,7 +6,8 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -1003,6 +1004,8 @@ h6,
 
 
 
+
+
 #header3-3t .mbr-section-title,
 #header3-3t .mbr-section-subtitle {
   text-align: center;
@@ -1103,11 +1106,19 @@ h6,
   font-size: 20px;
 }
 #content2-3y SPAN {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 15px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 14px;
 }
 #content2-3y P {
-  font-size: 16px;
+  font-size: 13px;
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
+}
+#footer1-1b P {
+  color: #c0a375;
+  text-align: center;
+  font-family: 'Bitter', serif;
+  font-size: 12px;
 }
 
 
