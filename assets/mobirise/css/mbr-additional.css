@@ -899,3 +899,166 @@ h6,
   font-size: 24px;
   font-family: 'Bitter', serif;
 }
+
+#msg-box8-37 .mbr-section-title,
+#msg-box8-37 p {
+  color: #fff;
+}
+#ext_menu-39 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-39 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-39 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-39 .close-icon::before,
+#ext_menu-39 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-39 .link,
+#ext_menu-39 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#ext_menu-39 .link {
+  font-size: 1.05rem;
+}
+#ext_menu-39 .dropdown-item,
+#ext_menu-39 .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#ext_menu-39 .link:hover,
+#ext_menu-39 .dropdown-item:hover,
+#ext_menu-39 .link:focus,
+#ext_menu-39 .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-39 .link[aria-expanded="true"],
+#ext_menu-39 .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-39 .nav-dropdown-sm .link:focus,
+#ext_menu-39 .nav-dropdown-sm .link:hover,
+#ext_menu-39 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-39 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-39 .navbar,
+#ext_menu-39 .nav-dropdown-sm,
+#ext_menu-39 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-39 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-39 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-39 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-39 .bg-color.transparent.opened .link:hover,
+#ext_menu-39 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-39 .link[aria-expanded="true"],
+#ext_menu-39 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+
+
+
+
+#ext_menu-3a .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3a .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3a .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-3a .close-icon::before,
+#ext_menu-3a .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-3a .link,
+#ext_menu-3a .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#ext_menu-3a .link {
+  font-size: 1.05rem;
+}
+#ext_menu-3a .dropdown-item,
+#ext_menu-3a .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#ext_menu-3a .link:hover,
+#ext_menu-3a .dropdown-item:hover,
+#ext_menu-3a .link:focus,
+#ext_menu-3a .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-3a .link[aria-expanded="true"],
+#ext_menu-3a .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-3a .nav-dropdown-sm .link:focus,
+#ext_menu-3a .nav-dropdown-sm .link:hover,
+#ext_menu-3a .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3a .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-3a .navbar,
+#ext_menu-3a .nav-dropdown-sm,
+#ext_menu-3a .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3a .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-3a .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-3a .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3a .bg-color.transparent.opened .link:hover,
+#ext_menu-3a .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-3a .link[aria-expanded="true"],
+#ext_menu-3a .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header3-3b .mbr-section-title,
+#header3-3b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3b .mbr-section-subtitle {
+  text-align: center;
+  font-size: 13px;
+}
+#header3-3b .mbr-section-title P {
+  font-size: 24px;
+  font-family: 'Bitter', serif;
+}
+#features1-3f .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-3f .mbr-cards-col:nth-child(odd) .card-title {
+  color: #28262b;
+}
+#features1-3f .mbr-cards-col:nth-child(odd) .card-subtitle SPAN {
+  color: #c1c1c1;
+  font-family: 'Slabo 27px', serif;
+}
+#features1-3f .mbr-cards-col:nth-child(even) .card-subtitle SPAN {
+  color: #cccccc;
+  font-family: 'Slabo 27px', serif;
+}
+#features1-3f .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #c1c1c1;
+  text-align: center;
+}
