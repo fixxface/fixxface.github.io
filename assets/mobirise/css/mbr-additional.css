@@ -1006,6 +1006,7 @@ h6,
 
 
 
+
 #header3-3t .mbr-section-title,
 #header3-3t .mbr-section-subtitle {
   text-align: center;
@@ -1113,6 +1114,10 @@ h6,
   font-size: 13px;
   font-family: 'Oswald', sans-serif;
   text-align: left;
+}
+#content1-4m P {
+  font-family: 'Roboto Slab', serif;
+  font-size: 14px;
 }
 #footer1-1b P {
   color: #c0a375;

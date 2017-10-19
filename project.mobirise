@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page15.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 165,
+    "uniqCompNum": 167,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -2226,6 +2226,53 @@
           ],
           "_name": "image1",
           "_anchor": "image1-43"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dxnlyse-650x967.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4l"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>商品名稱】保濕緊緻精華&nbsp;</p><p>【容量】30ml&nbsp;</p><p>【使用方法】於臉部洗淨後使用，使用時取酌量精華液，塗抹於臉部輕拍至吸收。&nbsp;</p><p>【保存方式】請保存於陰涼處，避免置於日光直射及高溫潮濕處&nbsp;</p><p>【保存期限】3年&nbsp;</p><p>【產地】台灣&nbsp;</p><p>【注意事項】&nbsp;</p><p>◎ 使用後如有任何不適請立即停止使用，並洽詢專業皮膚科醫師&nbsp;</p><p>◎ 若皮膚以經有過敏、傷口、紅腫或濕疹等異常部位，請避免使用&nbsp;</p><p>◎ 本產品不可食用，請放置在嬰幼兒觸及不到之處</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4m",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_params": {
