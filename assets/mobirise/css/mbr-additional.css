@@ -5,8 +5,8 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
@@ -828,6 +828,9 @@ h6,
 }
 
 
+
+
+
 #ext_menu-2l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -901,6 +904,23 @@ h6,
 #header3-2n .mbr-section-title P {
   font-size: 24px;
   font-family: 'Bitter', serif;
+}
+#header3-2n .mbr-section-subtitle SPAN {
+  color: #c0a375;
+  font-size: 12px;
+}
+#content2-54 P {
+  text-align: left;
+  font-family: 'Roboto Slab', serif;
+  font-size: 13px;
+}
+#content1-55 P {
+  font-family: 'Roboto Slab', serif;
+  font-size: 14px;
+}
+#content2-58 SPAN {
+  font-family: 'Roboto Slab', serif;
+  font-size: 13px;
 }
 
 

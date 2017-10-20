@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 181,
+    "uniqCompNum": 190,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -1510,16 +1510,20 @@
               "font-size": "24px",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "color": "#c0a375",
+              "font-size": "12px"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": "6",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "title": "<p>&nbsp; &nbsp; Zuuth醫美原液介紹</p>",
-          "meta": "<span style=\"font-style: normal;\">讓你們更了解 這些原液的來源及功效</span>",
+          "meta": "<span style=\"font-style: normal;\">單一功效 就更有效<br>讓你們更了解 這些原液的來源及功效</span>",
           "_tags": [
             "Theme"
           ],
@@ -1528,57 +1532,77 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-1400x973.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "<blockquote><p><span style=\"font-style: normal;\">全台超過三百家醫美院所使用的保養品</span><br></p><p><span style=\"font-style: normal;\">每個女人都應該有專屬自己的保養品，這是一個為您特選的保養品</span></p><p><span style=\"font-style: normal;\">「我的醫美」精華系列</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">因為知道您對功效的要求</span></p><p><span style=\"font-style: normal;\">所以特別注重單一功效</span></p><p><span style=\"font-style: normal;\">並且把它做到更好</span></p><p><span style=\"font-style: normal;\">因為知道您有特別的需求</span></p><p><span style=\"font-style: normal;\">所以有不同的功效供您選擇</span></p><p><span style=\"font-style: normal;\">因為知道您對高品質的要求</span></p><p><span style=\"font-style: normal;\">所以帶給您醫美品質的標準</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-2y"
+          "_name": "content2",
+          "_anchor": "content2-54",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
+            }
+          }
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x988.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "<p>× 針對不同需求選定需要的原液</p><p>× 本產品是高純度醫美級，每次只需0.5ml即可，當然貴婦請任性盡情使用（笑）。</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-30"
+          "_name": "content1",
+          "_anchor": "content1-55",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><span style=\"font-style: normal;\">［ 建議搭配 ］</span></p><p><span style=\"font-style: normal;\">修護奇蹟組：智慧微導藍銅生肽、黃金洋甘菊、膠原玻尿酸</span></p><p><span style=\"font-style: normal;\">緊緻抗皺組：金箔六胜肽魚子、蝸牛EGF精華、膠原玻尿酸</span></p><p><span style=\"font-style: normal;\">煥顏提亮組：胜肽酸原液、智慧微導藍銅生肽、傳明酸</span></p><p><span style=\"font-style: normal;\">奢華自用組：3000ppm藍銅胜肽、金箔六胜肽魚子</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-58",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">詳細原液介紹</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-59"
         }
       ]
     },
