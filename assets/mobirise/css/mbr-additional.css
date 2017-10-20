@@ -906,6 +906,7 @@ h6,
 
 
 
+
 #ext_menu-3a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -999,6 +1000,12 @@ h6,
 #features1-3f .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #c1c1c1;
   text-align: center;
+}
+#footer1-4z P {
+  color: #c0a375;
+  text-align: center;
+  font-family: 'Bitter', serif;
+  font-size: 12px;
 }
 
 
