@@ -501,6 +501,13 @@ h6,
   font-family: 'Bitter', serif;
   font-size: 12px;
 }
+#header6-5r .mbr-section-title {
+  color: #28262b;
+}
+#header6-5r .mbr-section-text {
+  color: #000000;
+  font-size: 14px;
+}
 
 #header3-3j .mbr-section-title,
 #header3-3j .mbr-section-subtitle {

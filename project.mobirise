@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page14.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 205,
+    "uniqCompNum": 208,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -510,7 +510,69 @@
         "title": "news",
         "order": 8
       },
-      "components": []
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#000000",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": "56",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1501338106550-796x591.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1239x1754.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "",
+          "text": "「 休修臉 幫你修理肌膚問題 」<br>有沒有覺得夏天特別容易出油<br>粉刺特別浮躁，化妝容易糊掉<br>怎麼保濕都做不夠呢？<br>-<br>想要變漂亮，就要趁現在啦<br>跟姐妹們出去怎能允許被比下去～<br>來來來 九月開幕慶🎊🎊<br>優惠送送送🙌🙌🙌<br><br>📣［基礎保濕］開幕體驗價$599～<br>→ 送肩頸按摩<br>📣［換季抗敏］開幕驚喜價$699～<br>→再送保濕美塑導入<br><br>📣消費$799以上 →加送眼部穴點循環<br>📣來店消費打卡→再加碼送臉部撥筋調理<br>凡儲值或包卡，即可免費加入會員 <br>開幕當月加入會員加碼再送驚喜好禮🎁🎉<br><br>💓名額限量100名💓<br>📍高雄市苓雅區中山二路461 號<br>📩預約line: @llr0044b &lt;前面要記得加@&gt;<br>⏰營業時間:9:00-21:00&lt;預約制 時間可溝通&gt;<br><br>#做出不一樣的美容 <br>#保養讓你變美麗 <br>#花錢花得值得 <br>#讓你學到好的保養之道<br>#不推銷 #休修臉 #skincare #清粉刺 #做臉 #高雄 #保養很重要 #拉提 #緊緻 #藍銅胜肽 #醫美等級保養 #拔除粉刺 #手清粉刺",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-5r"
+        }
+      ]
     },
     "products.html": {
       "settings": {
