@@ -3381,7 +3381,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "text": "<blockquote><p><span style=\"font-style: normal;\">［ 建議搭配 ］</span></p><p><span style=\"font-style: normal;\">修護奇蹟組：智慧微導藍銅生肽、黃金洋甘菊、膠原玻尿酸</span></p><p><span style=\"font-style: normal;\">緊緻抗皺組：金箔六胜肽魚子、蝸牛EGF精華、膠原玻尿酸</span></p><p><span style=\"font-style: normal;\">煥顏提亮組：胜肽酸原液、智慧微導藍銅生肽、傳明酸</span></p><p><span style=\"font-style: normal;\">奢華自用組：3000ppm藍銅胜肽、金箔六胜肽魚子</span></p></blockquote>",
@@ -3405,8 +3405,8 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3481,7 +3481,7 @@
               "active": true
             }
           },
-          "title1": "［ 3000ppm藍銅胜肽精華 ］",
+          "title1": "［ ⬆️ 3000ppm藍銅胜肽精華 ］",
           "subtitle1": "",
           "caption1": "",
           "title2": "［ 1500ppm微導藍銅胜肽精華 ］",
@@ -3534,8 +3534,8 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
