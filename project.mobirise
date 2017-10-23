@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page5.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1263,10 +1263,20 @@
               "font-size": "14px"
             },
             ".mbr-price-figure": {
-              "font-size": "14px",
+              "font-size": "15px",
               "text-align": "center",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "32px"
+            },
+            ".mbr-plan-title": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "17px"
             }
           },
           "_params": {
@@ -1306,7 +1316,7 @@
           "title": "基本養護",
           "subtitle": "",
           "title1": "基本保濕導入療程",
-          "title2": "基礎撥筋調理<br>快速小臉速",
+          "title2": "基礎撥筋調理<br>（快速小臉）",
           "title3": "PREMIUM",
           "title4": "ULTIMATE",
           "subtitle1": "",
@@ -1322,7 +1332,7 @@
           "currency3": "$",
           "currency4": "$",
           "price1": "功效：使皮膚有彈性、韌性、緊實、以煥光美塑導入，使有效成分深入至皮膚底層，促進膠原蛋白增生<br><br>［導入效能］<br>美白/淡化細小皺紋/保濕/預防皮膚老化色素沈澱/細膚緊實/抗氧化對抗自由基 /舒緩日光性傷害 &nbsp;<br><br>",
-          "price2": "一般基礎保養加上臉部及肩頸按摩 帶入撥筋手法，讓臉部經絡疏通，讓氣血順暢，讓廢物代謝恢復正常，能立即達到緊實，光澤，減輕皮膚負擔！加上保濕導入敷臉 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+          "price2": "一般基礎保養加上臉部及肩頸按摩 帶入撥筋手法，讓臉部經絡疏通，讓氣血順暢，讓廢物代謝恢復正常，能立即達到緊實，光澤，減輕皮膚負擔，加上保濕導入敷臉 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
           "price3": "0",
           "price4": "0",
           "period1": "",

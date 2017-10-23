@@ -756,6 +756,8 @@ h6,
 
 
 
+
+
 #pricing-table2-1x .mbr-plan-header,
 #pricing-table2-1x .mbr-plan-body {
   background-color: #f4f4f4;
@@ -785,9 +787,17 @@ h6,
   font-size: 14px;
 }
 #pricing-table2-1x .mbr-price-figure {
-  font-size: 14px;
+  font-size: 15px;
   text-align: center;
   font-family: 'Bitter', serif;
+}
+#pricing-table2-1x .mbr-section__container .mbr-section-title {
+  font-family: 'Bitter', serif;
+  font-size: 32px;
+}
+#pricing-table2-1x .mbr-plan-title {
+  font-family: 'Bitter', serif;
+  font-size: 17px;
 }
 
 
