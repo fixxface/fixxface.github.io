@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page8.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1383,7 +1383,7 @@
               "font-size": "32px",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "color": "#d4bb57"
+              "color": "#c0a375"
             },
             ".mbr-plan-title": {
               "font-size": "19px",
@@ -1396,7 +1396,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".mbr-price-figure": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "color": "#d14841"
             },
             ".mbr-price-term": {
               "font-size": "17px"

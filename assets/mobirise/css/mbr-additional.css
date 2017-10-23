@@ -831,7 +831,7 @@ h6,
 #pricing-table2-1w .mbr-section__container .mbr-section-title {
   font-size: 32px;
   font-family: 'Bitter', serif;
-  color: #d4bb57;
+  color: #c0a375;
 }
 #pricing-table2-1w .mbr-plan-title {
   font-size: 19px;
@@ -843,6 +843,7 @@ h6,
 }
 #pricing-table2-1w .mbr-price-figure {
   font-size: 32px;
+  color: #d14841;
 }
 #pricing-table2-1w .mbr-price-term {
   font-size: 17px;
