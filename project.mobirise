@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1112,7 +1112,7 @@
               "font-size": "32px",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "color": "#d4bb57"
+              "color": "#c0a375"
             },
             ".mbr-section__container .mbr-section-subtitle SPAN": {
               "font-family": "'Bitter', serif",
@@ -1122,7 +1122,8 @@
               "text-align": "center"
             },
             ".mbr-plan-price-desc SPAN": {
-              "font-size": "12px"
+              "font-size": "13px",
+              "color": "#000000"
             },
             ".mbr-price-figure": {
               "font-size": "32px",
@@ -1142,17 +1143,22 @@
             ".mbr-plan-title": {
               "font-size": "19px",
               "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#000000"
             },
             ".mbr-price-term B": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "color": "#d14841"
+            },
+            ".mbr-price-figure B": {
+              "color": "#d14841"
             }
           },
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
-            "secondType": "bg-primary",
+            "secondType": "",
             "thirdType": "",
             "fourthType": "hidden",
             "paddingTop": "1",
