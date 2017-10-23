@@ -1409,6 +1409,7 @@ h6,
 
 
 
+
 #ext_menu-5a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1500,9 +1501,14 @@ h6,
   text-align: left;
 }
 #features3-5n H4 {
-  font-size: 18px;
-  color: #c0a375;
+  font-size: 20px;
+  color: #5b5b5b;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
 }
 #features3-5n SPAN {
   font-size: 12px;
+}
+#features3-5o H4 {
+  color: #5b5b5b;
 }

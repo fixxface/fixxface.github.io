@@ -3402,9 +3402,9 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -3481,25 +3481,25 @@
               "active": true
             }
           },
-          "title1": "3000ppm藍銅胜肽精華",
+          "title1": "［ 3000ppm藍銅胜肽精華 ］",
           "subtitle1": "",
-          "caption1": "藍銅胜肽為少數能真正進入皮膚真皮層的有效成分，具有促進膠原蛋白與彈力蛋白的增生製造、刺激葡萄醣聚胺。<br>實驗證實，在免疫組織切片上，發現有增加真皮層膠原蛋白的現象。再經超音波檢視，發現皮層密度與厚度皆有增加。<br>在人類中，三胜肽藍銅能促進活化的傷口癒合，為吸引免疫細胞，抗氧化劑和抗炎作用，刺激膠原蛋白和糖胺聚醣的合成在皮膚成纖維細胞和促進血管生長。<br>把藍銅原液抹在臉上會發現滑溜滑溜的，而不是水水的！也不會黏膩吸收速度又快。<br>膠原蛋白是維持皮膚與肌肉彈性的主要成分，但是 20 ~ 25 歲以後，肌膚中的膠原蛋白開始留失，就好像彈簧床內的彈簧衰減，床會出現下陷一樣，人的皮膚陸續開始出現皺紋( 如：法令紋、眉間紋、抬頭紋、魚尾紋 )、凹洞、斑點等老化現象, 此時開始補充膠原蛋白, 可產生立即性的效果。美白、除皺、抗痘、淡斑、除疤、消除黑眼圈及縮小眼袋、膚質調理、防止老化。",
-          "title2": "1500ppm微導藍銅胜肽精華",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "[維他命E]醋酸維他命E具有很好的脂質抗氧化能力，可預防肌膚老化，提供良好的抗氧化作用，延緩皮膚自然老化速度，使肌膚更具光澤。[尿囊素]能軟化角質層，保有皮膚水分閉鎖作用，因此能賦予皮膚飽滿光滑細緻柔嫩，使肌膚有彈性，防止乾裂，減少皮膚刺激、降低過敏反應等特性。增加皮膚光澤，撫平皺紋，改善細紋。尿囊素還能促進上皮細胞增生，皮膚表皮傷口迅速得到癒合，是醫藥軟膏制劑。 [玻尿酸]玻尿酸會隨著年齡的增加而流失，長久下來，肌膚會逐漸失去彈力、光澤，老化、皺紋也會逐漸產生。藉由玻尿酸的強力保濕作用，可以幫助肌膚吸收大量的水份，增強肌膚的保水能力，使肌膚中的膠原蛋白處於充滿水分的環境，肌膚可因此更具彈性，回復青春。 [玫瑰果質純精油] 玫瑰果油能有效保濕肌膚，促進皮膚增生新細胞，改善肌膚暗沉，淡化黑斑及雀斑，增加皮膚彈性，在短期內減淡皺紋，另外玫瑰果油最為廣為人知的功能，就是能夠提供肌膚細胞豐富的養分，有效修護肌膚，去除肌膚疤痕，長期使用可達抗衰老及深層修護的作用，使肌膚恢復白皙水嫩。\n",
-          "title3": "膠原蛋白玻尿酸精華",
-          "subtitle3": "<span style=\"font-style: normal;\">【本品使用的玻尿酸是歐盟進口的生物工程醫療級玻尿酸，分子量高達兩百萬分子，保濕性佳，與一般市售的玻尿酸產品，有明顯的差異化。】</span>",
-          "caption3": "60%玻尿酸Sodium Hyaluronate  solution\n 是存在於生物體中的天然保濕劑，具有極強的保濕力，能維持皮膚彈性，增加皮膚的光澤，且具有無毒性、低免疫反應性、高生物相容性比膠原蛋白效果更好更持久且無副作用。本產品使用之玻尿酸分子量高達200萬比一般市面上玻尿酸的保濕效果更好更持久。\n又稱為透明質酸或醣醛酸，為天然的多醣類，存在於人體真皮層中的成分。為一種天然保濕劑，具有極強的保濕力，能維持皮膚彈性，是一種透明的膠狀結晶物，具有強力的吸水性，可以保持肌膚彈性，還能幫助肌膚從體內及皮膚表層注入大量水分，對組織具有保溼潤滑的作用。\n健康的肌膚表層應該要有12％-15％的水分，當含水量低於10％時，肌膚就會乾躁脫屑，造成肌膚鬆弛老化，適當補充玻尿酸，可以幫助肌膚吸收更大量的水分、增強皮膚的保水能力。\n",
-          "title4": "3%傳明酸精華",
+          "caption1": "",
+          "title2": "［ 1500ppm微導藍銅胜肽精華 ］",
+          "subtitle2": "",
+          "caption2": "",
+          "title3": "［ 膠原蛋白玻尿酸精華 ］",
+          "subtitle3": "",
+          "caption3": "",
+          "title4": "［ 3%傳明酸精華 ］",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3516,8 +3516,11 @@
               "text-align": "left"
             },
             "H4": {
-              "font-size": "18px",
-              "color": "#c0a375"
+              "font-size": "20px",
+              "color": "#5b5b5b",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "center"
             },
             "SPAN": {
               "font-size": "12px"
@@ -3528,9 +3531,9 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -3607,18 +3610,18 @@
               "active": true
             }
           },
-          "title1": "30%胜肽酸煥顏精華",
+          "title1": "［ 30%胜肽酸煥顏精華 ］",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "胜肽酸是將苦杏仁酸與多種胜肽結合，胜肽酸作用在皮膚時，複合果酸進行換膚，去除老廢角質並深入真皮層刺激膠原蛋白與彈性纖維增生，加上胜肽修護安撫肌膚，刺激性小、紅腫程度低，適用於各種膚質。可改善粗糙暗沉，刺激性小，紅腫程度低，並可幫助角質代謝更新，可有效促進纖維母細胞活性，並加速皮膚表皮細胞代謝",
-          "title2": "金箔六胜肽魚子",
+          "caption1": "",
+          "title2": "［ 金箔六胜肽魚子精華 ］",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "六胜肽\nGatuline Expression主要是由一種菊科植物-印度金鈕釦(Acmella oleracea；亦可稱為\n千日菊)中所萃取出來的植物性生長因子，是一種天然無副作用的生化萃取原料。經由國外實驗證明可以有效鬆弛神經-肌肉組織，具有撫平皺紋、快速減少局部的小細，\n適用於臉部抗老化及抗皺產品，且又是天然無副作用，效果相似於類肉毒桿菌(六胜\n肽)類似因此可用於替代類肉毒、胎盤素等動物性生長因子。主成份為千日菊醇\n<br>魚子複合萃取精華Complexe Caviar \n含有精心萃取的魚子及魚子醬的營養元素，結合肌動蛋白的寡肽及墨角藻萃取。富含氨基酸、肽類、礦物質及微量元素。三種海洋成分的協同增效，賦予肌膚密集的養分及無限活力。成分包括20種胺基酸組成：皮膚營養、建構皮膚細胞的要求。磷基、磷蛋白：控制細胞成長和分化及細胞再生、細胞新陳代謝前趨物。脂蛋白：細胞生長組織建構的成分，細胞滋養前趨物 。卵磷蛋白：細胞新陳代謝開始作用，如細胞生長因子“SGF”。鮭魚卵魚子醬萃取液開發的目的是取代動物性傳統胎盤素，針對皮膚滋養和再生功能，增加皮膚組織角質蛋白、膠原蛋白I、膠原蛋白III和纖維網蛋白合成能力。\n玻尿酸\n",
-          "title3": "黃金洋甘菊精華",
+          "caption2": "",
+          "title3": "［ 黃金洋甘菊精華 ］",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "法國原料大廠CRODAROM利用獨特的微波萃取技術，萃取自德國洋甘菊的花朵所得的精純萃取液，具有淨化、消炎、舒緩的功能，常使用在美白的保養品中可減緩日曬後皮膚的損傷，減少皮膚黑色素的沈澱。此外亦具有調理敏感性肌膚保濕、滑嫩等作用，任何膚質均可適用。\n因萃取液中富含多種具有高抗氧化性的植物多酚及黃酮類，其萃取液對皮膚多具有消炎潤膚 、減輕燙傷、水疱、發炎的傷口，幫助傷口癒合。可幫助改善，溼疹、面皰、乾癣、超敏感肌膚，及一般過敏肌膚。平復破裂的微血管，增進肌膚彈性，強化肌膚組織，可消除浮腫。是極佳的肌膚修護調理淨化品。\n",
-          "title4": "蝸牛EGF精華",
+          "caption3": "",
+          "title4": "［ 蝸牛EGF精華 ］",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -3635,7 +3638,12 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-5o"
+          "_anchor": "features3-5o",
+          "_styles": {
+            "H4": {
+              "color": "#5b5b5b"
+            }
+          }
         }
       ]
     }
