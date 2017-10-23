@@ -607,6 +607,8 @@ h6,
 }
 #pricing-table2-1v .mbr-section__container .mbr-section-subtitle SPAN {
   font-family: 'Bitter', serif;
+  color: #5b5b5b;
+  font-size: 14px;
 }
 #pricing-table2-1v UL {
   font-size: 15px;
@@ -617,8 +619,9 @@ h6,
   font-family: 'Bitter', serif;
 }
 #pricing-table2-1v .mbr-plan-title DIV {
-  color: #000000;
+  color: #28324e;
   font-family: 'Bitter', serif;
+  font-size: 16px;
 }
 #pricing-table2-1v .mbr-price-value {
   font-size: 16px;
@@ -627,6 +630,7 @@ h6,
 #pricing-table2-1v .mbr-price-figure {
   font-size: 32px;
   font-family: 'Bitter', serif;
+  color: #d14841;
 }
 #pricing-table2-1v .mbr-price-term {
   font-size: 20px;
@@ -637,8 +641,8 @@ h6,
 }
 #pricing-table2-1v P {
   text-align: center;
-  color: #847272;
-  font-size: 13px;
+  color: #000000;
+  font-size: 14px;
 }
 #pricing-table2-1v B {
   color: #847272;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page7.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -765,7 +765,9 @@
             },
             ".mbr-section__container .mbr-section-subtitle SPAN": {
               "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#5b5b5b",
+              "font-size": "14px"
             },
             "UL": {
               "font-size": "15px"
@@ -777,9 +779,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".mbr-plan-title DIV": {
-              "color": "#000000",
+              "color": "#28324e",
               "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "16px"
             },
             ".mbr-price-value": {
               "font-size": "16px",
@@ -789,7 +792,8 @@
             ".mbr-price-figure": {
               "font-size": "32px",
               "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#d14841"
             },
             ".mbr-price-term": {
               "font-size": "20px",
@@ -802,8 +806,8 @@
             },
             "P": {
               "text-align": "center",
-              "color": "#847272",
-              "font-size": "13px"
+              "color": "#000000",
+              "font-size": "14px"
             },
             "B": {
               "color": "#847272",
