@@ -3516,7 +3516,7 @@
               "text-align": "left"
             },
             "H4": {
-              "font-size": "20px",
+              "font-size": "18px",
               "color": "#5b5b5b",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -3641,7 +3641,8 @@
           "_anchor": "features3-5o",
           "_styles": {
             "H4": {
-              "color": "#5b5b5b"
+              "color": "#5b5b5b",
+              "font-size": "18px"
             }
           }
         }
