@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page7.html",
+    "currentPage": "menu.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -462,10 +462,14 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
-              "font-size": "14px"
+              "font-size": "18px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-size": "14px"
+              "font-size": "18px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".mbr-cards-col:nth-child(odd) .card-title SPAN": {
               "font-family": "'Bitter', serif",

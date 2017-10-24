@@ -467,6 +467,8 @@ h6,
 
 
 
+
+
 #header3-1c .mbr-section-title,
 #header3-1c .mbr-section-subtitle {
   text-align: center;
@@ -488,10 +490,12 @@ h6,
   font-family: 'Bitter', serif;
 }
 #features1-18 .mbr-cards-col:nth-child(even) .card-text {
-  font-size: 14px;
+  font-size: 18px;
+  font-family: 'Bitter', serif;
 }
 #features1-18 .mbr-cards-col:nth-child(odd) .card-text {
-  font-size: 14px;
+  font-size: 18px;
+  font-family: 'Bitter', serif;
 }
 #features1-18 .mbr-cards-col:nth-child(odd) .card-title SPAN {
   font-family: 'Bitter', serif;
