@@ -505,6 +505,74 @@ h6,
 
 
 
+
+
+#header3-5z .mbr-section-title,
+#header3-5z .mbr-section-subtitle {
+  text-align: center;
+}
+#ext_menu-5a .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-5a .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-5a .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-5a .close-icon::before,
+#ext_menu-5a .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-5a .link,
+#ext_menu-5a .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#ext_menu-5a .link {
+  font-size: 1.05rem;
+}
+#ext_menu-5a .dropdown-item,
+#ext_menu-5a .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#ext_menu-5a .link:hover,
+#ext_menu-5a .dropdown-item:hover,
+#ext_menu-5a .link:focus,
+#ext_menu-5a .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-5a .link[aria-expanded="true"],
+#ext_menu-5a .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-5a .nav-dropdown-sm .link:focus,
+#ext_menu-5a .nav-dropdown-sm .link:hover,
+#ext_menu-5a .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-5a .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-5a .navbar,
+#ext_menu-5a .nav-dropdown-sm,
+#ext_menu-5a .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-5a .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-5a .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-5a .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-5a .bg-color.transparent.opened .link:hover,
+#ext_menu-5a .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-5a .link[aria-expanded="true"],
+#ext_menu-5a .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
 #header3-5u .mbr-section-title,
 #header3-5u .mbr-section-subtitle {
   text-align: center;
@@ -519,6 +587,10 @@ h6,
 }
 #header3-5u .mbr-section-subtitle {
   font-family: 'Slabo 27px', serif;
+  text-align: center;
+}
+#header3-5u .mbr-section-subtitle SPAN {
+  color: #8c8c8c;
 }
 #header6-5r .mbr-section-title {
   color: #28262b;
@@ -527,9 +599,11 @@ h6,
   color: #000000;
   font-size: 14px;
 }
-#header3-5s .mbr-section-title,
-#header3-5s .mbr-section-subtitle {
+#footer1-4z P {
+  color: #c0a375;
   text-align: center;
+  font-family: 'Bitter', serif;
+  font-size: 12px;
 }
 
 #header3-3j .mbr-section-title,
