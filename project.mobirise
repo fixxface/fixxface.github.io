@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 212,
+    "uniqCompNum": 213,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -3510,7 +3510,8 @@
             "P": {
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "14px"
+              "font-size": "14px",
+              "text-align": "left"
             }
           },
           "_anchor": "content1-5d"
@@ -3531,22 +3532,42 @@
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
               "font-size": "13px"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "content2-5e"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "30px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "23px",
+              "color": "#c0a375"
+            }
+          },
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">原液介紹<br></a> ",
+          "title": "<span style=\"font-weight: normal;\">｜原液介紹｜</span>",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-5v"
+          "_name": "header3",
+          "_anchor": "header3-5w"
         },
         {
           "_params": {
@@ -3556,7 +3577,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3632,16 +3653,16 @@
             }
           },
           "title1": "［ ⬆️ 3000ppm藍銅胜肽精華 ］",
-          "subtitle1": "<span style=\"font-style: normal;\">建議售價＄2200</span>",
+          "subtitle1": "<span style=\"font-style: normal;\">建議售價＄2200</span><br><span style=\"font-style: normal;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span>",
           "caption1": "",
           "title2": "［ 1500ppm微導藍銅胜肽精華 ］",
-          "subtitle2": "<span style=\"font-style: normal;\">建議售價＄1200</span>",
+          "subtitle2": "<span style=\"font-style: normal;\">建議售價＄1200</span><br><span style=\"font-style: normal;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span>",
           "caption2": "",
           "title3": "［ 膠原蛋白玻尿酸精華 ］",
-          "subtitle3": "<span style=\"font-style: normal;\">建議售價＄500</span>",
+          "subtitle3": "<span style=\"font-style: normal;\">建議售價＄500</span><br><span style=\"font-style: normal;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span>",
           "caption3": "",
           "title4": "［ 3%傳明酸精華 ］",
-          "subtitle4": "<span style=\"font-style: normal;\">建議售價＄400</span>",
+          "subtitle4": "<span style=\"font-style: normal;\">建議售價＄400</span><br><span style=\"font-style: normal;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span>",
           "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -3691,7 +3712,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3767,16 +3788,16 @@
             }
           },
           "title1": "［ 30%胜肽酸煥顏精華 ］",
-          "subtitle1": "<span style=\"font-style: normal;\">建議售價＄2000</span>",
+          "subtitle1": "<span style=\"font-style: normal;\">建議售價＄400</span><br><span style=\"font-style: normal;\">______________________________________________________</span>",
           "caption1": "",
           "title2": "［ 金箔六胜肽魚子精華 ］",
-          "subtitle2": "<span style=\"font-style: normal;\">建議售價＄1000</span>",
+          "subtitle2": "<span style=\"font-style: normal;\">建議售價＄1000</span><br><span style=\"font-style: normal;\">______________________________________________________</span>",
           "caption2": "",
           "title3": "［ 黃金洋甘菊精華 ］",
-          "subtitle3": "<span style=\"font-style: normal;\">建議售價＄300</span>",
+          "subtitle3": "<span style=\"font-style: normal;\">建議售價＄300</span><br><span style=\"font-style: normal;\">______________________________________________________</span>",
           "caption3": "",
           "title4": "［ 蝸牛EGF精華 ］",
-          "subtitle4": "<span style=\"font-style: normal;\">建議售價＄800</span>",
+          "subtitle4": "<span style=\"font-style: normal;\">建議售價＄800</span><br><span style=\"font-style: normal;\">______________________________________________________</span>",
           "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -3811,6 +3832,35 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-size": "13px",
               "color": "#8c8c8c"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "- 高雄 休修臉 美學 -<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4z",
+          "_styles": {
+            "P": {
+              "color": "#c0a375",
+              "text-align": "center",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "12px"
             }
           }
         }
