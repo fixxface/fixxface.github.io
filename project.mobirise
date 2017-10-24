@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page10.html",
+    "currentPage": "page14.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 211,
+    "uniqCompNum": 212,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -3537,9 +3537,22 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">原液介紹<br></a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-5v"
+        },
+        {
+          "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "0",
@@ -3619,16 +3632,16 @@
             }
           },
           "title1": "［ ⬆️ 3000ppm藍銅胜肽精華 ］",
-          "subtitle1": "",
+          "subtitle1": "<span style=\"font-style: normal;\">建議售價＄2200</span>",
           "caption1": "",
           "title2": "［ 1500ppm微導藍銅胜肽精華 ］",
-          "subtitle2": "",
+          "subtitle2": "<span style=\"font-style: normal;\">建議售價＄1200</span>",
           "caption2": "",
           "title3": "［ 膠原蛋白玻尿酸精華 ］",
-          "subtitle3": "",
+          "subtitle3": "<span style=\"font-style: normal;\">建議售價＄500</span>",
           "caption3": "",
           "title4": "［ 3%傳明酸精華 ］",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": "<span style=\"font-style: normal;\">建議售價＄400</span>",
           "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -3660,7 +3673,13 @@
               "text-align": "center"
             },
             "SPAN": {
-              "font-size": "12px"
+              "font-size": "13px"
+            },
+            "H5": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "14px",
+              "color": "#8c8c8c"
             }
           }
         },
@@ -3668,7 +3687,7 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "0",
@@ -3748,16 +3767,16 @@
             }
           },
           "title1": "［ 30%胜肽酸煥顏精華 ］",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle1": "<span style=\"font-style: normal;\">建議售價＄2000</span>",
           "caption1": "",
           "title2": "［ 金箔六胜肽魚子精華 ］",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "<span style=\"font-style: normal;\">建議售價＄1000</span>",
           "caption2": "",
           "title3": "［ 黃金洋甘菊精華 ］",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "<span style=\"font-style: normal;\">建議售價＄300</span>",
           "caption3": "",
           "title4": "［ 蝸牛EGF精華 ］",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": "<span style=\"font-style: normal;\">建議售價＄800</span>",
           "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -3780,6 +3799,18 @@
             "H4": {
               "color": "#5b5b5b",
               "font-size": "18px"
+            },
+            "SPAN": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "13px",
+              "color": "#8c8c8c"
+            },
+            "H5": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "13px",
+              "color": "#8c8c8c"
             }
           }
         }

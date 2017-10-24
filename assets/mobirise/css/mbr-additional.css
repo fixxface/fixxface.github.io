@@ -8,6 +8,7 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 
 
 
@@ -1460,6 +1461,9 @@ h6,
 
 
 
+
+
+
 #ext_menu-5a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1557,9 +1561,24 @@ h6,
   text-align: center;
 }
 #features3-5n SPAN {
-  font-size: 12px;
+  font-size: 13px;
+}
+#features3-5n H5 {
+  font-family: 'Slabo 27px', serif;
+  font-size: 14px;
+  color: #8c8c8c;
 }
 #features3-5o H4 {
   color: #5b5b5b;
   font-size: 18px;
+}
+#features3-5o SPAN {
+  font-family: 'PT Serif', serif;
+  font-size: 13px;
+  color: #8c8c8c;
+}
+#features3-5o H5 {
+  font-family: 'PT Serif', serif;
+  font-size: 13px;
+  color: #8c8c8c;
 }
