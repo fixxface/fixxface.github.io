@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "menu.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1312,7 +1312,7 @@
               "text-align": "center"
             },
             ".mbr-plan-price-desc SPAN": {
-              "font-size": "18px",
+              "font-size": "16px",
               "color": "#000000",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
