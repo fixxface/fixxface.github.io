@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "products.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1308,8 +1308,10 @@
               "text-align": "center"
             },
             ".mbr-plan-price-desc SPAN": {
-              "font-size": "13px",
-              "color": "#000000"
+              "font-size": "18px",
+              "color": "#000000",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".mbr-price-figure": {
               "font-size": "32px",
@@ -1364,8 +1366,8 @@
             "overlayOpacity": 0.5
           },
           "description1": "<br><span style=\"font-style: normal;\">適合出油，或因毛孔阻塞引起的肌膚問題，深入毛孔深層淨化，平衡油脂分泌，清除惱人的痘痘粉刺內包。<br></span><br><span style=\"font-style: normal;\">（拔粉刺/手清粉刺/基礎保養/舒緩膜)</span>",
-          "description2": "<br><span style=\"font-style: normal;\">適合乾燥肌膚，一些粉刺問題，清除粉刺後補水，補足保濕促進肌膚柔嫩，打造水亮肌。<br>（拔粉刺/手清粉刺/基礎保濕導入/海洋軟膜）</span><br>",
-          "description3": "<br><span style=\"font-style: normal;\">適合善敏感、乾燥、脫穴問題的肌膚，清除粉刺後加強舒緩安定，緩和皮膚發炎泛紅反應。<br>（拔粉刺/手清粉刺/舒緩導入/抗敏消炎軟膜）</span>",
+          "description2": "<br><span style=\"font-style: normal;\">適合乾燥肌膚，一些粉刺問題，清除粉刺後補水，補足保濕促進肌膚柔嫩，打造水亮肌。<br></span><br><span style=\"font-style: normal;\">（拔粉刺/手清粉刺/基礎保濕導入/海洋軟膜）</span><br>",
+          "description3": "<br><span style=\"font-style: normal;\">適合善敏感、乾燥、脫穴問題的肌膚，清除粉刺後加強舒緩安定，緩和皮膚發炎泛紅反應。<br></span><br><span style=\"font-style: normal;\">（拔粉刺/手清粉刺/舒緩導入/抗敏消炎軟膜）</span>",
           "description4": "More details",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",

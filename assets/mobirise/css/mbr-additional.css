@@ -794,6 +794,7 @@ h6,
 
 
 
+
 #pricing-table2-1t .mbr-plan-header,
 #pricing-table2-1t .mbr-plan-body {
   background-color: #f4f4f4;
@@ -823,8 +824,9 @@ h6,
   text-align: center;
 }
 #pricing-table2-1t .mbr-plan-price-desc SPAN {
-  font-size: 13px;
+  font-size: 18px;
   color: #000000;
+  font-family: 'Bitter', serif;
 }
 #pricing-table2-1t .mbr-price-figure {
   font-size: 32px;
