@@ -1135,7 +1135,7 @@
             "bgColor": "#efefef"
           },
           "title": "——————<br>：附加項目：<br>&nbsp;——————",
-          "meta": "<br><span style=\"font-style: normal;\">&nbsp;雙手嫩白&nbsp;</span>$&nbsp;<span style=\"font-style: normal;\">300<br>手背淨白&nbsp;</span>$&nbsp;<span style=\"font-style: normal;\">100<br>腳背淨白&nbsp;</span>$&nbsp;<span style=\"font-style: normal;\">150<br>&nbsp;胸前淨白&nbsp;</span>$&nbsp;<span style=\"font-style: normal;\">300</span><br><br>",
+          "meta": "<br><span style=\"font-style: normal;\">&nbsp;雙手嫩白＄300</span><br><span style=\"font-style: normal;\">手背淨白&nbsp;＄100</span><br><span style=\"font-style: normal;\">腳背淨白&nbsp;＄150</span><br><span style=\"font-style: normal;\">&nbsp;胸前淨白&nbsp;＄300<br></span><br>",
           "_tags": [
             "Theme"
           ],
