@@ -5,8 +5,8 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
@@ -501,12 +501,34 @@ h6,
   font-family: 'Bitter', serif;
   font-size: 12px;
 }
+
+
+
+#header3-5u .mbr-section-title,
+#header3-5u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5u .mbr-section-title {
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 25px;
+}
+#header3-5u .mbr-section-title SPAN {
+  font-family: 'Merriweather', serif;
+}
+#header3-5u .mbr-section-subtitle {
+  font-family: 'Slabo 27px', serif;
+}
 #header6-5r .mbr-section-title {
   color: #28262b;
 }
 #header6-5r .mbr-section-text {
   color: #000000;
   font-size: 14px;
+}
+#header3-5s .mbr-section-title,
+#header3-5s .mbr-section-subtitle {
+  text-align: center;
 }
 
 #header3-3j .mbr-section-title,
