@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page7.html",
+    "currentPage": "products.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -817,7 +817,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">zuuth醫美原液</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">zuuth保產品</a>   ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">zuuth醫美原液</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">zuuth保養產品</a>   ",
           "_tags": [
             "Theme"
           ],
