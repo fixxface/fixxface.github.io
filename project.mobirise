@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 218,
+    "uniqCompNum": 233,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -317,7 +317,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "menu",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -421,7 +421,7 @@
           "title1": "<span style=\"font-weight: normal;\">修理專區</span>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<br>改善任何肌膚的臉部問題<br><br>粉刺/痘痘/內皰/暗沉/毛孔阻塞/脫皮缺水/斑點<br><br><br><br>",
-          "title2": "速速保養區",
+          "title2": "速速修理養護區",
           "subtitle2": "",
           "caption2": "<br>醫美保養品結合煥光導入儀<br>讓深層清潔的皮膚達到更完美的療效<br><br>（全療程純原液導入）<br><br>",
           "title3": "基本養護<br><br>",
@@ -512,7 +512,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "news",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -925,7 +925,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "2",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -1076,7 +1076,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "5",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1280,7 +1280,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "1",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -1419,7 +1419,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "3",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -1540,7 +1540,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "4",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2633,7 +2633,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-2",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -3065,7 +3065,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-3",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -3997,6 +3997,461 @@
               "font-size": "12px"
             }
           }
+        }
+      ]
+    },
+    "page17.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Page 17",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": "&nbsp;<br>&nbsp;<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-62"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "22px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#c0a375"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "如瓷保濕緊緻精華",
+          "meta": "Nereus Firming Serum",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-63"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"menu.html\" target=\"_blank\">服務項目</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://line.me/R/ti/p/%40llr0044b\" target=\"_blank\">LINE ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zuuth-181x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "speed",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">高雄・休修臉・美學&nbsp;</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-64"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#f28281"
+            }
+          },
+          "_anchor": "content1-65"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "16px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "color": "#5b5b5b"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left",
+              "color": "#f28281",
+              "font-size": "22px"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "商品描述<br><br>",
+          "meta": "<span style=\"font-style: normal;\">保濕緊緻精華(30ml)</span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-66"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/201606011719491-600x760.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-67"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><span style=\"font-style: normal;\">能為肌膚達到保濕、緊緻、控油、防禦等多效保養；在肌膚上能延展形成補水薄膜，感受由裡到外的水嫩感，為肌膚健康打底，皮膚感覺細緻好上妝，並賦予高能量的抗老修護，並賦予高能量的抗老修護，緊緻皮膚、全面賦活彈潤緊實，進一步創造完美年輕肌齡。</span><br></p></blockquote><blockquote><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">明星成分介紹：</span></p></blockquote><blockquote><span style=\"font-style: normal;\">1. 超級保濕成分水膜磁─玻尿酸交聯聚合體，把原先點的補水交織成全面的補水防護，在肌膚上能充分延展形成補水薄膜，內層鎖水外層防護，提升肌膚具有保濕能力</span></blockquote><blockquote><span style=\"font-style: normal;\">2. 歐洲Ecocert有機認證─冬眠水仙經過有機認證珍貴成份，確保安心與健康</span></blockquote><blockquote><span style=\"font-style: normal;\">3. 高科技成分加植物配方─溫和不刺激，提升肌膚保濕緊緻，打造無瑕肌膚之完美觸感</span></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "13px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-68"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lnmcyr7-650x1215.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-69"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/edm02-900x370.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-6a"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/edm03-900x915.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-6b"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ktjrmtp-650x1219.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-6c"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pcel7x2-650x863.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-6d"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dxnlyse-650x967.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6e"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>商品名稱】保濕緊緻精華&nbsp;</p><p>【容量】30ml&nbsp;</p><p>【使用方法】於臉部洗淨後使用，使用時取酌量精華液，塗抹於臉部輕拍至吸收。&nbsp;</p><p>【保存方式】請保存於陰涼處，避免置於日光直射及高溫潮濕處&nbsp;</p><p>【保存期限】3年&nbsp;</p><p>【產地】台灣&nbsp;</p><p>【注意事項】&nbsp;</p><p>◎ 使用後如有任何不適請立即停止使用，並洽詢專業皮膚科醫師&nbsp;</p><p>◎ 若皮膚以經有過敏、傷口、紅腫或濕疹等異常部位，請避免使用&nbsp;</p><p>◎ 本產品不可食用，請放置在嬰幼兒觸及不到之處</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "content1-6f"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "- 高雄 休修臉 美學 -<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#c0a375",
+              "text-align": "center",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-6g"
         }
       ]
     }
