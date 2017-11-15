@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page19.html",
+    "currentPage": "page18.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -4497,7 +4497,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">你根本不是過敏肌<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page19.html\" data-toolbar=\"-mbrBtnMove\">你根本不是過敏肌<br></a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-6k"
         },
