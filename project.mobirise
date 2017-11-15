@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page5.html",
+    "currentPage": "page19.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 233,
+    "uniqCompNum": 258,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -89,7 +89,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">高雄．修休臉．美學</span>",
           "text": "＠fixxface &nbsp; &nbsp; &nbsp; &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>最新消息leastest new</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>服務項目menu</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-rocket mbr-iconfont mbr-iconfont-btn\"></span>產品簡介 products</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>最新消息leastest new</a>  <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-features mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;服務項目menu&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-rocket mbr-iconfont mbr-iconfont-btn\"></span>產品簡介 products</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>你一定很想知道 &nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -317,7 +317,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "menu",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -512,7 +512,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "news",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -764,7 +764,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -925,7 +925,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "2",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -1076,7 +1076,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "5",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -1280,7 +1280,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "1",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -1419,7 +1419,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "3",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -1540,7 +1540,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "4",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -1670,7 +1670,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products1",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -1881,7 +1881,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products2",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -2178,7 +2178,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-1",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -2633,7 +2633,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-2",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -3065,7 +3065,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-3",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -3498,7 +3498,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro1-1",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -4004,7 +4004,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 17",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -4452,6 +4452,559 @@
             }
           },
           "_anchor": "footer1-6g"
+        }
+      ]
+    },
+    "page18.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "know",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "19px",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;你可能也想知道",
+          "text": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">你根本不是過敏肌<br></a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-6k"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"menu.html\" target=\"_blank\">服務項目</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://line.me/R/ti/p/%40llr0044b\" target=\"_blank\">LINE ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zuuth-181x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "speed",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">高雄・休修臉・美學&nbsp;</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-64"
+        }
+      ]
+    },
+    "page19.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "know1",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"menu.html\" target=\"_blank\">服務項目</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://line.me/R/ti/p/%40llr0044b\" target=\"_blank\">LINE ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zuuth-181x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "speed",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">高雄・休修臉・美學&nbsp;</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-6m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "你可能根本不是過敏肌",
+          "meta": "&nbsp; &nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>有很多美女最愛說的一句話就是“我是敏感肌，我什麼都不敢用”，但如果再深入細問幾句就會發現，很多人並不知道什麼是“敏感”，而什麼是“過敏”。只要皮膚稍微紅一點就說自己過敏了，或者自我定性為敏感肌。</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6o",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>怎樣才叫敏感肌？</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6p",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>“敏感性皮膚”並不是醫學上的嚴謹名詞，實際上應該只是一種常識。如果你想知道自己的皮膚是否敏感，首先要問自己：</p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">你有<b>過敏史、哮喘、濕疹或者花粉症</b>嗎？</span><br></p><p><br></p><p>如果是的話，從統計學的範疇上來說，你確實有更多的皮膚過敏或刺激的機率。</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6q",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><br></p><p>你對皮膚護理產品（如肥皂、乳液、乳霜、洗髮水等）的過敏反應是否超過3次？</p><p><br></p><p>你對防曬霜有不良反應嗎？</p><p><br></p><p>你是否用護膚或護髮產品時感到皮膚發癢？</p><p><br></p><p>嘗試新產品時，你是否非常小心，因為你過去曾經歷不好的體驗？</p><p><br></p><p>你對香水敏感嗎？</p><p><br></p><p>你是否對一些皮膚科處方藥有反應？</p><p><br></p><p>-----------------------------------------</p><p><br></p><p>如果你對上面的大多數問題，回答都是“yes”，你可能具有比較容易感受到刺激的易敏感皮膚。</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6r",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>敏感≠過敏</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6s",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>你需要知道很重要的一點：皮膚容易受到刺激，和皮膚過敏之間有著很大區別。</p><p><span style=\"font-size: 1.07rem;\">當你的免疫系統被產品中的某些成分激活時，會發生真正的過敏反應，比如瘙癢、起疙瘩、泛紅、燒痛甚至蕁麻疹。</span></p><p><br></p><p><b><span style=\"font-size: 1.07rem;\">但造成皮膚敏感的卻很可能不是特定的某成分或產品本身，而是該產品的使用量或錯誤的使用、不當護理造成的。</span><br></b></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6t",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>舉個🌰：</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6v",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>如果你擁有相當正常的皮膚，但你每天都追求像刷盤子一樣的洗臉，過度頻繁的去角質，你的皮膚慢慢就會開始容易泛紅，甚至起濕疹，但<b>這只是因為皮膚的屏障能力變的薄弱，並不意味著你就對洗面奶或去角質磨砂膏過敏。</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6w",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/b5f942ably1fktuabj41zg20if0cawja.gif",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "​同樣的概念也適用於產品，特別是很多功效性產品，尤其是酸性產品。",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-71",
+          "_styles": {
+            "DIV": {
+              "font-size": "12px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>再舉個🌰：</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6x",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>你可以很開心地使用10％濃度的維生素C精華，但是一換到20％就很可能開始覺得敏感和被刺激。某些果酸產品也是如此。但是，你並沒有真正的對維生素C和果酸過敏—— </p><p><b>你的皮膚只是被它的高濃度（或產品過低的ph值）所刺激，其實完全可以在不同的低濃度配方中繼續使用它。</b></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6y",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>敏感肌的護理</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6z",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>如果你真的擁有敏感的皮膚，那也不是世界末日，你可以採取一些步驟來減少問題：</p><p><br></p><p><br></p><p>1 不要過度清潔皮膚。</p><p><br></p><p>2 成分越單純的產品，過敏反應的機率也就越低。</p><p><br></p><p>3 一般來說，有機護膚品的化學物含量少。但植物提取物仍可能導致皮膚過敏。</p><p><br></p><p>4 如果確定某個產品使你的皮膚感到瘙癢／燒灼痛，或使你的皮膚變差，請停止使用。</p><p><br></p><p>5 如果有皮疹，將受影響的區域完全避開陽光日曬。</p><p><br></p><p>6 不要在皮疹上隨便使用處方藥類乳霜，比如皮質酮、利多卡因乳膏、貝拉德利乳膏或抗生素軟膏等，除非你看過醫生，是在醫生的指導下使用的。因為這些藥膏中的藥物成分很可能使皮疹更糟。</p><p><br></p><p>7 如果你真的過敏了（是過敏，不是敏感哦），藥局裡的抗組織胺藥物都可以拿來救急。</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-70",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/b5f942ably1fktub69yvbg20b206ojyz.gif",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-74"
         }
       ]
     }

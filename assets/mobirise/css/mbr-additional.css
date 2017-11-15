@@ -1812,3 +1812,191 @@ h6,
   font-family: 'Bitter', serif;
   font-size: 12px;
 }
+
+#msg-box3-6k .mbr-section-title,
+#msg-box3-6k p {
+  color: #000;
+}
+#msg-box3-6k .mbr-section-title {
+  font-size: 19px;
+  text-align: center;
+}
+#ext_menu-64 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-64 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-64 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-64 .close-icon::before,
+#ext_menu-64 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-64 .link,
+#ext_menu-64 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#ext_menu-64 .link {
+  font-size: 1.05rem;
+}
+#ext_menu-64 .dropdown-item,
+#ext_menu-64 .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#ext_menu-64 .link:hover,
+#ext_menu-64 .dropdown-item:hover,
+#ext_menu-64 .link:focus,
+#ext_menu-64 .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-64 .link[aria-expanded="true"],
+#ext_menu-64 .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-64 .nav-dropdown-sm .link:focus,
+#ext_menu-64 .nav-dropdown-sm .link:hover,
+#ext_menu-64 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-64 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-64 .navbar,
+#ext_menu-64 .nav-dropdown-sm,
+#ext_menu-64 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-64 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-64 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-64 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-64 .bg-color.transparent.opened .link:hover,
+#ext_menu-64 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-64 .link[aria-expanded="true"],
+#ext_menu-64 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+
+#ext_menu-6m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-6m .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-6m .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-6m .close-icon::before,
+#ext_menu-6m .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-6m .link,
+#ext_menu-6m .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#ext_menu-6m .link {
+  font-size: 1.05rem;
+}
+#ext_menu-6m .dropdown-item,
+#ext_menu-6m .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#ext_menu-6m .link:hover,
+#ext_menu-6m .dropdown-item:hover,
+#ext_menu-6m .link:focus,
+#ext_menu-6m .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-6m .link[aria-expanded="true"],
+#ext_menu-6m .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-6m .nav-dropdown-sm .link:focus,
+#ext_menu-6m .nav-dropdown-sm .link:hover,
+#ext_menu-6m .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-6m .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-6m .navbar,
+#ext_menu-6m .nav-dropdown-sm,
+#ext_menu-6m .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-6m .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-6m .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-6m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-6m .bg-color.transparent.opened .link:hover,
+#ext_menu-6m .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-6m .link[aria-expanded="true"],
+#ext_menu-6m .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header3-6n .mbr-section-title,
+#header3-6n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6n .mbr-section-title {
+  font-size: 22px;
+}
+#content1-6o P {
+  font-size: 15px;
+  text-align: left;
+}
+#content1-6p P {
+  text-align: center;
+  color: #b8312f;
+}
+#content1-6q P {
+  text-align: left;
+  font-size: 15px;
+}
+#content1-6r P {
+  font-size: 15px;
+}
+#content1-6s P {
+  text-align: center;
+  color: #b8312f;
+}
+#content1-6t P {
+  font-size: 15px;
+}
+#content1-6v P {
+  text-align: center;
+  color: #b8312f;
+}
+#content1-6w P {
+  font-size: 15px;
+}
+#image2-71 DIV {
+  font-size: 12px;
+}
+#content1-6x P {
+  text-align: center;
+  color: #b8312f;
+}
+#content1-6y P {
+  font-size: 15px;
+}
+#content1-6z P {
+  text-align: center;
+  color: #b8312f;
+}
+#content1-70 P {
+  text-align: left;
+  font-size: 15px;
+}
