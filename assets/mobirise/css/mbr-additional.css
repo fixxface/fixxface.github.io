@@ -2160,3 +2160,46 @@ h6,
   font-family: 'Bitter', serif;
   font-size: 12px;
 }
+
+
+
+
+
+#header2-7k .mbr-section-title {
+  font-size: 46px;
+  font-family: 'Roboto', sans-serif;
+  text-align: right;
+}
+#header2-7k .mbr-section-title SPAN {
+  color: #ffffff;
+  font-size: 32px;
+}
+#features3-7l H4 {
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Slabo 27px', serif;
+  color: #7c706b;
+}
+#features3-7l DIV {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+#features3-7l H5 {
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+#contacts1-7m STRONG {
+  color: #28262b;
+}
+#contacts1-7m B {
+  color: #28262b;
+}
+#contacts1-7m P {
+  color: #000000;
+}
+#footer1-7n P {
+  color: #c0a375;
+  text-align: center;
+  font-family: 'Bitter', serif;
+  font-size: 12px;
+}
