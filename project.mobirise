@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#c0a375",
         "infoColor": "#f3c649",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 287,
+    "uniqCompNum": 288,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -645,7 +645,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "［ 2018預約規則 ］",
+          "title": "",
           "meta": "",
           "_tags": [
             "Theme"
@@ -655,30 +655,55 @@
         },
         {
           "_params": {
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "41",
             "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/notice-420x202.jpg",
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/notice-420x202.jpg",
               "link": "",
               "alt": "",
               "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "",
+          "title": "<br><br>",
+          "text": ".",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-7y"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-7z"
         },
         {
           "_params": {
@@ -715,7 +740,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><br></blockquote><blockquote><span style=\"font-style: normal;\">休修臉一律採取預約制度，因為預約人數比較多，為了保障服務客人的權益，也顧及大家的完美品質，只好更動以下預約規則，如有不便之處敬請見諒。</span></blockquote><blockquote><span style=\"font-style: normal;\"><br></span></blockquote><blockquote><span style=\"font-style: normal;\">［新客人第一次預約］</span></blockquote><blockquote><span style=\"font-style: normal;\">若需取消或更改時間，請在前一天營業時間或提前內告知，若無告知，當日取消或沒回應沒來，將無法再約下一次預約。</span></blockquote><blockquote><span style=\"font-style: normal;\">(新客無法做當天更改時間，若當日更改則算當日取消，若需更改時間，請在前一天營業時間內告知)</span></blockquote><blockquote><span style=\"font-style: normal;\"><br></span></blockquote><blockquote><span style=\"font-style: normal;\">［已來過本店儲值或包療程客人］</span></blockquote><blockquote><p><span style=\"font-style: normal;\">若需取消或更改時間，請在前一天營業時間內告知，若超過兩次以上（包含兩次）當日取消，休修臉有權拒絕服務您。</span></p><p><span style=\"font-style: normal;\"><br></span></p></blockquote><blockquote><span style=\"font-style: normal;\">當日預約超過15分鐘者，視為遲到（遲到只能選擇減少時間或無法為您服務）</span></blockquote><blockquote><span style=\"font-style: normal;\">每次預約我們將為你保留15分鐘，</span><span style=\"font-style: normal; font-size: 1.09rem;\">如您未能在保留時間抵達，為了不影響下一位客人的權利與寶貴的時間，這邊有縮短或取消療程的權力。</span></blockquote><blockquote><span style=\"font-style: normal;\">如因故必須取消或重新安排預約時間，請於預約日前一天私訊告知取消，如果未能符合將視為當日取消，如有不便之處敬請見諒。</span></blockquote><blockquote><br></blockquote>",
+          "text": "<blockquote><p><b style=\"font-style: normal;\">［ 2018預約規則 ］</b></p><p><b style=\"font-style: normal;\"><br></b></p></blockquote><blockquote><span style=\"font-style: normal;\">休修臉一律採取預約制度，因為預約人數比較多，為了保障服務客人的權益，也顧及大家的完美品質，只好更動以下預約規則，如有不便之處敬請見諒。</span></blockquote><blockquote><span style=\"font-style: normal;\"><br></span></blockquote><blockquote><span style=\"font-style: normal;\">［新客人第一次預約］</span></blockquote><blockquote><span style=\"font-style: normal;\">若需取消或更改時間，請在前一天營業時間或提前內告知，若無告知，當日取消或沒回應沒來，將無法再約下一次預約。</span></blockquote><blockquote><span style=\"font-style: normal;\">(新客無法做當天更改時間，若當日更改則算當日取消，若需更改時間，請在前一天營業時間內告知)</span></blockquote><blockquote><span style=\"font-style: normal;\"><br></span></blockquote><blockquote><span style=\"font-style: normal;\">［已來過本店儲值或包療程客人］</span></blockquote><blockquote><p><span style=\"font-style: normal;\">若需取消或更改時間，請在前一天營業時間內告知，若超過兩次以上（包含兩次）當日取消，休修臉有權拒絕服務您。</span></p><p><span style=\"font-style: normal;\"><br></span></p></blockquote><blockquote><span style=\"font-style: normal;\">當日預約超過15分鐘者，視為遲到（遲到只能選擇減少時間或無法為您服務）</span></blockquote><blockquote><span style=\"font-style: normal;\">每次預約我們將為你保留15分鐘，</span><span style=\"font-style: normal; font-size: 1.09rem;\">如您未能在保留時間抵達，為了不影響下一位客人的權利與寶貴的時間，這邊有縮短或取消療程的權力。</span></blockquote><blockquote><span style=\"font-style: normal;\">如因故必須取消或重新安排預約時間，請於預約日前一天私訊告知取消，如果未能符合將視為當日取消，如有不便之處敬請見諒。</span></blockquote><blockquote><br></blockquote>",
           "_tags": [
             "Theme"
           ],
