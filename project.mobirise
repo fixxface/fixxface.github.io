@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "index.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 281,
+    "uniqCompNum": 287,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -523,8 +523,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "title": "&nbsp;",
@@ -636,98 +636,49 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "text-align": "center",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            },
-            ".mbr-section-subtitle": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle SPAN": {
-              "color": "#8c8c8c"
+              "font-size": "30px"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#cccccc"
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "title": "最新消息",
-          "meta": "&nbsp;",
+          "title": "［ 2018預約規則 ］",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-5u"
+          "_anchor": "header3-7w"
         },
         {
-          "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#28262b"
-            },
-            ".mbr-section-text": {
-              "color": "#000000",
-              "font-size": "14px"
-            }
-          },
           "_params": {
-            "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "showArrow": false,
-            "imageSize": "55",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1501338106550-796x591.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ccc",
-            "overlayOpacity": "0.9"
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
           },
           "media": {
             "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/notice-420x202.jpg",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1239x1754.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "active": true
+              "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "title": "",
-          "text": "「 休修臉 幫你修理肌膚問題 」<br>有沒有覺得夏天特別容易出油<br>粉刺特別浮躁，化妝容易糊掉<br>怎麼保濕都做不夠呢？<br>-<br>想要變漂亮，就要趁現在啦<br>跟姐妹們出去怎能允許被比下去～<br>來來來 九月開幕慶🎊🎊<br>優惠送送送🙌🙌🙌<br><br>📣［基礎保濕］開幕體驗價$599～<br>→ 送肩頸按摩<br>📣［換季抗敏］開幕驚喜價$699～<br>→再送保濕美塑導入<br><br>📣消費$799以上 →加送眼部穴點循環<br>📣來店消費打卡→再加碼送臉部撥筋調理<br>凡儲值或包卡，即可免費加入會員 <br>開幕當月加入會員加碼再送驚喜好禮🎁🎉<br><br>💓名額限量100名💓<br>📍高雄市苓雅區中山二路461 號<br>📩預約line: @llr0044b &lt;前面要記得加@&gt;<br>⏰營業時間:9:00-21:00&lt;預約制 時間可溝通&gt;<br><br>#做出不一樣的美容 <br>#保養讓你變美麗 <br>#花錢花得值得 <br>#讓你學到好的保養之道<br>#不推銷 #休修臉 #skincare #清粉刺 #做臉 #高雄 #保養很重要 #拉提 #緊緻 #藍銅胜肽 #醫美等級保養 #拔除粉刺 #手清粉刺",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "header6",
-          "_anchor": "header6-5r"
+          "_name": "image2",
+          "_anchor": "image2-7y"
         },
         {
           "_params": {
@@ -755,6 +706,46 @@
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "font-size": "12px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><br></blockquote><blockquote><span style=\"font-style: normal;\">休修臉一律採取預約制度，因為預約人數比較多，為了保障服務客人的權益，也顧及大家的完美品質，只好更動以下預約規則，如有不便之處敬請見諒。</span></blockquote><blockquote><span style=\"font-style: normal;\"><br></span></blockquote><blockquote><span style=\"font-style: normal;\">［新客人第一次預約］</span></blockquote><blockquote><span style=\"font-style: normal;\">若需取消或更改時間，請在前一天營業時間或提前內告知，若無告知，當日取消或沒回應沒來，將無法再約下一次預約。</span></blockquote><blockquote><span style=\"font-style: normal;\">(新客無法做當天更改時間，若當日更改則算當日取消，若需更改時間，請在前一天營業時間內告知)</span></blockquote><blockquote><span style=\"font-style: normal;\"><br></span></blockquote><blockquote><span style=\"font-style: normal;\">［已來過本店儲值或包療程客人］</span></blockquote><blockquote><p><span style=\"font-style: normal;\">若需取消或更改時間，請在前一天營業時間內告知，若超過兩次以上（包含兩次）當日取消，休修臉有權拒絕服務您。</span></p><p><span style=\"font-style: normal;\"><br></span></p></blockquote><blockquote><span style=\"font-style: normal;\">當日預約超過15分鐘者，視為遲到（遲到只能選擇減少時間或無法為您服務）</span></blockquote><blockquote><span style=\"font-style: normal;\">每次預約我們將為你保留15分鐘，</span><span style=\"font-style: normal; font-size: 1.09rem;\">如您未能在保留時間抵達，為了不影響下一位客人的權利與寶貴的時間，這邊有縮短或取消療程的權力。</span></blockquote><blockquote><span style=\"font-style: normal;\">如因故必須取消或重新安排預約時間，請於預約日前一天私訊告知取消，如果未能符合將視為當日取消，如有不便之處敬請見諒。</span></blockquote><blockquote><br></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-7v",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "DIV": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p>【當日取消者或是當日遲到的將無法享有店內折扣優惠】</p><p><br></p><p>以上規定是為了保障各位顧客的權益，不便之處敬請見諒😊</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7x",
+          "_styles": {
+            "P": {
+              "text-align": "center"
             }
           }
         }
