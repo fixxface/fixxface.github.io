@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "news.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1414,7 +1414,7 @@
           "currency2": "體驗價$",
           "currency3": "體驗價$",
           "currency4": "$",
-          "price1": "<b>599</b>",
+          "price1": "<b>699</b>",
           "price2": "",
           "price3": "<b>699</b>",
           "price4": "0",
@@ -2314,7 +2314,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
