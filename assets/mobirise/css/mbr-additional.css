@@ -5,6 +5,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
@@ -589,17 +590,14 @@ h6,
   font-size: 12px;
 }
 #content2-7v SPAN {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Droid Serif', serif;
 }
 #content2-7v DIV {
   text-align: left;
 }
-#content2-7v P {
-  color: #c0a375;
-}
 #content1-7x P {
   text-align: center;
-  color: #b8312f;
+  color: #d14841;
 }
 
 #header3-3j .mbr-section-title,
