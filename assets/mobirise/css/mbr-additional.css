@@ -573,7 +573,7 @@ h6,
 }
 #ext_menu-5a .link[aria-expanded="true"],
 #ext_menu-5a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #header3-7w .mbr-section-title,
 #header3-7w .mbr-section-subtitle {
@@ -594,8 +594,12 @@ h6,
 #content2-7v DIV {
   text-align: left;
 }
+#content2-7v P {
+  color: #c0a375;
+}
 #content1-7x P {
   text-align: center;
+  color: #b8312f;
 }
 
 #header3-3j .mbr-section-title,

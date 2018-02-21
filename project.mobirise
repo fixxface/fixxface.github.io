@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "menu.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -605,7 +605,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
@@ -753,6 +753,9 @@
             },
             "DIV": {
               "text-align": "left"
+            },
+            "P": {
+              "color": "#c0a375"
             }
           }
         },
@@ -770,7 +773,8 @@
           "_anchor": "content1-7x",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#b8312f"
             }
           }
         }
