@@ -6,8 +6,8 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 
@@ -510,6 +510,7 @@ h6,
 
 
 
+
 #header3-5z .mbr-section-title,
 #header3-5z .mbr-section-subtitle {
   text-align: center;
@@ -591,13 +592,20 @@ h6,
 }
 #content2-7v SPAN {
   font-family: 'Droid Serif', serif;
+  font-size: 16px;
+  color: #000000;
 }
 #content2-7v DIV {
+  text-align: left;
+}
+#content2-7v P {
+  color: #e25041;
   text-align: left;
 }
 #content1-7x P {
   text-align: center;
   color: #d14841;
+  font-family: 'Merriweather', serif;
 }
 
 #header3-3j .mbr-section-title,
@@ -664,7 +672,7 @@ h6,
 }
 #ext_menu-3a .link[aria-expanded="true"],
 #ext_menu-3a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 
 
@@ -1108,7 +1116,7 @@ h6,
 }
 #ext_menu-3a .link[aria-expanded="true"],
 #ext_menu-3a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #header3-3b .mbr-section-title,
 #header3-3b .mbr-section-subtitle {
@@ -1355,7 +1363,7 @@ h6,
 }
 #ext_menu-48 .link[aria-expanded="true"],
 #ext_menu-48 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #content1-49 P {
   color: #f28281;
@@ -1482,7 +1490,7 @@ h6,
 }
 #ext_menu-4p .link[aria-expanded="true"],
 #ext_menu-4p .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #content1-4q P {
   color: #f28281;
@@ -1596,7 +1604,7 @@ h6,
 }
 #ext_menu-5a .link[aria-expanded="true"],
 #ext_menu-5a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #header3-5b .mbr-section-title,
 #header3-5b .mbr-section-subtitle {
@@ -1871,7 +1879,7 @@ h6,
 }
 #ext_menu-64 .link[aria-expanded="true"],
 #ext_menu-64 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 
 #ext_menu-6m .hide-buttons .nav-btn {
@@ -1934,7 +1942,7 @@ h6,
 }
 #ext_menu-6m .link[aria-expanded="true"],
 #ext_menu-6m .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #header3-6n .mbr-section-title,
 #header3-6n .mbr-section-subtitle {
@@ -2058,7 +2066,7 @@ h6,
 }
 #ext_menu-76 .link[aria-expanded="true"],
 #ext_menu-76 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #footer1-77 P {
   color: #c0a375;
@@ -2142,7 +2150,7 @@ h6,
 }
 #ext_menu-7f .link[aria-expanded="true"],
 #ext_menu-7f .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #footer1-7g P {
   color: #c0a375;
@@ -2256,7 +2264,7 @@ h6,
 }
 #ext_menu-7o .link[aria-expanded="true"],
 #ext_menu-7o .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #footer1-7p P {
   color: #c0a375;
