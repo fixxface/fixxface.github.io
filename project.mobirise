@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page6.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1670,13 +1670,13 @@
           "label2": "HOT!",
           "label3": "HOT!",
           "label4": "HOT!",
-          "currency1": "體驗價$",
-          "currency2": "體驗價$",
-          "currency3": "體驗價$",
+          "currency1": "單次價$",
+          "currency2": "單次價$",
+          "currency3": "單次價$",
           "currency4": "$",
-          "price1": "999",
-          "price2": "800",
-          "price3": "699",
+          "price1": "1499",
+          "price2": "1299",
+          "price3": "999",
           "price4": "0",
           "period1": "/80min.",
           "period2": "/80min.",
