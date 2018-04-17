@@ -682,6 +682,8 @@ h6,
 
 
 
+
+
 #pricing-table2-1v .mbr-plan-header,
 #pricing-table2-1v .mbr-plan-body {
   background-color: #f4f4f4;
@@ -734,6 +736,7 @@ h6,
 #pricing-table2-1v .mbr-price-term {
   font-size: 20px;
   font-family: 'Bitter', serif;
+  color: #000000;
 }
 #pricing-table2-1v .mbr-plan-title {
   font-family: 'Bitter', serif;
@@ -749,6 +752,15 @@ h6,
 }
 #pricing-table2-1v .mbr-plan-label {
   color: #efefef;
+}
+#pricing-table2-1v .mbr-plan-price-desc {
+  color: #fac51c;
+  text-align: center;
+  font-family: 'Bitter', serif;
+}
+#pricing-table2-1v .mbr-plan-price-desc SPAN {
+  font-family: 'Bitter', serif;
+  color: #fac51c;
 }
 
 
