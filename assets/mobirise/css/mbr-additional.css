@@ -439,7 +439,7 @@ h6,
 #header2-0 .mbr-section-title {
   font-size: 46px;
   font-family: 'Roboto', sans-serif;
-  text-align: left;
+  text-align: center;
 }
 #header2-0 .mbr-section-title SPAN {
   color: #efefef;
@@ -447,7 +447,7 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #header2-0 .mbr-section-text {
-  text-align: left;
+  text-align: center;
   color: #efefef;
 }
 #features3-1 H4 {

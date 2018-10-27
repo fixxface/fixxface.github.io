@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 289,
+    "uniqCompNum": 292,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -52,17 +52,17 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "56",
+            "imageSize": "53",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/final-04-3-2000x786.png",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000",
             "overlayOpacity": "0.3"
           },
@@ -100,7 +100,7 @@
               "font-size": "46px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-section-title SPAN": {
               "color": "#efefef",
@@ -109,7 +109,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-text": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#efefef"
             }
           }
