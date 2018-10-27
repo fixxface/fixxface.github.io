@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page23.html",
+    "currentPage": "menu.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 292,
+    "uniqCompNum": 295,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -348,7 +348,7 @@
             "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#232323"
+            "bgColor": "#28324e"
           },
           "title": "- - - - - - - - - - -<br>項 目 表<br><span style=\"font-weight: normal;\">- - - - - - - - - - - -</span>",
           "meta": "",
@@ -365,7 +365,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true,
-            "columnsColor": "#2e2e2e",
+            "columnsColor": "#28324e",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": "5",
@@ -448,11 +448,11 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page7.html#pricing-table2-1t\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page7.html#pricing-table2-1t\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
@@ -461,7 +461,7 @@
           "_anchor": "features1-18",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
+              "background-color": "#28324e"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
               "text-align": "center",
@@ -486,6 +486,25 @@
             ".mbr-cards-col:nth-child(odd) .card-title SPAN": {
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<b>[ 任一療程皆可加購黃金軟膜 ]&nbsp;</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-86",
+          "_styles": {
+            "DIV": {
+              "color": "#28324e",
+              "text-align": "center"
             }
           }
         },

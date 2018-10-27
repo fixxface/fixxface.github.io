@@ -502,7 +502,7 @@ h6,
   font-family: 'Bitter', serif;
 }
 #features1-18 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+  background-color: #28324e;
 }
 #features1-18 .mbr-cards-col:nth-child(odd) .card-title {
   text-align: center;
@@ -522,6 +522,10 @@ h6,
 }
 #features1-18 .mbr-cards-col:nth-child(odd) .card-title SPAN {
   font-family: 'Bitter', serif;
+}
+#content1-86 DIV {
+  color: #28324e;
+  text-align: center;
 }
 #footer1-1b P {
   color: #c0a375;
