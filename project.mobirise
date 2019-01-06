@@ -6369,7 +6369,7 @@
           "_styles": {
             "H3": {
               "color": "#c0a375",
-              "text-align": "center",
+              "text-align": "left",
               "font-family": "'Arimo', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
               "font-size": "20px"
