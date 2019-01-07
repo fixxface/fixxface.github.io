@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "index.html",
+    "currentPage": "page21.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 329,
+    "uniqCompNum": 330,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -703,7 +703,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -2092,7 +2092,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -2437,7 +2437,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -3327,7 +3327,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -5251,7 +5251,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -5402,6 +5402,29 @@
           "_anchor": "header3-7j"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "韓式角蛋白作品照",
+          "meta": "更多作品請至INSTAGRAM:FIXXFACE",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-95"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -5471,7 +5494,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -5530,8 +5553,8 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": 0,
-            "paddingTop": 0,
+            "spacing": "2",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "filterBgColor": false,
             "bgColor": "#FFFFFF",
@@ -5543,8 +5566,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/20171229-171229-3-1110x1478.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20171229-171229-3-1110x1478-800x1065.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-34709545-898x1176.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s-34709545-898x1176-800x1047.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -5554,8 +5577,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/20171229-171229-6-1110x1478.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20171229-171229-6-1110x1478-800x1065.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-34709556-838x1260.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s-34709556-838x1260-800x1202.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -5565,8 +5588,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/20171229-171229-9-1110x1478.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20171229-171229-9-1110x1478-800x1065.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-34709543-770x1370.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s-34709543-770x1370-770x1370.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -5576,8 +5599,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/24958923-516720175361475-959040234469201938-o-1200x1598.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/24958923-516720175361475-959040234469201938-o-1200x1598-800x1065.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-34709544-1028x1028.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s-34709544-1028x1028-800x800.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -5598,19 +5621,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/20171229-171229-5-1480x1108.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20171229-171229-5-1480x1108-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-34709557-966x1092.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s-34709557-966x1092-800x904.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/20171229-171229-8-1480x1108.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20171229-171229-8-1480x1108-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-34709547-890x1188.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s-34709547-890x1188-800x1067.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -5624,7 +5647,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/20171229-171229-23-1430x1146-800x641.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
