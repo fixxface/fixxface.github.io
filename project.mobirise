@@ -6278,7 +6278,7 @@
           "_params": {
             "showMeta": true,
             "paddingTop": "6",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "title": "<p>《 休修臉 x ZUUTH 合作企劃 》</p>",
@@ -6324,7 +6324,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "38",
+            "imageSize": "44",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
