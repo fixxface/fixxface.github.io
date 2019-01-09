@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page21.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#000000",
+        "primaryColor": "#efefef",
         "secondaryColor": "#cccccc",
         "successColor": "#a38f84",
         "infoColor": "#f1aaa7",
@@ -1018,7 +1018,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
@@ -1138,6 +1138,10 @@
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "color": "#fac51c"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             }
           },
           "_params": {
@@ -1175,7 +1179,7 @@
             "Theme"
           ],
           "title": "進階修理養護區",
-          "subtitle": "<br><span style=\"font-style: normal;\">醫美保養品結合換光導入儀</span><br><span style=\"font-style: normal;\">讓深層清潔的皮膚達到更完美的療效</span><br><span style=\"font-style: normal;\">（全療程純原液導入）</span>",
+          "subtitle": "<br>適合所有膚況<br>因毛孔阻塞引起的肌膚問題，深入毛孔深層淨化，平衡油脂分泌，清除惱人的痘痘粉刺內包在加入醫美原液導入<br><br><span style=\"font-style: normal;\">醫美保養品結合換光導入儀</span><br><span style=\"font-style: normal;\">讓深層清潔的皮膚達到更完美的療效</span><br><span style=\"font-style: normal;\">（全療程純原液導入）</span>",
           "title1": "<div><br></div><div>水膜磁鎖水美塑 療程</div>",
           "title2": "<br>微導E鎮靜舒敏療程",
           "title3": "<br>六胜肽魚子抗老修護療程",
@@ -3713,7 +3717,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "logo": {
