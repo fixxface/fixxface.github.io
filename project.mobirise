@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page5.html",
+    "currentPage": "menu.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -506,9 +506,9 @@
           "title3": "基本養護<br><br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "基礎清潔<br>基礎保養<br>保濕導入<br>解決單一困擾<br><br>",
-          "title4": "特殊養護專區",
+          "title4": "煥膚專區",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<br>煥顏提亮療程<br>深層經絡淋巴排毒",
+          "caption4": "<br>生肽酸煥顏提亮療程<br>藻晶微針 煥膚 療程",
           "title5": "身體保養區",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "＿＿＿",
@@ -1706,7 +1706,7 @@
               "font-size": "14px"
             },
             ".mbr-plan-label": {
-              "color": "#41a85f"
+              "color": "#c0a375"
             },
             ".mbr-section__container .mbr-section-title": {
               "font-size": "32px",
@@ -1741,9 +1741,9 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
-            "firstType": "",
-            "secondType": "bg-primary",
-            "thirdType": "",
+            "firstType": "bg-primary",
+            "secondType": "",
+            "thirdType": "hidden",
             "fourthType": "hidden",
             "paddingTop": "2",
             "paddingBottom": 3,
@@ -1772,10 +1772,10 @@
           "_tags": [
             "Theme"
           ],
-          "title": "臉部特殊養護專區",
+          "title": "煥膚專區",
           "subtitle": "",
-          "title1": "藻晶微針 煥膚 療程",
-          "title2": "胜肽酸煥顏提亮美塑療程",
+          "title1": "胜肽酸煥顏提亮美塑療程",
+          "title2": "藻晶微針 煥膚 療程",
           "title3": "深層經絡淋巴排毒",
           "title4": "ULTIMATE",
           "subtitle1": "&nbsp;",
@@ -1790,16 +1790,16 @@
           "currency2": "單次價$",
           "currency3": "單次價$",
           "currency4": "$",
-          "price1": "1499",
-          "price2": "1299",
+          "price1": "1299",
+          "price2": "1499",
           "price3": "999",
           "price4": "0",
           "period1": "/80min.",
           "period2": "/80min.",
           "period3": "/ 100min.",
           "period4": "/mo.",
-          "list1": "<p>海藻微針是歐洲多瑙河罕見的淡水針海棉，極細的矽質骨針與海綿絲組成，透過冷凍乾燥與生物萃取技術，啟動表皮細胞微 循環，疏通毛細孔，並讓老化的角質層自然的剝除，被人們廣泛的用於治療皮膚。</p><p>有效改善：角化病、皮膚炎、毛囊炎、皮脂溢、皮膚色素沉澱、日照傷害和老化、換 膚翻新、細微皺紋、毛細孔粗大、青春痘、油脂分泌、膿皰等肌膚問題，是醫學美容的最佳選擇。</p>",
-          "list2": "<p>改善粗糙暗層、緊緻毛孔、換然全新明亮膚色。 </p><p>  \n 促進黑色素代謝，淡化皮膚斑點，使肌膚白皙亮麗。 增加皮膚保水能力，改善肌膚乾燥，粗糙現象。刺激膠原纖維</p><p>使肌膚緊緻有彈性，撫平細紋，比果酸更有成效。\n</p><p>全療程純維他命E精華原液導入</p><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">基礎保養/胜肽<span style=\"background-color: initial; font-size: 0.875rem;\">酸煥顏/營養導入/海洋極致軟膜</span></li></ul><p></p>",
+          "list1": "<p>&nbsp; &nbsp;&nbsp; &nbsp; 基礎保養/敷胜肽酸煥顏/手清粉刺/\n純維他命E精華原液導入/爆水面膜</p><p>----------------------------------------------------------------------------------------</p><p>改善粗糙暗層、緊緻毛孔、換然全新明亮膚色。</p><p>促進黑色素代謝，淡化皮膚斑點，使肌膚白皙亮麗。 增加皮膚保水能力，改善肌膚乾燥，粗糙現象。刺激膠原纖維</p><p><br></p><p>使肌膚緊緻有彈性，撫平細紋，比果酸更有成效。</p><p>全療程純維他命E精華原液導入</p><p><br></p><p><br></p>",
+          "list2": "<p>海藻微針是歐洲多瑙河罕見的淡水針海棉，極細的矽質骨針與海綿絲組成，透過冷凍乾燥與生物萃取技術，啟動表皮細胞微 循環，疏通毛細孔，並讓老化的角質層自然的剝除，被人們廣泛的用於治療皮膚。</p><p><br></p><p>有效改善：角化病、皮膚炎、毛囊炎、皮脂溢、皮膚色素沉澱、日照傷害和老化、換 膚翻新、細微皺紋、毛細孔粗大、青春痘、油脂分泌、膿皰等肌膚問題，是醫學美容的最佳選擇。</p><p>改善粗糙暗層、緊緻毛孔、換然全新明亮膚色。 </p><p>  \n 促進黑色素代謝，淡化皮膚斑點，使肌膚白皙亮麗。 增加皮膚保水能力，改善肌膚乾燥，粗糙現象。刺激膠原纖維</p><p>使肌膚緊緻有彈性，撫平細紋，比果酸更有成效。\n</p><p>全療程純維他命E精華原液導入</p><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><br></li></ul><p></p>",
           "list3": "<p>來自世界各國的天然優質植物配方，和易於吸收的護膚配方，使皮膚亮白細緻並恢復年輕光澤</p><p>強化保濕、修復營養肌膚，使皮膚有彈性、韌性、緊實</p><p>💡明星成分：日本 玻尿酸鈉 / 法國 薰衣草精油 /德國 異晶型乳化劑 /義大利 摩洛哥堅果油 / 美國珍貴蜂王乳水解蛋白萃取液</p><p>基礎保養/臉部及肩頸按摩/用產品按摩式帶出深層毒素/手清粉刺/保濕導入/膠原極致保濕膜</p>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "_name": "pricing-table2",
