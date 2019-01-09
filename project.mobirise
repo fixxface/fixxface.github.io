@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page5.html",
+    "currentPage": "menu.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -499,13 +499,13 @@
           },
           "title1": "<span style=\"font-weight: normal;\">[ 高效深層養護區 ]</span>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<br>極光水亮分子課程 深層修復 使肌膚透亮出來<br>適合所有膚質的人氣課程<br><br>改善任何肌膚問題<br>結合煥光導入儀導入醫美原液<br>讓深層清潔的皮膚達到更完美的療效<br>",
+          "caption1": "<br>極光水亮分子課程 深層修復 使肌膚透亮出來<br>適合所有膚質的人氣課程<br><br>改善任何肌膚問題<br>結合煥光導入儀導入醫美原液<br>讓深層清潔的皮膚達到更完美的療效<br><br><br>",
           "title2": "［基礎臉部修理養護 ］",
           "subtitle2": "",
           "caption2": "<br>修理肌膚<br>基本養護 <br>基礎清潔 <br>基礎保養<br>保濕導入<br><br>解決單一困擾<br><br><br>",
           "title3": "［ 特別護理 ］",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<br><br>基礎撥筋調理<br>（快速小臉）<br><br>基本保濕導入療程<br><br><br><br><br>",
+          "caption3": "<br><br>基礎撥筋調理<br>（快速小臉）<br><br>基本保濕導入療程<br><br><br><br><br><br>",
           "title4": "［ 煥膚專區 ］",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<br><br><br>生肽酸煥顏提亮療程<br>藻晶微針 煥膚 療程<br><br><br><br><br><br>",
@@ -515,8 +515,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page7.html#pricing-table2-1t\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
@@ -546,7 +546,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-size": "16px",
+              "font-size": "15px",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
