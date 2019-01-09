@@ -70,6 +70,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -509,11 +515,11 @@ h6,
   font-family: 'Bitter', serif;
 }
 #features1-18 .mbr-cards-col:nth-child(even) .card-text {
-  font-size: 18px;
+  font-size: 16px;
   font-family: 'Bitter', serif;
 }
 #features1-18 .mbr-cards-col:nth-child(odd) .card-text {
-  font-size: 18px;
+  font-size: 16px;
   font-family: 'Bitter', serif;
 }
 #features1-18 .mbr-cards-col:nth-child(odd) .card-title SPAN {
@@ -597,7 +603,7 @@ h6,
 }
 #ext_menu-5a .link[aria-expanded="true"],
 #ext_menu-5a .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #efefef!important;
 }
 #header3-7w .mbr-section-title,
 #header3-7w .mbr-section-subtitle {
@@ -846,6 +852,8 @@ h6,
 
 
 
+
+
 #pricing-table2-1t .mbr-plan-header,
 #pricing-table2-1t .mbr-plan-body {
   background-color: #f4f4f4;
@@ -903,6 +911,24 @@ h6,
 #pricing-table2-1t .mbr-price-figure B {
   color: #d14841;
 }
+#pricing-table2-1t .mbr-section__container .mbr-section-subtitle {
+  font-family: 'Bitter', serif;
+  font-size: 15px;
+  color: #5b5b5b;
+}
+#pricing-table2-1t .mbr-plan-title DIV {
+  font-size: 14px;
+}
+#content1-97 DIV {
+  color: #28324e;
+  text-align: center;
+}
+#footer1-8e P {
+  color: #c0a375;
+  text-align: center;
+  font-family: 'Bitter', serif;
+  font-size: 12px;
+}
 
 
 
@@ -929,7 +955,7 @@ h6,
   color: #c0a375;
   text-align: center;
   font-family: 'Bitter', serif;
-  font-size: 15px;
+  font-size: 14px;
 }
 #pricing-table2-1x .mbr-price-value {
   text-align: left;
@@ -938,7 +964,7 @@ h6,
 }
 #pricing-table2-1x .mbr-price-figure {
   font-size: 15px;
-  text-align: center;
+  text-align: left;
   font-family: 'Bitter', serif;
 }
 #pricing-table2-1x .mbr-section__container .mbr-section-title {

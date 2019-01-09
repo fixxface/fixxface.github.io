@@ -15,8 +15,8 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Roboto Condensed",
         "textFont": "Montserrat",
-        "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
       },
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 331,
+    "uniqCompNum": 332,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -417,7 +417,7 @@
             "paddingBottom": "1",
             "bgColor": "#28324e"
           },
-          "title": "- - - - - - - - - - -<br>項 目 表<br><span style=\"font-weight: normal;\">- - - - - - - - - - - -</span>",
+          "title": "＿＿＿＿＿＿＿<br><br>項 目 表<br>＿＿＿＿＿＿＿",
           "meta": "",
           "_tags": [
             "Theme"
@@ -497,21 +497,21 @@
               "active": true
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">修理專區</span>",
+          "title1": "<span style=\"font-weight: normal;\">[ 高效深層養護區 ]</span>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<br>改善任何肌膚的臉部問題<br><br>粉刺/痘痘/內皰/暗沉/毛孔阻塞/脫皮缺水/斑點<br><br><br><br>",
-          "title2": "進階修理養護區",
+          "caption1": "<br>極光水亮分子課程 深層修復 使肌膚透亮出來<br>適合所有膚質的人氣課程<br><br>改善任何肌膚問題<br>結合煥光導入儀導入醫美原液<br>讓深層清潔的皮膚達到更完美的療效<br>",
+          "title2": "［基礎臉部修理養護 ］",
           "subtitle2": "",
-          "caption2": "<br>改善任何肌膚的臉部問題再結合醫美保養品結合煥光導入儀<br>讓深層清潔的皮膚達到更完美的療效<br><br>（全療程純原液導入）<br><br>",
-          "title3": "基本養護<br><br>",
+          "caption2": "<br>修理肌膚<br>基本養護 <br>基礎清潔 <br>基礎保養<br>保濕導入<br><br>解決單一困擾<br><br><br>",
+          "title3": "［ 特別護理 ］",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "基礎清潔<br>基礎保養<br>保濕導入<br>解決單一困擾<br><br>",
-          "title4": "煥膚專區",
+          "caption3": "<br><br>基礎撥筋調理<br>（快速小臉）<br><br>基本保濕導入療程<br><br><br><br><br>",
+          "title4": "［ 煥膚專區 ］",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<br>生肽酸煥顏提亮療程<br>藻晶微針 煥膚 療程",
-          "title5": "身體保養區",
+          "caption4": "<br><br><br>生肽酸煥顏提亮療程<br>藻晶微針 煥膚 療程<br><br><br><br><br><br>",
+          "title5": "［ 身體保養區 ］",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "＿＿＿",
+          "caption5": "<br><br><br><br><br><br><br><br><br><br>",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
@@ -541,12 +541,12 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
-              "font-size": "18px",
+              "font-size": "16px",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-size": "18px",
+              "font-size": "16px",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
@@ -703,7 +703,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#efefef!important"
             }
           },
           "logo": {
@@ -1169,8 +1169,8 @@
           },
           "description1": "<span style=\"font-style: normal;\"><b>( 療程四堂 $ 5500 )</b></span><span style=\"font-style: normal;\"><b><br></b></span>",
           "description2": "<span style=\"font-style: normal;\"><b>( 療程四堂 $ 5000 )</b></span><span style=\"font-style: normal;\"><b><br></b></span>",
-          "description3": "<span style=\"font-style: normal;\"><b>( 療程四堂 $ 4000 )</b></span>",
-          "description4": "<span style=\"font-style: normal;\"><b>( 療程四堂 $ 4000)</b></span>",
+          "description3": "<span style=\"font-style: normal;\"><b><br></b></span><span style=\"font-style: normal;\"><b>( 療程四堂 $ 4000 )</b></span>",
+          "description4": "<span style=\"font-style: normal;\"><b><br></b></span><span style=\"font-style: normal;\"><b>( 療程四堂 $ 4000)</b></span>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
@@ -1179,11 +1179,11 @@
             "Theme"
           ],
           "title": "高效深層養護區",
-          "subtitle": "<p><br>極光水亮分子課程 深層修復 使肌膚透亮出來<br>適合所有膚質的人氣課程<br><br>課程介紹<br>因毛孔阻塞引起的肌膚問題，深入毛孔深層淨化，平衡油脂分泌，清除惱人的痘痘粉刺內包<br>針對各個不同的需求深層保養使肌膚亮晢、水嫩保溼、抗敏鎮靜。<br><br><b>［基礎保養］</b><span style=\"color: rgb(140, 140, 140); font-size: 17px;\">➜</span><b>［膠原蛋白拔除粉刺］</b><span style=\"color: rgb(140, 140, 140); font-size: 17px;\">➜</span><b>［手清粉刺］</b><span style=\"color: rgb(140, 140, 140); font-size: 17px;\">➜</span><b>［RF煥光電流導入］</b><span style=\"color: rgb(140, 140, 140); font-size: 17px;\">➜</span><b>［補水面膜］</b></p><p><br><span style=\"font-style: normal;\">醫美保養品結合換光導入儀</span><br><span style=\"font-style: normal;\">讓深層清潔的皮膚達到更完美的療效</span><br><span style=\"font-style: normal;\">（全療程純原液導入）</span></p>",
+          "subtitle": "<p><br>極光水亮分子課程 深層修復 使肌膚透亮出來<br>適合所有膚質的人氣課程<br><br>課程介紹<br>因毛孔阻塞引起的肌膚問題，深入毛孔深層淨化，平衡油脂分泌，修理頑固惱人的痘痘粉刺內包<br>針對各個不同的需求深層保養使肌膚亮晢、水嫩保溼、抗敏鎮靜。<br><br><b>［基礎保養］</b><span style=\"color: rgb(140, 140, 140); font-size: 17px;\">➜</span><b>［膠原蛋白拔除粉刺］</b><span style=\"color: rgb(140, 140, 140); font-size: 17px;\">➜</span><b>［手清粉刺］</b><span style=\"color: rgb(140, 140, 140); font-size: 17px;\">➜</span><b>［RF煥光電流導入］</b><span style=\"color: rgb(140, 140, 140); font-size: 17px;\">➜</span><b>［補水面膜］</b></p><p><br><span style=\"font-style: normal;\">醫美保養品結合換光導入儀</span><br><span style=\"font-style: normal;\">讓深層清潔的皮膚達到更完美的療效</span><br><span style=\"font-style: normal;\">（全療程純原液導入）</span></p>",
           "title1": "<div><br></div><div>藍銅胜肽活膚緊緻療程</div><br><div>原價＄1980</div>",
           "title2": "<br>六胜肽魚子緊緻抗老修護療程<br><br><div>原價＄1880</div>",
-          "title3": "<br>水膜磁鎖水美塑 療程",
-          "title4": "微導E鎮靜舒敏療程",
+          "title3": "<br>水膜磁鎖水美塑 療程<br><br>",
+          "title4": "<br>微導E鎮靜舒敏療程<br>",
           "subtitle1": "",
           "subtitle2": "",
           "subtitle3": "",
@@ -1206,8 +1206,8 @@
           "period4": "/ 90min.",
           "list1": "<p>適合任何肌膚</p><p>退紅速度最快 、皆能鎖住水分、修護賦活，持續飽水透亮</p><p><br></p><p>3000ppm的藍銅胜肽精華，極致修護深入肌底修復完美膚質，提高肌膚抗老化能力，舒緩修護肌膚使肌膚平滑細緻，加速傷口癒合，修護臉部乾燥，淡化老化細紋，同時維持肌膚彈性及緊緻度，提升水合保濕力，使肌膚呈現水嫩，改善疲態與黯沉 ，全面復活彈潤緊實。</p><p><br></p><p>（全療程純藍銅及維他命E精華原液導入）</p><p>\n</p>",
           "list2": "<p>適合任何肌膚</p><p>極強的生理活性來緊緻毛孔，預防皺紋細紋、持續飽水透亮</p><p><br></p><p>六胜肽Gatuline EXPRESSIONS被稱為類肉毒桿菌素，具有抑制神經物質過度釋放、影響皮下神經與肌肉間的傳遞蛋白作用，對於減緩臉部的魚尾紋、法令紋等動態紋路效果最好，預防皺紋細紋，魚子複合萃取精華，結合肌動蛋白的寡肽及墨角藻萃取，三種海洋成份的協同增效，賦予肌膚濃郁的養分，針對皮膚滋養，賦予肌膚濃郁的養分和再生功能。</p><p><b>（全療程純六胜肽魚子原液導入）</b></p>",
-          "list3": "<p>適合任何肌膚</p><p><br></p><p>水膜磁是玻尿酸交聯聚合物，玻尿酸植物性膠原蛋白，適度補充膠原蛋白再表層肌膚加上獨家水膜磁在肌膚上能延展形成補水薄膜，感受由裡到外的水嫩感，為肌膚健康打底，讓皮膚感覺細緻好上妝，並賦予高能量的抗老修護，緊緻皮膚、全面賦活彈潤緊實，能為肌膚達到保濕、緊緻、控油、防禦等多效保養。</p><p><br></p><p><b>（全療程純玻尿酸及水膜磁原液導入）</b><br></p><p></p>",
-          "list4": "<p>適合任何肌膚</p><p><br></p><p>維他命Ｅ可以保護細胞膜免於氧化性傷害以及紫外線的初期傷害還能補充平均皮膚的養分，可防止脂質的過氧化，防止肌膚老化加上洋甘菊護敏舒敏、減少紅腫現象有效防護環境對於肌膚的刺激與傷害。</p><p><br></p><p><b>(全療程純維他命E洋甘菊原液導入)</b></p><p></p>",
+          "list3": "<p>適合任何肌膚</p><p>乾燥肌膚換回水嫩</p><p>水膜磁是玻尿酸交聯聚合物，玻尿酸植物性膠原蛋白，適度補充膠原蛋白再表層肌膚加上獨家水膜磁在肌膚上能延展形成補水薄膜，感受由裡到外的水嫩感，為肌膚健康打底，讓皮膚感覺細緻好上妝，並賦予高能量的抗老修護，緊緻皮膚、全面賦活彈潤緊實，能為肌膚達到保濕、緊緻、控油、防禦等多效保養。</p><p><br></p><p><b>（全療程純玻尿酸及水膜磁原液導入）</b><br></p><p></p>",
+          "list4": "<p>適合任何肌膚</p><p>敏感肌膚重建保護層</p><p><br></p><p>維他命Ｅ可以保護細胞膜免於氧化性傷害以及紫外線的初期傷害還能補充平均皮膚的養分，可防止脂質的過氧化，防止肌膚老化加上洋甘菊護敏舒敏、減少紅腫現象有效防護環境對於肌膚的刺激與傷害。</p><p><br></p><p><b>(全療程純維他命E洋甘菊原液導入)</b></p><p></p>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-1v"
         },
@@ -1533,13 +1533,22 @@
             },
             ".mbr-price-figure B": {
               "color": "#d14841"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "15px",
+              "color": "#5b5b5b"
+            },
+            ".mbr-plan-title DIV": {
+              "font-size": "14px"
             }
           },
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
-            "firstType": "",
-            "secondType": "",
+            "firstType": "hidden",
+            "secondType": "hidden",
             "thirdType": "",
             "fourthType": "hidden",
             "paddingTop": "1",
@@ -1560,7 +1569,7 @@
           },
           "description1": "（療程四送一）<br><span style=\"font-style: normal;\">適合出油，或因毛孔阻塞引起的肌膚問題，深入毛孔深層淨化，平衡油脂分泌，清除惱人的痘痘粉刺內包。<br></span><br><span style=\"font-style: normal;\">（拔粉刺/手清粉刺/基礎保養/舒緩膜)</span>",
           "description2": "（療程四送一）<br><span style=\"font-style: normal;\">適合乾燥肌膚，一些粉刺問題，清除粉刺後補水，補足保濕促進肌膚柔嫩，打造水亮肌。<br></span><br><span style=\"font-style: normal;\">（拔粉刺/手清粉刺/基礎保濕導入/海洋軟膜）</span><br>",
-          "description3": "（療程四送一）<br><span style=\"font-style: normal;\">適合善敏感、乾燥、脫穴問題的肌膚，清除粉刺後加強舒緩安定，緩和皮膚發炎泛紅反應。<br></span><br><span style=\"font-style: normal;\">（拔粉刺/手清粉刺/舒緩導入/抗敏消炎軟膜）</span>",
+          "description3": "（療程四送一）",
           "description4": "More details",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
@@ -1569,11 +1578,11 @@
           "_tags": [
             "Theme"
           ],
-          "title": "臉部養護",
-          "subtitle": "<span style=\"font-style: normal;\">__</span><span style=\"font-style: normal;\">修理專區 __&nbsp;</span>",
+          "title": "基礎臉部修理養護",
+          "subtitle": "<span style=\"font-style: normal;\">&nbsp;</span><br>適用各種膚質&nbsp;<br>基礎清粉刺/基礎保養/保濕導入/解決單一困擾<br><br><br>課程介紹<br>［基礎保養］➜［膠原蛋白拔除粉刺］➜［手清粉刺］➜［補水導入］➜［舒緩冰晶凍膜］<br><br><br>",
           "title1": "修理頑固痘痘粉刺內胞",
-          "title2": "<br>修理 乾燥肌膚換回水嫩",
-          "title3": "修理敏感肌膚重建保護層<div><br></div>",
+          "title2": "",
+          "title3": "修理肌膚<br><br><div>暗沉無光澤、敏感、缺水的肌膚</div>",
           "title4": "ULTIMATE",
           "subtitle1": "",
           "subtitle2": "",
@@ -1592,8 +1601,8 @@
           "price3": "<b>999</b>",
           "price4": "0",
           "period1": "/ 90min.",
-          "period2": "<b>999</b>/ 90min.<br>",
-          "period3": "/ 90min.",
+          "period2": "<b>999</b>/ 70min.<br>",
+          "period3": "/ 75min.",
           "period4": "/mo.",
           "list1": "",
           "list2": "",
@@ -1601,6 +1610,54 @@
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-1t"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<b>[ 任一療程皆可加購黃金軟膜 ]&nbsp;</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#28324e",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-97"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "- 高雄 休修臉 美學 -<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-8e",
+          "_styles": {
+            "P": {
+              "color": "#c0a375",
+              "text-align": "center",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "12px"
+            }
+          }
         }
       ]
     },
@@ -1631,7 +1688,7 @@
               "text-align": "center",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-size": "15px"
+              "font-size": "14px"
             },
             ".mbr-price-value": {
               "text-align": "left",
@@ -1641,7 +1698,7 @@
             },
             ".mbr-price-figure": {
               "font-size": "15px",
-              "text-align": "center",
+              "text-align": "left",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
@@ -1690,10 +1747,10 @@
           "_tags": [
             "Theme"
           ],
-          "title": "基本養護",
+          "title": "特別護理&nbsp;",
           "subtitle": "",
-          "title1": "基本保濕導入療程",
-          "title2": "基礎撥筋調理<br>（快速小臉）",
+          "title1": "基礎撥筋調理<div>（快速小臉）</div><div><br></div>",
+          "title2": "深層保濕導入療程",
           "title3": "PREMIUM",
           "title4": "ULTIMATE",
           "subtitle1": "",
@@ -1708,16 +1765,16 @@
           "currency2": "",
           "currency3": "$",
           "currency4": "$",
-          "price1": "功效：使皮膚有彈性、韌性、緊實、以煥光美塑導入，使有效成分深入至皮膚底層，促進膠原蛋白增生<br><br>［導入效能］<br>美白/淡化細小皺紋/保濕/預防皮膚老化色素沈澱/細膚緊實/抗氧化對抗自由基 /舒緩日光性傷害 &nbsp;<br><br>",
-          "price2": "一般基礎保養加上臉部及肩頸按摩 帶入撥筋手法，讓臉部經絡疏通，讓氣血順暢，讓廢物代謝恢復正常，能立即達到緊實，光澤，減輕皮膚負擔，加上保濕導入敷臉 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+          "price1": "一般基礎保養加上臉部及肩頸按摩 ，帶入牛角棒撥筋手法，讓臉部經絡疏通，讓氣血順暢，讓廢物代謝恢復正常，能立即達到緊實，光澤，減輕皮膚負擔，在加上保濕導入敷臉，使肌膚更明亮緊實。 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>",
+          "price2": "功效：使皮膚有彈性、韌性、緊實、以煥光美塑導入，使有效成分深入至皮膚底層，促進膠原蛋白增生<br><br>［導入效能］<br><br>美白/淡化細小皺紋/保濕/預防皮膚老化色素沈澱/細膚緊實/抗氧化對抗自由基 /舒緩日光性傷害  <br><br>",
           "price3": "0",
           "price4": "0",
           "period1": "",
           "period2": "",
           "period3": "/mo.",
           "period4": "/mo.",
-          "list1": "玻尿酸保濕 $ 400<div>傳明酸美白 $ 550</div><div>洋甘菊舒緩 $ 399</div><div>六胜肽魚子抗老 $ 600</div><div>微導藍銅活膚緊緻 $ 650</div>",
-          "list2": "<p>單次價$900 / 四堂 $3000</p>",
+          "list1": "<p>單次價$900 / 四堂 $3000<br></p>",
+          "list2": "<p>玻尿酸保濕 $ 400</p><p>傳明酸美白 $ 550</p><p>洋甘菊舒緩 $ 399</p><p>六胜肽魚子抗老 $ 600</p><p>微導藍銅活膚緊緻 $ 650</p>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "_name": "pricing-table2",
