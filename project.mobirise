@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 330,
+    "uniqCompNum": 331,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -1147,8 +1147,8 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
-            "firstType": "",
-            "secondType": "",
+            "firstType": "bg-primary",
+            "secondType": "bg-primary",
             "thirdType": "bg-primary",
             "fourthType": "bg-primary",
             "paddingTop": "2",
@@ -1169,8 +1169,8 @@
           },
           "description1": "<span style=\"font-style: normal;\"><b>( 療程四堂 $ 5500 )</b></span><span style=\"font-style: normal;\"><b><br></b></span>",
           "description2": "<span style=\"font-style: normal;\"><b>( 療程四堂 $ 5000 )</b></span><span style=\"font-style: normal;\"><b><br></b></span>",
-          "description3": "<span style=\"font-style: normal;\"><b>療程四堂$5000</b></span>",
-          "description4": "<span style=\"font-style: normal;\"><b>療程四堂$5500</b></span>",
+          "description3": "<span style=\"font-style: normal;\"><b>( 療程四堂 $ 4000 )</b></span>",
+          "description4": "<span style=\"font-style: normal;\"><b>( 療程四堂 $ 4000)</b></span>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
@@ -1183,7 +1183,7 @@
           "title1": "<div><br></div><div>藍銅胜肽活膚緊緻療程</div><br><div>原價＄1980</div>",
           "title2": "<br>六胜肽魚子緊緻抗老修護療程<br><br><div>原價＄1880</div>",
           "title3": "<br>水膜磁鎖水美塑 療程",
-          "title4": "藍銅胜肽活膚緊緻療程",
+          "title4": "微導E鎮靜舒敏療程",
           "subtitle1": "",
           "subtitle2": "",
           "subtitle3": "",
@@ -1198,18 +1198,66 @@
           "currency4": "體驗價$",
           "price1": "1500",
           "price2": "1400",
-          "price3": "1400",
-          "price4": "1500",
-          "period1": "/ 90min.<br><br>",
-          "period2": "/ 90min.<br><br>",
+          "price3": "1200",
+          "price4": "1200",
+          "period1": "/ 90min.<br>",
+          "period2": "/ 90min.<br>",
           "period3": "/ 90min.",
           "period4": "/ 90min.",
-          "list1": "<p>適合任何肌膚</p><p>退紅速度最快 、皆能鎖住水分、修護賦活，持續飽水透亮</p><p>3000ppm的藍銅胜肽精華，極致修護深入肌底修復完美膚質，提高肌膚抗老化能力，舒緩修護肌膚使肌膚平滑細緻，加速傷口癒合，修護臉部乾燥，淡化老化細紋，同時維持肌膚彈性及緊緻度，提升水合保濕力，使肌膚呈現水嫩，改善疲態與黯沉 ，全面復活彈潤緊實。</p><p><br></p><p>（全療程純藍銅及維他命E精華原液導入）</p><p>\n</p>",
-          "list2": "<p>適合任何肌膚</p><p>極強的生理活性來緊緻毛孔，預防皺紋細紋、持續飽水透亮</p><p>六胜肽Gatuline EXPRESSIONS被稱為類肉毒桿菌素，具有抑制神經物質過度釋放、影響皮下神經與肌肉間的傳遞蛋白作用，對於減緩臉部的魚尾紋、法令紋等動態紋路效果最好，預防皺紋細紋，魚子複合萃取精華，結合肌動蛋白的寡肽及墨角藻萃取，三種海洋成份的協同增效，賦予肌膚濃郁的養分，針對皮膚滋養，賦予肌膚濃郁的養分和再生功能。</p><p><b>（全療程純六胜肽魚子原液導入）</b></p>",
-          "list3": "<p>適合任何肌膚</p><h3 class=\"mbr-plan-title\" data-app-selector=\".mbr-plan-title\" data-app-placeholder=\"Type Title\" style=\"background-color: rgb(239, 239, 239);\">水膜磁是玻尿酸交聯聚合物，玻尿酸植物性膠原蛋白，適度補充膠原蛋白再表層肌膚加上獨家水膜磁在肌膚上能延展形成補水薄膜，感受由裡到外的水嫩感，為肌膚健康打底，讓皮膚感覺細緻好上妝，並賦予高能量的抗老修護，緊緻皮膚、全面賦活彈潤緊實，能為肌膚達到保濕、緊緻、控油、防禦等多效保養。<br></h3><p><br></p><p><br></p><p><br></p><p>\n</p><p>基礎保養/拔粉刺/煥光美塑保濕導入/海洋緊緻膜\n</p><p><strong>（全療程純六胜肽魚子原液導入）</strong></p><p></p>",
-          "list4": "<p>適合任何肌膚</p><p>3000ppm的藍銅胜肽精華，極致修護深入肌底修復完美膚質，提高肌膚抗老化能力，舒緩修護肌膚使肌膚平滑細緻，加速傷口癒合，修護臉部乾燥，淡化老化細紋，同時維持肌膚彈性及緊緻度，提升水合保濕力，使肌膚呈現水嫩，改善疲態與黯沉 ，全面復活彈潤緊實。</p><p><br></p><p>按摩/拔粉刺/手清粉刺/煥光美塑保濕導入/海洋緊緻膜</p><p><b>全療程純藍銅及維他命E精華原液導入</b></p><p></p>",
+          "list1": "<p>適合任何肌膚</p><p>退紅速度最快 、皆能鎖住水分、修護賦活，持續飽水透亮</p><p><br></p><p>3000ppm的藍銅胜肽精華，極致修護深入肌底修復完美膚質，提高肌膚抗老化能力，舒緩修護肌膚使肌膚平滑細緻，加速傷口癒合，修護臉部乾燥，淡化老化細紋，同時維持肌膚彈性及緊緻度，提升水合保濕力，使肌膚呈現水嫩，改善疲態與黯沉 ，全面復活彈潤緊實。</p><p><br></p><p>（全療程純藍銅及維他命E精華原液導入）</p><p>\n</p>",
+          "list2": "<p>適合任何肌膚</p><p>極強的生理活性來緊緻毛孔，預防皺紋細紋、持續飽水透亮</p><p><br></p><p>六胜肽Gatuline EXPRESSIONS被稱為類肉毒桿菌素，具有抑制神經物質過度釋放、影響皮下神經與肌肉間的傳遞蛋白作用，對於減緩臉部的魚尾紋、法令紋等動態紋路效果最好，預防皺紋細紋，魚子複合萃取精華，結合肌動蛋白的寡肽及墨角藻萃取，三種海洋成份的協同增效，賦予肌膚濃郁的養分，針對皮膚滋養，賦予肌膚濃郁的養分和再生功能。</p><p><b>（全療程純六胜肽魚子原液導入）</b></p>",
+          "list3": "<p>適合任何肌膚</p><p><br></p><p>水膜磁是玻尿酸交聯聚合物，玻尿酸植物性膠原蛋白，適度補充膠原蛋白再表層肌膚加上獨家水膜磁在肌膚上能延展形成補水薄膜，感受由裡到外的水嫩感，為肌膚健康打底，讓皮膚感覺細緻好上妝，並賦予高能量的抗老修護，緊緻皮膚、全面賦活彈潤緊實，能為肌膚達到保濕、緊緻、控油、防禦等多效保養。</p><p><br></p><p><b>（全療程純玻尿酸及水膜磁原液導入）</b><br></p><p></p>",
+          "list4": "<p>適合任何肌膚</p><p><br></p><p>維他命Ｅ可以保護細胞膜免於氧化性傷害以及紫外線的初期傷害還能補充平均皮膚的養分，可防止脂質的過氧化，防止肌膚老化加上洋甘菊護敏舒敏、減少紅腫現象有效防護環境對於肌膚的刺激與傷害。</p><p><br></p><p><b>(全療程純維他命E洋甘菊原液導入)</b></p><p></p>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-1v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<b>[ 任一療程皆可加購黃金軟膜 ]&nbsp;</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#28324e",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-96"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "- 高雄 休修臉 美學 -<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-8e",
+          "_styles": {
+            "P": {
+              "color": "#c0a375",
+              "text-align": "center",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "12px"
+            }
+          }
         }
       ]
     },
