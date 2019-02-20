@@ -70,12 +70,6 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
 }
-.btn {
-  border-radius: 1.6em;
-}
-.mbr-subscribe .btn {
-  border-radius: 1.6em !important;
-}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -700,7 +694,7 @@ h6,
 }
 #ext_menu-3a .link[aria-expanded="true"],
 #ext_menu-3a .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #efefef!important;
 }
 
 
@@ -918,6 +912,9 @@ h6,
 }
 #pricing-table2-1t .mbr-plan-title DIV {
   font-size: 14px;
+}
+#pricing-table2-1t DIV {
+  color: #2969b0;
 }
 #content1-97 DIV {
   color: #28324e;
@@ -2017,7 +2014,7 @@ h6,
 }
 #ext_menu-6m .link[aria-expanded="true"],
 #ext_menu-6m .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
+  color: #efefef!important;
 }
 #header3-6n .mbr-section-title,
 #header3-6n .mbr-section-subtitle {
@@ -2141,7 +2138,7 @@ h6,
 }
 #ext_menu-76 .link[aria-expanded="true"],
 #ext_menu-76 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #efefef!important;
 }
 #footer1-77 P {
   color: #c0a375;
@@ -2232,7 +2229,7 @@ h6,
 }
 #ext_menu-7f .link[aria-expanded="true"],
 #ext_menu-7f .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #efefef!important;
 }
 #footer1-7g P {
   color: #c0a375;
