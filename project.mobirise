@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page20.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1898,7 +1898,7 @@
           "currency2": "單次價$",
           "currency3": "單次價$",
           "currency4": "$",
-          "price1": "1399",
+          "price1": "1499",
           "price2": "1499",
           "price3": "999",
           "price4": "0",
@@ -3005,7 +3005,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#efefef!important"
             }
           },
           "logo": {
@@ -3439,7 +3439,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#efefef!important"
             }
           },
           "logo": {
