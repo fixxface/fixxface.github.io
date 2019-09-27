@@ -14,7 +14,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
 
@@ -2848,8 +2847,8 @@ h6,
 }
 #content1-9u P {
   text-align: center;
-  font-family: 'PT Sans', sans-serif;
-  font-size: 13px;
+  font-family: 'Lora', serif;
+  font-size: 14px;
 }
 #contacts1-9n STRONG {
   color: #28262b;
