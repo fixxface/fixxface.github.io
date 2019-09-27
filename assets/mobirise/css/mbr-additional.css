@@ -14,7 +14,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
@@ -2844,7 +2843,8 @@ h6,
 #msg-box5-9w P {
   font-size: 13px;
   color: #f28281;
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Slabo 27px', serif;
+  text-align: center;
 }
 #content1-9u P {
   text-align: center;

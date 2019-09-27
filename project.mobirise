@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "index.html",
+    "currentPage": "page28.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -7626,7 +7626,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "43",
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -7688,8 +7688,9 @@
             "P": {
               "font-size": "13px",
               "color": "#f28281",
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "text-align": "center"
             }
           }
         },
