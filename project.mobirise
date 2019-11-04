@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 366,
+    "uniqCompNum": 373,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -45,6 +45,37 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-aa",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "16px"
+            }
+          }
+        },
         {
           "_params": {
             "showText": false
@@ -81,7 +112,7 @@
             "paddingBottom": 1,
             "bgColor": "#28324e"
           },
-          "text": "<p>高雄・修羞臉・美學</p><p>IG: fixxface</p>",
+          "text": "<p>IG: fixxface<br></p>",
           "_tags": [
             "Theme"
           ],

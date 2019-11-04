@@ -441,6 +441,10 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#social-buttons1-aa .mbr-section-title {
+  text-align: center;
+  font-size: 16px;
+}
 #image1-a2 P {
   font-family: 'Source Sans Pro', sans-serif;
 }
