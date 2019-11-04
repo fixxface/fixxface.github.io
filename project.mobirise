@@ -1,17 +1,17 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "news.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#efefef",
-        "secondaryColor": "#cccccc",
+        "secondaryColor": "#28324e",
         "successColor": "#a38f84",
         "infoColor": "#f1aaa7",
         "warningColor": "#7e9b9f",
-        "dangerColor": "#faaf40",
+        "dangerColor": "#cccccc",
         "titleFont": "Montserrat",
         "subtitleFont": "Roboto Condensed",
         "textFont": "Montserrat",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 358,
+    "uniqCompNum": 366,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -47,72 +47,68 @@
       "components": [
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "showArrow": true,
-            "imageSize": "53",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/final-04-3-2000x786.png",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "showText": false
           },
           "media": {
             "image": {
               "active": true,
+              "src": "@PROJECT_PATH@/assets/images/final-02-3-1399x777.jpg",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/final-01-1-1400x1363.jpg",
               "link": "",
               "alt": "",
               "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "title": "<span style=\"font-weight: normal;\">高雄．休修臉．美學</span>",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; IG : fixxface &nbsp; &nbsp; &nbsp; &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-timer mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>預約須知 notice</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page28.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; 週年慶活動 &nbsp;</a>         <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-features mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span>臉部服務項目menu&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>韓國角蛋白美睫 &nbsp;</a>   <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-rocket mbr-iconfont mbr-iconfont-btn\"></span>產品簡介 products</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>你一定很想知道 &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;課程教學&nbsp;</a>",
+          "text": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-0",
+          "_name": "image1",
+          "_anchor": "image1-a2",
           "_styles": {
-            ".mbr-section-title": {
-              "font-size": "46px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "text-align": "center"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#efefef",
-              "font-size": "32px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-text": {
-              "text-align": "center",
-              "color": "#efefef"
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e"
+          },
+          "text": "<p>高雄・修羞臉・美學</p><p>IG: fixxface</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-a5",
+          "_styles": {
+            "P": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "text-align": "center",
+              "color": "#cccccc",
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#28324e"
+          },
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 預約須知 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國角蛋白美睫</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">&nbsp; 臉部服務項目&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路商店販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9z"
         },
         {
           "_params": {
@@ -192,7 +188,7 @@
             }
           },
           "title1": "",
-          "subtitle1": "休修臉&nbsp;<div><br></div><div>讓辛苦的妳有一個能放鬆休息、沈澱自我的地方。</div><div><br></div><div>美是一種良性循環</div><div>就像宇宙的時序四季輪替不斷</div><div>無論外在內在</div><div>進一步找回那逝去的風采和自信，適合為了生活努力奮鬥的妳</div><br><div><span style=\"background-color: initial;\">啟動美的良性循環</span><br></div>",
+          "subtitle1": "＿ 休修臉&nbsp;<br><div><br></div><div>美是一種良性循環</div><div>就像宇宙的時序四季輪替不斷</div><div>無論外在內在</div><div>進一步找回那逝去的風采和自信</div><div>適合為了生活努力奮鬥的妳</div><br><div><span style=\"background-color: initial;\">啟動美的良性循環</span><br></div>",
           "caption1": "",
           "title2": "",
           "subtitle2": "<span style=\"font-style: normal;\">高雄市三民區復興一路163號<br>&nbsp;</span>",
@@ -209,8 +205,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/fixface721/\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Facebook</a> <a data-app-btn=\"true\" href=\"https://www.instagram.com/fixxface/\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>&nbsp;Instagram</a> ",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.google.com.tw/maps/place/807%E9%AB%98%E9%9B%84%E5%B8%82%E4%B8%89%E6%B0%91%E5%8D%80%E5%BE%A9%E8%88%88%E4%B8%80%E8%B7%AF163%E8%99%9F/@22.6373449,120.3063387,17z/data=!3m1!4b1!4m5!3m4!1s0x346e04f298bec751:0x6504a8ffb16df279!8m2!3d22.63734!4d120.308522\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>地址maps</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/fixface721/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Facebook</a> <a data-app-btn=\"true\" href=\"https://www.instagram.com/fixxface/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>&nbsp;Instagram</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.google.com.tw/maps/place/807%E9%AB%98%E9%9B%84%E5%B8%82%E4%B8%89%E6%B0%91%E5%8D%80%E5%BE%A9%E8%88%88%E4%B8%80%E8%B7%AF163%E8%99%9F/@22.6373449,120.3063387,17z/data=!3m1!4b1!4m5!3m4!1s0x346e04f298bec751:0x6504a8ffb16df279!8m2!3d22.63734!4d120.308522\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>地址maps</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -230,16 +226,17 @@
             },
             "DIV": {
               "text-align": "left",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#ffffff"
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "color": "#ffffff",
+              "font-size": "12px"
             },
             "H5": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "left",
               "color": "#ffffff",
-              "font-size": "14px"
+              "font-size": "12px"
             },
             "SPAN": {
               "color": "#ffffff"
