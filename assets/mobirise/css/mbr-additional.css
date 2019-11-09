@@ -2765,7 +2765,16 @@ h6,
 
 
 
-
+#msg-box4-al DIV {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+#msg-box4-al H3 {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  color: #232323;
+}
 #ext_menu-9e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2827,26 +2836,6 @@ h6,
 #ext_menu-9e .link[aria-expanded="true"],
 #ext_menu-9e .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
-}
-#header3-9s .mbr-section-title,
-#header3-9s .mbr-section-subtitle {
-  text-align: center;
-}
-#msg-box5-9w DIV {
-  font-family: 'Slabo 27px', serif;
-  font-size: 24px;
-  text-align: center;
-}
-#msg-box5-9w H3 {
-  font-family: 'PT Sans', sans-serif;
-  font-size: 24px;
-  text-align: center;
-}
-#msg-box5-9w P {
-  font-size: 13px;
-  color: #f28281;
-  font-family: 'Slabo 27px', serif;
-  text-align: center;
 }
 #content1-9u P {
   text-align: center;

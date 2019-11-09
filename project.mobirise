@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 373,
+    "uniqCompNum": 382,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -134,7 +134,7 @@
             "paddingBottom": "1",
             "bgColor": "#28324e"
           },
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 預約須知 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國角蛋白美睫</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">  臉部服務項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路商店販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 預約須知 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"page28.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1111 雙十一優惠活動</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國角蛋白美睫</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">  臉部服務項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路商店販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
           "_tags": [
             "Theme"
           ],
@@ -7478,10 +7478,74 @@
     "page28.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "happy3year",
+        "title": "happy1111",
         "order": 1
       },
       "components": [
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "43",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=FtqxDOK_vUc&feature=youtu.be",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<br>慶祝雙11優惠來哩<br>/<br>快閃活動 只有一天&nbsp;",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-al",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center",
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#232323"
+            }
+          }
+        },
         {
           "_inherit": "menu",
           "_params": {
@@ -7579,105 +7643,12 @@
           "_anchor": "ext_menu-9e"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "&nbsp;",
-          "meta": "&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-9s"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "38",
-            "paddingTop": "0",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/s-45580368-1108x1478.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "🎉 &nbsp;1111 快閃活動 &nbsp; 🎉<br>只有一天&nbsp;",
-          "text": "&nbsp; &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-9w",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "24px",
-              "text-align": "center"
-            },
-            "H3": {
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
-              "font-size": "24px",
-              "text-align": "center"
-            },
-            "P": {
-              "font-size": "13px",
-              "color": "#f28281",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "text-align": "center"
-            }
-          }
-        },
-        {
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span></p><p><br></p><p>休修臉雙11將推出快閃活動</p><p>繼週年慶活動後</p><p>2019.11.11</p><p>再來個優惠給大家</p><p>上一波沒有買足沒搶到的～</p><p>趕快跟上嘍</p><p>____</p><p><br></p><p>ෆ 韓國角蛋白 ෆ</p><p>雙人同行一人$1111/一人限購一組</p><p>（使用期限11/12-12/31）</p><p><br></p><p>ෆ 韓國Toray增長液 ෆ</p><p>優惠最後一波</p><p>兩隻$1111</p><p>（限量十組）</p><p><br></p><p>ෆ 藍藻軟膜/黃金嫩白軟膜 ෆ</p><p>單片原價$299</p><p>雙十一價 </p><p>兩片＄222 單片＄111</p><p><br></p><p>ෆ Zuuth如瓷保濕緊緻精華 ෆ</p><p>雙十一元優惠 $1111</p><p>（每人限購一盒）</p><p><br></p><p><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span></p><p><br></p><p>休修臉雙11將推出快閃活動</p><p>繼週年慶活動後</p><p>2019.11.11</p><p>只有一天</p><p>!! &nbsp;sale sale sale !!</p><p>上一波沒有買足沒搶到的～</p><p>趕快跟上嘍</p><p>____</p><p><br></p><p>ෆ 韓國角蛋白 ෆ</p><p>雙人同行一人$1111/一人限購一組</p><p>（使用期限11/12-12/31）</p><p><br></p><p>ෆ 韓國Toray增長液 ෆ</p><p>優惠最後一波</p><p>兩隻$1111</p><p>（限量十組）</p><p><br></p><p>ෆ 藍藻軟膜/黃金嫩白軟膜 ෆ</p><p>單片原價$299</p><p>雙十一價 </p><p>兩片＄222 單片＄111</p><p><br></p><p>ෆ Zuuth如瓷保濕緊緻精華 ෆ</p><p>雙十一元優惠 $1111</p><p>（每人限購一盒）</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
