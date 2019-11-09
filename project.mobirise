@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "index.html",
+    "currentPage": "page28.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -7601,11 +7601,11 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "43",
-            "paddingTop": 0,
+            "imageSize": "38",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -7641,8 +7641,8 @@
               "size": 0
             }
           },
-          "title": "🎉 &nbsp;休修臉 &nbsp;週年慶 活動 &nbsp; 🎉<div>&nbsp; &nbsp;9/27~10/25&nbsp;</div>",
-          "text": "工作室邁入第三年<br>週年慶回饋活動來嘍<br>一連串週年祭活動  等你來參加<br>(一年一度超級大優惠)<br><br>凡其他地區客人<br>商品皆可寄送",
+          "title": "🎉 &nbsp;1111 快閃活動 &nbsp; 🎉<br>只有一天&nbsp;",
+          "text": "&nbsp; &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -7657,8 +7657,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "24px",
               "text-align": "center"
             },
@@ -7677,7 +7677,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span></p><p><br></p><p>週年慶活動 🎉9/27~10/25🎉</p><p><br></p><p>活動期間</p><p><br></p><p>&nbsp;任一臉部保養</p><p>加購黃金軟膜只要$199元（原價399）</p><p>加購藍藻舒緩膜只要$199元（原價399）</p><p><br></p><p>&nbsp;角蛋白療程同時可半價加購 </p><p>深層導入 藍銅活膚（原價650）</p><p><br></p><p>［ 9/27-10/11 ］第一週第二週</p><p><br></p><p>角蛋白卷販售特惠限定&nbsp;</p><p>買五張送一張 (一張＄1380)</p><p>（使用期限9/27-2020.3/1過年前兩週不得使用）</p><p>角蛋白卷使用方式為認卷不認人</p><p>卷要保管好唷了☺️</p><p><br></p><p><br></p><p>［ 10/12-10/25 ］第三週第四週</p><p>預約睫毛加購 限量護理睫毛液 加購價400元</p><p><br></p><p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</p><p><br></p><p><br></p><p>✨囤貨專區✨</p><p><br></p><p>🛒:來來這邊是整個週年祭可以買的!</p><p><br></p><p>一抹愛上的『Zuuth如瓷保濕緊緻精華』💦</p><p>有了它今年春夏就不用擔心膚況走下坡啦</p><p>無論你是敏感 過敏 油性 混合 乾肌 任何膚質都適用</p><p><br></p><p>zuuth保濕緊緻原液 售價$1688</p><p>買單盒活動價 1500 &nbsp; &nbsp;&nbsp;</p><p>買二盒送一盒</p><p>（🉐價值$1688)</p><p>買三盒送一盒 再送五片爆水面膜 </p><p>（🉐價值$2288）</p><p><br></p><p>🛒:</p><p>&nbsp; &nbsp; 限量面膜驚喜價格</p><p><br></p><p>原價單片$120元&nbsp;</p><p>買十片送六片</p><p>&nbsp; &nbsp; 買三十送二十片</p><p><br></p><p>🛒Toray睫毛增長液✨</p><p>&nbsp;（數量有限 售完即將斷貨）</p><p>單隻優惠$750</p><p>（第二支半價）</p><p><br></p><p><br></p><p>#thanksful</p><p>#celebration</p><p>#yearend</p><p>#感恩年終慶</p><p>#漂亮又實用</p><p>#休修臉年終慶</p><p>#感謝祭#買保養品趁這波</p><p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</p><p><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span></p><p><br></p><p>休修臉雙11將推出快閃活動</p><p>繼週年慶活動後</p><p>2019.11.11</p><p>再來個優惠給大家</p><p>上一波沒有買足沒搶到的～</p><p>趕快跟上嘍</p><p>____</p><p><br></p><p>ෆ 韓國角蛋白 ෆ</p><p>雙人同行一人$1111/一人限購一組</p><p>（使用期限11/12-12/31）</p><p><br></p><p>ෆ 韓國Toray增長液 ෆ</p><p>優惠最後一波</p><p>兩隻$1111</p><p>（限量十組）</p><p><br></p><p>ෆ 藍藻軟膜/黃金嫩白軟膜 ෆ</p><p>單片原價$299</p><p>雙十一價 </p><p>兩片＄222 單片＄111</p><p><br></p><p>ෆ Zuuth如瓷保濕緊緻精華 ෆ</p><p>雙十一元優惠 $1111</p><p>（每人限購一盒）</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -7709,30 +7709,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-190927-119-960x1706.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/190927-119-960x1706-800x1421.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-190927-117-828x1472.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/190927-117-828x1472-800x1422.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-190927-116-828x1472.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/190927-116-828x1472-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-190927-121-1108x1478.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/190927-121-1108x1478-800x1067.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -7742,30 +7720,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-190927-115-828x1472.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/190927-115-828x1472-800x1422.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-190927-118-828x1472.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/190927-118-828x1472-800x1422.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-190927-121-1108x1478.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/190927-121-1108x1478-800x1067.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-45539358-1108x1478.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s-45539358-1108x1478-800x1067.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -7782,15 +7738,70 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/s-45539358-1108x1478.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-45539358-1108x1478-800x1067.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2019119-191109-6-1600x710.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019119-191109-6-1600x710-800x355.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2019119-191109-12-1600x710.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019119-191109-12-1600x710-800x355.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2019119-191109-4-800x1067.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019119-191109-4-800x1067-800x1067.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2019119-191109-9-1108x1478.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019119-191109-9-1108x1478-800x1067.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2019119-191109-11-960x1706.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019119-191109-11-960x1706-800x1421.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2019119-191109-8-1108x1478.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019119-191109-8-1108x1478-800x1067.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
