@@ -8642,41 +8642,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/s-78905369-1024x964.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-78905369-1024x964-800x753.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/s-78905370-1024x1012.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/s-78905370-1024x1012-800x790.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/s-34709547-890x1188.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-34709547-890x1188-800x1067.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/20171229-171229-23-1430x1146.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20171229-171229-23-1430x1146-800x641.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-78905369-1024x964.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s-78905369-1024x964-800x753.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
