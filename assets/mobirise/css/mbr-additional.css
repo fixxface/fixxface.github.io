@@ -3160,3 +3160,7 @@ h6,
   font-family: 'Bitter', serif;
   font-size: 12px;
 }
+#header3-bk .mbr-section-title,
+#header3-bk .mbr-section-subtitle {
+  text-align: center;
+}

@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 416,
+    "uniqCompNum": 417,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -8668,6 +8668,26 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-bi"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": "<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-bk"
         }
       ]
     }
