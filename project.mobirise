@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page32.html",
+    "currentPage": "page29.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -7994,7 +7994,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page32.html\" data-toolbar=\"-mbrBtnMove\">療程效果</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">療程Q&amp;A<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page32.html\" data-toolbar=\"-mbrBtnMove\">療程效果</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">療程Q&amp;A<br></a>",
           "_tags": [
             "Theme"
           ],
