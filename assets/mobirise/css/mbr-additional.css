@@ -15,7 +15,6 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 
 
@@ -2736,35 +2735,34 @@ h6,
 #header3-9f .mbr-section-subtitle {
   text-align: center;
   font-size: 13px;
-  color: #28324e;
-  font-family: 'Lato', sans-serif;
+  color: #7c706b;
+  font-family: 'Lora', serif;
 }
 #header3-9f .mbr-section-title P {
   font-size: 20px;
-  font-family: 'Oxygen', sans-serif;
-  color: #c0a375;
+  font-family: 'Droid Serif', serif;
+  color: #222222;
+  text-align: center;
 }
 #header3-9f .mbr-section-subtitle SPAN {
   color: #c0a375;
   font-size: 12px;
+}
+#content1-bl P {
+  text-align: center;
+  font-family: 'Bitter', serif;
+  font-size: 14px;
+}
+#content1-bm P {
+  font-family: 'Bitter', serif;
+  font-size: 13px;
+  text-align: left;
 }
 #footer1-9g P {
   color: #fce794;
   text-align: center;
   font-family: 'Bitter', serif;
   font-size: 12px;
-}
-#msg-box5-9h H3 {
-  color: #c0a375;
-  text-align: center;
-  font-family: 'Arimo', sans-serif;
-  font-size: 20px;
-}
-#msg-box5-9h P {
-  text-align: left;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 15px;
-  color: #28324e;
 }
 #content1-9i P {
   font-family: 'Roboto Slab', serif;
