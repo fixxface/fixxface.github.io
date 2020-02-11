@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page29.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -815,7 +815,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><span style=\"font-size: 1.09rem; font-style: normal;\"><b>［ 預約須知 ］</b></span></p></blockquote><blockquote><span style=\"font-style: normal;\">休修臉一律採取預約制度，因為預約人數比較多，為了保障服務客人的權益，也顧及大家的完美品質，只好更動以下預約規則，如有不便之處敬請見諒。</span></blockquote><blockquote><p><span style=\"font-style: normal;\"><b>［新客人第一次預約］</b></span></p></blockquote><blockquote><span style=\"font-style: normal;\">若需取消或更改時間，請在前一天營業時間或提前內告知，若無告知，當日取消或沒回應沒來，將無法再約下一次預約。</span></blockquote><blockquote><span style=\"font-style: normal;\">(新客無法做當天更改時間，若當日更改則算當日取消，若需更改時間，請在前一天營業時間內告知)</span></blockquote><blockquote><p><span style=\"font-style: normal;\"><b>［已來過本店儲值或包療程客人］</b></span></p></blockquote><blockquote><p><span style=\"font-style: normal;\">若需取消或更改時間，請在前一天營業時間內告知，若超過兩次以上（包含兩次）當日取消，休修臉有權拒絕服務您。</span></p><p><span style=\"font-style: normal;\"><br></span></p></blockquote><blockquote><p><span style=\"font-style: normal;\">當日預約超過15分鐘者，視為遲到</span></p><p><span style=\"font-style: normal;\">（遲到只能選擇減少時間或無法為您服務）</span></p></blockquote><blockquote><span style=\"font-style: normal;\">每次預約我們將為你保留10分鐘，如您未能在保留時間抵達，為了不影響下一位客人的權利與寶貴的時間，這邊有縮短或取消療程的權力。</span></blockquote><blockquote><span style=\"font-style: normal;\">如因故必須取消或重新安排預約時間，請於預約日前一天私訊告知取消，如果未能符合將視為當日取消，如有不便之處敬請見諒。</span></blockquote>",
+          "text": "<blockquote><p><span style=\"font-size: 1.09rem; font-style: normal;\"><b>［ 預約須知 ］</b></span></p></blockquote><blockquote><span style=\"font-style: normal;\">休修臉一律採取預約制度，因為預約人數比較多，為了保障服務客人的權益，也顧及大家的完美品質，只好更動以下預約規則，如有不便之處敬請見諒。</span></blockquote><blockquote><p><span style=\"font-style: normal;\"><b>［新客人第一次預約］</b></span></p></blockquote><blockquote><p><span style=\"font-style: normal;\">若需取消或更改時間，請在前一天營業時間或提前內告知，若無告知，當日取消或沒回應沒來，將無法再約下一次預約。</span></p><p><span style=\"font-style: normal;\"><br></span>(新客無法做當天更改時間，若當日更改則算當日取消，若需更改時間，請在前一天營業時間內告知)</p></blockquote><blockquote><p><span style=\"font-style: normal;\"><b>［已來過本店儲值或包療程客人］</b></span></p></blockquote><blockquote><p><span style=\"font-style: normal;\">若需取消或更改時間，請在前一天營業時間內告知，若超過兩次以上（包含兩次）當日取消，休修臉有權拒絕服務您。</span></p><p><span style=\"font-style: normal;\"><br></span></p></blockquote><blockquote><p><span style=\"font-style: normal;\">為了每個客人的權益 為了不影響下一位客人的權利與寶貴的時間</span></p><p><span style=\"color: rgb(226, 80, 65); font-size: 1.07rem; font-family: &quot;Roboto Condensed&quot;, sans-serif;\">預約只保留10分鐘 預約時間超過 10分鐘未到者</span></p><p><span style=\"font-style: normal;\">視同取消，並改約時間或這邊有縮短或取消療程的權力</span></p><p>（若遲到只能選擇減少時間或無法為您服務）</p></blockquote><blockquote><br></blockquote><blockquote><span style=\"font-style: normal;\">如因故必須取消或重新安排預約時間，請於預約日前一天私訊告知取消，如果未能符合將視為當日取消，如有不便之處敬請見諒。</span></blockquote>",
           "_tags": [
             "Theme"
           ],
