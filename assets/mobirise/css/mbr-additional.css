@@ -16,6 +16,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 
 
 
@@ -3247,6 +3248,19 @@ h6,
 }
 
 
+
+
+#msg-box4-c7 P {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  color: #b8312f;
+}
+#content1-c6 P {
+  text-align: center;
+  font-family: 'Droid Serif', serif;
+  color: #28262b;
+  font-size: 16px;
+}
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3314,6 +3328,15 @@ h6,
   text-align: center;
   font-family: 'Bitter', serif;
   font-size: 12px;
+}
+#features3-bw P {
+  color: #d14841;
+  font-size: 13px;
+  text-align: center;
+}
+#features3-bx P {
+  color: #d14841;
+  font-size: 14px;
 }
 
 

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page34.html",
+    "currentPage": "page33.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 433,
+    "uniqCompNum": 440,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -918,7 +918,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page25.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>休修臉 x 精華原液</p></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page27.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>休修臉 x&nbsp;爆水面膜</p></a>    ",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page25.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>休修臉 x 精華原液</p></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page27.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>休修臉 x&nbsp;爆水面膜</p></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>休修臉 x 醫美原液&nbsp;</p></a>      ",
           "_tags": [
             "Theme"
           ],
@@ -3853,7 +3853,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "<p>&nbsp; &nbsp; Zuuth醫美原液介紹</p>",
+          "title": "<p>醫美原液介紹</p>",
           "meta": "<span style=\"font-style: normal;\">單一功效 就更有效<br>讓你們更了解 這些原液的來源及功效</span>",
           "_tags": [
             "Theme"
@@ -3944,7 +3944,7 @@
             "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": 4,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -3993,7 +3993,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x299.png",
+              "src": "@PROJECT_PATH@/assets/images/%E5%82%B3%E6%98%8E%E9%85%B8-600x299.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4019,13 +4019,13 @@
             }
           },
           "title1": "［ ⬆️ 3000ppm藍銅胜肽精華 ］",
-          "subtitle1": "<span style=\"font-style: normal;\">建議售價＄2200</span><br><span style=\"font-style: normal;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span>",
+          "subtitle1": "<span style=\"font-style: normal;\">建議售價＄2000</span><br><span style=\"font-style: normal;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span>",
           "caption1": "",
           "title2": "［ 1500ppm微導藍銅胜肽精華 ］",
           "subtitle2": "<span style=\"font-style: normal;\">建議售價＄1200</span><br><span style=\"font-style: normal;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span>",
           "caption2": "",
           "title3": "［ 膠原蛋白玻尿酸精華 ］",
-          "subtitle3": "<span style=\"font-style: normal;\">建議售價＄500</span><br><span style=\"font-style: normal;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span>",
+          "subtitle3": "<span style=\"font-style: normal;\">建議售價＄399</span><br><span style=\"font-style: normal;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span>",
           "caption3": "",
           "title4": "［ 3%傳明酸精華 ］",
           "subtitle4": "<span style=\"font-style: normal;\">建議售價＄400</span><br><span style=\"font-style: normal;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span>",
@@ -4079,7 +4079,7 @@
             "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": 4,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -4128,7 +4128,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x569.png",
+              "src": "@PROJECT_PATH@/assets/images/%E7%93%9C%E6%89%AD-600x569.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4154,10 +4154,10 @@
             }
           },
           "title1": "［ 30%胜肽酸煥顏精華 ］",
-          "subtitle1": "<span style=\"font-style: normal;\">建議售價＄2000</span><br><span style=\"font-style: normal;\">______________________________________________________</span>",
+          "subtitle1": "<span style=\"font-style: normal;\">建議售價＄1500</span><br><span style=\"font-style: normal;\">______________________________________________________</span>",
           "caption1": "",
           "title2": "［ 金箔六胜肽魚子精華 ］",
-          "subtitle2": "<span style=\"font-style: normal;\">建議售價＄1000</span><br><span style=\"font-style: normal;\">______________________________________________________</span>",
+          "subtitle2": "<span style=\"font-style: normal;\">建議售價＄699</span><br><span style=\"font-style: normal;\">______________________________________________________</span>",
           "caption2": "",
           "title3": "［ 黃金洋甘菊精華 ］",
           "subtitle3": "<span style=\"font-style: normal;\">建議售價＄300</span><br><span style=\"font-style: normal;\">______________________________________________________</span>",
@@ -8988,6 +8988,89 @@
       },
       "components": [
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "45",
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/e39e7e2f1b49645117884749ff7d4d5b.gif",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p><br>product &nbsp;sale !!!</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-c7",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>母親節最大優惠組合都在這</p><p>&nbsp;-- 囤貨專區 --&nbsp;</p><p>⠀</p><p>🛒 明星商品 保濕緊緻原液最後一批貨</p><p>⠀⠀</p><p><b>套組限量15組</b>售完不補</p><p>1. 一盒原液+一盒爆水面膜 $1888 ⠀</p><p><span style=\"font-size: 1.07rem;\">套組限量15組售完不追加</span><br></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">2.購買三組套組再贈送2片多醣體面膜</span><br></p><p><br></p><p>3. 限量面膜驚喜價格</p><p>獨家爆水炸彈面膜</p><p><span style=\"font-size: 1.07rem;\">原價單片$120</span></p><p>一盒五入優惠$449</p><p>（♡ 買五合贈一盒 ♡ ）</p><p><br></p><p>4.增長液優惠1500</p><p><br></p><p>5. 藍藻補水舒緩軟膜/黃金嫩白軟膜/珍珠玻尿酸保濕軟膜</p><p>單片原價$399 買1送1</p><p><br></p><p>6.多醣體 保溼/美白面膜&nbsp;</p><p>單片原價$299 買1送1</p><p><br></p><p>7.lashthree black</p><p>睫毛修護增長液優惠$1500</p><p><br></p><p>8.潤澤修護膠囊20入</p><p>售價$699元 &nbsp;活動優惠＄500</p><p><br></p><p>9.毛孔零負擔水感亮白隔離霜</p><p>售價$999 活動優惠七折＄749</p><p><br></p><p>10.醫美原液 通通七折</p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-c6",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "color": "#28262b",
+              "font-size": "16px"
+            }
+          }
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -9119,8 +9202,8 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "paddingTop": "4",
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -9197,23 +9280,23 @@
           },
           "title1": "毛孔零負擔水感亮白隔離霜30g",
           "subtitle1": "售價$999元",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "---<br>活動優惠七折＄749<br>",
           "title2": "如瓷保濕緊緻精華原液",
           "subtitle2": "售價$1688元",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "---<br>一盒原液+一盒爆水面膜 $1888 ⠀<br>套組限量15組售完不追加<br><br>購買三組套組<br>再贈送2片多醣體面膜<br>",
           "title3": "潤澤修護膠囊20入",
           "subtitle3": "售價$699元",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "---<br>活動優惠＄500<br>",
           "title4": "爆水炸彈面膜五入<br>",
           "subtitle4": "售價$599元",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "---<br>獨家爆水炸彈面膜<br>原價單片$120<br>一盒五入優惠$449<br>（♡ 買五合贈一盒 ♡ ）<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -9223,7 +9306,14 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-bw"
+          "_anchor": "features3-bw",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "13px",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
@@ -9232,8 +9322,8 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -9283,10 +9373,13 @@
           },
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-7568-600x800.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {
@@ -9307,16 +9400,16 @@
           },
           "title1": "果凍系列面膜",
           "subtitle1": "售價$399元",
-          "caption1": "黃金果凍面膜片<br>珍珠玻尿酸果凍面膜片<br>藍藻舒緩果凍面膜片",
+          "caption1": "---<br>藍藻補水舒緩軟膜/<br>黃金嫩白軟膜/<br>珍珠玻尿酸保濕軟膜<br>活動買1送1<br>",
           "title2": "多醣體保溼/美白面膜<br>",
           "subtitle2": "售價$299元",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "lashthree blacky<br>睫毛修護增長液",
+          "caption2": "---<br>活動買1送1",
+          "title3": "lashthree black<br>睫毛修護增長液",
           "subtitle3": "售價$1580元",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption3": "---<br>活動優惠＄1500",
+          "title4": "薇姬娜私密潔淨慕斯",
+          "subtitle4": "售價$950元",
+          "caption4": "---<br>單瓶九折＄855<br>兩瓶七折＄665",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -9333,7 +9426,13 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-bx"
+          "_anchor": "features3-bx",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "14px"
+            }
+          }
         }
       ]
     },
