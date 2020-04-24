@@ -3766,7 +3766,6 @@ h6,
 
 
 
-
 #ext_menu-d5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3854,8 +3853,8 @@ h6,
   font-size: 12px;
 }
 #msg-box5-d8 H3 {
-  color: #c0a375;
-  text-align: center;
+  color: #000000;
+  text-align: left;
   font-family: 'Arimo', sans-serif;
   font-size: 20px;
 }
@@ -3867,12 +3866,6 @@ h6,
 }
 #content1-d9 P {
   font-family: 'Roboto Slab', serif;
-  font-size: 14px;
-  text-align: left;
-}
-#content7-dc P {
-  color: #28324e;
-  font-family: 'Arimo', sans-serif;
   font-size: 14px;
   text-align: left;
 }
