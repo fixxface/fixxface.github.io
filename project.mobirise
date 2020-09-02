@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page42.html",
+    "currentPage": "page45.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -12085,7 +12085,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fixxface-1080x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s-60178444-1080x1080.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -12742,7 +12742,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fixxface-1-1400x2488.png",
+              "src": "@PROJECT_PATH@/assets/images/s-60178444-1080x1080.jpg",
               "link": "",
               "alt": "",
               "title": ""
