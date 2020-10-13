@@ -171,10 +171,10 @@
             "paddingTop": "1",
             "paddingBottom": "2",
             "columns": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/s-48341002-960x1119.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/s_-48341002-960x1119.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#b86a7b",
             "bgVideoRadio": false,
             "bgVideo": {
