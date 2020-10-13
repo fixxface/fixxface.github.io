@@ -509,7 +509,7 @@ h6,
 #header3-1c .mbr-section-title {
   color: #c0a375;
   font-size: 30px;
-  font-family: 'Bitter', serif;
+  font-family: 'Lora', serif;
 }
 #features1-18 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #28324e;
@@ -723,6 +723,7 @@ h6,
 
 
 
+
 #pricing-table2-1v .mbr-plan-header,
 #pricing-table2-1v .mbr-plan-body {
   background-color: #f4f4f4;
@@ -784,6 +785,7 @@ h6,
   text-align: center;
   color: #000000;
   font-size: 14px;
+  font-family: 'Bitter', serif;
 }
 #pricing-table2-1v B {
   color: #847272;
@@ -803,6 +805,9 @@ h6,
 }
 #pricing-table2-1v .mbr-section__container .mbr-section-subtitle {
   font-family: 'Bitter', serif;
+}
+#pricing-table2-1v .mbr-section__container .mbr-section-subtitle P {
+  font-size: 14px;
 }
 #content1-96 DIV {
   color: #28324e;
