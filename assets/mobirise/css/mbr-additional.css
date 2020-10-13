@@ -3579,19 +3579,19 @@ h6,
 }
 #ext_menu-ci .link[aria-expanded="true"],
 #ext_menu-ci .dropdown-menu {
-  background: #0e0e0e;
+  background: #307193;
 }
 #ext_menu-ci .nav-dropdown-sm .link:focus,
 #ext_menu-ci .nav-dropdown-sm .link:hover,
 #ext_menu-ci .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-ci .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #3985ad!important;
 }
 #ext_menu-ci .navbar,
 #ext_menu-ci .nav-dropdown-sm,
 #ext_menu-ci .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-ci .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #3d8eb9;
 }
 #ext_menu-ci .bg-color.transparent .link {
   color: #ffffff;
