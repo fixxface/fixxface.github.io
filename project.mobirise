@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "index.html",
+    "currentPage": "page28.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -7714,8 +7714,8 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "45",
-            "paddingTop": "2",
+            "imageSize": "46",
+            "paddingTop": "3",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
