@@ -31,8 +31,12 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 544,
-    "versionPublish": "4.3.2"
+    "uniqCompNum": 553,
+    "versionPublish": "5.2.0",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -154,7 +158,7 @@
             "paddingBottom": "1",
             "bgColor": "#b86a7b"
           },
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 預約須知 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page42.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9/3-10/3 周年慶活動<br>Happy 4th anniversary<br></a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page29.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家膠蛋白逆齡童顏療程</a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國角蛋白美睫</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">  臉部服務項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路產品販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 預約須知 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"page28.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>1111 exclusive sale !!!</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page29.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家膠蛋白逆齡童顏療程</a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國角蛋白美睫</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">  臉部服務項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路產品販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
           "_tags": [
             "Theme"
           ],
@@ -208,7 +212,7 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -216,7 +220,7 @@
           },
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -224,7 +228,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -232,7 +236,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -444,7 +448,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "menu",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -499,7 +503,7 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/table.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -507,7 +511,7 @@
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -515,7 +519,7 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -523,7 +527,7 @@
           },
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -531,7 +535,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -539,7 +543,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -658,7 +662,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "news",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -885,7 +889,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -1047,7 +1051,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "2",
-        "order": 42
+        "order": 44
       },
       "components": [
         {
@@ -1267,7 +1271,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "5",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -1471,7 +1475,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "1",
-        "order": 43
+        "order": 45
       },
       "components": [
         {
@@ -1670,7 +1674,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "3",
-        "order": 41
+        "order": 43
       },
       "components": [
         {
@@ -1791,7 +1795,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "4",
-        "order": 40
+        "order": 42
       },
       "components": [
         {
@@ -1921,7 +1925,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products1",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -2133,7 +2137,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products2",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -2322,7 +2326,7 @@
           },
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2330,7 +2334,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2338,7 +2342,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2431,7 +2435,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-1",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -2887,7 +2891,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-2",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -3320,7 +3324,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-3",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -3754,7 +3758,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro1-1",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -4029,7 +4033,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4037,7 +4041,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4164,7 +4168,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4172,7 +4176,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4261,7 +4265,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 17",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -4717,7 +4721,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -4861,7 +4865,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know1",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -5272,7 +5276,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "eyelash",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -5492,7 +5496,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "eyelash-1",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -5749,7 +5753,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -5862,7 +5866,7 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -5870,7 +5874,7 @@
           },
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -5878,7 +5882,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -5886,7 +5890,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -6024,7 +6028,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "eyelashq&amp;a",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -6221,7 +6225,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 24",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -6372,7 +6376,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pronew",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -6560,7 +6564,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "src": "https://youtu.be/heMPn2qgdTs",
@@ -6690,7 +6694,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -6698,7 +6702,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -6818,7 +6822,7 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -6837,7 +6841,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -6845,7 +6849,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -6887,7 +6891,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -7107,7 +7111,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask1",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -7313,7 +7317,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -7321,7 +7325,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -7468,7 +7472,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -7476,7 +7480,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -7605,7 +7609,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "happy1111",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -7710,8 +7714,8 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "50",
-            "paddingTop": "4",
+            "imageSize": "45",
+            "paddingTop": "2",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -7730,10 +7734,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/s-47292736-960x1707.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-99-742x742.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -7747,7 +7752,7 @@
               "size": 0
             }
           },
-          "title": "<div><br></div><div>慶祝雙11優惠來哩</div>",
+          "title": "<div><br></div><div>202011.11 活動優惠來哩</div>",
           "text": "光棍節不孤單 <br>休修臉陪你過<br>快閃活動 只有一天 ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
@@ -7758,13 +7763,18 @@
           "_styles": {
             "DIV": {
               "text-align": "center",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "22px",
               "color": "#a38f84"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "H3": {
+              "color": "#3d8eb9"
             }
           }
         },
@@ -7774,7 +7784,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span></p><p><br></p><p>休修臉雙11將推出快閃活動</p><p>繼週年慶活動後</p><p>2019.11.11</p><p>只有一天</p><p>!! &nbsp;sale sale sale !!</p><p>上一波沒有買足沒搶到的～</p><p>趕快跟上嘍</p><p>____</p><p><br></p><p>ෆ 韓國角蛋白 ෆ</p><p>雙人同行一人$1111/一人限購一組</p><p>（使用期限11/12-12/31）</p><p><br></p><p>ෆ 韓國Toray增長液 ෆ</p><p>優惠最後一波</p><p>兩隻$1111</p><p>（限量十組）</p><p><br></p><p>ෆ 藍藻軟膜/黃金嫩白軟膜 ෆ</p><p>單片原價$299</p><p>雙十一價 </p><p>兩片＄222 單片＄111</p><p><br></p><p>ෆ Zuuth如瓷保濕緊緻精華 ෆ</p><p>雙十一優惠 $1111</p><p>（每人限購一盒）</p><p><br></p><p><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ˇ</span></p><p><br></p><p>休修臉雙11將推出快閃活動</p><p>繼週年慶活動後</p><p>2020.11.11</p><p>只有一天</p><p>!! &nbsp;sale sale sale !!</p><p>上一波週年慶沒有買足沒搶到的～</p><p>趕快跟上嘍</p><p>____</p><p><br></p><p>ෆ 韓國角蛋白 ෆ</p><p><br></p><p>雙人同行一人$1111/一人限購一組</p><p>（使用期限11/12-12/31，不用同人使用）</p><p><br></p><p>ෆ 韓國lashtreeblack 眉睫增長液ෆ</p><p><br></p><p>售價$1580</p><p>單隻優惠$1111</p><p>（限量十組）</p><p><br></p><p>ෆ 藍藻軟膜/黃金嫩白軟膜/珍珠玻尿酸保濕軟膜 ෆ</p><p><br></p><p>單片原價$399</p><p>雙十一價 買一送一</p><p><br></p><p>ෆ 爆水面膜water bomb mask ෆ</p><p><br></p><p>原價單盒$599(五入)</p><p>雙十一優惠 兩盒$1111</p><p>再贈送兩片有機玫瑰美白面膜<br></p><p>（每人限購三組）</p><p><br></p><p>ෆ 修復潤澤膠囊 ෆ</p><p>售價$699元 活動優惠兩組＄1099</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -7791,124 +7801,272 @@
         },
         {
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": 0,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#FFFFFF",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-190927-121-1108x1478.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/190927-121-1108x1478-800x1067.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/s-45539358-1108x1478.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-45539358-1108x1478-800x1067.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-190927-120-1108x1478.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/190927-120-1108x1478-800x1067.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2019119-191109-6-1600x710.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2019119-191109-6-1600x710-800x355.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2019119-191109-12-1600x710.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2019119-191109-12-1600x710-800x355.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2019119-191109-4-800x1067.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2019119-191109-4-800x1067-800x1067.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2019119-191109-9-1108x1478.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2019119-191109-9-1108x1478-800x1067.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2019119-191109-11-960x1706.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2019119-191109-11-960x1706-800x1421.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2019119-191109-8-1108x1478.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2019119-191109-8-1108x1478-800x1067.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "articleLayout": false,
-          "allItem": "All",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/7835e790a64c8c4f17d9ba409f402ed3-1-564x1128.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-13-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-7418-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-12-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "ෆ 韓國角蛋白 ෆ",
+          "subtitle1": "&nbsp;&nbsp;",
+          "caption1": "雙人同行一人$1111/一人限購一組<br>（使用期限11/12-12/31，不用同人使用）",
+          "title2": "ෆ 韓國lashtreeblack ෆ",
+          "subtitle2": "&nbsp;",
+          "caption2": "售價$1580<br>單隻優惠$1111（限量十組）",
+          "title3": "ෆ 藍藻軟膜/黃金嫩白軟膜/珍珠玻尿酸保濕軟膜 ෆ",
+          "subtitle3": "&nbsp;",
+          "caption3": "單片原價$399<br>雙十一價&nbsp; 買一送一",
+          "title4": "ෆ 爆水面膜water bomb mask ෆ<div><br></div>",
+          "subtitle4": "&nbsp;",
+          "caption4": "原價單盒$599(五入)<br><br>雙十一優惠 兩盒$1111<br>再贈送兩片有機玫瑰美白面膜<br><br>（每人限購三組）",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-9x"
+          "_name": "features3",
+          "_anchor": "features3-f9",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/s-62784049-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1612x1080.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "ෆ 修復潤澤膠囊 ෆ",
+          "subtitle1": "&nbsp; &nbsp;",
+          "caption1": "售價$699元 活動優惠兩組＄1099",
+          "title2": "&nbsp;",
+          "subtitle2": "&nbsp;",
+          "caption2": "&nbsp;&nbsp;",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-fa"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title P": {
+              "font-size": "22px"
+            },
+            ".lead P": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<p>如果您想購買：）</p><p>請私訊官方LINE/IG訂購&nbsp;</p>",
+          "text": "<p><br></p><p>If you want to buy, you can contact us</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">here!<br></a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-fc"
         },
         {
           "_params": {
@@ -7993,7 +8151,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "vvv",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -8210,7 +8368,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 30",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -8315,7 +8473,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "vqa",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -8518,7 +8676,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "vphoto",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -8808,7 +8966,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "mothersactivities",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -9009,7 +9167,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Page 34",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -9289,7 +9447,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -9297,7 +9455,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -9409,7 +9567,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -9417,7 +9575,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -9465,7 +9623,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Page 35",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -9666,7 +9824,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "spf15",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -10001,7 +10159,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -10009,7 +10167,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -10051,7 +10209,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "lasftreeblack",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -10385,7 +10543,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -10393,7 +10551,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -10489,7 +10647,7 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -10508,7 +10666,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -10516,7 +10674,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -10558,7 +10716,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -10892,7 +11050,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -10900,7 +11058,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -11007,7 +11165,7 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -11026,7 +11184,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -11034,7 +11192,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -11095,7 +11253,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 39",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -11366,7 +11524,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Page 40",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -11406,8 +11564,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
@@ -11417,8 +11575,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11427,8 +11585,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11437,8 +11595,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11447,8 +11605,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11457,8 +11615,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/table.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11467,8 +11625,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11477,8 +11635,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               }
@@ -11683,8 +11841,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
@@ -11694,8 +11852,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11704,8 +11862,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11714,8 +11872,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11724,8 +11882,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11734,8 +11892,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/table.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11744,8 +11902,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11754,8 +11912,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               }
@@ -11787,8 +11945,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
@@ -11798,8 +11956,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11808,8 +11966,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11818,8 +11976,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11828,8 +11986,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11838,8 +11996,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/table.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11848,8 +12006,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               },
@@ -11858,8 +12016,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
                 "alt": "",
                 "caption": "Type caption here"
               }
@@ -11879,7 +12037,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Page 41",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -11965,7 +12123,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -12166,7 +12324,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary product",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -12446,7 +12604,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -12454,7 +12612,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -12566,7 +12724,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -12574,7 +12732,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -12622,7 +12780,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Page 45",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -12823,7 +12981,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "class00",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -13142,6 +13300,322 @@
             }
           },
           "_anchor": "footer1-ez"
+        }
+      ]
+    },
+    "page46.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "sdddd",
+        "order": 41
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">———————</span><br>背部保養<br><span style=\"font-weight: normal;\">———————</span>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-f4"
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "H4": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#c0a375"
+            }
+          },
+          "title1": "背部抗痘舒緩",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<br>單次價$ 1599<br><br>",
+          "title2": "背部深層淨白",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<br>單次價$ 1599<br><br>",
+          "title3": "腿部淨白",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<br>單次價$ 1200<br>［ 療程買五送一 ］",
+          "title4": "全身淨白",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "<br>單次價$ 2999<br>［ 療程買五送一 ］",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-f5"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "23px",
+              "text-align": "center",
+              "color": "#c0a375"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "color": "#28262b"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "——————<br>：附加項目：<br>&nbsp;——————",
+          "meta": "<br><span style=\"font-style: normal;\">&nbsp;雙手嫩白＄500</span><br><span style=\"font-style: normal;\">手背淨白&nbsp;＄300</span><br><span style=\"font-style: normal;\">腳背淨白&nbsp;＄300</span><br><span style=\"font-style: normal;\">&nbsp;胸前淨白&nbsp;＄500<br></span><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-f6"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-f7"
+        }
+      ]
+    },
+    "page47.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Page 47",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRICING TABLE",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "title1": "STANDARD",
+          "title2": "BUSINESS",
+          "title3": "PREMIUM",
+          "title4": "ULTIMATE",
+          "subtitle1": "Description",
+          "subtitle2": "Description",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "0",
+          "price2": "0",
+          "price3": "0",
+          "price4": "0",
+          "period1": "/mo.",
+          "period2": "/mo.",
+          "period3": "/mo.",
+          "period4": "/mo.",
+          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-f8"
         }
       ]
     }

@@ -3,18 +3,20 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 
@@ -440,7 +442,50 @@ h6,
   color: #efefef;
 }
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
+}
+.form-control {
+  padding: 0.9rem;
+}
+.align-center {
+  text-align: center;
+}
+.col,
+.col-12,
+.col-auto {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.col {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+}
+.col-auto {
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  width: auto;
+  max-width: none;
+}
+form a.btn {
+  margin: 0;
+}
+.mx-auto {
+  margin: 0 auto;
+}
+section.custom-form .container,
+section.form .container {
+  display: flex;
+}
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
 }
 #header3-e5 .mbr-section-title,
 #header3-e5 .mbr-section-subtitle {
@@ -2789,6 +2834,7 @@ h6,
 
 
 
+
 #ext_menu-9e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2853,16 +2899,36 @@ h6,
 }
 #msg-box5-am DIV {
   text-align: center;
-  font-family: 'Droid Serif', serif;
+  font-family: 'Slabo 27px', serif;
   font-size: 22px;
   color: #a38f84;
 }
 #msg-box5-am P {
   text-align: center;
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box5-am H3 {
+  color: #3d8eb9;
 }
 #content1-9u P {
   text-align: center;
   font-family: 'Lora', serif;
+  font-size: 14px;
+}
+#features3-f9 P {
+  font-size: 14px;
+}
+#msg-box3-fc .mbr-section-title,
+#msg-box3-fc .lead {
+  color: #000;
+}
+#msg-box3-fc .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box3-fc .mbr-section-title P {
+  font-size: 22px;
+}
+#msg-box3-fc .lead P {
   font-size: 14px;
 }
 #contacts1-9n STRONG {
@@ -4325,4 +4391,50 @@ h6,
   text-align: center;
   font-family: 'Bitter', serif;
   font-size: 12px;
+}
+
+
+
+#header3-f4 .mbr-section-title,
+#header3-f4 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-f4 .mbr-section-title {
+  text-align: center;
+  font-family: 'Bitter', serif;
+  font-size: 36px;
+}
+#features7-f5 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-f5 .iconbox {
+  background-color: #efefef;
+  border-color: #efefef;
+}
+#features7-f5 H4 {
+  font-family: 'Bitter', serif;
+  color: #c0a375;
+}
+#header3-f6 .mbr-section-title,
+#header3-f6 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-f6 .mbr-section-title {
+  font-family: 'Bitter', serif;
+  font-size: 23px;
+  text-align: center;
+  color: #c0a375;
+}
+#header3-f6 .mbr-section-subtitle {
+  text-align: center;
+  color: #000000;
+}
+#header3-f6 .mbr-section-subtitle SPAN {
+  color: #28262b;
+}
+#pricing-table1-f8 .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-f8 .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
 }
