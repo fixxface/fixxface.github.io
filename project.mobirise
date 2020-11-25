@@ -187,8 +187,8 @@
             }
           },
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/2-1920x1080.png",
             "parallax": true,
