@@ -552,19 +552,19 @@ section.form .container {
 }
 #menu-g4 .link[aria-expanded="true"],
 #menu-g4 .dropdown-menu {
-  background: #737373;
+  background: #e6e6e6;
 }
 #menu-g4 .nav-dropdown-sm .link:focus,
 #menu-g4 .nav-dropdown-sm .link:hover,
 #menu-g4 .nav-dropdown-sm .dropdown-item:focus,
 #menu-g4 .nav-dropdown-sm .dropdown-item:hover {
-  background: #848484!important;
+  background: #f7f7f7!important;
 }
 #menu-g4 .navbar,
 #menu-g4 .nav-dropdown-sm,
 #menu-g4 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-g4 .nav-dropdown-sm .dropdown-menu {
-  background: #8c8c8c;
+  background: #ffffff;
 }
 #menu-g4 .bg-color.transparent .link {
   color: #000000;
