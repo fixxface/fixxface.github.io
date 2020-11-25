@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 591,
+    "uniqCompNum": 594,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -57,26 +57,6 @@
         "html_before": ""
       },
       "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "&nbsp;",
-          "meta": "&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-e5"
-        },
         {
           "_params": {
             "paddingTop": "1",
@@ -337,7 +317,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -346,7 +326,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -670,7 +650,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -679,7 +659,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -912,7 +892,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -921,7 +901,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -1266,7 +1246,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -1275,7 +1255,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -1574,7 +1554,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -1583,7 +1563,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -1866,7 +1846,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -1875,7 +1855,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -2153,7 +2133,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -2162,7 +2142,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -2362,7 +2342,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -2371,7 +2351,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -2580,7 +2560,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -2589,7 +2569,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -2880,7 +2860,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -2889,7 +2869,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -3266,7 +3246,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -3275,7 +3255,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -3810,7 +3790,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -3819,7 +3799,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -4331,7 +4311,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -4340,7 +4320,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -4853,7 +4833,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -4862,7 +4842,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -5448,7 +5428,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -5457,7 +5437,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -5992,7 +5972,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -6001,7 +5981,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -6224,7 +6204,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -6233,7 +6213,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -6723,7 +6703,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -6732,7 +6712,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -7031,7 +7011,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -7040,7 +7020,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -7373,7 +7353,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -7382,7 +7362,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -7739,7 +7719,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -7748,7 +7728,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -8024,7 +8004,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -8033,7 +8013,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -8263,7 +8243,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -8272,7 +8252,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -8866,7 +8846,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -8875,7 +8855,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -9174,7 +9154,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -9183,7 +9163,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -9760,7 +9740,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -9769,7 +9749,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -10236,7 +10216,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -10245,7 +10225,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -10541,7 +10521,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -10550,7 +10530,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -10734,7 +10714,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -10743,7 +10723,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -11025,7 +11005,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -11034,7 +11014,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -11403,7 +11383,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -11412,7 +11392,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -11692,7 +11672,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -11701,7 +11681,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -12236,7 +12216,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -12245,7 +12225,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -12525,7 +12505,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -12534,7 +12514,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -12998,7 +12978,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -13007,7 +12987,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -13593,7 +13573,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -13602,7 +13582,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -14218,7 +14198,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -14227,7 +14207,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -14577,7 +14557,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -14586,7 +14566,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -15178,7 +15158,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -15187,7 +15167,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -15352,7 +15332,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -15361,7 +15341,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -15641,7 +15621,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -15650,7 +15630,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -16185,7 +16165,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -16194,7 +16174,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -16474,7 +16454,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -16483,7 +16463,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -16888,7 +16868,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -16897,7 +16877,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -17140,7 +17120,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -17149,7 +17129,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -17314,7 +17294,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -17323,7 +17303,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -17488,7 +17468,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -17497,7 +17477,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",
@@ -17662,7 +17642,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#8c8c8c",
@@ -17671,7 +17651,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"products.html\" aria-expanded=\"false\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"news.html\" aria-expanded=\"false\" target=\"_blank\">預約須知 ❍<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">關於我們 ✹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  ◒<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"#\" aria-expanded=\"true\">產品販售 ☁<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-84571-127x128.jpg",

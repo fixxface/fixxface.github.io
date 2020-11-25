@@ -484,10 +484,6 @@ section.form .container {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
-#header3-e5 .mbr-section-title,
-#header3-e5 .mbr-section-subtitle {
-  text-align: center;
-}
 #social-buttons1-aa .mbr-section-title {
   text-align: center;
   font-size: 16px;
