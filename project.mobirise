@@ -168,7 +168,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#8c8c8c"
+            "bgColor": "#c1c1c1"
           },
           "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 預約須知 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page42.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9/3-10/3 周年慶活動<br>Happy 4th anniversary<br></a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page29.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家膠蛋白逆齡童顏療程</a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國角蛋白美睫</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">  臉部服務項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路產品販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
           "_tags": [
@@ -180,7 +180,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -248,7 +248,7 @@
             "overlayOpacity": 0.5
           },
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fixxface/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/fixface721\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fixxface/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
           ],
@@ -7612,7 +7612,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -10109,7 +10109,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -10414,7 +10414,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -15225,7 +15225,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -16761,7 +16761,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -17187,7 +17187,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -17361,7 +17361,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -17535,7 +17535,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
