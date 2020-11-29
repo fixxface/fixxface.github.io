@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page47.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 602,
+    "uniqCompNum": 612,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -164,7 +164,7 @@
             "paddingBottom": "1",
             "bgColor": "#222222"
           },
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 預約須知 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page42.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9/3-10/3 周年慶活動<br>Happy 4th anniversary<br></a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page29.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家膠蛋白逆齡童顏療程</a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國角蛋白美睫</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">  臉部服務項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路產品販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 預約須知 &nbsp; &nbsp;</a>    <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國角蛋白美睫</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">  臉部服務項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路產品販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
           "_tags": [
             "Theme"
           ],
@@ -329,7 +329,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "menu",
-        "order": 43
+        "order": 40
       },
       "components": [
         {
@@ -663,7 +663,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "news",
-        "order": 42
+        "order": 39
       },
       "components": [
         {
@@ -1010,7 +1010,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products",
-        "order": 28
+        "order": 25
       },
       "components": [
         {
@@ -1026,7 +1026,7 @@
             "bgColor": "#fff"
           },
           "title": "",
-          "meta": "&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;",
+          "meta": "&nbsp;<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -1040,11 +1040,12 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q1-1-1400x437.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1280x1920.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -1261,7 +1262,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "2",
-        "order": 47
+        "order": 44
       },
       "components": [
         {
@@ -1583,7 +1584,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "5",
-        "order": 44
+        "order": 41
       },
       "components": [
         {
@@ -1889,7 +1890,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "1",
-        "order": 48
+        "order": 45
       },
       "components": [
         {
@@ -2190,7 +2191,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "3",
-        "order": 46
+        "order": 43
       },
       "components": [
         {
@@ -2400,7 +2401,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "4",
-        "order": 45
+        "order": 42
       },
       "components": [
         {
@@ -2632,7 +2633,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products1",
-        "order": 29
+        "order": 26
       },
       "components": [
         {
@@ -2933,7 +2934,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products2",
-        "order": 37
+        "order": 34
       },
       "components": [
         {
@@ -3320,7 +3321,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-1",
-        "order": 38
+        "order": 35
       },
       "components": [
         {
@@ -3865,7 +3866,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-2",
-        "order": 40
+        "order": 37
       },
       "components": [
         {
@@ -4387,7 +4388,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-3",
-        "order": 41
+        "order": 38
       },
       "components": [
         {
@@ -4910,7 +4911,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro1-1",
-        "order": 30
+        "order": 27
       },
       "components": [
         {
@@ -5506,7 +5507,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 17",
-        "order": 39
+        "order": 36
       },
       "components": [
         {
@@ -6051,7 +6052,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know",
-        "order": 26
+        "order": 23
       },
       "components": [
         {
@@ -6284,7 +6285,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know1",
-        "order": 27
+        "order": 24
       },
       "components": [
         {
@@ -6784,7 +6785,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "eyelash",
-        "order": 24
+        "order": 19
       },
       "components": [
         {
@@ -7093,7 +7094,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "eyelash-1",
-        "order": 23
+        "order": 17
       },
       "components": [
         {
@@ -7439,7 +7440,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 22
+        "order": 16
       },
       "components": [
         {
@@ -7755,7 +7756,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "eyelashq&amp;a",
-        "order": 21
+        "order": 18
       },
       "components": [
         {
@@ -8041,7 +8042,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 24",
-        "order": 18
+        "order": 12
       },
       "components": [
         {
@@ -8281,7 +8282,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pronew",
-        "order": 31
+        "order": 28
       },
       "components": [
         {
@@ -8885,7 +8886,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class",
-        "order": 25
+        "order": 21
       },
       "components": [
         {
@@ -9194,7 +9195,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask1",
-        "order": 36
+        "order": 33
       },
       "components": [
         {
@@ -9781,7 +9782,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "happy1111",
-        "order": 17
+        "order": 8
       },
       "components": [
         {
@@ -10210,7 +10211,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "vvv",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -10481,7 +10482,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "vqa",
-        "order": 19
+        "order": 14
       },
       "components": [
         {
@@ -10773,7 +10774,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "vphoto",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -11152,7 +11153,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "mothersactivities",
-        "order": 8
+        "order": 5
       },
       "components": [
         {
@@ -11441,8 +11442,8 @@
     "page34.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Page 34",
-        "order": 11
+        "title": "Mother's Day activities",
+        "order": 10
       },
       "components": [
         {
@@ -11986,8 +11987,8 @@
     "page35.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Page 35",
-        "order": 13
+        "title": "Mother's Day activities",
+        "order": 11
       },
       "components": [
         {
@@ -12277,7 +12278,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "spf15",
-        "order": 35
+        "order": 32
       },
       "components": [
         {
@@ -12751,7 +12752,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "lasftreeblack",
-        "order": 34
+        "order": 31
       },
       "components": [
         {
@@ -13347,7 +13348,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask",
-        "order": 33
+        "order": 30
       },
       "components": [
         {
@@ -13973,7 +13974,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 39",
-        "order": 32
+        "order": 29
       },
       "components": [
         {
@@ -14333,7 +14334,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary",
-        "order": 9
+        "order": 7
       },
       "components": [
         {
@@ -14623,7 +14624,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary product",
-        "order": 12
+        "order": 6
       },
       "components": [
         {
@@ -15167,8 +15168,8 @@
     "page45.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Page 45",
-        "order": 10
+        "title": "Happy 4th anniversary",
+        "order": 9
       },
       "components": [
         {
@@ -15458,7 +15459,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "class00",
-        "order": 6
+        "order": 22
       },
       "components": [
         {
@@ -15694,7 +15695,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\">眉毛塑形教學</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\">角蛋白睫毛教學<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page46.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">眉毛塑形教學</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\">角蛋白睫毛教學<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -15824,8 +15825,8 @@
     "page47.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
-        "title": "Page 47",
-        "order": 5
+        "title": "welcome to fixxface",
+        "order": 4
       },
       "components": [
         {
@@ -16077,8 +16078,8 @@
     "page48.html": {
       "settings": {
         "meta_descr": "Web Page Maker Description",
-        "title": "Page 48",
-        "order": 4
+        "title": "Nanosonic speed\nTechnology Beauty",
+        "order": 3
       },
       "components": [
         {
@@ -16109,6 +16110,168 @@
             }
           },
           "_anchor": "footer1-fm"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-gs"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-gt"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/7-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-gv"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/6-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-gu"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-gr"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-1-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-gq"
         },
         {
           "_styles": {
@@ -16205,7 +16368,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Page 49",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -16332,7 +16495,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 50",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -16452,6 +16615,314 @@
           ],
           "_name": "menu",
           "_anchor": "menu-g4"
+        }
+      ]
+    },
+    "page46.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "class eyebrow",
+        "order": 20
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": "&nbsp; &nbsp;<br>&nbsp;<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-gw"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#3d8eb9",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#307193"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3985ad!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3d8eb9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zuuth-181x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "speed",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-gx"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#282828",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-gy"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/20171229-171229-0015-640x479.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "眉毛塑形 課程 𝗯𝗿𝗼𝘄𝗹𝗶𝗳𝘁“🖤&nbsp;",
+          "text": "<br>一對一教授<br>課後即時上手做客<br>零失敗紀錄，讓你有充分學習時間<br>💯學會快速上手，只需要一堂<br>課後遇到眉毛相關問題都可詢問<br><br><br>🏷️𝗢𝗻𝗲 𝗱𝗮𝘆 𝗰𝗹𝗮𝘀𝘀<br>𝗙𝗶𝘅𝘅𝗳𝗮𝗰𝗲 𝗯𝗿𝗼𝘄𝗹𝗶𝗳𝘁“🖤<br>（眉毛塑型課程）<br><br><br>1名模特示範<br>1名模特操作（需自備模特兒）<br><br>𝗣𝗮𝗿𝘁 𝟭.基本理論 <br>𝗣𝗮𝗿𝘁 𝟮.眉毛理論 眉毛設計<br>𝗣𝗮𝗿𝘁 𝟯.手術方法產品使用方式<br>𝗣𝗮𝗿𝘁 𝟰.影片講解<br>𝗣𝗮𝗿𝘁 𝟱.實際操作<br>𝗣𝗮𝗿𝘁 𝟲.術後管理<br><br>*基本服務操作工具<br>*可以操作20-25位客人的材料<br>*某些副材料可以使用更多人數<br>*材料工具盒<br><br>報名課程需先支付訂金<br>（請於3日內匯款）<br>讓妳收穫滿滿開心下課<br><br>✎鄭重呼籲<br>目前坊間有很多不明來歷且自稱「眉毛塑型」之產品，請大家提高警覺一分錢一分貨，本所無法與來路不明產品或廉價贋品相提並論<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程費用私訊官方line</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "21px",
+              "text-align": "left",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            "P": {
+              "font-size": "13px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-gz"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu"
         }
       ]
     }
