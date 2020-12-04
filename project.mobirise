@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 623,
+    "uniqCompNum": 626,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -164,7 +164,7 @@
             "paddingBottom": "1",
             "bgColor": "#222222"
           },
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家超流體奈米美學科技<br>new!!!<br></a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 預約須知 &nbsp; &nbsp;</a>    <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務療程及項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路產品販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家超流體奈米美學科技<br>new!!!<br></a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 預約須知 &nbsp; &nbsp;</a>    <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務療程及項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路產品販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
           "_tags": [
             "Theme"
           ],
@@ -16984,7 +16984,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "menu"
+          "_name": "menu",
+          "_anchor": "menu-hb"
         }
       ]
     },
@@ -17223,7 +17224,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "menu"
+          "_name": "menu",
+          "_anchor": "menu-hc"
         }
       ]
     },
@@ -17646,7 +17648,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "menu"
+          "_name": "menu",
+          "_anchor": "menu-hd"
         }
       ]
     }
