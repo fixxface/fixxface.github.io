@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page52.html",
+    "currentPage": "page51.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 619,
+    "uniqCompNum": 622,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -16078,10 +16078,64 @@
     "page48.html": {
       "settings": {
         "meta_descr": "Web Page Maker Description",
-        "title": "Nanosonic speed\nTechnology Beauty",
+        "title": "Technology Beauty",
         "order": 3
       },
       "components": [
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-1-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-gq"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-gr"
+        },
         {
           "_params": {
             "paddingTop": "1",
@@ -16110,6 +16164,33 @@
             }
           },
           "_anchor": "footer1-fm"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cream-and-white-new-fashion-collection-presentation-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-h8"
         },
         {
           "_params": {
@@ -16196,7 +16277,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "media": {
@@ -16218,60 +16299,6 @@
           ],
           "_name": "image2",
           "_anchor": "image2-gu"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2-1400x788.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-gr"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "6",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-1-1400x788.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-gq"
         },
         {
           "_styles": {
@@ -16361,6 +16388,41 @@
           ],
           "_name": "menu",
           "_anchor": "menu-g4"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/fixface721\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fixxface/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-h9"
         }
       ]
     },
@@ -16975,7 +17037,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">超流體奈米美學科技<br>comming soon<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page52.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國眉毛塑形<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">角蛋白美睫<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">臉部保養專區<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">超流體奈米美學科技<br>comming soon<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page52.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國眉毛塑形<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">角蛋白美睫<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">臉部保養專區<br></a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-h0"
         },

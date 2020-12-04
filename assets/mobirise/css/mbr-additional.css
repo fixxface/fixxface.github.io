@@ -6711,6 +6711,7 @@ section.form .container {
   color: #efefef!important;
 }
 
+
 #footer1-fm P {
   color: #282828;
   text-align: center;
@@ -6777,6 +6778,18 @@ section.form .container {
 #menu-g4 .link[aria-expanded="true"],
 #menu-g4 .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
+}
+#social-buttons2-h9 .mbr-section-title,
+#social-buttons2-h9 .btn-social {
+  color: #232323;
+}
+#social-buttons2-h9 .btn-social > * {
+  vertical-align: middle;
+  padding-right: 0;
+}
+#social-buttons2-h9 .mbr-section-title {
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 #footer1-fv P {
