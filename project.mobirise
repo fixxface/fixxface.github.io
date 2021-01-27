@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "index.html",
+    "currentPage": "page48.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 626,
+    "uniqCompNum": 631,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -16388,6 +16388,141 @@
           ],
           "_name": "menu",
           "_anchor": "menu-g4"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x1400.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-he"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-3-1400x1400.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-hf"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x1400.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-hg"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-4-1400x1400.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-hh"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x1400.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-hi"
         },
         {
           "_styles": {
