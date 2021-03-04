@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-06_2214",
-    "currentPage": "page48.html",
+    "currentPage": "page47.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -15895,7 +15895,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
@@ -15936,7 +15936,7 @@
           },
           "title": "welcome to fixxface",
           "text": "Time to fixxface<br><br>For yourself<br>For yoursoul<br>Be healthy original and positive<br><br>Health Mind Fitness Beauty<br><br>美是一種良性循環<br>就像宇宙的時序四季輪替不斷<br><br>生活努力奮鬥的妳<br>都該保持著風采和自信<br><br>無論外在內在<br>給您提供最佳的應對方案，解決您的困擾<br><br>休修臉 <br>啟動美的良性循環<br>帶著你一起變美變好<br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
