@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-10-06_2214",
-    "currentPage": "page47.html",
+    "name": "fixxface官網",
+    "currentPage": "page48.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -44,7 +44,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -16256,7 +16256,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/7-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/8-1400x788.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -16283,7 +16283,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/6-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/7-1-1400x788.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -16507,7 +16507,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1080x1080.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
