@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 631,
+    "uniqCompNum": 653,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -44,7 +44,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true,
+    "mbrsiteDomain": "a2mfkfnri8"
   },
   "pages": {
     "index.html": {
@@ -297,7 +298,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
@@ -329,7 +330,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "menu",
-        "order": 42
+        "order": 44
       },
       "components": [
         {
@@ -663,7 +664,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "news",
-        "order": 41
+        "order": 43
       },
       "components": [
         {
@@ -1010,7 +1011,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products",
-        "order": 27
+        "order": 29
       },
       "components": [
         {
@@ -1262,7 +1263,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "2",
-        "order": 46
+        "order": 48
       },
       "components": [
         {
@@ -1584,7 +1585,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "5",
-        "order": 43
+        "order": 45
       },
       "components": [
         {
@@ -1890,7 +1891,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "1",
-        "order": 47
+        "order": 49
       },
       "components": [
         {
@@ -2191,7 +2192,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "3",
-        "order": 45
+        "order": 47
       },
       "components": [
         {
@@ -2401,7 +2402,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "4",
-        "order": 44
+        "order": 46
       },
       "components": [
         {
@@ -2633,7 +2634,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products1",
-        "order": 28
+        "order": 30
       },
       "components": [
         {
@@ -2934,7 +2935,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products2",
-        "order": 36
+        "order": 38
       },
       "components": [
         {
@@ -3321,7 +3322,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-1",
-        "order": 37
+        "order": 39
       },
       "components": [
         {
@@ -3866,7 +3867,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-2",
-        "order": 39
+        "order": 41
       },
       "components": [
         {
@@ -4388,7 +4389,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-3",
-        "order": 40
+        "order": 42
       },
       "components": [
         {
@@ -4911,7 +4912,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro1-1",
-        "order": 29
+        "order": 31
       },
       "components": [
         {
@@ -5507,7 +5508,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 17",
-        "order": 38
+        "order": 40
       },
       "components": [
         {
@@ -6052,7 +6053,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know",
-        "order": 24
+        "order": 26
       },
       "components": [
         {
@@ -6285,7 +6286,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know1",
-        "order": 26
+        "order": 28
       },
       "components": [
         {
@@ -6785,7 +6786,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "eyelash",
-        "order": 19
+        "order": 21
       },
       "components": [
         {
@@ -7094,7 +7095,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "eyelash-1",
-        "order": 17
+        "order": 19
       },
       "components": [
         {
@@ -7440,7 +7441,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 16
+        "order": 18
       },
       "components": [
         {
@@ -7756,7 +7757,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "eyelashq&amp;a",
-        "order": 18
+        "order": 20
       },
       "components": [
         {
@@ -8042,7 +8043,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 24",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -8282,7 +8283,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pronew",
-        "order": 30
+        "order": 32
       },
       "components": [
         {
@@ -8886,7 +8887,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class",
-        "order": 22
+        "order": 24
       },
       "components": [
         {
@@ -9195,7 +9196,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask1",
-        "order": 35
+        "order": 37
       },
       "components": [
         {
@@ -9782,7 +9783,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "happy1111",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -10211,7 +10212,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "vvv",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -10482,7 +10483,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "vqa",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -10774,7 +10775,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "vphoto",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -11153,7 +11154,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "mothersactivities",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -11443,7 +11444,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Mother's Day activities",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -11988,7 +11989,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Mother's Day activities",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -12278,7 +12279,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "spf15",
-        "order": 34
+        "order": 36
       },
       "components": [
         {
@@ -12752,7 +12753,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "lasftreeblack",
-        "order": 33
+        "order": 35
       },
       "components": [
         {
@@ -13348,7 +13349,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask",
-        "order": 32
+        "order": 34
       },
       "components": [
         {
@@ -13974,7 +13975,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 39",
-        "order": 31
+        "order": 33
       },
       "components": [
         {
@@ -14334,7 +14335,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -14478,7 +14479,7 @@
           },
           "title": "<div><br></div><div>Happy 4th anniversary</div>",
           "text": "2020 9/3-10/3<br><br>we are going to have a beauty time<br>四週年活動開跑哩&nbsp;<br>線上同步優惠<br>週年慶優惠活動<br>---<br>sale sale sale<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page43.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">產品活動</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page45.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;療程活動</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page43.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">產品活動</a>  <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page45.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;療程活動</a>",
           "_tags": [
             "Theme"
           ],
@@ -14624,7 +14625,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary product",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -15169,7 +15170,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -15459,7 +15460,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "class00",
-        "order": 23
+        "order": 25
       },
       "components": [
         {
@@ -15826,7 +15827,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "welcome to fixxface",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -16079,7 +16080,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Technology Beauty",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -16108,6 +16109,19 @@
           ],
           "_name": "image2",
           "_anchor": "image2-gq"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page54.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">✨儀器療程Ｑ＆Ａ✨</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-i3"
         },
         {
           "_params": {
@@ -16565,7 +16579,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Page 49",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -16692,7 +16706,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 50",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -16819,7 +16833,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class eyebrow",
-        "order": 21
+        "order": 23
       },
       "components": [
         {
@@ -17128,7 +17142,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "item",
-        "order": 25
+        "order": 27
       },
       "components": [
         {
@@ -17368,7 +17382,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "browlift",
-        "order": 20
+        "order": 22
       },
       "components": [
         {
@@ -17785,6 +17799,612 @@
           ],
           "_name": "menu",
           "_anchor": "menu-hd"
+        }
+      ]
+    },
+    "page53.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "new",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-hm"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "23px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".lead P": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-1-1-596x842.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "奈美極音速療程Ｑ＆Ａ",
+          "text": "---",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-hn"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p>1. 設備原理是什麼?</p><p>膜力音速藉由低壓高速專利設計將有效物質微米化，在不破壞肌膚的狀態下 直接進入肌膚底層，使肌膚吸收產生作用，以達到明顯的改善。</p><p>2. 會不會痛?需要上麻藥嗎?</p><p>不需使用麻藥，僅有類似橡皮筋彈到的感覺，但疼痛感因人而異，皮膚較薄 者會相對敏感，較易有疼痛感。</p><p>3. 會不會容易過敏?</p><p>我們在內料處理上已避開許多易過敏成分，實際操作上百人至今，皆無施作 後過敏的狀況發生。若是皮膚較敏感、或對我們的成分會過敏者，施作當下 會有立即的過敏反應，假如是課程結束後過一段時間才過敏，可能為其他原 因導致。</p><p>4. 一次課程效果可以維持多久?完整課程要幾次?多久需要施作一次?</p><p>單種課程以 3 堂為一基本循環，依個人狀態調整施作次數，3 堂課程須於一 個半月內施作完畢，效果會最佳，約可維持 6-8 個月，建議每個月定期回來 做保養諮詢，以維持最佳狀態。</p><p>5. 一次課程所需時間?可以直接上妝嗎?</p><p>完整一次課程加諮詢大約是一個半小時，施作完可以立即上妝約會，不必擔 心有修復期的問題。</p><p>6. 內料跟設備的來源是哪裡?有沒有做過檢驗?</p><p>我們的內料及設備都是源自台灣的研發技術，並且經過 SGS 檢驗合格。</p><p>7. 內料不用冷藏保存嗎?</p><p>透過特殊技術處理，內料之成分特性極為穩定，不易產生變質現象，因此只 要避免直接的日曬，放置於室內陰涼處保存即可。</p><p>8. 若近期有做過醫美療程可以直接施作嗎?</p><p>皮膚處於紅腫、發癢、疼痛有傷口的情況，或仍在結痂修復期皆不建議施作。 若欲施作部位曾接受過任何填充注射類、埋線、手術等治療，務必事前告知 諮詢師，待評估後再決定是否進行。</p><p>9. 懷孕期間可以施作嗎?</p><p>&nbsp; 孕期可施作臉部課程，但建議媽咪需等寶寶情況穩定再來施作。</p><p>10. 生理期間可以施作嗎?</p><p>可以，生理期不影響課程的施作，但若生理期腹部會有不適、經痛的情況， 建議生理期結束後再施作腹部課程。</p><p>11. 酒糟肌或敏感性肌膚可施作嗎?</p><p>酒糟肌須先經過諮詢才可確認是否可施作課程 ; 敏感性肌膚可先進行肌膚 測試再進行課程。</p><p>12. 若痘痘還在紅腫狀態可以施作嗎?</p><p>建議先將痘痘的狀況處理完再進行課程會比較好，若是痘痘不嚴重，仍須先 經過諮詢才能判斷是否可施作課程。</p><p>13. 施作後是否會有副作用或後遺症?</p><p>不會，內料成分並非藥物，不會有臟器堆積之問題，回家只需要多加強保濕， 注重防曬、忌熬夜即可。</p><p>14. 課程有年齡限制嗎?</p><p>建議 20 歲以上施作，若未滿 20 歲須經法定監護人同意。</p><p>15. 回家後續如何保養?有沒有什麼禁忌?</p><p>不管施作任何課程後皆須注重加強保濕，多喝水及多敷面膜，避免強烈日曬、 且切忌熬夜。</p><p>16. 課程結束後需要防曬嗎?</p><p>要，我們的療程內容中包含了杏仁酸煥膚，所以施作完必須做好防曬，尤其 是做完煥顏提亮課程，更應該加強防曬。</p><p><br></p><p>➢ 課程前須知</p><p>1. 施作部位進行過任何手術或填充皆須先行告知，諮詢師會評估是否可進行課</p><p>程。</p><p>2. 酒糟肌、皮膚炎、濕疹、曬傷、毛囊炎、懷孕或正在哺乳者，事前須先行告</p><p>知。</p><p>3. 特殊體質、特殊過敏、特殊皮膚病史，事前須先行告知。</p><p>4. 施作前一週需避免過度曝曬或戶外活動。</p><p>5. 施作前三天避免刺激肌膚，如:擠粉刺、去角質。</p><p>➢ 課程後須知</p><p>1. 課程後由於劑型作用會使皮膚較乾燥，須加強保濕，多喝水、多敷面膜。</p><p>2. 課程後肌膚會有微微的緊繃感，約6-12小時即會緩解，不會腫脹、不影響日</p><p>常外出。</p><p>3. 課程後須配合均衡飲食、運動及睡眠，忌熬夜。</p><p>4. 外出須避免太陽過度曝曬，可搭配帽子、陽傘與物理性溫和防曬產品。</p><p>5. 施作後一週避免使用含有果酸成分產品、勿去角質。</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "content1-ho"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p><br></p><p>獨家療程單堂 $2500 &nbsp;</p><p>（限量20組贈清粉刺及15ml胜肽原液）</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "15px",
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "content1-hp"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>療程體驗後可以私訊詢問課程方案</p><p>可享更多優惠</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-hq"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page32.html\" data-toolbar=\"-mbrBtnMove\">療程效果</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">療程Q&amp;A<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-hr"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#b86a7b"
+          },
+          "text": "<blockquote></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-hs"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#282828",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-ht"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-hu"
+        }
+      ]
+    },
+    "page54.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "qa",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#3d8eb9",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#307193"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3985ad!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3d8eb9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zuuth-181x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "speed",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-hv"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#282828",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-hw"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "&nbsp;",
+          "meta": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-hx"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "53",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=-AHzsLOAt7Y&t=176s",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "最新美容新科技<br>TN-5 療程Ｑ＆Ａ",
+          "text": "<p>奈美極音速 TN-5 療程Ｑ＆Ａ</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-i2",
+          "_styles": {
+            "H3": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Ｑ： 儀器原理是什麼？</p><p><br></p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\">A：TN-5 儀器 藉由低壓高速專利設計將有效物質微米化，在不破壞肌膚的狀態下 直接進入肌膚底層，使肌膚吸收產生作用，以達到明顯的改善。</span></p></blockquote><blockquote><p><br></p><p><br></p><p>Ｑ：<span style=\"font-size: 13px; font-family: Bitter, serif;\">會不會痛？需要上麻藥嗎？</span></p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\"><br></span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">A：不需使用麻藥，僅有類似空氣槍打到的感覺，但疼痛感因人而異，皮膚較薄 者會相對敏感，較易有橡皮筋打到的疼痛感。</span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\"><br></span><br></p></blockquote><blockquote><p>Ｑ：<span style=\"font-size: 13px; font-family: Bitter, serif;\">會不會容易過敏？</span></p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\"><br></span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">A：我們在內料處理上已避開許多易過敏成分，實際操作上百人至今，皆無施作 後過敏的狀況發生。若是皮膚較敏感、或對我們的成分會過敏者，施作當下 會有立即的過敏反應，假如是課程結束後過一段時間才過敏，可能為其他原 因導致。</span></p></blockquote><blockquote><br></blockquote><blockquote><p>Ｑ： 一次課程效果可以維持多久？完整課程要幾次？多久需要施作一次？</p></blockquote><blockquote><p>A：單種課程以 4堂為一基本循環，依個人狀態調整施作次數，依照您想達到的皮膚完美程度，溝通及客製化，會最佳，不同療程約可維持時間不一樣，建議每個月定期回來做保養諮詢，以維持最佳狀態。其實一堂也會有感覺，效果就不會來的這麼大，也是要搭配著日常保養，持之以恆。</p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\"><br></span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\"><br></span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">Ｑ：</span><span style=\"font-family: Bitter, serif; font-size: 13px;\">一次課程所需時間？可以直接上妝嗎？</span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\"><br></span></p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\">A：完整一次課程加諮詢大約是一個小時至一個半小時，施作完可以立即上妝約會，不必擔 心有修復期的問題。</span></p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\"><br></span></p></blockquote><blockquote><p>Ｑ： 內料跟設備的來源是哪裡？有沒有做過檢驗？</p><p><br></p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\">Ａ：我們的內料及設備都是源自台灣的研發技術，並且經過 SGS 檢驗合格。</span></p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\"><br></span></p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\"><br></span></p></blockquote><blockquote><p>Ｑ： 若近期有做過醫美療程可以直接施作嗎？</p><p><br></p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\">Ａ：皮膚處於紅腫、發癢、疼痛有傷口的情況，或仍在結痂修復期皆不建議施作。 若欲施作部位曾接受過任何填充注射類、埋線、手術等治療，務必事前告知 ，待評估後再決定是否進行。</span></p></blockquote><blockquote><p><br></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">Ｑ：&nbsp; 懷孕期間可以施作嗎？</span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">Ａ：除了消脂，其他通通可以。</span></p><p><br></p></blockquote><blockquote><p>Ｑ： 生理期間可以施作嗎？</p><p><br><span style=\"font-family: Bitter, serif; font-size: 13px;\">Ａ：可以，生理期不影響課程的施作，但若生理期腹部會有不適、經痛的情況， 建議生理期結束後再施作腹部課程。</span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\"><br></span></p></blockquote><blockquote><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">Ｑ： 酒糟肌或敏感性肌膚可施作嗎？</span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">Ａ：（有酒糟肌膚及敏感肌膚麻煩提前告知）</span></p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\">&nbsp;酒糟肌須先經過諮詢才可確認是否可施作課程 ; 敏感性肌膚可先進行肌膚 測試再進行課程。</span></p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\"><br></span></p></blockquote><blockquote><p>Ｑ： 施作後是否會有副作用或後遺症？</p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\">Ａ：不會，內料成分並非藥物，不會有臟器堆積之問題，回家只需要多加強保濕， 注重防曬、忌熬夜即可。</span></p></blockquote><blockquote><p><br></p></blockquote><blockquote><p>Ｑ：&nbsp;<span style=\"font-size: 13px; font-family: Bitter, serif;\">課程有年齡限制嗎？</span></p><p>Ａ：（想變美 有錢的話都可以做：））</p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">&nbsp; &nbsp;建議 20 歲以上施作，若未滿 20 歲須經法定監護人同意，為了避免不必要紛爭。</span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\"><br></span></p></blockquote><blockquote>Ｑ：回家後續如何保養？有沒有什麼禁忌？</blockquote><blockquote><p>Ａ：不管施作任何課程後皆須注重加強保濕，多喝水及多敷面膜，避免強烈日曬、 且切忌熬夜。</p><p><br></p></blockquote><blockquote><p>Ｑ： 可以改善毛孔粗大問題嗎？</p><p><span style=\"font-size: 13px; font-family: Bitter, serif;\">Ａ：可以，全臉拉提緊緻當下療程後皮膚立即緊致，明顯縮小毛孔。</span></p></blockquote><blockquote><p><br></p><p>Ｑ： 課程結束後需要防曬嗎?</p><p>Ａ： 要，不管有沒有做療程都必須做好防曬，尤其是做完煥顏美白課程，更應該加強防曬。</p></blockquote><blockquote><p><br></p><p>➢ 課程前須知</p></blockquote><blockquote>1. 施作部位進行過任何手術或填充皆須先行告知，諮詢師會評估是否可進行課<span style=\"font-family: Bitter, serif; font-size: 13px;\">程。</span></blockquote><blockquote>2. 酒糟肌、皮膚炎、濕疹、曬傷、毛囊炎、懷孕或正在哺乳者，事前須先行告</blockquote><blockquote>知。</blockquote><blockquote>3. 特殊體質、特殊過敏、特殊皮膚病史，事前須先行告知。</blockquote><blockquote>4. 施作前一週需避免過度曝曬或戶外活動。</blockquote><blockquote>5. 施作前兩天避免刺激肌膚，如:擠粉刺、去角質。</blockquote><blockquote>➢ 課程後須知</blockquote><blockquote>1. 課程後由於劑型作用會使皮膚較乾燥，須加強保濕，多喝水、多敷面膜。</blockquote><blockquote>2. 課程後肌膚會有微微的緊繃感，約6-12小時即會緩解，不會腫脹、不影響日</blockquote><blockquote>常外出。</blockquote><blockquote>3. 課程後須配合均衡飲食、運動及睡眠，忌熬夜。</blockquote><blockquote>4. 外出須避免太陽過度曝曬，可搭配帽子、陽傘與物理性溫和防曬產品。</blockquote><blockquote>5. 施作後一週避免使用含有果酸成分產品、勿去角質。</blockquote><blockquote><p><span style=\"font-style: normal;\"><br></span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "SPAN": {
+              "font-size": "12px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "13px"
+            },
+            "BLOCKQUOTE": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "content2-hz"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-i4"
         }
       ]
     }
