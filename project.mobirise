@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page35.html",
+    "currentPage": "page34.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#efefef",
         "secondaryColor": "#b86a7b",
-        "successColor": "#28324e",
+        "successColor": "#d14841",
         "infoColor": "#f28281",
         "warningColor": "#fce794",
         "dangerColor": "#a38f84",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 652,
+    "uniqCompNum": 670,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -330,7 +330,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "menu",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -664,7 +664,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "news",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -1011,7 +1011,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -1263,7 +1263,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "2",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -1585,7 +1585,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "5",
-        "order": 45
+        "order": 46
       },
       "components": [
         {
@@ -1891,7 +1891,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "1",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -2192,7 +2192,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "3",
-        "order": 47
+        "order": 48
       },
       "components": [
         {
@@ -2402,7 +2402,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "4",
-        "order": 46
+        "order": 47
       },
       "components": [
         {
@@ -2634,7 +2634,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products1",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -2935,7 +2935,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products2",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -3322,7 +3322,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-1",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -3867,7 +3867,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-2",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -4389,7 +4389,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-3",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -4912,7 +4912,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro1-1",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -5508,7 +5508,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 17",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -6053,7 +6053,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -6286,7 +6286,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know1",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -6786,7 +6786,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "eyelash",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -7095,7 +7095,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "eyelash-1",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -7441,7 +7441,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -7757,7 +7757,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "eyelashq&amp;a",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -8043,7 +8043,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 24",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -8283,7 +8283,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pronew",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -8887,7 +8887,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -9196,7 +9196,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask1",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -10212,7 +10212,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "vvv",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -10483,7 +10483,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "vqa",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -10775,7 +10775,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "vphoto",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -11443,70 +11443,53 @@
     "page34.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Mother's Day activities",
+        "title": "2021Mother's Day activities sale",
         "order": 12
       },
       "components": [
         {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "45",
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/e39e7e2f1b49645117884749ff7d4d5b.gif",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
-          "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "<p><br>product &nbsp;sale !!!</p><p><br></p>",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "&nbsp;",
+          "meta": "&nbsp;",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-c7",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "color": "#b8312f"
+          "_name": "header3",
+          "_anchor": "header3-i8"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-835-1000x676.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
-          }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-i6"
         },
         {
           "_params": {
@@ -11514,7 +11497,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>母親節最大優惠組合都在這</p><p>&nbsp;-- 囤貨專區 --&nbsp;</p><p>⠀</p><p>🛒 明星商品 保濕緊緻原液最後一批貨</p><p>⠀⠀</p><p><b>套組限量15組</b>售完不補</p><p>1. 一盒原液+一盒爆水面膜 $1888 ⠀</p><p><span style=\"font-size: 1.07rem;\">套組限量15組售完不追加</span><br></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">2.購買三組套組再贈送2片多醣體面膜</span><br></p><p><br></p><p>3. 限量面膜驚喜價格</p><p>獨家爆水炸彈面膜</p><p><span style=\"font-size: 1.07rem;\">原價單片$120</span></p><p>一盒五入優惠$449</p><p>（♡ 買五合贈一盒 ♡ ）</p><p><br></p><p>4.增長液優惠1500</p><p><br></p><p>5. 藍藻補水舒緩軟膜/黃金嫩白軟膜/珍珠玻尿酸保濕軟膜</p><p>單片原價$399 買1送1</p><p><br></p><p>6.多醣體 保溼/美白面膜&nbsp;</p><p>單片原價$299 買1送1</p><p><br></p><p>7.lashthree black</p><p>睫毛修護增長液優惠$1500</p><p><br></p><p>8.潤澤修護膠囊20入</p><p>售價$699元 &nbsp;活動優惠＄500</p><p><br></p><p>9.毛孔零負擔水感亮白隔離霜</p><p>售價$999 活動優惠七折＄749</p><p><br></p><p>10.醫美原液 通通七折</p><p><br></p><p>11.居家防疫美肌燈泡組合</p><p>30%胜肽酸10ml+有機玫瑰花水美白面膜五片</p><p>Organic Rose Water Whitening Mask</p><p>售價$2250 活動優惠$1699</p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p><b>𝑴𝒂𝒚 𝑰 𝒍𝒐𝒗𝒆 𝒚𝒐𝒖｜ 在五月，我愛你</b></p><p><br></p><p>母親節最大優惠組合都在這</p><p>&nbsp;-- 囤貨專區 --&nbsp;</p><p>⠀</p><p>🛒 明星商品</p><p><br></p><p> </p><p><b>fixxface獨家保養品</b></p><p>幫大家做療程使用的產品都在這</p><p>任合肌膚都適合的一系列產品</p><p><br></p><p>1.&nbsp;<a href=\"https://fixxface.com/page1.html\" class=\"text-primary\">&nbsp;</a><b>保濕溫和卸妝乳</b>&nbsp; &nbsp;8.5 fl oz.| 250ml&nbsp;&nbsp;</p><p>NT$ 999&nbsp;&nbsp;↘︎&nbsp;ONSALE&nbsp; <b><a href=\"https://fixxface.com/page1.html\" class=\"text-success\" target=\"_blank\">&nbsp;<b>NT$ 750</b></a></b></p><p><br></p><p>2.<b>&nbsp; 茶樹洗面慕斯</b>&nbsp; 5 fl oz.| 150ml<br></p><p>NT$ 999 ↘︎&nbsp;ONSALE<b>&nbsp;<a href=\"https://fixxface.com/page7.html#slider1-4e\" class=\"text-success\" target=\"_blank\">&nbsp;<b>NT$ 750</b></a></b></p><p><br></p><p>3. <b>蠶絲蛋白發光精華水</b>&nbsp; 3.4 fl oz.| 100ml</p><p>NT$ 1299&nbsp; ↘︎&nbsp;ONSALE&nbsp;<b> <a href=\"https://fixxface.com/page9.html#slider1-4h\" class=\"text-success\" target=\"_blank\"><b>NT$ 975</b></a></b></p><p><br></p><p>4. <b>嫩白胜肽極光精華</b>&nbsp; 1.7 fl oz.| 50ml</p><p>NT$ 1499&nbsp; ↘︎&nbsp;ONSALE&nbsp; <a href=\"https://fixxface.com/page10.html#slider1-4k\" class=\"text-success\" target=\"_blank\"><b>NT$ 1050</b></a><br></p><p><br></p><p>蝦皮開幕慶SALE</p><p><br></p><p>🪄女神4 PACKS✨</p><p>#女神組合.</p><p>卸妝乳 洗面慕斯 精華水&nbsp; 極光精華</p><p>&nbsp;就贈送【SELF-LOVE FOR ALL收納包】</p><p>NT$ 4796 ↘︎ ONSALE&nbsp; <b><a href=\"https://shopee.tw/Fixxface-%E5%A5%B3%E7%A5%9E%E7%B5%84%E5%90%88-i.412916376.8237134750\" class=\"text-success\">NT$ 3288</a></b></p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><br></p><p>5. 限量面膜驚喜價格</p><p>獨家爆水炸彈面膜&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">原價單片$120</span></p><p>一盒五入優惠$450</p><p>（♡ 五盒送一盒 ♡ ）</p><p><br></p><p>面膜裸包大屯貨專區</p><p>爆水面膜/ 術後保濕面膜(new)\b</p><p>（♡ 10片散裝 720&nbsp; ♡ ）</p><p>（♡ 50片散裝 3300 ♡ ）</p><p><br></p><p>6.Lashthree black</p><p>plus+國際精裝版睫毛修護增長液優惠1499(原價1580)</p><p><br></p><p>7. 藍藻補水舒緩果凍膜/黃金嫩白果凍膜/頂級紅寶石回春果凍膜</p><p>單片原價$399 買1送1</p><p><br></p><p><br></p><p>8. 潤澤修護膠囊 \b/9GF生長因子時空膠囊</p><p>售價$699元 &nbsp;活動優惠＄549 (20入)</p><p><br></p><p><br></p><p>9.rainbow防曬隔離霜spf50+</p><p>(一隻做到 防曬隔離霜妝前乳打底保濕修飾)</p><p>售價$999 活動優惠七折＄749</p><p><br></p><p>10.薇姬娜孕期私密安心套組</p><p>私密處清潔慕斯100ml+私密處護理噴霧15ml</p><p>📌私密潔淨慕斯/原價$</p><p>📌售價$&nbsp; 活動優惠七折＄&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -11526,7 +11509,10 @@
               "font-family": "'Droid Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
               "color": "#28262b",
-              "font-size": "16px"
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#d14841"
             }
           }
         },
@@ -11659,9 +11645,9 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "4",
@@ -11680,46 +11666,50 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7415-600x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-762-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7418-600x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-765-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7199-600x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-763-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7414-600x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-764-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media5": {
@@ -11738,18 +11728,18 @@
               "active": true
             }
           },
-          "title1": "毛孔零負擔水感亮白隔離霜30g",
-          "subtitle1": "售價$999元",
-          "caption1": "---<br>活動優惠七折＄749<br>",
-          "title2": "如瓷保濕緊緻精華原液",
+          "title1": "保濕溫和卸妝乳 <br>  8.5 fl oz.| 250ml&nbsp;&nbsp;",
+          "subtitle1": "",
+          "caption1": "NT$ 999 ↘︎ ONSALE NT$ 750<br>",
+          "title2": "茶樹洗面慕斯<br>  5 fl oz.| 150ml",
           "subtitle2": "售價$1688元",
-          "caption2": "---<br>一盒原液+一盒爆水面膜 $1888 ⠀<br>套組限量15組售完不追加<br><br>購買三組套組<br>再贈送2片多醣體面膜<br>",
-          "title3": "潤澤修護膠囊20入",
+          "caption2": "NT$ 999 ↘︎ ONSALE NT$ 750<br>",
+          "title3": "蠶絲蛋白發光精華水<br>3.4 fl oz.| 100ml&nbsp;",
           "subtitle3": "售價$699元",
-          "caption3": "---<br>活動優惠＄500<br>",
-          "title4": "爆水炸彈面膜五入<br>",
+          "caption3": "NT$ 1299 ↘︎ ONSALE NT$ 975<br><br>",
+          "title4": "嫩白胜肽極光精華 <br> 1.7 fl oz.| 50ml",
           "subtitle4": "售價$599元",
-          "caption4": "---<br>獨家爆水炸彈面膜<br>原價單片$120<br>一盒五入優惠$449<br>（♡ 買五合贈一盒 ♡ ）<br>",
+          "caption4": "NT$ 1499 ↘︎ ONSALE NT$ 1050<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -11770,8 +11760,15 @@
           "_styles": {
             "P": {
               "color": "#d14841",
-              "font-size": "13px",
-              "text-align": "center"
+              "font-size": "15px",
+              "text-align": "center",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            },
+            "H4": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "18px"
             }
           }
         },
@@ -11779,9 +11776,9 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
@@ -11800,46 +11797,50 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7417-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-776-600x750.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7422-600x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-60-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/s-54337953-600x799.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-2-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7568-600x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-4496-600x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media5": {
@@ -11858,18 +11859,18 @@
               "active": true
             }
           },
-          "title1": "果凍系列面膜",
+          "title1": "🪄女神4 PACKS✨<div><span style=\"color: inherit; font-size: 1.25rem; background-color: initial;\">#女神組合贈送</span></div><div>【SELF-LOVE FOR ALL收納包】</div>",
           "subtitle1": "售價$399元",
-          "caption1": "---<br>藍藻補水舒緩軟膜/<br>黃金嫩白軟膜/<br>珍珠玻尿酸保濕軟膜<br>活動買1送1<br>",
-          "title2": "多醣體保溼/美白面膜<br>",
+          "caption1": "NT$ 4796 ↘︎ ONSALE NT$ 3288<br>",
+          "title2": "lashthree black精裝版睫毛修護增長液",
           "subtitle2": "售價$299元",
-          "caption2": "---<br>活動買1送1",
-          "title3": "lashthree black<br>睫毛修護增長液",
+          "caption2": "↘︎ ONSALE&nbsp; $1499 (原價1580)",
+          "title3": "獨家爆水炸彈面膜&nbsp;",
           "subtitle3": "售價$1580元",
-          "caption3": "---<br>活動優惠＄1500",
-          "title4": "薇姬娜私密潔淨慕斯",
+          "caption3": "原價單片$120 一盒五入優惠$450<br>（♡ 五盒送一盒 ♡ ）",
+          "title4": "面膜裸包大屯貨專區<div>爆水面膜/ 術後保濕面膜(new)</div>",
           "subtitle4": "售價$950元",
-          "caption4": "---<br>單瓶九折＄855<br>兩瓶七折＄665",
+          "caption4": "（♡ 10片散裝 720  ♡ ）<br>（♡ 50片散裝 3300 ♡ ）",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -11890,7 +11891,14 @@
           "_styles": {
             "P": {
               "color": "#d14841",
-              "font-size": "14px"
+              "font-size": "14px",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            },
+            "H4": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "18px"
             }
           }
         },
@@ -11982,14 +11990,285 @@
           ],
           "_name": "menu",
           "_anchor": "menu-g4"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-776-600x750.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-99-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/s-69550343-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-4496-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "藍藻補水舒緩果凍膜/黃金嫩白果凍膜/頂級紅寶石回春果凍膜",
+          "subtitle1": "售價$399元",
+          "caption1": "單片原價$399 ↘︎<br>ONSALE優惠買1送1<br>",
+          "title2": "潤澤修護膠囊 （小綠）\b/<br> 9GF生長因子時空膠囊（小金）",
+          "subtitle2": "售價$299元",
+          "caption2": "售價$699元 ↘︎<br> ONSALE優惠＄549 (20入)",
+          "title3": "rainbow防曬隔離霜spf50+<div>(一隻做到 防曬隔離霜妝前乳打底保濕修飾)</div>",
+          "subtitle3": "售價$1580元",
+          "caption3": "售價$999 ↘︎ <br>ONSALE優惠七折＄749",
+          "title4": "薇姬娜孕期私密安心套組<div>私密處清潔慕斯100ml+私密處護理噴霧15ml</div>",
+          "subtitle4": "售價$950元",
+          "caption4": "📌私密潔淨慕斯/原價$<br>📌售價$ 活動優惠七折＄&nbsp;",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page37.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MTM3NzcyNjgyMDIwMzMw?igshid=ye06onaq6w8&amp;story_media_id=2286085471721148868\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "14px",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            },
+            "H4": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features3-ii"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5a417fa0-06ad-46a8-b3e5-6e1688163605-828x828.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5a417fa0-06ad-46a8-b3e5-6e1688163605-828x828-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-777-1080x1350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-777-1080x1350-800x1000.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/27b74096-e740-4a76-9ce9-58e670144556-1-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/27b74096-e740-4a76-9ce9-58e670144556-1-2000x2667-800x1067.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/f85db6cb-7a17-4095-bcb0-ce614a29721a-828x842.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/f85db6cb-7a17-4095-bcb0-ce614a29721a-828x842-800x814.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-746-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-746-1080x1080-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-4483-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4483-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/173eac86-e48c-4572-bb4b-a706b00da2e5-828x828.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/173eac86-e48c-4572-bb4b-a706b00da2e5-828x828-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/image-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-ij"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/2-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fixxface/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-il"
         }
       ]
     },
     "page35.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Mother's Day activities",
-        "order": 13
+        "title": "2021Mother's Day activities",
+        "order": 14
       },
       "components": [
         {
@@ -12132,7 +12411,7 @@
             }
           },
           "title": "<div><br></div><div>Mother's Day activities</div>",
-          "text": "2021/4/26-5/30<br>━━━━━●─────── 5:20<br>⇆ ◁ ❚❚ ▷↻<br><br>𝑴𝒂𝒚 𝑰 𝒍𝒐𝒗𝒆 𝒚𝒐𝒖｜ 在五月，讓我呵護你<br>母親節活動 母親節優惠<br><br><br>✨🔥Top1🔥✨<br>奈美極音速 儀器療程 優惠方案<br>（活動期間內不限次數使用 約的到都可享優惠）<br><br>Ⓐ 煥顏美白提亮療程 優惠 $2799 (原價 $3600)<br>Ⓑ 全臉拉提緊緻療程 優惠 $3500 (原價 $4500)<br>Ⓒ 3D消脂小臉療程 優惠 $7999/10cc (原價 $10000)<br>Ⓓ天使童顏澎潤療程 優惠 $7999/10cc (原價 $10000)<br><br>加碼活動獨家女神套餐<br>A+B<br>原價 $8000 活動優惠$6000<br><br><p>✨🪞Top2🪞✨<br>眉毛塑型原價$3600 優惠$1800<br>兩人同行 再折$602(單人$1499)<br><br>角蛋白美睫 優惠1380<br>兩人同行 再折$400 （單人$1180)<br><br>套餐組合<br>眉毛塑型+角蛋白美睫<br>1'+1'套餐優惠= $2599<br><br>+加購睫毛養護增長修護液優惠$1299(原價1580)<br>限量20組<br></p><p>✨🦋 Top3 🦋✨<br>任一臉部保養 升級療程<br>+加購黃金軟膜只要$199元（原價399）<br>+加購藍藻舒緩膜只要$199元（原價399）<br>+加購紅寶石軟膜只要$299元（原價499）<br></p>",
+          "text": "2021/5/1-5/30<br>━━━━━●─────── 5:20<br>⇆ ◁ ❚❚ ▷↻<br><br>𝑴𝒂𝒚 𝑰 𝒍𝒐𝒗𝒆 𝒚𝒐𝒖｜ 在五月，讓我呵護你<br>母親節活動 母親節優惠<br><br><br>✨🔥Top1🔥✨<br>奈美極音速 儀器療程 優惠方案<br>（活動期間內不限次數使用 約的到都可享優惠）<br><br>Ⓐ 煥顏美白提亮療程 優惠 $2799 (原價 $3600)<br>Ⓑ 全臉拉提緊緻療程 優惠 $3500 (原價 $4500)<br>Ⓒ 3D消脂小臉療程 優惠 $7999/10cc (原價 $10000)<br>Ⓓ天使童顏澎潤療程 優惠 $7999/10cc (原價 $10000)<br><br>加碼活動獨家女神套餐<br>A+B<br>原價 $8000 活動優惠$6000<br><br><p>✨🪞Top2🪞✨<br>眉毛塑型原價$3600 優惠$1800<br>兩人同行 再折$602(單人$1499)<br><br>角蛋白美睫 優惠1380<br>兩人同行 再折$400 （單人$1180)<br><br>套餐組合<br>眉毛塑型+角蛋白美睫<br>1'+1'套餐優惠= $2599<br><br>+加購睫毛養護增長修護液優惠$1299(原價1580)<br>限量20組<br></p><p>✨🦋 Top3 🦋✨<br>任一臉部保養 升級療程<br>+加購黃金軟膜只要$199元（原價399）<br>+加購藍藻舒緩膜只要$199元（原價399）<br>+加購紅寶石軟膜只要$299元（原價499）<br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -12154,6 +12433,19 @@
             }
           },
           "_anchor": "msg-box5-bz"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">產品優惠product sale !!!</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">產品優惠product sale !!!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-i4"
         },
         {
           "_params": {
@@ -12279,7 +12571,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "spf15",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -12753,7 +13045,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "lasftreeblack",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -13349,7 +13641,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -13975,7 +14267,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 39",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -15460,7 +15752,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "class00",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -16833,7 +17125,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class eyebrow",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -17142,7 +17434,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "item",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -17382,7 +17674,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "browlift",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -18404,6 +18696,613 @@
             "Theme"
           ],
           "_name": "menu"
+        }
+      ]
+    },
+    "page55.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "2020Mother's Day activities",
+        "order": 13
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "&nbsp;",
+          "meta": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i9"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-835-1000x676.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-ia"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>𝑴𝒂𝒚 𝑰 𝒍𝒐𝒗𝒆 𝒚𝒐𝒖｜ 在五月，我爱你</p><p><br></p><p>母親節最大優惠組合都在這</p><p>&nbsp;-- 囤貨專區 --&nbsp;</p><p>⠀</p><p>🛒 明星商品 保濕緊緻原液最後一批貨</p><p>⠀⠀</p><p><b>套組限量15組</b>售完不補</p><p>1. 一盒原液+一盒爆水面膜 $1888 ⠀</p><p><span style=\"font-size: 1.07rem;\">套組限量15組售完不追加</span><br></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">2.購買三組套組再贈送2片多醣體面膜</span><br></p><p><br></p><p>3. 限量面膜驚喜價格</p><p>獨家爆水炸彈面膜</p><p><span style=\"font-size: 1.07rem;\">原價單片$120</span></p><p>一盒五入優惠$449</p><p>（♡ 買五合贈一盒 ♡ ）</p><p><br></p><p>4.增長液優惠1500</p><p><br></p><p>5. 藍藻補水舒緩軟膜/黃金嫩白軟膜/珍珠玻尿酸保濕軟膜</p><p>單片原價$399 買1送1</p><p><br></p><p>6.多醣體 保溼/美白面膜&nbsp;</p><p>單片原價$299 買1送1</p><p><br></p><p>7.lashthree black</p><p>睫毛修護增長液優惠$1500</p><p><br></p><p>8.潤澤修護膠囊20入</p><p>售價$699元 &nbsp;活動優惠＄500</p><p><br></p><p>9.毛孔零負擔水感亮白隔離霜</p><p>售價$999 活動優惠七折＄749</p><p><br></p><p>10.醫美原液 通通七折</p><p><br></p><p>11.居家防疫美肌燈泡組合</p><p>30%胜肽酸10ml+有機玫瑰花水美白面膜五片</p><p>Organic Rose Water Whitening Mask</p><p>售價$2250 活動優惠$1699</p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "color": "#28262b",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "content1-ib"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#3d8eb9",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#307193"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3985ad!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3d8eb9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zuuth-181x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "speed",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-ic"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#282828",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-id"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-7415-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-7418-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-7199-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-7414-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "毛孔零負擔水感亮白隔離霜30g",
+          "subtitle1": "售價$999元",
+          "caption1": "---<br>活動優惠七折＄749<br>",
+          "title2": "如瓷保濕緊緻精華原液",
+          "subtitle2": "售價$1688元",
+          "caption2": "---<br>一盒原液+一盒爆水面膜 $1888 ⠀<br>套組限量15組售完不追加<br><br>購買三組套組<br>再贈送2片多醣體面膜<br>",
+          "title3": "潤澤修護膠囊20入",
+          "subtitle3": "售價$699元",
+          "caption3": "---<br>活動優惠＄500<br>",
+          "title4": "爆水炸彈面膜五入<br>",
+          "subtitle4": "售價$599元",
+          "caption4": "---<br>獨家爆水炸彈面膜<br>原價單片$120<br>一盒五入優惠$449<br>（♡ 買五合贈一盒 ♡ ）<br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page25.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page39.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page27.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "13px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features3-ie"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-7417-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-7422-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/s-54337953-600x799.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-7568-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "果凍系列面膜",
+          "subtitle1": "售價$399元",
+          "caption1": "---<br>藍藻補水舒緩軟膜/<br>黃金嫩白軟膜/<br>珍珠玻尿酸保濕軟膜<br>活動買1送1<br>",
+          "title2": "多醣體保溼/美白面膜<br>",
+          "subtitle2": "售價$299元",
+          "caption2": "---<br>活動買1送1",
+          "title3": "lashthree black<br>睫毛修護增長液",
+          "subtitle3": "售價$1580元",
+          "caption3": "---<br>活動優惠＄1500",
+          "title4": "薇姬娜私密潔淨慕斯",
+          "subtitle4": "售價$950元",
+          "caption4": "---<br>單瓶九折＄855<br>兩瓶七折＄665",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page37.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MTM3NzcyNjgyMDIwMzMw?igshid=ye06onaq6w8&amp;story_media_id=2286085471721148868\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "features3-if"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "animType": "kenburns",
+            "theme": "boundary",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide3.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/slide3.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip3.jpg",
+                "title": "title 1",
+                "text": "text 1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide2.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/slide2.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
+                "title": "title 2",
+                "text": "text 2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide1.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3"
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1024",
+            "height": "576"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-ig"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-ih"
         }
       ]
     }
