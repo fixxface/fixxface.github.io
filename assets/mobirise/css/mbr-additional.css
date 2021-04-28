@@ -5249,6 +5249,7 @@ section.form .container {
 
 
 
+
 #ext_menu-by .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5321,6 +5322,9 @@ section.form .container {
   font-family: 'Droid Serif', serif;
   color: #545050;
   font-size: 16px;
+}
+#content2-im P {
+  font-family: 'Slabo 27px', serif;
 }
 #footer1-c0 P {
   color: #282828;
