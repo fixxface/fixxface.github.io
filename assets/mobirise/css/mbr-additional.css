@@ -5235,7 +5235,10 @@ section.form .container {
 }
 #features3-ii H4 {
   font-family: 'PT Serif', serif;
-  font-size: 18px;
+  font-size: 17px;
+}
+#features3-ii DIV {
+  font-size: 16px;
 }
 #social-buttons2-il .mbr-section-title,
 #social-buttons2-il .btn-social {

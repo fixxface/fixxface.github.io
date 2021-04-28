@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page35.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -12089,7 +12089,7 @@
           "caption3": "售價$999 ↘︎ <br>ONSALE優惠七折＄749",
           "title4": "薇姬娜孕期私密安心套組<div>私密處清潔慕斯100ml+私密處護理噴霧15ml</div>",
           "subtitle4": "售價$950元",
-          "caption4": "📌私密潔淨慕斯/原價$<br>📌售價$ 活動優惠七折＄&nbsp;",
+          "caption4": "📌組合活動優惠$1500&nbsp;<br>📌私密潔淨慕斯單瓶優惠$800(原價950)<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -12116,7 +12116,10 @@
             "H4": {
               "font-family": "'PT Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "font-size": "18px"
+              "font-size": "17px"
+            },
+            "DIV": {
+              "font-size": "16px"
             }
           },
           "_anchor": "features3-ii"
@@ -19250,29 +19253,29 @@
             "theme": "boundary",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/slide3.jpg",
+                "image": "@ADDONS_PATH@/wowslider/assets/images/slide3.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slide3.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip3.jpg",
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide3.jpg",
+                "tooltip": "@ADDONS_PATH@/wowslider/assets/images/tooltip3.jpg",
                 "title": "title 1",
                 "text": "text 1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide2.jpg",
+                "image": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
+                "tooltip": "@ADDONS_PATH@/wowslider/assets/images/tooltip2.jpg",
                 "title": "title 2",
                 "text": "text 2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1.jpg",
+                "image": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@ADDONS_PATH@/wowslider/assets/images/tooltip1.jpg",
                 "title": "title 3",
                 "text": "text 3"
               }
