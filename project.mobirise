@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page34.html",
+    "currentPage": "page35.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#232323",
         "#545050",
         "#e5e2dd",
         "#282828",
         "#d4b2b2",
         "#b86a7b",
-        "#222222",
-        "#0c3869"
+        "#222222"
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 671,
+    "uniqCompNum": 674,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -12443,7 +12443,29 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>\b⚠️&nbsp; 活動優惠 三選一 ，並且轉發五月活動文到個人IG 限動即可享有以上優惠</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1. IG拍照打卡標記 2. google上寫下療程評論&nbsp; 3. FB上寫下療程後評論</p></blockquote><blockquote><p>\b⚠️&nbsp; 五月份單筆消費滿五千 即可參加摸彩活動</p><p><br></p><p>獎項 1.&nbsp;&nbsp;<b>女神4 PACKS✨組合 ：</b><span style=\"font-size: 1.07rem;\">卸妝乳 洗面慕斯 精華水  極光精華</span></p><p><span style=\"font-size: 1.07rem;\">獎項2.&nbsp; 奈美極音速「全臉拉提緊緻療程」&nbsp; 免費體驗一次(價值 $4500)</span></p><p><span style=\"font-size: 1.07rem;\">獎項3.&nbsp; 奈美極音速「保濕修護療程 免費體驗一次」(價值$2800)</span></p><p><span style=\"font-size: 1.07rem;\">獎項4.&nbsp; 眉毛塑形 免費體驗一名</span></p><p><span style=\"font-size: 1.07rem;\">獎項5.&nbsp; 角蛋白美睫 免費體驗一名</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p></blockquote>",
+          "text1": "<p>\b</p>",
+          "text2": "<p>\b</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-io",
+          "_styles": {
+            ".lead P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "14px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>&nbsp;⚠️</p><p>完成一項選項並且轉發五月活動文到個人IG 限動即可享有以上優惠</p><p>1. IG拍照打卡標記</p><p>2. google上寫下療程評論</p><p>3. FB上寫下療程後評論</p></blockquote><blockquote><p>♡ 五月份單筆消費滿五千</p><p>&nbsp; &nbsp; &nbsp; &nbsp;即可參加摸彩活動</p><p><br></p><p>獎項 1.</p><p>女神4 PACKS✨組合 ：</p><p>卸妝乳 洗面慕斯 精華水 極光精華</p><p><br></p><p>獎項2.</p><p>奈美極音速「全臉拉提緊緻療程」 </p><p>免費體驗一次(價值 $4500)</p><p><br></p><p>獎項3.</p><p>奈美極音速「保濕修護療程 」</p><p>免費體驗一次(價值$2800)</p><p><br></p><p>獎項4. 眉毛塑形 免費體驗一名<br></p><p>獎項5. 角蛋白美睫 免費體驗一名<br></p><p><span style=\"font-size: 1.07rem;\"><br></span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -12452,7 +12474,9 @@
           "_styles": {
             "P": {
               "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "11px",
+              "text-align": "left"
             }
           }
         },

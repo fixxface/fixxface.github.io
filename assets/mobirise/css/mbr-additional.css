@@ -5253,6 +5253,7 @@ section.form .container {
 
 
 
+
 #ext_menu-by .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5326,8 +5327,15 @@ section.form .container {
   color: #545050;
   font-size: 16px;
 }
+#content6-io .lead P {
+  font-family: 'Slabo 27px', serif;
+  font-size: 14px;
+  text-align: center;
+}
 #content2-im P {
   font-family: 'Slabo 27px', serif;
+  font-size: 11px;
+  text-align: left;
 }
 #footer1-c0 P {
   color: #282828;
