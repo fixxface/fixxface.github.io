@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 674,
+    "uniqCompNum": 677,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -12443,40 +12443,18 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>\b</p>",
-          "text2": "<p>\b</p>",
+          "text": "<p><br></p><p>-------------------------------------------------------------------------(NOTICE )</p><p><br></p><p>1.IG拍照打卡標記</p><p>2.google上寫下療程評論</p><p>3.FB上寫下療程後評論</p><p>以上步驟完成一項</p><p>並且轉發五月活動圖文</p><p>到個人IG 動即可享有以上優惠</p><p><br></p><p>--------------------------------------------------------------------------</p><p><br></p><p>♡五月份單筆消費滿五千 即可參加摸彩活動♡</p><p><b><br></b></p><p><b>獎項 1.</b></p><p>女神4 PACKS✨組合 ：</p><p>(洗面慕斯 精華水 極光精華)</p><p><b><br></b></p><p><b>獎項2.</b></p><p>奈美極音速「全臉拉提緊緻療程」</p><p>免費體驗一次(價值 $4500)</p><p><b><br></b></p><p><b>獎項3.</b></p><p>奈美極音速「保濕修護療程 」</p><p>免費體驗一次(價值$2800)</p><p><br></p><p><b>獎項4.</b></p><p>眉毛塑形 免費體驗一名</p><p><b><br></b></p><p><b>獎項5.</b></p><p>角蛋白美睫 免費體驗一名</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_anchor": "content6-io",
-          "_styles": {
-            ".lead P": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "14px",
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p>&nbsp;⚠️</p><p>完成一項選項並且轉發五月活動文到個人IG 限動即可享有以上優惠</p><p>1. IG拍照打卡標記</p><p>2. google上寫下療程評論</p><p>3. FB上寫下療程後評論</p></blockquote><blockquote><p>♡ 五月份單筆消費滿五千</p><p>&nbsp; &nbsp; &nbsp; &nbsp;即可參加摸彩活動</p><p><br></p><p>獎項 1.</p><p>女神4 PACKS✨組合 ：</p><p>卸妝乳 洗面慕斯 精華水 極光精華</p><p><br></p><p>獎項2.</p><p>奈美極音速「全臉拉提緊緻療程」 </p><p>免費體驗一次(價值 $4500)</p><p><br></p><p>獎項3.</p><p>奈美極音速「保濕修護療程 」</p><p>免費體驗一次(價值$2800)</p><p><br></p><p>獎項4. 眉毛塑形 免費體驗一名<br></p><p>獎項5. 角蛋白美睫 免費體驗一名<br></p><p><span style=\"font-size: 1.07rem;\"><br></span></p></blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-im",
+          "_name": "content1",
+          "_anchor": "content1-is",
           "_styles": {
             "P": {
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "11px",
-              "text-align": "left"
+              "text-align": "center",
+              "font-size": "14px"
             }
           }
         },
