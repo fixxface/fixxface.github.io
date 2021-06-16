@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page51.html",
+    "currentPage": "page56.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 688,
+    "uniqCompNum": 689,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -19511,12 +19511,15 @@
         },
         {
           "_params": {
-            "showText": false
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/beige-organic-star-life-cycle-astronomy-infographic-1-800x2000.png",
+              "src": "@PROJECT_PATH@/assets/images/1beige-organic-star-life-cycle-astronomy-infographic-1-1-1400x3272.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -19530,8 +19533,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-j1"
+          "_name": "image2",
+          "_anchor": "image2-j4"
         }
       ]
     }
