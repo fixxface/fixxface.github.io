@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page35.html",
+    "currentPage": "page56.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 677,
+    "uniqCompNum": 688,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1263,7 +1263,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "2",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -1585,7 +1585,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "5",
-        "order": 46
+        "order": 47
       },
       "components": [
         {
@@ -1891,7 +1891,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "1",
-        "order": 50
+        "order": 51
       },
       "components": [
         {
@@ -2192,7 +2192,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "3",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -2402,7 +2402,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "4",
-        "order": 47
+        "order": 48
       },
       "components": [
         {
@@ -12443,7 +12443,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>-------------------------------------------------------------------------</p><p>(NOTICE )</p><p><br></p><p>1.IG拍照打卡標記</p><p>2.google上寫下療程評論</p><p>3.FB上寫下療程後評論</p><p>以上步驟完成一項</p><p>並且轉發五月活動圖文</p><p>到個人IG 限動即可享有以上優惠</p><p><br></p><p>--------------------------------------------------------------------------</p><p><br></p><p>♡五月份單筆消費滿五千 即可參加摸彩活動♡</p><p><b><br></b></p><p><b>獎項 1.</b></p><p>女神4 PACKS✨組合 ：</p><p>(卸妝乳 洗面慕斯 精華水 極光精華)</p><p><b><br></b></p><p><b>獎項2.</b></p><p>奈美極音速「全臉拉提緊緻療程」</p><p>免費體驗一次(價值 $4500)</p><p><b><br></b></p><p><b>獎項3.</b></p><p>奈美極音速「保濕修護療程 」</p><p>免費體驗一次(價值$2800)</p><p><br></p><p><b>獎項4.</b></p><p>眉毛塑形 免費體驗一名</p><p><b><br></b></p><p><b>獎項5.</b></p><p>角蛋白美睫 免費體驗一名</p><p><br></p>",
+          "text": "<p>( NOTICE )</p><p><br></p><p>1.IG拍照打卡標記</p><p>2.google上寫下療程評論</p><p>3.FB上寫下療程後評論</p><p>以上步驟完成一項</p><p>並且轉發五月活動圖文</p><p>到個人IG 動即可享有以上優惠</p>",
           "_tags": [
             "Theme"
           ],
@@ -12454,7 +12454,28 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "text-align": "center",
-              "font-size": "14px"
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>/ 完成一項選項並且轉發五月活動文到個人IG 限動即可享有以上優惠</p><p>1. IG拍照打卡標記</p><p>2. google上寫下療程評論</p><p>3. FB上寫下療程後評論</p></blockquote><blockquote><p><br></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-im",
+          "_styles": {
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "11px",
+              "text-align": "center"
             }
           }
         },
@@ -18719,7 +18740,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "menu"
+          "_name": "menu",
+          "_anchor": "menu-j2"
         }
       ]
     },
@@ -19246,7 +19268,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "menu"
+          "_name": "menu",
+          "_anchor": "menu-j3"
         },
         {
           "_params": {
@@ -19255,29 +19278,29 @@
             "theme": "boundary",
             "slides": [
               {
-                "image": "@ADDONS_PATH@/wowslider/assets/images/slide3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide3.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide3.jpg",
-                "tooltip": "@ADDONS_PATH@/wowslider/assets/images/tooltip3.jpg",
+                "src": "@PROJECT_PATH@/assets/images/slide3.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip3.jpg",
                 "title": "title 1",
                 "text": "text 1"
               },
               {
-                "image": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide2.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@ADDONS_PATH@/wowslider/assets/images/tooltip2.jpg",
+                "src": "@PROJECT_PATH@/assets/images/slide2.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
                 "title": "title 2",
                 "text": "text 2"
               },
               {
-                "image": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide1.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@ADDONS_PATH@/wowslider/assets/images/tooltip1.jpg",
+                "src": "@PROJECT_PATH@/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
                 "title": "title 3",
                 "text": "text 3"
               }
@@ -19327,6 +19350,188 @@
           ],
           "_name": "header3",
           "_anchor": "header3-ih"
+        }
+      ]
+    },
+    "page56.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "menunew",
+        "order": 46
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "welcome to my studio !!!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "social-buttons1-iu"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#282828",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-iy"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-iz"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/beige-organic-star-life-cycle-astronomy-infographic-1-800x2000.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-j1"
         }
       ]
     }
