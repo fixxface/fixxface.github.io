@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page56.html",
+    "currentPage": "page51.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17524,7 +17524,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">超流體奈米美學科技<br>comming soon<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page52.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國眉毛塑形<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">角蛋白美睫<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"menu.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">臉部保養專區<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">超流體奈米美學科技<br>comming soon<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page52.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國眉毛塑形<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">角蛋白美睫<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page56.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">臉部保養專區<br></a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-h0"
         },
