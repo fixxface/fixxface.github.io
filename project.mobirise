@@ -89,7 +89,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<br>👋👋&nbsp; welcome to my studio !!! 👋👋<br><br>",
+          "text": "<br>👋👋&nbsp; welcome to my studio !!! 👋👋<br>",
           "_tags": [
             "Theme"
           ],
@@ -109,7 +109,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pink-and-blue-bright-outline-student-internship-graphic-designer-video-resume-talking-presentation-4-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/pink-gradient-motivational-quote-instagram-story-1080x1920.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -139,7 +139,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">預約須知 ❍ </a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">關於我們 ✹</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">關於我們 ✹</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">預約須知 ❍ </a>",
           "_tags": [
             "Theme"
           ],
