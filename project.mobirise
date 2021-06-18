@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "news.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 693,
+    "uniqCompNum": 704,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -135,11 +135,11 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">關於我們 ✹</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">預約須知 ❍ </a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page47.html\" data-toolbar=\"-mbrBtnMove\">關於我們 ✹</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\">預約須知 ❍ </a>",
           "_tags": [
             "Theme"
           ],
@@ -234,11 +234,11 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/2-1920x1080.png",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -348,7 +348,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -361,7 +361,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -374,7 +374,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "menu",
-        "order": 45
+        "order": 48
       },
       "components": [
         {
@@ -681,7 +681,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -695,7 +695,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -708,7 +708,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "news",
-        "order": 44
+        "order": 47
       },
       "components": [
         {
@@ -924,7 +924,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -938,7 +938,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -1003,7 +1003,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products",
-        "order": 30
+        "order": 33
       },
       "components": [
         {
@@ -1228,7 +1228,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -1242,7 +1242,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -1255,7 +1255,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "2",
-        "order": 50
+        "order": 53
       },
       "components": [
         {
@@ -1550,7 +1550,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -1564,7 +1564,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -1577,7 +1577,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "5",
-        "order": 47
+        "order": 50
       },
       "components": [
         {
@@ -1856,7 +1856,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -1870,7 +1870,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -1883,7 +1883,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "1",
-        "order": 51
+        "order": 54
       },
       "components": [
         {
@@ -2157,7 +2157,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -2171,7 +2171,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -2184,7 +2184,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "3",
-        "order": 49
+        "order": 52
       },
       "components": [
         {
@@ -2367,7 +2367,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -2381,7 +2381,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -2394,7 +2394,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "4",
-        "order": 48
+        "order": 51
       },
       "components": [
         {
@@ -2599,7 +2599,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -2613,7 +2613,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -2626,7 +2626,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products1",
-        "order": 31
+        "order": 34
       },
       "components": [
         {
@@ -2900,7 +2900,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -2914,7 +2914,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -2927,7 +2927,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products2",
-        "order": 39
+        "order": 42
       },
       "components": [
         {
@@ -3287,7 +3287,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -3301,7 +3301,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -3314,7 +3314,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-1",
-        "order": 40
+        "order": 43
       },
       "components": [
         {
@@ -3832,7 +3832,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -3846,7 +3846,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -3859,7 +3859,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-2",
-        "order": 42
+        "order": 45
       },
       "components": [
         {
@@ -4354,7 +4354,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -4368,7 +4368,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -4381,7 +4381,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro2-3",
-        "order": 43
+        "order": 46
       },
       "components": [
         {
@@ -4877,7 +4877,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -4891,7 +4891,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -4904,7 +4904,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro1-1",
-        "order": 32
+        "order": 35
       },
       "components": [
         {
@@ -5473,7 +5473,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -5487,7 +5487,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -5500,7 +5500,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 17",
-        "order": 41
+        "order": 44
       },
       "components": [
         {
@@ -6018,7 +6018,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -6032,7 +6032,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -6045,7 +6045,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know",
-        "order": 27
+        "order": 30
       },
       "components": [
         {
@@ -6251,7 +6251,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -6265,7 +6265,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -6278,7 +6278,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know1",
-        "order": 29
+        "order": 32
       },
       "components": [
         {
@@ -6751,7 +6751,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -6765,7 +6765,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -6778,7 +6778,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "eyelash",
-        "order": 22
+        "order": 25
       },
       "components": [
         {
@@ -7060,7 +7060,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -7074,7 +7074,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -7087,7 +7087,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "eyelash-1",
-        "order": 20
+        "order": 23
       },
       "components": [
         {
@@ -7403,7 +7403,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -7417,7 +7417,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -7433,7 +7433,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 19
+        "order": 22
       },
       "components": [
         {
@@ -7722,7 +7722,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -7736,7 +7736,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -7749,7 +7749,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "eyelashq&amp;a",
-        "order": 21
+        "order": 24
       },
       "components": [
         {
@@ -8008,7 +8008,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -8022,7 +8022,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -8035,7 +8035,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 24",
-        "order": 15
+        "order": 18
       },
       "components": [
         {
@@ -8248,7 +8248,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -8262,7 +8262,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -8275,7 +8275,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pronew",
-        "order": 33
+        "order": 36
       },
       "components": [
         {
@@ -8852,7 +8852,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -8866,7 +8866,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -8879,7 +8879,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class",
-        "order": 25
+        "order": 28
       },
       "components": [
         {
@@ -9161,7 +9161,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -9175,7 +9175,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -9188,7 +9188,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask1",
-        "order": 38
+        "order": 41
       },
       "components": [
         {
@@ -9748,7 +9748,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -9762,7 +9762,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -9775,7 +9775,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "happy1111",
-        "order": 10
+        "order": 13
       },
       "components": [
         {
@@ -10177,7 +10177,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -10191,7 +10191,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -10204,7 +10204,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "vvv",
-        "order": 18
+        "order": 21
       },
       "components": [
         {
@@ -10448,7 +10448,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -10462,7 +10462,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -10475,7 +10475,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "vqa",
-        "order": 17
+        "order": 20
       },
       "components": [
         {
@@ -10740,7 +10740,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -10754,7 +10754,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -10767,7 +10767,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "vphoto",
-        "order": 16
+        "order": 19
       },
       "components": [
         {
@@ -11119,7 +11119,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -11133,7 +11133,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -11146,7 +11146,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "mothersactivities",
-        "order": 7
+        "order": 10
       },
       "components": [
         {
@@ -11409,7 +11409,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -11423,7 +11423,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -11436,7 +11436,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2021Mother's Day activities sale",
-        "order": 12
+        "order": 15
       },
       "components": [
         {
@@ -11962,7 +11962,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -11976,7 +11976,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -12263,7 +12263,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2021Mother's Day activities",
-        "order": 14
+        "order": 17
       },
       "components": [
         {
@@ -12581,7 +12581,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -12595,7 +12595,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -12608,7 +12608,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "spf15",
-        "order": 37
+        "order": 40
       },
       "components": [
         {
@@ -13055,7 +13055,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -13069,7 +13069,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -13082,7 +13082,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "lasftreeblack",
-        "order": 36
+        "order": 39
       },
       "components": [
         {
@@ -13651,7 +13651,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -13665,7 +13665,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -13678,7 +13678,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask",
-        "order": 35
+        "order": 38
       },
       "components": [
         {
@@ -14277,7 +14277,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -14291,7 +14291,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -14304,7 +14304,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 39",
-        "order": 34
+        "order": 37
       },
       "components": [
         {
@@ -14637,7 +14637,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -14651,7 +14651,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -14664,7 +14664,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary",
-        "order": 9
+        "order": 12
       },
       "components": [
         {
@@ -14927,7 +14927,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -14941,7 +14941,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -14954,7 +14954,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary product",
-        "order": 8
+        "order": 11
       },
       "components": [
         {
@@ -15472,7 +15472,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -15486,7 +15486,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -15499,7 +15499,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary",
-        "order": 11
+        "order": 14
       },
       "components": [
         {
@@ -15762,7 +15762,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -15776,7 +15776,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -15789,7 +15789,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "class00",
-        "order": 26
+        "order": 29
       },
       "components": [
         {
@@ -16129,7 +16129,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -16143,7 +16143,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -16156,7 +16156,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "welcome to fixxface",
-        "order": 6
+        "order": 9
       },
       "components": [
         {
@@ -16223,66 +16223,99 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "showText": false
           },
           "media": {
             "image": {
               "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-1350x650.png",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1-1080x1080.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "title": "welcome to fixxface",
-          "text": "Time to fixxface<br><br>For yourself<br>For yoursoul<br>Be healthy original and positive<br><br>Health Mind Fitness Beauty<br><br>美是一種良性循環<br>就像宇宙的時序四季輪替不斷<br><br>生活努力奮鬥的妳<br>都該保持著風采和自信<br><br>無論外在內在<br>給您提供最佳的應對方案，解決您的困擾<br><br>休修臉 <br>啟動美的良性循環<br>帶著你一起變美變好<br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-ft",
-          "_styles": {
-            "P": {
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "font-size": "14px",
-              "text-align": "left"
+          "_name": "image1",
+          "_anchor": "image1-jg"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-1350x650.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             },
-            "H3": {
-              "font-size": "30px"
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
-          }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-je"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fixxface-1-1350x650.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-jf"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fixxface-2-1350x650.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-jh"
         },
         {
           "_styles": {
@@ -16382,7 +16415,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -16396,7 +16429,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -16409,7 +16442,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Technology Beauty",
-        "order": 5
+        "order": 8
       },
       "components": [
         {
@@ -16711,7 +16744,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -16725,7 +16758,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -16908,7 +16941,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Page 49",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -17008,7 +17041,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -17022,7 +17055,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -17035,7 +17068,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 50",
-        "order": 3
+        "order": 6
       },
       "components": [
         {
@@ -17135,7 +17168,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -17149,7 +17182,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -17162,7 +17195,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class eyebrow",
-        "order": 24
+        "order": 27
       },
       "components": [
         {
@@ -17444,7 +17477,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -17458,7 +17491,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -17471,7 +17504,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "item",
-        "order": 28
+        "order": 31
       },
       "components": [
         {
@@ -17684,7 +17717,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -17698,7 +17731,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -17711,7 +17744,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "browlift",
-        "order": 23
+        "order": 26
       },
       "components": [
         {
@@ -18108,7 +18141,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -18122,7 +18155,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -18135,7 +18168,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "new",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
@@ -18379,7 +18412,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -18393,7 +18426,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -18406,7 +18439,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "qa",
-        "order": 2
+        "order": 5
       },
       "components": [
         {
@@ -18714,7 +18747,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -18728,7 +18761,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -18741,7 +18774,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2020Mother's Day activities",
-        "order": 13
+        "order": 16
       },
       "components": [
         {
@@ -19242,7 +19275,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -19256,7 +19289,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -19349,7 +19382,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "menunew",
-        "order": 46
+        "order": 49
       },
       "components": [
         {
@@ -19480,7 +19513,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://line.me/R/ti/p/%40llr0044b",
+              "link": "index.html",
               "linkInNewWindow": true,
               "active": true
             },
@@ -19494,7 +19527,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -19527,6 +19560,451 @@
           ],
           "_name": "image2",
           "_anchor": "image2-j4"
+        }
+      ]
+    },
+    "page57.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Page 57",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#3d8eb9",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#307193"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3985ad!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3d8eb9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zuuth-181x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "speed",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-jb"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#282828",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-jc"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-jd"
+        }
+      ]
+    },
+    "page58.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Page 58",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#3d8eb9",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#307193"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3985ad!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3d8eb9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zuuth-181x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "speed",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-ji"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#282828",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-jj"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu"
         }
       ]
     }
