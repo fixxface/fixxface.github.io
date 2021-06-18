@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#efefef",
+        "primaryColor": "#7c706b",
         "secondaryColor": "#b86a7b",
         "successColor": "#d14841",
         "infoColor": "#f28281",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 691,
+    "uniqCompNum": 693,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -73,12 +73,43 @@
         },
         {
           "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<br>👋👋&nbsp; welcome to my studio !!! 👋👋<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-aa",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
             "showText": false
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pink-and-blue-bright-outline-student-internship-graphic-designer-video-resume-talking-presentation-2-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/pink-and-blue-bright-outline-student-internship-graphic-designer-video-resume-talking-presentation-4-1400x788.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -104,34 +135,16 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "facebook": false,
-            "twitter": false,
-            "google": false,
-            "vkontakte": false,
-            "odnoklassniki": false
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
           },
-          "text": "welcome to my studio !!!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">預約須知 ❍ </a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">關於我們 ✹</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-aa",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "16px"
-            }
-          }
+          "_name": "buttons1",
+          "_anchor": "buttons1-j8"
         },
         {
           "_params": {
@@ -202,19 +215,6 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-9z"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-j6"
         },
         {
           "_styles": {
