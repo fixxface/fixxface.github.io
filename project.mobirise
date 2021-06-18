@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "index.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -89,7 +89,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<br>👋👋&nbsp; welcome to my studio !!! 👋👋<br>",
+          "text": "👋👋&nbsp; welcome to my studio !!! 👋👋<br>",
           "_tags": [
             "Theme"
           ],
@@ -951,8 +951,8 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "64",
-            "paddingTop": "1",
+            "imageSize": "52",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -971,7 +971,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/black-glitch-edgy-minimalist-event-poster-1400x1275.png",
+              "src": "@PROJECT_PATH@/assets/images/pink-gradient-motivational-quote-instagram-story-3-1080x1920.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -996,58 +996,6 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-ga"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "64",
-            "paddingTop": "0",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/black-glitch-edgy-minimalist-event-poster-1400x1980.png",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-gb"
         }
       ]
     },
