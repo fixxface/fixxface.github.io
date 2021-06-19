@@ -6,12 +6,12 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#7c706b",
+        "primaryColor": "#41a85f",
         "secondaryColor": "#b86a7b",
         "successColor": "#d14841",
         "infoColor": "#f28281",
         "warningColor": "#fce794",
-        "dangerColor": "#a38f84",
+        "dangerColor": "#46a1d1",
         "titleFont": "Montserrat",
         "subtitleFont": "Roboto Condensed",
         "textFont": "Montserrat",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#46a1d1",
         "#232323",
         "#545050",
         "#e5e2dd",
         "#282828",
         "#d4b2b2",
-        "#b86a7b",
-        "#222222"
+        "#b86a7b"
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 708,
+    "uniqCompNum": 710,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -17545,6 +17545,119 @@
           "_anchor": "image1-jm"
         },
         {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/3-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/5-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "超流體奈米儀器美容",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "臉部保養專區",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "韓國眉毛塑形",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "韓國角蛋白美睫",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page48.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page56.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page52.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page20.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-jp"
+        },
+        {
           "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, p": {
@@ -17560,14 +17673,17 @@
             ".lead": {
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".btn": {
+              "font-size": "11px"
             }
           },
           "_params": {
             "showTitle": false,
-            "showText": true,
+            "showText": false,
             "showButton": true,
             "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
@@ -17582,11 +17698,11 @@
             "overlayOpacity": 0.5
           },
           "title": "<br><br><div><br></div>",
-          "text": "<p>&nbsp;服 務 項 目<span style=\"font-size: 1.07rem;\">service items</span></p><p><div><br></div></p>",
+          "text": "<p>&nbsp;服 務 項 目<span style=\"font-size: 1.07rem;\">service items</span></p><p></p><div><br></div><p></p>",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">超流體奈米儀器美容<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page52.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國眉毛塑形<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">角蛋白美睫<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page56.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">臉部保養專區<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">超流體奈米儀器美容<br></a>   <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page56.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">臉部保養專區<br></a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-h0"
         },
@@ -17774,6 +17890,55 @@
           ],
           "_name": "menu",
           "_anchor": "menu-hc"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "19px",
+              "text-align": "center",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "color": "#28324e"
+            },
+            ".lead": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br><div><br></div>",
+          "text": "<p>&nbsp;服 務 項 目<span style=\"font-size: 1.07rem;\">service items</span></p><p></p><div><br></div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page52.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>韓國眉毛塑形</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">角蛋白美睫<br></a> ",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-jo"
         }
       ]
     },
