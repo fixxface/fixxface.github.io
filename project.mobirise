@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "index.html",
+    "currentPage": "page39.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 716,
+    "uniqCompNum": 717,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -333,7 +333,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -575,7 +575,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -685,7 +685,7 @@
             "bgColor": "#fff"
           },
           "title": "",
-          "meta": "&nbsp;<br><br>",
+          "meta": "&nbsp;<br>",
           "_tags": [
             "Theme"
           ],
@@ -699,7 +699,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1280x1920.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pinkbubble-frame-1123x660.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -719,11 +719,138 @@
         },
         {
           "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-634-600x750.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-0632-2-600x750.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-624-600x750.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-627-600x750.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/s-71614545-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "保濕溫和卸妝乳&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "茶樹洗面慕斯&nbsp;",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "蠶絲蛋白發光精華水&nbsp;",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "嫩白胜肽極光精華",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "修護膠囊",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-jw",
+          "_styles": {
+            "H4": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "16px"
+            },
+            ".btn": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page25.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>休修臉 x 精華原液</p></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page27.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>休修臉 x&nbsp;爆水面膜</p></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>休修臉 x 醫美原液&nbsp;</p></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page38.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>&nbsp;面膜區</p></a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page39.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>&nbsp;潤澤修護膠囊</p></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page36.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>&nbsp;毛孔零負擔的水感亮白隔離霜</p></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page37.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">lashthree black睫毛修護增長液</a>       ",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page27.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>休修臉 x&nbsp;爆水面膜</p></a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page38.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>&nbsp;面膜區</p></a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page39.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>&nbsp;潤澤修護膠囊</p></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page36.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>&nbsp;毛孔零負擔的水感亮白隔離霜</p></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page37.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">lashthree black睫毛修護增長液</a>       ",
           "_tags": [
             "Theme"
           ],
@@ -879,7 +1006,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -1180,7 +1307,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -1505,7 +1632,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1640,7 +1767,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1776,7 +1903,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -2009,7 +2136,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -2509,7 +2636,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -2818,7 +2945,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -3161,7 +3288,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -3343,7 +3470,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -3480,7 +3607,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -3766,7 +3893,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -4006,7 +4133,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -4315,7 +4442,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -4571,7 +4698,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4726,7 +4853,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4902,7 +5029,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -5331,7 +5458,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -5602,7 +5729,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -5894,7 +6021,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -6273,7 +6400,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -6563,7 +6690,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -6883,7 +7010,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -7014,7 +7141,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -7116,7 +7243,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -7233,7 +7360,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -7735,7 +7862,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -8120,7 +8247,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8209,7 +8336,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -8593,7 +8720,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8716,7 +8843,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8805,7 +8932,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -9189,7 +9316,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -9323,7 +9450,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -9431,7 +9558,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -9591,6 +9718,9 @@
             ".mbr-section-subtitle SPAN": {
               "color": "#c0a375",
               "font-size": "12px"
+            },
+            ".mbr-section-title": {
+              "font-size": "13px"
             }
           },
           "_params": {
@@ -9599,7 +9729,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "<p>潤澤修護膠囊 20入</p><p><br></p>",
+          "title": "&nbsp;",
           "meta": "&nbsp;",
           "_tags": [
             "Theme"
@@ -9642,7 +9772,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "44",
+            "imageSize": "45",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -9661,11 +9791,12 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-7200-1400x1866.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s-71614545-1400x1866.jpg",
               "link": "",
               "alt": "",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://youtu.be/heMPn2qgdTs",
@@ -9679,8 +9810,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">----</span>",
-          "text": "潤養雙效合一<br>密集滲透直達肌底<br><br>特別適合易敏感和乾燥肌<br>易吸收不黏膩，形成保護膜，光潤彈滑<br><br>使用方法<br>每日保養時取一粒膠囊打開<br>均勻塗於臉部與頸部<br>輕按至吸收為止<br>夜間睡前使用效果更佳,亦能用於日間護理<br>主成分維生素E、彈性蛋白、二氧化鈦<br><br>質地的特別只有你用了才知道是什麼感覺的<br>有一種磨泥感！<br>有點輕微的搓泥，不用管它，<br>等它自己默默的吸收就好。<br><br>如果眼周有小細紋的也可以在眼周擦完按摩一下",
+          "title": "&nbsp;",
+          "text": "補水+保濕+鎖水<br>膠囊的部分就是用來「鎖水」的<br><br>大家對小白、小綠、小金都很好奇<br>這邊來跟大家介紹一下<br><br>［潤澤修護の小綠］<br><br>密集滲透直達肌底<br>特別適合易敏感和乾燥躁肌，<br>易吸收不粘膩 ，在皮膚形成保護膜！<br>質地的特別只有你用了才知道是什麼感覺的<br>有一種磨泥感！<br>（質地沙沙的無法用言語形容但很好吸收）<br><br>［9gf oil生長因子の小金］<br><br>9gfOil,內含9種生長因子<br>具高度保濕、緊緻、延緩老化、撫平細紋，使皮膚回復柔嫩有彈性<br>（內有角鯊晚烷及egf 質地是油的）<br>如果眼周有小細紋的也可以在眼周擦完按摩一下<br>9GF這款也適合拿來按摩用<br><br>［雪肌亮妍の小白］<br><br>亮白、撫紋、修復三合一<br>維持緊緻彈性的無暇美肌<br>適合日間保養最後一道保養<br>內含專利除皺微囊球，可以迅速撫平深層細紋，增加肌膚含水量讓肌膚更加平滑有彈性。<br>內有三種淨白因子能淡化黑色素，以防止黑色素生成，並減少色素沉著的狀況發生。<br><p>（質地是乳狀，不粘好吸收）</p><p>使用方法<br><br>每日保養時取一粒膠囊打開<br>均勻塗於臉部與頸部<br>輕按至吸收為止<br>小金小綠夜間睡前使用效果更佳,亦能用於日間護理<br>小白適用於日間護理：）<br></p><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -9696,34 +9827,13 @@
             },
             "P": {
               "text-align": "left",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "15px",
               "color": "#28324e"
             }
           },
           "_anchor": "msg-box5-d8"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "text": "&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "14px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content1-d9"
         },
         {
           "_params": {
@@ -9791,7 +9901,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -10081,7 +10191,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -10411,7 +10521,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -10531,7 +10641,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -10626,7 +10736,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -10916,7 +11026,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -11283,7 +11393,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -11569,7 +11679,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -11898,7 +12008,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -12160,7 +12270,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -12469,7 +12579,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -12628,13 +12738,13 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
             }
           },
-          "title1": "超流體奈米儀器美容",
+          "title1": "超流體奈米儀器美容<br>（消脂/拉提/童顏/美白）",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "臉部保養專區",
@@ -12652,10 +12762,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page48.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page56.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page52.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page20.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page48.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page56.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page52.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page20.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -12819,7 +12929,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -13268,7 +13378,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -13539,7 +13649,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -13874,7 +13984,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -14187,7 +14297,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -14307,7 +14417,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -14402,7 +14512,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -14640,7 +14750,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",

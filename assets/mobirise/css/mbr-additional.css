@@ -720,9 +720,18 @@ section.form .container {
   color: #efefef!important;
 }
 
+
+
 #header3-3j .mbr-section-title,
 #header3-3j .mbr-section-subtitle {
   text-align: center;
+}
+#features3-jw H4 {
+  font-family: 'Slabo 27px', serif;
+  font-size: 16px;
+}
+#features3-jw .btn {
+  font-family: 'Source Sans Pro', sans-serif;
 }
 #ext_menu-3a .hide-buttons .nav-btn {
   display: none !important;
@@ -4090,7 +4099,6 @@ section.form .container {
 
 
 
-
 #ext_menu-d5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4171,6 +4179,9 @@ section.form .container {
   color: #c0a375;
   font-size: 12px;
 }
+#header3-d6 .mbr-section-title {
+  font-size: 13px;
+}
 #footer1-d7 P {
   color: #282828;
   text-align: center;
@@ -4185,14 +4196,9 @@ section.form .container {
 }
 #msg-box5-d8 P {
   text-align: left;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Slabo 27px', serif;
   font-size: 15px;
   color: #28324e;
-}
-#content1-d9 P {
-  font-family: 'Roboto Slab', serif;
-  font-size: 14px;
-  text-align: left;
 }
 #menu-g4 .hide-buttons .nav-btn {
   display: none !important;
