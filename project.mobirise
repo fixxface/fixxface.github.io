@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "products.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 718,
+    "uniqCompNum": 720,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -209,12 +209,38 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page35.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">母親節活動<br>延續到疫情第三級解除除👋<br>2021Mother's Day activities sale<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家超流體奈米儀器<br></a>     <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路產品販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page35.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">優惠活動<br>延續到疫情第三級解除除👋<br>2021Mother's Day activities sale<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家超流體奈米儀器<br></a>          ",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-9z"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\">    課程教學 </a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\">服務項目</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-jy"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\">產品販售 </a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\">你可能很想知道</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-jz"
         },
         {
           "_styles": {
