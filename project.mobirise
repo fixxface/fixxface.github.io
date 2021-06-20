@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 724,
+    "uniqCompNum": 725,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -699,7 +699,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pinkbubble-frame-1123x660.png",
+              "src": "@PROJECT_PATH@/assets/images/4a4059e1-1e18-4a0f-8ff6-892d55f7aae0-1400x1400.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -716,6 +716,32 @@
           ],
           "_name": "image1",
           "_anchor": "image1-3g"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#2969b0",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "⭐️💫 More skin Less makeup 💫⭐️",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-k4"
         },
         {
           "_params": {
@@ -824,12 +850,12 @@
           "title6": "rainbow防曬隔離霜spf50+",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://fixxface.com/page1.html#slider1-47\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> ",
-          "button2": "<a data-app-btn=\"true\" href=\"https://fixxface.com/page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://fixxface.com/page9.html#slider1-4h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://fixxface.com/page10.html#slider1-4k\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"page39.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://fixxface.com/page1.html#slider1-47\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">💫MORE💫</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://fixxface.com/page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">💫MORE💫</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://fixxface.com/page9.html#slider1-4h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">💫MORE💫</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://fixxface.com/page10.html#slider1-4k\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">💫MORE💫</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"page39.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">💫MORE💫</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">💫MORE💫</a>",
           "_tags": [
             "Theme"
           ],
