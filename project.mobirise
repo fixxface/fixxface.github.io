@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page39.html",
+    "currentPage": "products.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#fff0b4",
         "#46a1d1",
         "#232323",
         "#545050",
         "#e5e2dd",
         "#282828",
-        "#d4b2b2",
-        "#b86a7b"
+        "#d4b2b2"
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 717,
+    "uniqCompNum": 718,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -797,10 +797,13 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s-71614554-600x750.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "保濕溫和卸妝乳&nbsp;",
@@ -818,15 +821,15 @@
           "title5": "修護膠囊",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
+          "title6": "rainbow防曬隔離霜spf50+",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"page39.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -850,7 +853,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page27.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>休修臉 x&nbsp;爆水面膜</p></a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page38.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>&nbsp;面膜區</p></a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page39.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>&nbsp;潤澤修護膠囊</p></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page36.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>&nbsp;毛孔零負擔的水感亮白隔離霜</p></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page37.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">lashthree black睫毛修護增長液</a>       ",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page27.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">爆水面膜</a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page38.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">特殊面膜</a>    <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page37.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">lashthreeblack睫毛修護增長液</a>       ",
           "_tags": [
             "Theme"
           ],
@@ -1632,7 +1635,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1767,7 +1770,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -3470,7 +3473,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4698,7 +4701,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4853,7 +4856,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -7010,7 +7013,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -7141,7 +7144,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -7360,7 +7363,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -7903,7 +7906,7 @@
     "page36.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "spf15",
+        "title": "sp50",
         "order": 40
       },
       "components": [
@@ -8023,15 +8026,26 @@
             ".mbr-section-subtitle SPAN": {
               "color": "#c0a375",
               "font-size": "12px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "25px",
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "16px"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "1",
-            "bgColor": "#fff"
+            "bgColor": "#fff0b4"
           },
-          "title": "<p>「 毛孔零負擔的水感亮白隔離霜30g 」&nbsp;</p>",
+          "title": "rainbow防曬隔離霜spf50+<br><br><div>(一隻做到 防曬隔離霜妝前乳打底保濕修飾)</div>",
           "meta": "&nbsp;",
           "_tags": [
             "Theme"
@@ -8072,10 +8086,10 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "35",
-            "paddingTop": "0",
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "38",
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -8093,11 +8107,12 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-7415-1400x1866.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s-71614554-1080x1350.jpg",
               "link": "",
               "alt": "",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://youtu.be/heMPn2qgdTs",
@@ -8111,9 +8126,9 @@
               "size": 0
             }
           },
-          "title": "又潤又亮又輕薄毛孔在呼吸的隔離霜妝前乳",
-          "text": "輕薄透 微微的潤色效果<br>不阻塞毛孔 洗臉就能卸除<br>可作為妝前防曬、提亮膚色 <br>有適度的潤色效果<br>創造出偽素顏的自然妝感<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "WHITENING CREAM MAKE UP BASE<br>又潤又亮又輕薄毛孔在呼吸的防曬隔離霜妝前乳",
+          "text": "輕薄透 微微的提亮修飾效果<br>不阻塞毛孔&nbsp;可作為妝前防曬<br>有適度的潤色效果，創造出偽素顏的自然妝感<br><br>使用特殊包覆技術將有效成分，包覆在晶球當中，三種顏色，打造透亮肌<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">30G/售價\b$999</a>",
           "_tags": [
             "Theme"
           ],
@@ -8121,33 +8136,20 @@
           "_styles": {
             "H3": {
               "color": "#7c706b",
-              "text-align": "left",
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
-              "font-size": "16px"
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "14px"
             },
             "P": {
-              "text-align": "left",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "15px",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px",
               "color": "#28262b"
             }
           },
           "_anchor": "msg-box5-cb"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">售價\b$999<br></a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-ce"
         },
         {
           "_params": {
@@ -8162,10 +8164,10 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "14px",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_anchor": "content1-cc"
@@ -8206,13 +8208,14 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7420-600x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/collage-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -8247,7 +8250,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8489,23 +8492,26 @@
             },
             ".mbr-section-title P": {
               "font-size": "20px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#c0a375"
             },
             ".mbr-section-subtitle SPAN": {
               "color": "#c0a375",
               "font-size": "12px"
+            },
+            ".mbr-section-title": {
+              "color": "#282828"
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "<p>Lashthree black</p><p>睫毛修護增長液優惠</p><p><br></p>",
-          "meta": "&nbsp;",
+          "title": "<p>Lashthree black 睫毛修護增長液</p>",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
@@ -8543,10 +8549,10 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "44",
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -8584,8 +8590,8 @@
               "size": 0
             }
           },
-          "title": "&nbsp;",
-          "text": "<br>✧ 店裡火熱產品之一 ✧<br>————睫毛增長液<br><br>Lashtree black<br>韓國熱賣育睫精華品牌<br><br>無論是接睫毛或是角蛋白也都可以擦<br>可以暫時填補假睫毛脫落時候的空洞<br>也可以激活休止期的毛囊<br>保持彈性與滋潤<br><br>LASHTREE天然成份提煉無刺激<br>富含14種天然韓方和草本精華<br>是不傷眼睛不會有黑眼圈紅眼圈的睫毛營養產品<br>可以孕育睫毛以及給予睫毛好能量<br>如果你睫毛是健康的營養足夠的<br>那麼你增長的數度就會非常快速～<br><br>各個客人購買回去後幾乎一個月就非常有效(◍ ´꒳` ◍)<br>也有厲害的兩週就很有感～<br><br>made in Korea<br>韓國原裝進口<br>有興趣可以詢問(灬ºωº灬)♡<br><br>✧<br>_____________________________________﻿<br><br>",
+          "title": "",
+          "text": "✧ 店裡火熱產品之一 ✧<br>————睫毛增長液<br><br>Lashtree black<br>韓國熱賣育睫精華品牌<br><br>無論是接睫毛或是角蛋白也都可以擦<br>可以暫時填補假睫毛脫落時候的空洞<br>也可以激活休止期的毛囊<br>保持彈性與滋潤<br><br>LASHTREE天然成份提煉無刺激<br>富含14種天然韓方和草本精華<br>是不傷眼睛不會有黑眼圈紅眼圈的睫毛營養產品<br>可以孕育睫毛以及給予睫毛好能量<br>如果你睫毛是健康的營養足夠的<br>那麼你增長的數度就會非常快速～<br><br>各個客人購買回去後幾乎一個月就非常有效(◍ ´꒳` ◍)<br>也有厲害的兩週就很有感～<br><br>made in Korea<br>韓國原裝進口<br>韓國老師們都用這款(灬ºωº灬)♡<br><br>✧<br>_____________________________________﻿<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -8600,7 +8606,7 @@
               "font-size": "20px"
             },
             "P": {
-              "text-align": "left",
+              "text-align": "center",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "15px",
@@ -8720,7 +8726,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8843,7 +8849,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -9316,7 +9322,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -9450,7 +9456,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -10521,7 +10527,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -10641,7 +10647,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -12738,7 +12744,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -14297,7 +14303,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -14417,7 +14423,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true

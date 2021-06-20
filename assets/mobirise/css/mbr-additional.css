@@ -16,7 +16,6 @@
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 
@@ -3578,6 +3577,8 @@ section.form .container {
 
 
 
+
+
 #ext_menu-c8 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3659,6 +3660,15 @@ section.form .container {
   color: #c0a375;
   font-size: 12px;
 }
+#header3-c9 .mbr-section-title {
+  font-family: 'Slabo 27px', serif;
+  font-size: 25px;
+  text-align: center;
+}
+#header3-c9 .mbr-section-title DIV {
+  font-family: 'Slabo 27px', serif;
+  font-size: 16px;
+}
 #footer1-ca P {
   color: #282828;
   text-align: center;
@@ -3667,20 +3677,20 @@ section.form .container {
 }
 #msg-box5-cb H3 {
   color: #7c706b;
-  text-align: left;
-  font-family: 'Arimo', sans-serif;
-  font-size: 16px;
+  text-align: center;
+  font-family: 'Slabo 27px', serif;
+  font-size: 14px;
 }
 #msg-box5-cb P {
-  text-align: left;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 15px;
+  text-align: center;
+  font-family: 'Slabo 27px', serif;
+  font-size: 13px;
   color: #28262b;
 }
 #content1-cc P {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Slabo 27px', serif;
   font-size: 14px;
-  text-align: left;
+  text-align: center;
 }
 #menu-g4 .hide-buttons .nav-btn {
   display: none !important;
@@ -3822,12 +3832,15 @@ section.form .container {
 }
 #header3-cj .mbr-section-title P {
   font-size: 20px;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
   color: #c0a375;
 }
 #header3-cj .mbr-section-subtitle SPAN {
   color: #c0a375;
   font-size: 12px;
+}
+#header3-cj .mbr-section-title {
+  color: #282828;
 }
 #footer1-ck P {
   color: #282828;
@@ -3842,7 +3855,7 @@ section.form .container {
   font-size: 20px;
 }
 #msg-box5-cl P {
-  text-align: left;
+  text-align: center;
   font-family: 'PT Sans', sans-serif;
   font-size: 15px;
   color: #28262b;
