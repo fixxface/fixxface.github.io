@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 720,
+    "uniqCompNum": 724,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -209,38 +209,12 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page35.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">優惠活動<br>延續到疫情第三級解除除👋<br>2021Mother's Day activities sale<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家超流體奈米儀器<br></a>          ",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page35.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">母親節活動<br>延續到疫情第三級解除除👋<br>2021Mother's Day activities sale<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家超流體奈米儀器<br></a>     <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路產品販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-9z"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\">    課程教學 </a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\">服務項目</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-jy"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\">產品販售 </a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\">你可能很想知道</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-jz"
         },
         {
           "_styles": {
@@ -359,7 +333,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -368,7 +342,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">服務項目</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">療程介紹<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page51.html\">療程總覽</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\">獨家儀器療程</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\">基本臉部護膚</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\">角蛋白睫毛</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\">眉毛塑型</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">服務項目</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">療程介紹<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page51.html\">療程總覽</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\">獨家儀器療程</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\">基本臉部護膚</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\">角蛋白睫毛</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\">眉毛塑型</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
