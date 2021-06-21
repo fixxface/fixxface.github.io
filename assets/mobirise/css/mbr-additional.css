@@ -13,9 +13,9 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
-@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 
@@ -722,6 +722,8 @@ section.form .container {
 
 
 
+
+
 #header3-3j .mbr-section-title,
 #header3-3j .mbr-section-subtitle {
   text-align: center;
@@ -740,6 +742,13 @@ section.form .container {
   font-size: 16px;
 }
 #features3-jw .btn {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#features3-k5 H4 {
+  font-size: 16px;
+  font-family: 'Bitter', serif;
+}
+#features3-k5 .btn {
   font-family: 'Source Sans Pro', sans-serif;
 }
 #ext_menu-3a .hide-buttons .nav-btn {
@@ -2366,11 +2375,23 @@ section.form .container {
 
 
 
-
-
-
-
-
+#header3-ka .mbr-section-title,
+#header3-ka .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-ka .mbr-section-title {
+  font-size: 8px;
+}
+#header3-ka .mbr-section-subtitle {
+  font-size: 8px;
+}
+#header3-k9 .mbr-section-title,
+#header3-k9 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-k9 .mbr-section-title {
+  font-size: 8px;
+}
 #ext_menu-9e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2433,52 +2454,16 @@ section.form .container {
 #ext_menu-9e .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
 }
-#header3-9f .mbr-section-title,
-#header3-9f .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-9f .mbr-section-subtitle {
-  text-align: center;
-  font-size: 13px;
-  color: #7c706b;
-  font-family: 'Lora', serif;
-}
-#header3-9f .mbr-section-title P {
-  font-size: 20px;
-  font-family: 'Droid Serif', serif;
-  color: #222222;
-  text-align: center;
-}
-#header3-9f .mbr-section-subtitle SPAN {
-  color: #c0a375;
-  font-size: 12px;
-}
 #content1-bl P {
   text-align: center;
-  font-family: 'Bitter', serif;
-  font-size: 14px;
-}
-#content1-bm P {
-  font-family: 'Bitter', serif;
-  font-size: 13px;
-  text-align: left;
+  font-family: 'Slabo 27px', serif;
+  font-size: 11px;
 }
 #footer1-9g P {
   color: #282828;
   text-align: center;
   font-family: 'Slabo 27px', serif;
   font-size: 12px;
-}
-#content1-9i P {
-  font-family: 'Roboto Slab', serif;
-  font-size: 14px;
-  text-align: left;
-}
-#content7-9l P {
-  color: #28324e;
-  font-family: 'Arimo', sans-serif;
-  font-size: 14px;
-  text-align: left;
 }
 #menu-g4 .hide-buttons .nav-btn {
   display: none !important;
