@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "products.html",
+    "currentPage": "page48.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -965,7 +965,7 @@
           "title3": "lashthreeblack<br>睫毛修護增長液",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "唇膜眼膜",
+          "title4": "唇膜/眼膜",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
@@ -11540,7 +11540,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/5-1400x1980.png",
+              "src": "@PROJECT_PATH@/assets/images/pink-and-blue-general-report-3-1400x1980.png",
               "width": 1400,
               "link": "",
               "alt": "",
