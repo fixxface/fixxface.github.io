@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page27.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 741,
+    "uniqCompNum": 752,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -209,7 +209,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page35.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">母親節活動<br>延續到疫情第三級解除除👋<br>2021Mother's Day activities sale<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家超流體奈米儀器<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路產品販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page41.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> ☁️ summer sale ☁️<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家超流體奈米儀器<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 課程教學 &nbsp; &nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目 </a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 網路產品販售&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
           "_tags": [
             "Theme"
           ],
@@ -342,7 +342,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">服務項目</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">療程介紹<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page51.html\">療程總覽</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\">獨家儀器療程</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\">基本臉部護膚</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\">角蛋白睫毛</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\">眉毛塑型</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">服務項目</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">療程介紹<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page51.html\">療程總覽</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\">獨家儀器療程</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\">基本臉部護膚</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\">角蛋白睫毛</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\">眉毛塑型</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
@@ -2892,7 +2892,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 24",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -3959,7 +3959,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "vvv",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -4230,7 +4230,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "vqa",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -4426,7 +4426,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "vphoto",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -5634,7 +5634,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2021Mother's Day activities",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -10856,7 +10856,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2020Mother's Day activities",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -11565,7 +11565,8 @@
               "font-size": "8px"
             },
             ".mbr-section-subtitle": {
-              "font-size": "8px"
+              "font-size": "8px",
+              "color": "#545050"
             }
           },
           "_params": {
@@ -11835,7 +11836,739 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "menu"
+          "_name": "menu",
+          "_anchor": "menu-kl"
+        }
+      ]
+    },
+    "page41.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "summer sale",
+        "order": 12
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "&nbsp;",
+          "meta": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-km"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bright-minimalist-summer-beauty-preps-multipage-instagram-post-1080x1080.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-kn"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>（☁️）</b></p><p><b>七月夏季商品優惠來哩</b></p><p><b>防疫期間在家好好做保養</b></p><p><b>疫情結束才能帶著嫩白透亮的肌膚見朋友們呀</b></p><p><b>你們說是不是🙂</b></p><p><b><br></b></p><p><b>期待不用再戴口罩的那天</b></p><p><b>也期待皮膚好出新高度</b></p><p><b><br></b></p><p><b>七月持續新優惠</b></p><p><b>歡迎逛逛♡♡♡♡</b></p><p><b><br></b></p><p><b>#夏季優惠進行中</b></p><p><b>#臉部保養 #居家保養</b></p><p><br></p><p> </p><p><b>fixxface獨家保養品</b></p><p>幫大家做療程使用的產品都在這</p><p>任合肌膚都適合的一系列產品</p><p><br></p><p>1.&nbsp;<a href=\"https://fixxface.com/page1.html\" class=\"text-primary\">&nbsp;</a><b>保濕溫和卸妝乳</b>&nbsp; &nbsp;8.5 fl oz.| 250ml&nbsp;&nbsp;</p><p>NT$ 999&nbsp;&nbsp;↘︎&nbsp;ONSALE&nbsp; <b><a href=\"https://fixxface.com/page1.html\" class=\"text-success\" target=\"_blank\">&nbsp;<b>NT$ 750</b></a></b></p><p><br></p><p>2.<b>&nbsp; 茶樹洗面慕斯</b>&nbsp; 5 fl oz.| 150ml<br></p><p>NT$ 999 ↘︎&nbsp;ONSALE<b>&nbsp;<a href=\"https://fixxface.com/page7.html#slider1-4e\" class=\"text-success\" target=\"_blank\">&nbsp;<b>NT$ 750</b></a></b></p><p><br></p><p>3. <b>蠶絲蛋白發光精華水</b>&nbsp; 3.4 fl oz.| 100ml</p><p>NT$ 1299&nbsp; ↘︎&nbsp;ONSALE&nbsp;<b> <a href=\"https://fixxface.com/page9.html#slider1-4h\" class=\"text-success\" target=\"_blank\"><b>NT$ 975</b></a></b></p><p><br></p><p>4. <b>嫩白胜肽極光精華</b>&nbsp; 1.7 fl oz.| 50ml</p><p>NT$ 1499&nbsp; ↘︎&nbsp;ONSALE&nbsp; <a href=\"https://fixxface.com/page10.html#slider1-4k\" class=\"text-success\" target=\"_blank\"><b>NT$ 1050</b></a><br></p><p><br></p><p>蝦皮開幕慶SALE</p><p><br></p><p>🪄女神4 PACKS✨</p><p>#女神組合.</p><p>卸妝乳 洗面慕斯 精華水&nbsp; 極光精華</p><p>&nbsp;就贈送【SELF-LOVE FOR ALL收納包】</p><p>NT$ 4796&nbsp; ↘︎ ONSALE&nbsp; <b><a href=\"https://shopee.tw/Fixxface-%E5%A5%B3%E7%A5%9E%E7%B5%84%E5%90%88-i.412916376.8237134750\" class=\"text-success\">NT$ 3288</a></b></p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><br></p><p>限量面膜驚喜價格</p><p><br></p><p>面膜裸包大屯貨專區</p><p>爆水面膜/ 術後保濕面膜(new)\b</p><p>（♡ 10片散裝 720&nbsp; ♡ ）</p><p>（♡ 50片散裝 3300 ♡ ）</p><p><br></p><p>以下看圖片優惠：）</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "color": "#28262b",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#d14841"
+            }
+          },
+          "_anchor": "content1-ko"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#282828",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-kp"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-762-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-765-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-763-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-764-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "保濕溫和卸妝乳 <br>  8.5 fl oz.| 250ml&nbsp;&nbsp;",
+          "subtitle1": "",
+          "caption1": "NT$ 999 ↘︎ ONSALE NT$ 750<br>",
+          "title2": "茶樹洗面慕斯<br>  5 fl oz.| 150ml",
+          "subtitle2": "售價$1688元",
+          "caption2": "NT$ 999 ↘︎ ONSALE NT$ 750<br>",
+          "title3": "蠶絲蛋白發光精華水<br>3.4 fl oz.| 100ml&nbsp;",
+          "subtitle3": "售價$699元",
+          "caption3": "NT$ 1299 ↘︎ ONSALE NT$ 975<br><br>",
+          "title4": "嫩白胜肽極光精華 <br> 1.7 fl oz.| 50ml",
+          "subtitle4": "售價$599元",
+          "caption4": "NT$ 1499 ↘︎ ONSALE NT$ 1050<br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page36.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page25.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page39.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page27.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "15px",
+              "text-align": "center",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            },
+            "H4": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features3-kq"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-776-600x750.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bright-minimalist-summer-beauty-preps-multipage-instagram-post-3-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bright-minimalist-summer-beauty-preps-multipage-instagram-post-5-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bright-minimalist-summer-beauty-preps-multipage-instagram-post-6-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "🪄女神4 PACKS✨<div><span style=\"color: inherit; font-size: 1.25rem; background-color: initial;\">#女神組合贈送</span></div><div>【SELF-LOVE FOR ALL收納包】</div>",
+          "subtitle1": "售價$399元",
+          "caption1": "NT$ 4796 ↘︎ ONSALE NT$ 3288<br>",
+          "title2": "lashthree black精裝版睫毛修護增長液",
+          "subtitle2": "售價$299元",
+          "caption2": "↘︎ ONSALE&nbsp; $1499 (原價1580)",
+          "title3": "泡泡深層清潔面膜",
+          "subtitle3": "售價$1580元",
+          "caption3": "原價單片$120 五片$499 十片＄930 二十五片$2150<br>",
+          "title4": "面膜裸包大屯貨專區<div>爆水面膜/ 絲可拉B5抗發炎面膜</div>",
+          "subtitle4": "售價$950元",
+          "caption4": "（♡ 10片散裝 720  ♡ ）<br>（♡ 50片散裝 3300 ♡ ）",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page37.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MTM3NzcyNjgyMDIwMzMw?igshid=ye06onaq6w8&amp;story_media_id=2286085471721148868\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "14px",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            },
+            "H4": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features3-kr"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">服務項目</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">療程介紹<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page51.html\">療程總覽</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\">獨家儀器療程</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\">基本臉部護膚</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\">角蛋白睫毛</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\">眉毛塑型</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-ks"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bright-minimalist-summer-beauty-preps-multipage-instagram-post-7-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bright-minimalist-summer-beauty-preps-multipage-instagram-post-14-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bright-minimalist-summer-beauty-preps-multipage-instagram-post-1-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bright-minimalist-summer-beauty-preps-multipage-instagram-post-13-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "心型眼部按摩棒",
+          "subtitle1": "售價$399元",
+          "caption1": "&nbsp;↘︎<br>ONSALE $699<br>",
+          "title2": "潤澤修護膠囊 （小綠）\b/9GF生長因子時空膠囊（小金）/ 雪肌亮顏膠囊（小白）",
+          "subtitle2": "售價$299元",
+          "caption2": "售價$699元 ↘︎<br> ONSALE優惠＄549 (20入)",
+          "title3": "rainbow防曬隔離霜spf50+<div>(一隻做到 防曬隔離霜妝前乳打底保濕修飾)</div>",
+          "subtitle3": "售價$1580元",
+          "caption3": "售價$999 ↘︎ <br>ONSALE優惠＄769",
+          "title4": "七月單筆消費滿$5000&nbsp;<div>贈送獨家【SELF-LOVE FOR ALL收納包】</div><div>以及五片絲可拉B5抗發炎治愈面膜💫</div>",
+          "subtitle4": "售價$950元",
+          "caption4": "&nbsp;♡",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page38.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page37.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MTM3NzcyNjgyMDIwMzMw?igshid=ye06onaq6w8&amp;story_media_id=2286085471721148868\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "14px",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            },
+            "H4": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "17px"
+            },
+            "DIV": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "features3-kt"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5a417fa0-06ad-46a8-b3e5-6e1688163605-828x828.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5a417fa0-06ad-46a8-b3e5-6e1688163605-828x828-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-777-1080x1350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-777-1080x1350-800x1000.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/27b74096-e740-4a76-9ce9-58e670144556-1-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/27b74096-e740-4a76-9ce9-58e670144556-1-2000x2667-800x1067.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/f85db6cb-7a17-4095-bcb0-ce614a29721a-828x842.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/f85db6cb-7a17-4095-bcb0-ce614a29721a-828x842-800x814.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-746-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-746-1080x1080-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-4483-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4483-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/173eac86-e48c-4572-bb4b-a706b00da2e5-828x828.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/173eac86-e48c-4572-bb4b-a706b00da2e5-828x828-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/image-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-ku"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/2-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fixxface/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-kv"
         }
       ]
     }
