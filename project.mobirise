@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page50.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -109,7 +109,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pinkbubble-frame-1123x660-1-1123x660.png",
+              "src": "@PROJECT_PATH@/assets/images/a5acc53b-5e72-478f-8f6b-ee3e93c7dd9a-1400x1400.png",
               "width": 1400,
               "link": "",
               "alt": "",
