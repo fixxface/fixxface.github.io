@@ -4164,34 +4164,12 @@ section.form .container {
   padding-right: 0;
 }
 
-
-
-
-
-
-
-
-
-
 #header3-lh .mbr-section-title,
 #header3-lh .mbr-section-subtitle {
   text-align: center;
 }
 #header3-lh .mbr-section-title {
   font-size: 9px;
-}
-#image1-l7 P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#header3-lk .mbr-section-title,
-#header3-lk .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-lk .mbr-section-title {
-  font-size: 9px;
-}
-#image1-l9 P {
-  font-family: 'Source Sans Pro', sans-serif;
 }
 #footer1-l4 P {
   color: #282828;
@@ -4260,26 +4238,6 @@ section.form .container {
 #menu-l5 .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
 }
-#header3-lf .mbr-section-title,
-#header3-lf .mbr-section-subtitle {
-  text-align: center;
-}
-#image1-l8 P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#image1-la P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#header3-li .mbr-section-title,
-#header3-li .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-li .mbr-section-title {
-  font-size: 9px;
-}
-#image1-lb P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
 #header3-lj .mbr-section-title,
 #header3-lj .mbr-section-subtitle {
   text-align: center;
@@ -4287,15 +4245,13 @@ section.form .container {
 #header3-lj .mbr-section-title {
   font-size: 9px;
 }
-#image1-lc P {
-  font-family: 'Source Sans Pro', sans-serif;
+#header3-lw .mbr-section-title,
+#header3-lw .mbr-section-subtitle {
+  text-align: center;
 }
-#image1-ld P {
-  font-family: 'Source Sans Pro', sans-serif;
+#header3-lw .mbr-section-title {
+  font-size: 9px;
 }
-#image1-le P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#image1-lm P {
-  font-family: 'Source Sans Pro', sans-serif;
+#header3-lw .mbr-section-subtitle {
+  font-size: 9px;
 }
