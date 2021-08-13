@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "index.html",
+    "currentPage": "page50.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -156,7 +156,7 @@
           },
           "title": "七夕快閃活動",
           "text": "'' two days sale ''",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnMove\">shop now</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page50.html\" data-toolbar=\"-mbrBtnMove\">shop now</a>",
           "_tags": [
             "Theme"
           ],
@@ -13016,7 +13016,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">蝦皮購買</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnMove\">line訂購工作室取貨</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://shopee.tw/fixxface\" data-toolbar=\"-mbrBtnMove\">蝦皮購買</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnMove\">line訂購工作室取貨</a>",
           "_tags": [
             "Theme"
           ],
