@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
@@ -8,6 +7,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
@@ -16,7 +16,6 @@
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
-
 
 
 
@@ -485,27 +484,14 @@ section.form .container {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
+#image1-j5 P {
+  font-family: 'Source Sans Pro', sans-serif;
+}
 #social-buttons1-aa .mbr-section-title {
   text-align: center;
   font-size: 16px;
 }
 #image1-kz P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#msg-box1-ky H2 {
-  color: #d4b2b2;
-  text-align: center;
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box1-ky H3 {
-  font-size: 46px;
-  text-align: center;
-  color: #282828;
-}
-#image1-j5 P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#image1-a2 P {
   font-family: 'Source Sans Pro', sans-serif;
 }
 #header3-gi .mbr-section-title,
@@ -516,6 +502,9 @@ section.form .container {
   font-size: 15px;
   font-family: 'Droid Sans', sans-serif;
   text-align: center;
+}
+#image1-a2 P {
+  font-family: 'Source Sans Pro', sans-serif;
 }
 #social-buttons2-fj .mbr-section-title,
 #social-buttons2-fj .btn-social {
