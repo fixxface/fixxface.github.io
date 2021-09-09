@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "index.html",
+    "currentPage": "page41.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -12157,7 +12157,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bright-minimalist-summer-beauty-preps-multipage-instagram-post-5-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/6-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -12169,7 +12169,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bright-minimalist-summer-beauty-preps-multipage-instagram-post-6-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/7-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -12203,10 +12203,10 @@
           "caption2": "↘︎ ONSALE&nbsp; $1499 (原價1580)",
           "title3": "泡泡深層清潔面膜",
           "subtitle3": "售價$1580元",
-          "caption3": "原價單片$120 五片$499 十片＄930 二十五片$2150<br>",
+          "caption3": "原價單片$120&nbsp; 十片＄930 二十五片$2150<br>",
           "title4": "面膜裸包大屯貨專區<div>爆水面膜/ 絲可拉B5抗發炎面膜</div>",
           "subtitle4": "售價$950元",
-          "caption4": "（♡ 10片散裝 720  ♡ ）<br>（♡ 50片散裝 3300 ♡ ）",
+          "caption4": "（♡ 10片散裝 750  ♡ ）<br>（♡ 50片散裝 3500 ♡ ）",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -12364,7 +12364,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bright-minimalist-summer-beauty-preps-multipage-instagram-post-14-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/15-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -12419,7 +12419,7 @@
           "caption1": "&nbsp;↘︎<br>ONSALE $699<br>",
           "title2": "潤澤修護膠囊 （小綠）\b/9GF生長因子時空膠囊（小金）/ 雪肌亮顏膠囊（小白）",
           "subtitle2": "售價$299元",
-          "caption2": "售價$699元 ↘︎<br> ONSALE優惠＄549 (20入)",
+          "caption2": "售價$699元 ↘︎<br><br>",
           "title3": "rainbow防曬隔離霜spf50+<div>(一隻做到 防曬隔離霜妝前乳打底保濕修飾)</div>",
           "subtitle3": "售價$1580元",
           "caption3": "售價$999 ↘︎ <br>ONSALE優惠＄769",
