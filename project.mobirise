@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page41.html",
+    "currentPage": "page28.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 791,
+    "uniqCompNum": 799,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -405,7 +405,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "news",
-        "order": 45
+        "order": 40
       },
       "components": [
         {
@@ -604,7 +604,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products",
-        "order": 36
+        "order": 31
       },
       "components": [
         {
@@ -1027,7 +1027,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products1",
-        "order": 37
+        "order": 32
       },
       "components": [
         {
@@ -1232,7 +1232,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro1-1",
-        "order": 38
+        "order": 33
       },
       "components": [
         {
@@ -1732,7 +1732,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know",
-        "order": 33
+        "order": 28
       },
       "components": [
         {
@@ -1869,7 +1869,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know1",
-        "order": 35
+        "order": 30
       },
       "components": [
         {
@@ -2273,7 +2273,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "eyelash",
-        "order": 28
+        "order": 23
       },
       "components": [
         {
@@ -2486,7 +2486,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "eyelash-1",
-        "order": 26
+        "order": 21
       },
       "components": [
         {
@@ -2733,7 +2733,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "eyelashq&amp;a",
-        "order": 27
+        "order": 22
       },
       "components": [
         {
@@ -2923,7 +2923,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 24",
-        "order": 22
+        "order": 17
       },
       "components": [
         {
@@ -3067,7 +3067,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class",
-        "order": 31
+        "order": 26
       },
       "components": [
         {
@@ -3280,7 +3280,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "waterbomb",
-        "order": 43
+        "order": 38
       },
       "components": [
         {
@@ -3657,72 +3657,45 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "happy1111",
-        "order": 16
+        "order": 11
       },
       "components": [
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "50",
-            "paddingTop": "4",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-m6"
+        },
+        {
+          "_params": {
+            "showText": false
           },
           "media": {
             "image": {
               "active": true,
+              "src": "@PROJECT_PATH@/assets/images/s-91316246-1080x1080.jpg",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/s-47292736-960x1707.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "title": "<div><br></div><div>慶祝雙11優惠來哩</div>",
-          "text": "光棍節不孤單 <br>休修臉陪你過<br>快閃活動 只有一天 ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-am",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
-              "font-size": "22px",
-              "color": "#a38f84"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "_name": "image1",
+          "_anchor": "image1-m5"
         },
         {
           "_params": {
@@ -3730,7 +3703,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span></p><p><br></p><p>休修臉雙11將推出快閃活動</p><p>繼週年慶活動後</p><p>2019.11.11</p><p>只有一天</p><p>!! &nbsp;sale sale sale !!</p><p>上一波沒有買足沒搶到的～</p><p>趕快跟上嘍</p><p>____</p><p><br></p><p>ෆ 韓國角蛋白 ෆ</p><p>雙人同行一人$1111/一人限購一組</p><p>（使用期限11/12-12/31）</p><p><br></p><p>ෆ 韓國Toray增長液 ෆ</p><p>優惠最後一波</p><p>兩隻$1111</p><p>（限量十組）</p><p><br></p><p>ෆ 藍藻軟膜/黃金嫩白軟膜 ෆ</p><p>單片原價$299</p><p>雙十一價 </p><p>兩片＄222 單片＄111</p><p><br></p><p>ෆ Zuuth如瓷保濕緊緻精華 ෆ</p><p>雙十一優惠 $1111</p><p>（每人限購一盒）</p><p><br></p><p><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">慶祝雙11優惠來哩</span></p><p><span style=\"font-size: 1.07rem;\">光棍節不孤單 休修臉陪你過</span></p><p><span style=\"font-size: 1.07rem;\">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 17.12px;\"><b>fixxface保養品系列優惠</b></span></p><p><br></p><p>乾淨溜溜清潔組合</p><p><b>售價1998↘︎ SALE $1498</b></p><p><br></p><p>&nbsp;| 保濕溫和卸妝乳  8.5 fl oz.| 250ml  NT$ 999&nbsp;</p><p>&nbsp;|  茶樹洗面慕斯 5 fl oz.| 150ml  NT$ 999&nbsp;</p><p><br></p><p>男女適用的養膚組合</p><p><b>售價2798↘︎ SALE $2050</b></p><p><b><br></b></p><p><span style=\"font-size: 1.07rem;\">| 蠶絲蛋白發光精華水 3.4 fl oz.| 100ml NT$ 1299</span></p><p><span style=\"font-size: 1.07rem;\">| 嫩白胜肽極光精華 1.7 fl oz.| 50ml| NT$ 1499&nbsp;</span></p><p><br></p><p><span style=\"font-size: 1.07rem;\">#女神組合#男神組合</span></p><p><span style=\"font-size: 1.07rem;\">售價4796↘︎ SALE $3500</span></p><p><span style=\"font-size: 1.07rem;\">| 保濕溫和卸妝乳 8.5 fl oz.| 250ml    NT$ 999&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">| 茶樹洗面慕斯 5 fl oz.| 150ml   NT$ 999&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">| 蠶絲蛋白發光精華水 3.4 fl oz.| 100ml   NT$ 1299</span></p><p><span style=\"font-size: 1.07rem;\">| 嫩白胜肽極光精華 1.7 fl oz.| 50ml.  NT$ 1499&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>1. 斷貨產品 以後將不販售</p><p>最後一次出貨絲可拉B5抗發炎治癒面膜</p><p>10片/ $ 850</p><p>50片(盒)/ $3500</p><p><br></p><p>2. 新品裸包搶先體驗</p><p>極光有機玫瑰花水嫩白面膜 （單片$150）</p><p>入冬美白計畫</p><p>10片/ $930</p><p>50片/$4250</p><p><br></p><p>3. 泡泡面膜優惠（單片$120）</p><p>10片/$900&nbsp;&nbsp;</p><p>30片/$2520</p><p><br></p><p>4. 胜肽酸組合</p><p>2入1900(省340</p><p>3入2699(省661</p><p><br></p><p>5. 雙11限定 5折優惠區</p><p><br></p><p>藍藻透亮果凍膜/黃金嫩白細緻果凍膜/紅寶石青春修護果凍膜</p><p>單片原價$399 雙十一價 買一送一</p><p><br></p><p>新品海藻多醣體眼膜（閉眼敷）</p><p>單片＄69買一送一</p><p>唇膜＄69買一送一</p><p><br></p><p>6. 時光膠囊 （小金小白小綠可混搭）</p><p>售價$699元 活動優惠兩組＄1050</p><p><br></p><p>7. 韓國lashtreeblack 眉睫增長液</p><p>售價$1580 單隻優惠$1111</p><p>（限量20組）</p><p><br></p><p><br></p><p>雙11超優惠回饋給大家(⁎⁍̴̛ᴗ⁍̴̛⁎)</p><p>優惠只有三天，記得把握呦！</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -3739,9 +3712,12 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "14px"
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "13px"
+            },
+            "DIV": {
+              "color": "#3d8eb9"
             }
           }
         },
@@ -3983,6 +3959,103 @@
           ],
           "_name": "menu",
           "_anchor": "menu-g4"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "animType": "basic",
+            "theme": "absent",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/-on-twitter-1600x1080.png",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///Users/huangyaxuan/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2021-03-04_211754/assets/images/%F0%9F%95%8A%20on%20twitter-433x564.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/-on-twitter-85x48.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide1-1600x1080.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": true,
+            "hideControls": false,
+            "responsive": "1",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": "1",
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "800x600",
+            "width": "800",
+            "height": "600"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-lz"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "七夕快閃活動",
+          "text": "'' two days sale ''",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page50.html\" data-toolbar=\"-mbrBtnMove\">shop now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#d4b2b2",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "H3": {
+              "font-size": "36px",
+              "text-align": "center",
+              "color": "#282828"
+            }
+          },
+          "_anchor": "msg-box1-m0"
         }
       ]
     },
@@ -3990,7 +4063,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "vvv",
-        "order": 25
+        "order": 20
       },
       "components": [
         {
@@ -4261,7 +4334,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "vqa",
-        "order": 24
+        "order": 19
       },
       "components": [
         {
@@ -4457,7 +4530,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "vphoto",
-        "order": 23
+        "order": 18
       },
       "components": [
         {
@@ -4740,7 +4813,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "mothersactivities",
-        "order": 13
+        "order": 8
       },
       "components": [
         {
@@ -4934,7 +5007,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2021Mother's Day activities sale",
-        "order": 18
+        "order": 13
       },
       "components": [
         {
@@ -5665,7 +5738,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2021Mother's Day activities",
-        "order": 21
+        "order": 16
       },
       "components": [
         {
@@ -5914,7 +5987,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "sp50",
-        "order": 42
+        "order": 37
       },
       "components": [
         {
@@ -6292,7 +6365,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "lasftreeblack",
-        "order": 41
+        "order": 36
       },
       "components": [
         {
@@ -6795,7 +6868,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask",
-        "order": 40
+        "order": 35
       },
       "components": [
         {
@@ -7325,7 +7398,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 39",
-        "order": 39
+        "order": 34
       },
       "components": [
         {
@@ -7572,7 +7645,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary",
-        "order": 15
+        "order": 10
       },
       "components": [
         {
@@ -7766,7 +7839,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary product",
-        "order": 14
+        "order": 9
       },
       "components": [
         {
@@ -8215,7 +8288,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary",
-        "order": 17
+        "order": 12
       },
       "components": [
         {
@@ -8409,7 +8482,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "class00",
-        "order": 32
+        "order": 27
       },
       "components": [
         {
@@ -8680,7 +8753,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "welcome to fixxface",
-        "order": 12
+        "order": 7
       },
       "components": [
         {
@@ -8966,7 +9039,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Technology Beauty",
-        "order": 11
+        "order": 6
       },
       "components": [
         {
@@ -9430,7 +9503,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Page 49",
-        "order": 10
+        "order": 5
       },
       "components": [
         {
@@ -9557,7 +9630,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class eyebrow",
-        "order": 30
+        "order": 25
       },
       "components": [
         {
@@ -9770,7 +9843,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "item",
-        "order": 34
+        "order": 29
       },
       "components": [
         {
@@ -10049,7 +10122,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "browlift",
-        "order": 29
+        "order": 24
       },
       "components": [
         {
@@ -10377,7 +10450,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "new",
-        "order": 8
+        "order": 3
       },
       "components": [
         {
@@ -10648,7 +10721,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "qa",
-        "order": 9
+        "order": 4
       },
       "components": [
         {
@@ -10887,7 +10960,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2020Mother's Day activities",
-        "order": 20
+        "order": 15
       },
       "components": [
         {
@@ -11399,7 +11472,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "menunew",
-        "order": 46
+        "order": 41
       },
       "components": [
         {
@@ -11584,7 +11657,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "deep shooting",
-        "order": 44
+        "order": 39
       },
       "components": [
         {
@@ -11876,7 +11949,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "summer sale",
-        "order": 19
+        "order": 14
       },
       "components": [
         {
@@ -12607,7 +12680,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Page 50",
-        "order": 7
+        "order": 2
       },
       "components": [
         {
@@ -13144,6 +13217,189 @@
           ],
           "_name": "image1",
           "_anchor": "image1-lu"
+        }
+      ]
+    },
+    "page57.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Page 57",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "c",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m4"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#282828",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-m1"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">服務項目</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">療程介紹<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page51.html\">療程總覽</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\">獨家儀器療程</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\">基本臉部護膚</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\">角蛋白睫毛</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\">眉毛塑型</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"products.html\">產品販售 ☁</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-m2"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "雙十一快閃活動",
+          "text": "'' three days sale ''",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page28.html\" data-toolbar=\"-mbrBtnMove\">shop now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#d4b2b2",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "H3": {
+              "font-size": "36px",
+              "text-align": "center",
+              "color": "#282828"
+            }
+          },
+          "_anchor": "msg-box1-m3"
         }
       ]
     }
