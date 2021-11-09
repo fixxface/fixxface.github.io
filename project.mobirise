@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page58.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 809,
+    "uniqCompNum": 814,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -70,6 +70,75 @@
           ],
           "_name": "content1",
           "_anchor": "content1-gj"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/s-91316258-960x1707.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-mi"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "雙十一快閃活動",
+          "text": "'' three days sale ''",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page58.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">✨活動優惠\b資訊✨</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page58.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">✨蝦皮下單✨</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#d4b2b2",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "H3": {
+              "font-size": "32px",
+              "text-align": "center",
+              "color": "#545050",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-ml"
         },
         {
           "_params": {
@@ -13381,7 +13450,7 @@
           },
           "title": "雙十一快閃活動",
           "text": "'' three days sale ''",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page28.html\" data-toolbar=\"-mbrBtnMove\">shop now</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page58.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">優惠資訊</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page58.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">蝦皮下單🛒</a>",
           "_tags": [
             "Theme"
           ],
@@ -13455,12 +13524,42 @@
           "_anchor": "image1-m8"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "30px"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "&nbsp;Happy Single's Day",
+          "meta": "光棍節不孤單 休修臉陪你過<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-mh"
+        },
+        {
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>&nbsp;Happy Single's Day</b></p><p><b>光棍節不孤單 休修臉陪你過</b></p><p><br></p><p>雙十一活動優惠只有三天</p><p>11/10(三)0:00 -11/12(四)23:00</p><p><br></p><p>Fixxface開幕前最後一黨大優惠</p><p>很多優惠組合之後不會再出啦</p><p>僅有三天好好把握此黨活動</p><p><br></p><p>Only Three Days Sale</p><p><br></p><p><b>消費滿五千</b></p><p><b>就贈送FIXXFACE 保濕溫和卸妝乳 250ml</b></p><p><b>&amp;【SELF-LOVE FOR ALL收納包】</b></p><p><br></p><p><br></p><p>&nbsp;-- 囤貨專區 --&nbsp;</p><p>⠀</p><p>🛒</p><p><br></p><p> </p><p><b>fixxface獨家保養品</b></p><p><b>♡ ————————————————♡</b></p><p><b>/ 乾淨溜溜清潔組合 /</b></p><p>NT$ 1998 ↘︎ ONSALE  <i style=\"\"><b>NT$ 1498&nbsp;</b></i></p><p><br></p><p><a href=\"https://fixxface.com/page1.html\" class=\"text-primary\">&nbsp;</a><b>保濕溫和卸妝乳</b>&nbsp; &nbsp;8.5 fl oz.| 250ml&nbsp;&nbsp;</p><p><b>茶樹洗面慕斯</b>&nbsp; 5 fl oz.| 150ml</p><p>♡ ————————————————♡</p><p>/男女適用的養膚組合/</p><p>NT$ 2798  ↘︎ ONSALE<i><b>  NT$ 2050</b></i></p><p><br></p><p><b>蠶絲蛋白發光精華水</b>&nbsp; 3.4 fl oz.| 100ml</p><p>嫩白胜肽極光精華  1.7 fl oz.| 50m</p><p>♡ ————————————————♡</p><p>🪄4 PACKS✨</p><p>#女神組合.#男神組合</p><p>卸妝乳 洗面慕斯 精華水&nbsp; 極光精華</p><p>&nbsp;NT$4796↘︎ ONSALE&nbsp; <i>NT$&nbsp;<b>3500</b></i></p><p>♡ ————————————————♡</p><p><br></p><p>🛒</p><p>&nbsp;-- 囤貨專區 --&nbsp;</p><p>斷貨產品 以後將不販售<br></p><p>最後一次出貨絲可拉B5抗發炎治癒面膜</p><p>(♡ 10片/ $ 850 ♡ ）</p><p>(♡ 50片(盒)/ $3500 ♡ ）</p><p><br></p><p>♡ ————————————————♡</p><p>&nbsp;入冬美白計畫</p><p>新品裸包搶先體驗</p><p><br></p><p><b>極光有機玫瑰花水嫩白面膜</b></p><p>（♡ 單片$150 ♡）</p><p>（♡ 10片/ $930 ♡）</p><p>（♡ 50片/$4250 ♡）</p><p>♡ ————————————————♡</p><p><b>神奇泡泡面膜</b>優惠</p><p>（♡ 單片$120 ♡）</p><p>（♡ 10片/$900 ♡）&nbsp;&nbsp;</p><p>（♡ 30片/$2520 ♡）</p><p>♡ ————————————————♡</p><p>胜肽酸組合</p><p>（♡ 2入1900 (_省340 ♡）</p><p>（♡ 3入2699 (_省661 ♡）</p><p>♡ ————————————————♡</p><p>-</p><p><b>雙11限定 5折優惠區</b></p><p><br></p><p>藍藻透亮果凍膜</p><p>黃金嫩白細緻果凍膜</p><p>紅寶石青春修護果凍膜</p><p><br></p><p>（單片原價$399 雙十一價 買一送一）</p><p><br></p><p><br></p><p>新品海藻多醣體眼膜（閉眼敷）</p><p>( 單片＄69 買一送一 )</p><p>( 唇膜＄69 買一送一 )</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>時空膠囊 </p><p>（潤澤修護膠囊 \b/9GF生長因子時空膠囊/雪肌亮顏膠囊 ）</p><p>售價$699元&nbsp; (20入) 活動優惠兩組＄1050</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>Lashthree black</p><p>plus+國際精裝版睫毛眉毛</p><p>修護增長液優惠1111(原價1580)</p><p>（限量20組）</p><p>♡ ————————————————♡</p><p><br></p><p><br></p><p><br></p><p>雙11超優惠回饋給大家(⁎⁍̴̛ᴗ⁍̴̛⁎)</p><p>優惠只有三天，記得把握呦！</p><p><br></p>",
+          "text": "<p><br></p><p><br></p><p>雙十一活動優惠只有三天</p><p>11/10(三)0:00 -11/12(四)23:00</p><p><br></p><p>Fixxface開幕前最後一黨大優惠</p><p>很多優惠組合之後不會再出啦</p><p>僅有三天好好把握此黨活動</p><p><br></p><p>Only Three Days Sale</p><p><br></p><p><b>消費滿五千</b></p><p><b>就贈送FIXXFACE 保濕溫和卸妝乳 250ml</b></p><p><b>&amp;【SELF-LOVE FOR ALL收納包】</b></p><p><br></p><p><br></p><p>&nbsp;-- 囤貨專區 --&nbsp;</p><p>⠀</p><p>🛒</p><p><br></p><p> </p><p><b>fixxface獨家保養品</b></p><p><b>♡ ————————————————♡</b></p><p><b>/ 乾淨溜溜清潔組合 /</b></p><p>NT$ 1998 ↘︎ ONSALE  <i style=\"\"><b>NT$ 1498&nbsp;</b></i></p><p><br></p><p><a href=\"https://fixxface.com/page1.html\" class=\"text-primary\">&nbsp;</a><b>保濕溫和卸妝乳</b>&nbsp; &nbsp;8.5 fl oz.| 250ml&nbsp;&nbsp;</p><p><b>茶樹洗面慕斯</b>&nbsp; 5 fl oz.| 150ml</p><p>♡ ————————————————♡</p><p>/男女適用的養膚組合/</p><p>NT$ 2798  ↘︎ ONSALE<i><b>  NT$ 2050</b></i></p><p><br></p><p><b>蠶絲蛋白發光精華水</b>&nbsp; 3.4 fl oz.| 100ml</p><p>嫩白胜肽極光精華  1.7 fl oz.| 50m</p><p>♡ ————————————————♡</p><p>🪄4 PACKS✨</p><p>#女神組合.#男神組合</p><p>卸妝乳 洗面慕斯 精華水&nbsp; 極光精華</p><p>&nbsp;NT$4796↘︎ ONSALE&nbsp; <i>NT$&nbsp;<b>3500</b></i></p><p>♡ ————————————————♡</p><p><br></p><p>🛒</p><p>&nbsp;-- 囤貨專區 --&nbsp;</p><p>斷貨產品 以後將不販售<br></p><p>最後一次出貨絲可拉B5抗發炎治癒面膜</p><p>(♡ 10片/ $ 850 ♡ ）</p><p>(♡ 50片(盒)/ $3500 ♡ ）</p><p><br></p><p>♡ ————————————————♡</p><p>&nbsp;入冬美白計畫</p><p>新品裸包搶先體驗</p><p><br></p><p><b>極光有機玫瑰花水嫩白面膜</b></p><p>（♡ 單片$150 ♡）</p><p>（♡ 10片/ $930 ♡）</p><p>（♡ 50片/$4250 ♡）</p><p>♡ ————————————————♡</p><p><b>神奇泡泡面膜</b>優惠</p><p>（♡ 單片$120 ♡）</p><p>（♡ 10片/$900 ♡）&nbsp;&nbsp;</p><p>（♡ 30片/$2520 ♡）</p><p>♡ ————————————————♡</p><p>胜肽酸組合</p><p>（♡ 2入1900 (_省340 ♡）</p><p>（♡ 3入2699 (_省661 ♡）</p><p>♡ ————————————————♡</p><p><br></p><p><b>雙11限定 5折優惠區</b></p><p><br></p><p>/</p><p>藍藻透亮果凍膜</p><p>黃金嫩白細緻果凍膜</p><p>紅寶石青春修護果凍膜</p><p><br></p><p>（單片原價$399 雙十一價 買一送一）</p><p><br></p><p><br></p><p>新品海藻多醣體眼膜（閉眼敷）</p><p>( 單片＄69 買一送一 )</p><p>( 唇膜＄69 買一送一 )</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>時空膠囊 </p><p>（潤澤修護膠囊 \b/9GF生長因子時空膠囊/雪肌亮顏膠囊 ）</p><p>售價$699元&nbsp; (20入) 活動優惠兩組＄1050</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>Lashthree black</p><p>plus+國際精裝版睫毛眉毛修護增長液</p><p>優惠1111(原價1580)</p><p>（限量20組）</p><p>♡ ————————————————♡</p><p><br></p><p><br></p><p><br></p><p>雙11超優惠回饋給大家(⁎⁍̴̛ᴗ⁍̴̛⁎)</p><p>優惠只有三天，記得把握呦！</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -13595,18 +13694,18 @@
               "active": true
             }
           },
-          "title1": "保濕溫和卸妝乳 <br>  8.5 fl oz.| 250ml&nbsp;&nbsp;",
+          "title1": "/ 乾淨溜溜清潔組合 /",
           "subtitle1": "",
-          "caption1": "NT$ 999 ↘︎ ONSALE NT$ 750<br>",
-          "title2": "茶樹洗面慕斯<br>  5 fl oz.| 150ml",
+          "caption1": "NT$ 1998 ↘︎ ONSALE NT$ 1498 <br><br>",
+          "title2": "/男女適用的養膚組合/",
           "subtitle2": "售價$1688元",
-          "caption2": "NT$ 999 ↘︎ ONSALE NT$ 750<br>",
-          "title3": "蠶絲蛋白發光精華水<br>3.4 fl oz.| 100ml&nbsp;",
+          "caption2": "NT$ 2798 ↘︎ ONSALE NT$ 2050<br>",
+          "title3": "🪄4 PACKS✨<div>#女神組合.#男神組合</div><div>卸妝乳 洗面慕斯 精華水  極光精華</div>",
           "subtitle3": "售價$699元",
-          "caption3": "NT$ 1299 ↘︎ ONSALE NT$ 975<br><br>",
-          "title4": "嫩白胜肽極光精華 <br> 1.7 fl oz.| 50ml",
+          "caption3": "&nbsp;NT$4796↘︎ ONSALE  NT$ 3500<br>",
+          "title4": "胜肽酸組合",
           "subtitle4": "售價$599元",
-          "caption4": "NT$ 1499 ↘︎ ONSALE NT$ 1050<br>",
+          "caption4": "（♡ 2入1900 (_省340 ♡）<br>（♡ 3入2699 (_省661 ♡）<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -13634,7 +13733,7 @@
             "H4": {
               "font-family": "'PT Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "font-size": "18px"
+              "font-size": "16px"
             }
           },
           "_anchor": "features3-mb"
@@ -13664,7 +13763,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-776-600x750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/02f69cf6-8329-4b7b-bf15-7ebe6effa188-1-600x845.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -13676,7 +13775,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-60-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1109fixxface-03-3-600x749.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -13688,7 +13787,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-2-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/acrylatesstereth-20-methacylatecrosspolymerpure-wateraminomethyipropanolxanthan-gumpropanediol-cocamidopropyi-betaine-caprycapramidopropy-betainelavadua-angustifolia-flower-waterhexamethyldis-2-600x758.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -13700,7 +13799,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-4496-600x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s-71614545-600x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -13726,18 +13825,18 @@
               "active": true
             }
           },
-          "title1": "🪄女神4 PACKS✨<div><span style=\"color: inherit; font-size: 1.25rem; background-color: initial;\">#女神組合贈送</span></div><div>【SELF-LOVE FOR ALL收納包】</div>",
+          "title1": "斷貨產品 以後將不販售<div>“絲可拉B5抗發炎治癒面膜”</div>",
           "subtitle1": "售價$399元",
-          "caption1": "NT$ 4796 ↘︎ ONSALE NT$ 3288<br>",
-          "title2": "lashthree black精裝版睫毛修護增長液",
+          "caption1": "(♡ 10片/ $ 850 ♡ ）<br>(♡ 50片(盒)/ $3500 ♡ ）<br><br>",
+          "title2": "&nbsp;入冬美白計畫<div>新品裸包搶先體驗</div><div>“極光有機玫瑰花水嫩白面膜”</div><div><br></div>",
           "subtitle2": "售價$299元",
-          "caption2": "↘︎ ONSALE&nbsp; $1499 (原價1580)",
-          "title3": "獨家爆水炸彈面膜&nbsp;",
+          "caption2": "（♡ 單片$150 ♡）<br>（♡ 10片/ $930 ♡）<br>（♡ 50片/$4250 ♡）",
+          "title3": "<div><br></div><div>神奇泡泡面膜優惠</div>",
           "subtitle3": "售價$1580元",
-          "caption3": "原價單片$120 一盒五入優惠$450<br>（♡ 五盒送一盒 ♡ ）",
-          "title4": "面膜裸包大屯貨專區<div>爆水面膜/ 術後保濕面膜(new)</div>",
+          "caption3": "（♡ 單片$120 ♡）<br>（♡ 10片/$900 ♡） <br>（♡ 30片/$2520 ♡）",
+          "title4": "時空膠囊<div>（潤澤修護膠囊 \b/9GF生長因子時空膠囊/雪肌亮顏膠囊 ）</div>",
           "subtitle4": "售價$950元",
-          "caption4": "（♡ 10片散裝 720  ♡ ）<br>（♡ 50片散裝 3300 ♡ ）",
+          "caption4": "售價$699元 (20入) <br>↘︎活動優惠兩組＄1050",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -13764,7 +13863,10 @@
             "H4": {
               "font-family": "'PT Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "font-size": "18px"
+              "font-size": "16px"
+            },
+            "DIV": {
+              "font-size": "16px"
             }
           },
           "_anchor": "features3-mc"
@@ -13895,7 +13997,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-99-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-2249-600x879.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -13907,7 +14009,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-837-600x750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-60-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -13919,7 +14021,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-840-600x750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/d7d491a7-338c-4616-ac47-f889fed1ab79-600x750.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -13948,15 +14050,15 @@
           "title1": "藍藻補水舒緩果凍膜/黃金嫩白果凍膜/頂級紅寶石回春果凍膜",
           "subtitle1": "售價$399元",
           "caption1": "單片原價$399 ↘︎<br>ONSALE優惠買1送1<br>",
-          "title2": "潤澤修護膠囊 （小綠）\b/<br> 9GF生長因子時空膠囊（小金）",
+          "title2": "新品海藻多醣體眼膜（閉眼敷）",
           "subtitle2": "售價$299元",
-          "caption2": "售價$699元 ↘︎<br> ONSALE優惠＄549 (20入)",
-          "title3": "rainbow防曬隔離霜spf50+<div>(一隻做到 防曬隔離霜妝前乳打底保濕修飾)</div>",
+          "caption2": "售價$699元   (20入) ↘︎<br>活動優惠兩組＄1050",
+          "title3": "Lashthree black<div>plus+國際精裝版睫毛眉毛修護增長液</div>",
           "subtitle3": "售價$1580元",
-          "caption3": "售價$999 ↘︎ <br>ONSALE優惠七折＄749",
-          "title4": "薇姬娜孕期私密安心套組<div>私密處清潔慕斯100ml+私密處護理噴霧15ml</div>",
+          "caption3": "↘︎ ONSALE NT$ 1111(原價1580)<br>（限量20組）",
+          "title4": "消費滿五千",
           "subtitle4": "售價$950元",
-          "caption4": "📌組合活動優惠$1500&nbsp;<br>📌私密潔淨慕斯單瓶優惠$800(原價950)<br>",
+          "caption4": "就贈送FIXXFACE 保濕溫和卸妝乳 250ml<br>&amp;【SELF-LOVE FOR ALL收納包】<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -14008,8 +14110,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/5a417fa0-06ad-46a8-b3e5-6e1688163605-828x828.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5a417fa0-06ad-46a8-b3e5-6e1688163605-828x828-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cd647e4c-0dba-4e5d-8ea0-3250b4baa899-1080x1350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cd647e4c-0dba-4e5d-8ea0-3250b4baa899-1080x1350-800x1000.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -14020,8 +14122,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-777-1080x1350.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-777-1080x1350-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-76342151-828x1023.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s-76342151-828x1023-800x988.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -14031,8 +14133,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/27b74096-e740-4a76-9ce9-58e670144556-1-2000x2667.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/27b74096-e740-4a76-9ce9-58e670144556-1-2000x2667-800x1067.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/img-0629-2-900x1350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0629-2-900x1350-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -14042,8 +14144,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/f85db6cb-7a17-4095-bcb0-ce614a29721a-828x842.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/f85db6cb-7a17-4095-bcb0-ce614a29721a-828x842-800x814.jpg",
+                "image": "@PROJECT_PATH@/assets/images/723f2b6c-31bd-42ea-ba23-b2fcf6faa874-1029x1372.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/723f2b6c-31bd-42ea-ba23-b2fcf6faa874-1029x1372-800x1067.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -14053,8 +14155,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-746-1080x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-746-1080x1080-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/post1111-2-1080x1350.png",
+                "thumb": "@PROJECT_PATH@/assets/images/post1111-2-1080x1350-800x1000.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -14075,8 +14177,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/173eac86-e48c-4572-bb4b-a706b00da2e5-828x828.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/173eac86-e48c-4572-bb4b-a706b00da2e5-828x828-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/53b626cf-5d54-41a0-b47e-f5bbdb36dfaf-1108x1478.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/53b626cf-5d54-41a0-b47e-f5bbdb36dfaf-1108x1478-800x1067.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
