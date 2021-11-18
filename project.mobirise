@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page58.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -70,75 +70,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-gj"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-91316258-960x1707.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-mi"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "雙十一快閃活動",
-          "text": "'' three days sale ''",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page58.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">✨活動優惠\b資訊✨</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://shopee.tw/fixxface\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">✨蝦皮下單✨</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H2": {
-              "color": "#d4b2b2",
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "H3": {
-              "font-size": "32px",
-              "text-align": "center",
-              "color": "#545050",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          },
-          "_anchor": "msg-box1-ml"
         },
         {
           "_params": {
@@ -13604,7 +13535,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>雙十一活動優惠只有三天<br></b></p><p><b>11/10(三)0:00 -11/12(四)23:00</b></p><p><br></p><p>Fixxface開幕前最後一檔大優惠</p><p>很多優惠組合之後不會再出啦</p><p>僅有三天好好把握此檔活動</p><p><br></p><p>Only Three Days Sale</p><p><br></p><p><b>消費滿五千</b></p><p><b>就贈送FIXXFACE 保濕溫和卸妝乳 250ml</b></p><p><b>&amp;【SELF-LOVE FOR ALL收納包】</b></p><p><br></p><p>⠀</p><p>🛒</p><p><br></p><p> </p><p><b>fixxface獨家保養品</b></p><p><b>♡ ————————————————♡</b></p><p><b><br></b></p><p><b>/ 乾淨溜溜清潔組合 /</b></p><p>NT$ 1998 ↘︎ ONSALE  <i style=\"\"><b>NT$ 1498&nbsp;</b></i></p><p><br></p><p><a href=\"https://fixxface.com/page1.html\" class=\"text-primary\">&nbsp;</a><b>保濕溫和卸妝乳</b>&nbsp; &nbsp;8.5 fl oz.| 250ml&nbsp;&nbsp;</p><p><b>茶樹洗面慕斯</b>&nbsp; 5 fl oz.| 150ml</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>/男女適用的養膚組合/</p><p>NT$ 2798  ↘︎ ONSALE<i><b>  NT$ 2050</b></i></p><p><br></p><p><b>蠶絲蛋白發光精華水</b>&nbsp; 3.4 fl oz.| 100ml</p><p>嫩白胜肽極光精華  1.7 fl oz.| 50m</p><p><br></p><p>♡ ————————————————</p><p><br></p><p>4 PACKS✨</p><p>#女神組合.#男神組合</p><p>卸妝乳 洗面慕斯 精華水&nbsp; 極光精華</p><p>&nbsp;NT$4796↘︎ ONSALE&nbsp; <i>NT$&nbsp;<b>3500</b></i></p><p><i><b><br></b></i></p><p>♡ ————————————————♡</p><p><br></p><p>🛒</p><p>&nbsp;-- 囤貨專區 --&nbsp;</p><p>斷貨產品 以後將不販售</p><p>最後一次出貨“絲可拉B5抗發炎治癒面膜”</p><p><br></p><p>(♡ 10片/ $ 850 ♡ ）</p><p>(♡ 50片(盒)/ $3500 ♡ ）</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>&nbsp;入冬美白計畫</p><p>新品裸包搶先體驗</p><p><br></p><p><b>極光有機玫瑰花水嫩白面膜</b></p><p>（♡ 單片$150 ♡）</p><p>（♡ 10片/ $930 ♡）</p><p>（♡ 50片/$4250 ♡）</p><p><br></p><p>♡ ————————————————♡</p><p><b><br></b></p><p><b>神奇泡泡面膜</b>優惠</p><p>（♡ 單片$120 ♡）</p><p>（♡ 10片/$900 ♡）&nbsp;&nbsp;</p><p>（♡ 30片/$2520 ♡）</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><b>30%胜肽酸組合</b></p><p>（♡ 2入1900 (_省340 ♡）</p><p>（♡ 3入2699 (_省661 ♡）</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><b>時空膠囊</b></p><p>（潤澤修護膠囊 \b/9GF生長因子時空膠囊/雪肌亮顏膠囊 ）</p><p><br></p><p>售價$699元  (20入) 活動優惠兩組＄1050</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>「雙11限定 5折優惠區」</p><p><br></p><p>①藍藻透亮果凍膜</p><p>②黃金嫩白細緻果凍膜</p><p>③紅寶石青春修護果凍膜</p><p>（單片原價$399 雙十一價 買一送一）</p><p><br></p><p>🏷️新品海藻多醣體眼膜（閉眼敷）</p><p>🏷️保濕水嫩唇膜</p><p>（$80買一送一 ）</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><br></p><p>Lashthree black</p><p>plus+國際精裝版睫毛眉毛修護增長液</p><p>優惠1111(原價1580)</p><p>（限量20組）</p><p>♡ ————————————————♡</p><p><br></p><p>雙11超優惠回饋給大家(⁎⁍̴̛ᴗ⁍̴̛⁎)</p><p>優惠只有三天，記得把握呦！</p><p><br></p>",
+          "text": "<p><b>雙十一活動優惠只有三天<br></b></p><p><b>11/10(三)0:00 -11/12(四)23:00</b></p><p><br></p><p>Fixxface開幕前最後一檔大優惠</p><p>很多優惠組合之後不會再出啦</p><p>僅有三天好好把握此檔活動</p><p><br></p><p>Only Three Days Sale</p><p><br></p><p><b>消費滿五千</b></p><p><b>就贈送FIXXFACE 保濕溫和卸妝乳 250ml</b></p><p><b>&amp;【SELF-LOVE FOR ALL收納包】</b></p><p><br></p><p>⠀</p><p>🛒</p><p><br></p><p> </p><p><b>fixxface獨家保養品</b></p><p><b>♡ ————————————————♡</b></p><p><b><br></b></p><p><b>/ 乾淨溜溜清潔組合 /</b></p><p>NT$ 1998 ↘︎ ONSALE  <i style=\"\"><b>NT$ 1498&nbsp;</b></i></p><p><br></p><p><a href=\"https://fixxface.com/page1.html\" class=\"text-primary\">&nbsp;</a><b>保濕溫和卸妝乳</b>&nbsp; &nbsp;8.5 fl oz.| 250ml&nbsp;&nbsp;</p><p><b>茶樹洗面慕斯</b>&nbsp; 5 fl oz.| 150ml</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>/男女適用的養膚組合/</p><p>NT$ 2798  ↘︎ ONSALE<i><b>  NT$ 2050</b></i></p><p><br></p><p><b>蠶絲蛋白發光精華水</b>&nbsp; 3.4 fl oz.| 100ml</p><p>嫩白胜肽極光精華  1.7 fl oz.| 50m</p><p><br></p><p>♡ ————————————————</p><p><br></p><p>4 PACKS✨</p><p>#女神組合.#男神組合</p><p>卸妝乳 洗面慕斯 精華水&nbsp; 極光精華</p><p>&nbsp;NT$4796↘︎ ONSALE&nbsp; <i>NT$&nbsp;<b>3500</b></i></p><p><i><b><br></b></i></p><p>♡ ————————————————♡</p><p>&nbsp;</p><p>🛒</p><p>&nbsp;-- 囤貨專區 --&nbsp;</p><p>斷貨產品 以後將不販售</p><p>最後一次出貨“絲可拉B5抗發炎治癒面膜”</p><p><br></p><p>(♡ 10片/ $ 850 ♡ ）</p><p>(♡ 50片(盒)/ $3500 ♡ ）</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>&nbsp;入冬美白計畫</p><p>新品裸包搶先體驗</p><p><br></p><p><b>極光有機玫瑰花水嫩白面膜</b></p><p>（♡ 單片$150 ♡）</p><p>（♡ 10片/ $930 ♡）</p><p>（♡ 50片/$4250 ♡）</p><p><br></p><p>♡ ————————————————♡</p><p><b><br></b></p><p><b>神奇泡泡面膜</b>優惠</p><p>（♡ 單片$120 ♡）</p><p>（♡ 10片/$900 ♡）&nbsp;&nbsp;</p><p>（♡ 30片/$2520 ♡）</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><b>30%胜肽酸組合</b></p><p>（♡ 2入1900 (_省340 ♡）</p><p>（♡ 3入2699 (_省661 ♡）</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><b>時空膠囊</b></p><p>（潤澤修護膠囊 \b/9GF生長因子時空膠囊/雪肌亮顏膠囊 ）</p><p><br></p><p>售價$699元  (20入) 活動優惠兩組＄1050</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>「雙11限定 5折優惠區」</p><p><br></p><p>①藍藻透亮果凍膜</p><p>②黃金嫩白細緻果凍膜</p><p>③紅寶石青春修護果凍膜</p><p>（單片原價$399 雙十一價 買一送一）</p><p><br></p><p>🏷️新品海藻多醣體眼膜（閉眼敷）</p><p>🏷️保濕水嫩唇膜</p><p>（$80買一送一 ）</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><br></p><p>Lashthree black</p><p>plus+國際精裝版睫毛眉毛修護增長液</p><p>優惠1111(原價1580)</p><p>（限量20組）</p><p>♡ ————————————————♡</p><p><br></p><p>雙11超優惠回饋給大家(⁎⁍̴̛ᴗ⁍̴̛⁎)</p><p>優惠只有三天，記得把握呦！</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
