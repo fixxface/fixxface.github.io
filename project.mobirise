@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "index.html",
+    "currentPage": "page51.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -209,7 +209,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家超流體奈米儀器<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; 課程教學&nbsp; &nbsp; &nbsp;&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; 服務項目&nbsp; &nbsp; &nbsp;&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 網路產品販售&nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 你可能很想知道&nbsp;&nbsp;</a>",
+          "buttons": "        <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; 課程教學&nbsp; &nbsp; &nbsp;&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; 服務項目&nbsp; &nbsp; &nbsp;&nbsp;</a>   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 你可能很想知道&nbsp;&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -9966,7 +9966,7 @@
               "active": true
             }
           },
-          "title1": "超流體奈米儀器美容<br>（消脂/拉提/童顏/美白）",
+          "title1": "超流體奈米儀器美容<br><br>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "臉部保養專區",
@@ -9984,7 +9984,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page48.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page56.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page52.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page20.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a>",
