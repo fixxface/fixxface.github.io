@@ -4491,8 +4491,6 @@ section.form .container {
 
 
 
-
-
 #header3-mn .mbr-section-title,
 #header3-mn .mbr-section-subtitle {
   text-align: center;
@@ -4511,16 +4509,6 @@ section.form .container {
   text-align: center;
   font-family: 'Slabo 27px', serif;
   font-size: 12px;
-}
-#features3-mr P {
-  color: #d14841;
-  font-size: 15px;
-  text-align: center;
-  font-family: 'Droid Serif', serif;
-}
-#features3-mr H4 {
-  font-family: 'PT Serif', serif;
-  font-size: 18px;
 }
 #features3-ms P {
   color: #d14841;
@@ -4592,17 +4580,16 @@ section.form .container {
 #menu-mt .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
 }
-#features3-mu P {
-  color: #d14841;
-  font-size: 14px;
-  font-family: 'Droid Serif', serif;
+#msg-box4-mx H3 {
+  font-size: 24px;
+  color: #eb6b56;
+  font-family: 'Lora', serif;
+  text-align: center;
 }
-#features3-mu H4 {
-  font-family: 'PT Serif', serif;
-  font-size: 17px;
-}
-#features3-mu DIV {
-  font-size: 16px;
+#msg-box4-mx P {
+  font-family: 'Lora', serif;
+  font-size: 13px;
+  text-align: center;
 }
 #social-buttons2-mw .mbr-section-title,
 #social-buttons2-mw .btn-social {
