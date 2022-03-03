@@ -26,6 +26,10 @@
 
 
 
+
+
+
+
 body,
 input,
 textarea,
@@ -504,9 +508,6 @@ section.form .container {
   font-family: 'Droid Sans', sans-serif;
   text-align: center;
 }
-#image1-a2 P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
 #social-buttons2-fj .mbr-section-title,
 #social-buttons2-fj .btn-social {
   color: #232323;
@@ -518,6 +519,9 @@ section.form .container {
 #social-buttons2-fj .mbr-section-title {
   font-size: 15px;
   font-family: 'Raleway', sans-serif;
+}
+#image1-a2 P {
+  font-family: 'Source Sans Pro', sans-serif;
 }
 #footer1-1b P {
   color: #282828;
@@ -585,6 +589,18 @@ section.form .container {
 #menu-g4 .link[aria-expanded="true"],
 #menu-g4 .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
+}
+#image1-mz P {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#image1-n0 P {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#image1-n1 P {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#image1-n2 P {
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 #header3-5z .mbr-section-title,

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page54.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 826,
+    "uniqCompNum": 831,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -78,7 +78,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pink-and-blue-general-report-2-1400x1980.png",
+              "src": "@PROJECT_PATH@/assets/images/e7f32126-7e76-4cde-8661-77933787551f-1400x1050.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -120,7 +120,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "👋👋&nbsp; welcome to my studio !!! 👋👋<br>",
+          "text": "<p>👋👋&nbsp; welcome to&nbsp;fixxface&nbsp;!!! 👋👋<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -209,43 +209,12 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "        <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; 課程教學&nbsp; &nbsp; &nbsp;&nbsp;</a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 你可能很想知道&nbsp;&nbsp;</a>",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家超流體奈米儀器<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; 課程教學&nbsp; &nbsp; &nbsp;&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; 服務項目&nbsp; &nbsp; &nbsp;&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 網路產品販售&nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 你可能很想知道&nbsp;&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-9z"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1210-1080x1080.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-a2",
-          "_styles": {
-            "P": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            }
-          }
+          "_anchor": "buttons1-my"
         },
         {
           "_styles": {
@@ -281,6 +250,37 @@
           ],
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-fj"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-1210-1080x1080.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-a2",
+          "_styles": {
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          }
         },
         {
           "_params": {
@@ -398,6 +398,130 @@
           ],
           "_name": "menu",
           "_anchor": "menu-g4"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/df537513-b998-4517-b8f6-426c342ab5fe-1400x1400.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          },
+          "_anchor": "image1-mz"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/df537513-b998-4517-b8f6-426c342ab5fe-1400x1400.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          },
+          "_anchor": "image1-n0"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/df537513-b998-4517-b8f6-426c342ab5fe-1400x1400.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          },
+          "_anchor": "image1-n1"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/df537513-b998-4517-b8f6-426c342ab5fe-1400x1400.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          },
+          "_anchor": "image1-n2"
         }
       ]
     },
