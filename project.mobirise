@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page56.html",
+    "currentPage": "page54.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -9247,33 +9247,6 @@
           "_anchor": "image2-gv"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/7-1-1400x788.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-gu"
-        },
-        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -10777,7 +10750,7 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "53",
@@ -10803,7 +10776,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=-AHzsLOAt7Y&t=176s",
+              "src": "https://www.youtube.com/watch?v=-AHzsLOAt7Y",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false
@@ -10814,8 +10787,8 @@
               "size": 250
             }
           },
-          "title": "最新美容新科技<br>TN-5 療程Ｑ＆Ａ",
-          "text": "<p>奈美極音速 TN-5 療程Ｑ＆Ａ</p>",
+          "title": "魔力音速<br><span style=\"font-weight: 400;\">&nbsp;Ｑ＆Ａ</span>",
+          "text": "<p>（原名稱奈美極音速）</p>",
           "_tags": [
             "Theme"
           ],
