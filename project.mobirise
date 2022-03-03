@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "index.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -696,7 +696,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/pink-gradient-motivational-quote-instagram-story-3-1080x1920.png",
+              "src": "@PROJECT_PATH@/assets/images/4-1080x1920.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
