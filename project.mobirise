@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page48.html",
+    "currentPage": "fixxfaceskincare.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 833,
+    "uniqCompNum": 837,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1400,7 +1400,7 @@
             "paddingTop": "5",
             "paddingBottom": "3",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#F2F2F2",
@@ -8581,33 +8581,6 @@
           "_anchor": "image2-gt"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/8-1400x788.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-gv"
-        },
-        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -8706,7 +8679,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x1400.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -8733,7 +8706,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-3-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-3-1400x1400.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -8760,7 +8733,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x1400.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -8787,7 +8760,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-4-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-4-1400x1400.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -8814,7 +8787,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1080x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x1400.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -8957,6 +8930,96 @@
           ],
           "_name": "menu",
           "_anchor": "menu-g4"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-n8"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-n6"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-n5"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-n7"
         }
       ]
     },
@@ -14371,7 +14434,7 @@
     "fixxfaceskincare.html": {
       "settings": {
         "main": true,
-        "title": "fixxfaceskincare",
+        "title": "fixxface",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -14398,7 +14461,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/e7f32126-7e76-4cde-8661-77933787551f-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1210-1080x1080.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -14414,13 +14477,13 @@
             "Theme"
           ],
           "_name": "image1",
+          "_anchor": "image1-a2",
           "_styles": {
             "P": {
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
             }
-          },
-          "_anchor": "image1-j5"
+          }
         },
         {
           "_params": {
@@ -14529,7 +14592,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家超流體奈米儀器<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; 課程教學&nbsp; &nbsp; &nbsp;&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; 服務項目&nbsp; &nbsp; &nbsp;&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; 網路產品販售&nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; 你可能很想知道&nbsp;&nbsp;</a>",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;課程教學&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;服務項目&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp;網路產品販售&nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp;你可能很想知道&nbsp; &nbsp; &nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -14578,7 +14641,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1210-1080x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/e7f32126-7e76-4cde-8661-77933787551f-1400x1050.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -14594,13 +14657,13 @@
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-a2",
           "_styles": {
             "P": {
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
             }
-          }
+          },
+          "_anchor": "image1-j5"
         },
         {
           "_params": {

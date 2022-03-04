@@ -3149,6 +3149,10 @@ section.form .container {
 #menu-g4 .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
 }
+#msg-box8-n6 .mbr-section-title,
+#msg-box8-n6 .lead {
+  color: #fff;
+}
 
 
 
@@ -4506,7 +4510,7 @@ section.form .container {
 
 
 
-#image1-j5 P {
+#image1-a2 P {
   font-family: 'Source Sans Pro', sans-serif;
 }
 #social-buttons1-aa .mbr-section-title {
@@ -4537,7 +4541,7 @@ section.form .container {
   font-size: 15px;
   font-family: 'Raleway', sans-serif;
 }
-#image1-a2 P {
+#image1-j5 P {
   font-family: 'Source Sans Pro', sans-serif;
 }
 #footer1-1b P {
