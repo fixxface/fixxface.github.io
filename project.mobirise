@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "fixxfaceskincare.html",
+    "currentPage": "page54.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 837,
+    "uniqCompNum": 846,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -251,7 +251,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products",
-        "order": 33
+        "order": 32
       },
       "components": [
         {
@@ -674,7 +674,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products1",
-        "order": 34
+        "order": 33
       },
       "components": [
         {
@@ -879,7 +879,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro1-1",
-        "order": 35
+        "order": 34
       },
       "components": [
         {
@@ -1379,7 +1379,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know",
-        "order": 30
+        "order": 29
       },
       "components": [
         {
@@ -1400,7 +1400,7 @@
             "paddingTop": "5",
             "paddingBottom": "3",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#F2F2F2",
@@ -1516,7 +1516,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know1",
-        "order": 32
+        "order": 31
       },
       "components": [
         {
@@ -1920,7 +1920,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "eyelash",
-        "order": 25
+        "order": 24
       },
       "components": [
         {
@@ -2133,7 +2133,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "eyelash-1",
-        "order": 23
+        "order": 22
       },
       "components": [
         {
@@ -2380,7 +2380,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "eyelashq&amp;a",
-        "order": 24
+        "order": 23
       },
       "components": [
         {
@@ -2570,7 +2570,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 24",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -2714,7 +2714,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class",
-        "order": 28
+        "order": 27
       },
       "components": [
         {
@@ -2927,7 +2927,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "waterbomb",
-        "order": 40
+        "order": 39
       },
       "components": [
         {
@@ -3304,7 +3304,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "happy1111",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -3710,7 +3710,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "vvv",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -3981,7 +3981,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "vqa",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -4177,7 +4177,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "vphoto",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -4460,7 +4460,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "mothersactivities",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -4654,7 +4654,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2021Mother's Day activities sale",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -5385,7 +5385,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2021Mother's Day activities",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -5634,7 +5634,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "sp50",
-        "order": 39
+        "order": 38
       },
       "components": [
         {
@@ -6012,7 +6012,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "lasftreeblack",
-        "order": 38
+        "order": 37
       },
       "components": [
         {
@@ -6515,7 +6515,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask",
-        "order": 37
+        "order": 36
       },
       "components": [
         {
@@ -7045,7 +7045,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 39",
-        "order": 36
+        "order": 35
       },
       "components": [
         {
@@ -7292,7 +7292,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -7486,7 +7486,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary product",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -7935,7 +7935,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 4th anniversary",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -8129,7 +8129,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "class00",
-        "order": 29
+        "order": 28
       },
       "components": [
         {
@@ -8400,7 +8400,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Technology Beauty",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -8810,7 +8810,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Page 49",
-        "order": 5
+        "order": 43
       },
       "components": [
         {
@@ -8932,32 +8932,45 @@
           "_anchor": "menu-g4"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "",
+          "title": "",
+          "meta": "&nbsp; &nbsp;&nbsp;",
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-n8"
+          "_name": "header3",
+          "_anchor": "header3-ne"
         },
         {
           "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "14px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8969,8 +8982,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "Fixxface skincare",
+          "text": "<p><br></p><p>以客製化臉部保養及護膚保養諮詢為主要肌膚服務，希望透過真實的狀況來瞭解和解決每一位客人肌膚問題，進而處理肌膚問題，給予肌膚最適當的處理 。臉部保養有分成快速見效零修復期的魔力音速儀器課程及基礎清粉刺課程。</p><p><br></p><p>(Ａ)&nbsp; 魔力音速儀器療程</p><p>（利用微米物化科技，在不傷害肌膚狀態下，將有效成分物化成微米等級活性分子，使皮膚可有效吸收並作用，從而改善敏感，粉刺，面皰痘痘、缺水、紋路、暗沈、老化等肌膚問題。</p><p>(Ｂ)&nbsp; 基礎基本護理及煥膚管理</p><p><br></p><p>/</p><p>透過美容專業技法及儀器的堆疊下，進而達到改善肌膚狀況的效果，第一次來的姑娘們，如果不知道想做什麼療程，可以看自己想改善什麼及想達到什麼樣的效果，針對你的肌膚 和你建議適合的課程，經過討論後再決定哪個課程。</p><p>※肌膚敏感(酒糟、脂漏等 嚴重痘痘肌肌膚易紅、閉鎖性粉刺和粉刺量較多等肌膚</p><p>麻煩預約前請先告知：）</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -8984,42 +8997,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Ａ\b魔力音速介紹及課程介紹</a>  <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page56.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Ｂ基礎護理及煥膚</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-n5"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "PRE MADE BLOCKS",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-n7"
         }
       ]
     },
@@ -9027,7 +9010,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class eyebrow",
-        "order": 27
+        "order": 26
       },
       "components": [
         {
@@ -9240,7 +9223,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "item",
-        "order": 31
+        "order": 30
       },
       "components": [
         {
@@ -9519,7 +9502,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "browlift",
-        "order": 26
+        "order": 25
       },
       "components": [
         {
@@ -10200,7 +10183,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=-AHzsLOAt7Y",
+              "src": "https://youtu.be/-AHzsLOAt7Y",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false
@@ -10357,7 +10340,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2020Mother's Day activities",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -10869,7 +10852,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "menunew",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -11024,14 +11007,14 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1beige-organic-star-life-cycle-astronomy-infographic-1-1-1400x3272.png",
+              "src": "@PROJECT_PATH@/assets/images/1-4-1080x1080.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -11046,7 +11029,34 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-j4"
+          "_anchor": "image2-na"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-1-1080x1080.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-nb"
         }
       ]
     },
@@ -11054,7 +11064,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "deep shooting",
-        "order": 41
+        "order": 40
       },
       "components": [
         {
@@ -11346,7 +11356,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "summer sale",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -12804,7 +12814,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2021 1111",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -13613,7 +13623,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2022Valentine's Day sale",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -14105,7 +14115,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "welcome to fixxface",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -14905,6 +14915,143 @@
             }
           },
           "_anchor": "image1-n2"
+        }
+      ]
+    },
+    "page47.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "magic",
+        "order": 41
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "19px",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "＠",
+          "text": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page19.html\" data-toolbar=\"-mbrBtnMove\">魔力音速儀器介紹</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page19.html\" data-toolbar=\"-mbrBtnMove\">魔力音速影片解說及常見問題Ｑ＆Ａ</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page19.html\" data-toolbar=\"-mbrBtnMove\">魔力音速課程介紹<br></a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-ng"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">服務項目</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-nh"
         }
       ]
     }

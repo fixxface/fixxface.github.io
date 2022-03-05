@@ -15,6 +15,7 @@
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 
@@ -3082,6 +3083,7 @@ section.form .container {
   color: #efefef!important;
 }
 
+
 #footer1-fv P {
   color: #282828;
   text-align: center;
@@ -3149,9 +3151,18 @@ section.form .container {
 #menu-g4 .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
 }
+#header3-ne .mbr-section-title,
+#header3-ne .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box8-n6 .mbr-section-title,
 #msg-box8-n6 .lead {
   color: #fff;
+}
+#msg-box8-n6 .lead P {
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Oswald', sans-serif;
 }
 
 
@@ -4622,4 +4633,73 @@ section.form .container {
 }
 #image1-n2 P {
   font-family: 'Source Sans Pro', sans-serif;
+}
+#msg-box3-ng .mbr-section-title,
+#msg-box3-ng p {
+  color: #000;
+}
+#msg-box3-ng .mbr-section-title {
+  font-size: 19px;
+  text-align: center;
+}
+#menu-nh .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-nh .navbar-caption {
+  color: #ffffff;
+}
+#menu-nh .navbar-toggler {
+  color: #000000;
+}
+#menu-nh .close-icon::before,
+#menu-nh .close-icon::after {
+  background-color: #000000;
+}
+#menu-nh .link,
+#menu-nh .dropdown-item {
+  color: #000000;
+}
+#menu-nh .link {
+  font-size: 0.75rem;
+}
+#menu-nh .dropdown-item,
+#menu-nh .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-nh .link:hover,
+#menu-nh .dropdown-item:hover,
+#menu-nh .link:focus,
+#menu-nh .dropdown-item:focus {
+  color: #e5e2dd;
+}
+#menu-nh .link[aria-expanded="true"],
+#menu-nh .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-nh .nav-dropdown-sm .link:focus,
+#menu-nh .nav-dropdown-sm .link:hover,
+#menu-nh .nav-dropdown-sm .dropdown-item:focus,
+#menu-nh .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-nh .navbar,
+#menu-nh .nav-dropdown-sm,
+#menu-nh .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-nh .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-nh .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-nh .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-nh .bg-color.transparent.opened .link:hover,
+#menu-nh .bg-color.transparent.opened .link:focus {
+  color: #e5e2dd;
+}
+#menu-nh .link[aria-expanded="true"],
+#menu-nh .dropdown-item[aria-expanded="true"] {
+  color: #efefef!important;
 }
