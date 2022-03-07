@@ -15020,7 +15020,7 @@
             ".mbr-section-title": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#475577",
+              "color": "#d4b2b2",
               "font-size": "20px"
             }
           },
@@ -15048,7 +15048,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-2022-03-05-8.30.50-1400x916.png",
+              "src": "@PROJECT_PATH@/assets/images/-2022-03-05-8.30.50-1400x893.png",
               "width": 1400,
               "link": "",
               "alt": "",
