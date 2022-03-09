@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "fixxfaceskincare.html",
+    "currentPage": "page48.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 865,
+    "uniqCompNum": 869,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -8581,6 +8581,50 @@
           "_anchor": "image2-gt"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MAGIC.SONIC&nbsp;<br><br>",
+          "text": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page47.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速課程介紹</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page54.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ<br></a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-o4"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -10868,6 +10912,19 @@
           ],
           "_name": "menu",
           "_anchor": "menu-iz"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp; &nbsp; &nbsp;&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-o1"
         },
         {
           "_params": {
@@ -14454,7 +14511,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page47.html\" data-toolbar=\"-mbrBtnMove\">關於我們 ✹</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約須知 ❍ </a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page47.html\" data-toolbar=\"-mbrBtnMove\">關於我們 ✹</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約須知 ❍ </a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page49.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約臉部前先看這 ◒</a>",
           "_tags": [
             "Theme"
           ],
@@ -14968,7 +15025,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速儀器介紹</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page54.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page19.html\" data-toolbar=\"-mbrBtnMove\">魔力音速課程介紹<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速儀器介紹</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page54.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page47.html\" data-toolbar=\"-mbrBtnMove\">魔力音速課程介紹<br></a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-nn"
         }
@@ -15390,16 +15447,16 @@
               "active": true
             }
           },
-          "title1": "無暇淨膚課程<br><br>",
+          "title1": "💫 無暇淨膚課程 💫<br><br>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "卸妝➜ 洗淨➜軟化 ➜ 手清粉刺及胜肽酸二選一 ➜無暇淨膚音速槍課程➜ RF微電流導入(洋甘菊退紅舒緩精華導入)➜ 敷臉<br>",
-          "title2": "煥顏提亮課程<div>Deep soothing mask</div>",
+          "title2": "💫 煥顏提亮課程 💫<div><br></div>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Ｖ型拉提課程",
+          "caption2": "卸妝➜ 洗淨➜軟化 ➜ 煥顏提亮音速槍課程➜軟化 手清粉刺 ➜RF微電流導入(傳明酸精華導入)➜ 黃金軟膜敷臉",
+          "title3": "💫 Ｖ型拉提課程 💫",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "天使童顏課程",
+          "caption3": "卸妝➜ 洗淨➜軟化 ➜ v型拉提音速槍課程➜ 手清粉刺 ➜RF微電流導入(傳明酸精華導入)➜ 黃金軟膜敷臉",
+          "title4": "💫 天使童顏課程 💫",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
@@ -15430,7 +15487,8 @@
             },
             "P": {
               "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "14px"
             }
           },
           "_anchor": "features3-nu"
@@ -15440,7 +15498,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showButtons": true,
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -15471,7 +15529,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-3-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/-1080-1080-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -15518,12 +15576,12 @@
               "active": true
             }
           },
-          "title1": "3D俏顏課程<br>waterbomb mask",
+          "title1": "💫 3D俏顏課程 💫<br>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "絲可拉B5抗發炎治愈面膜<div>Deep soothing mask</div>",
+          "caption1": "首次優惠體驗＄4500 /5cc<br>10ccc優惠＄8500<br>20cc優惠$15000",
+          "title2": "💫 育活森法課程 💫<div><br></div>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "首次優惠體驗＄2500<br>課程六堂優惠＄13200",
           "title3": "lashthreeblack<br>睫毛修護增長液",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -15555,6 +15613,12 @@
             ".btn": {
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "14px",
+              "color": "#c0a375"
             }
           },
           "_anchor": "features3-nw"

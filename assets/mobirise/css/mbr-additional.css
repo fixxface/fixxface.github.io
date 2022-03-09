@@ -15,9 +15,9 @@
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 
 
 
@@ -3015,11 +3015,24 @@ section.form .container {
   color: #efefef!important;
 }
 
+
 #footer1-fm P {
   color: #282828;
   text-align: center;
   font-family: 'Slabo 27px', serif;
   font-size: 12px;
+}
+#msg-box3-o4 .mbr-section-title,
+#msg-box3-o4 p {
+  color: #000;
+}
+#msg-box3-o4 .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box3-o4 .btn {
+  font-size: 11px;
 }
 #menu-g4 .hide-buttons .nav-btn {
   display: none !important;
@@ -4730,6 +4743,7 @@ section.form .container {
 
 
 
+
 #social-buttons1-no .mbr-section-title {
   text-align: center;
   font-size: 16px;
@@ -4831,6 +4845,7 @@ section.form .container {
 }
 #features3-nu P {
   font-family: 'Slabo 27px', serif;
+  font-size: 14px;
 }
 #features3-nw H4 {
   font-size: 16px;
@@ -4838,4 +4853,9 @@ section.form .container {
 }
 #features3-nw .btn {
   font-family: 'Source Sans Pro', sans-serif;
+}
+#features3-nw P {
+  font-family: 'Slabo 27px', serif;
+  font-size: 14px;
+  color: #c0a375;
 }
