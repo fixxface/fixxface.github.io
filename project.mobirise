@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "html.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -15259,328 +15259,6 @@
         }
       ]
     },
-    "html.html": {
-      "settings": {
-        "main": true,
-        "title": "fixxface",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-gj"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/skin-care-6-1400x1980.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-a2",
-          "_styles": {
-            "P": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "facebook": false,
-            "twitter": false,
-            "google": false,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "<p>👋👋&nbsp; 👋👋<br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-aa",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "16px"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "15px",
-              "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "fixxface.com",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-gi"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#ffffff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page47.html\" data-toolbar=\"-mbrBtnMove\">關於我們 ✹</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約須知 ❍ </a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page49.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約臉部前先看這 ◒</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-j8"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#ffffff"
-          },
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">網路產品販售</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-my"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            },
-            ".btn-social > *": {
-              "vertical-align": "middle",
-              "padding-right": "0"
-            },
-            ".mbr-section-title": {
-              "font-size": "15px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/2-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/fixface721\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fixxface/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-fj"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1b",
-          "_styles": {
-            "P": {
-              "color": "#282828",
-              "text-align": "center",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "12px"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#28324e"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#28324e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#28324e"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#28324e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e5e2dd!important"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "0.9",
-            "fontName": {},
-            "fontColor": "#28324e",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "fixxface.html",
-              "linkInNewWindow": true,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "party-ribbon",
-              "family": "icon54",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-g4"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/24-1400x972.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_styles": {
-            "P": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            }
-          },
-          "_anchor": "image1-mz"
-        }
-      ]
-    },
     "page61.html": {
       "settings": {
         "title": "Page 61",
@@ -15900,6 +15578,328 @@
             }
           },
           "_anchor": "image1-ok"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "fixxface",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-gj"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/skin-care-6-1400x1980.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-a2",
+          "_styles": {
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<p>👋👋&nbsp; 👋👋<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-aa",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "15px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "fixxface.com",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-gi"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page47.html\" data-toolbar=\"-mbrBtnMove\">關於我們 ✹</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約須知 ❍ </a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page49.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約臉部前先看這 ◒</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-j8"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">網路產品販售</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-my"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "15px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/2-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/fixface721\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fixxface/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-fj"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1b",
+          "_styles": {
+            "P": {
+              "color": "#282828",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "12px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e5e2dd!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "fixxface.html",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-g4"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/24-1400x972.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          },
+          "_anchor": "image1-mz"
         }
       ]
     }
