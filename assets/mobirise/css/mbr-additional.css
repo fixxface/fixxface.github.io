@@ -1404,6 +1404,9 @@ section.form .container {
 #header3-9a .mbr-section-subtitle {
   text-align: center;
 }
+#header3-9a .mbr-section-subtitle {
+  color: #ffffff;
+}
 #footer1-9c P {
   color: #282828;
   text-align: center;
@@ -4530,10 +4533,6 @@ section.form .container {
 
 
 
-
-
-
-
 #image1-a2 P {
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -4564,9 +4563,6 @@ section.form .container {
 #social-buttons2-fj .mbr-section-title {
   font-size: 15px;
   font-family: 'Raleway', sans-serif;
-}
-#image1-j5 P {
-  font-family: 'Source Sans Pro', sans-serif;
 }
 #footer1-1b P {
   color: #282828;
@@ -4636,15 +4632,6 @@ section.form .container {
   color: #efefef!important;
 }
 #image1-mz P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#image1-n0 P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#image1-n1 P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#image1-n2 P {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -4787,11 +4774,11 @@ section.form .container {
   color: #000000;
 }
 #menu-nq .link {
-  font-size: 0.75rem;
+  font-size: 0.9rem;
 }
 #menu-nq .dropdown-item,
 #menu-nq .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.975rem;
 }
 #menu-nq .link:hover,
 #menu-nq .dropdown-item:hover,
@@ -4828,7 +4815,7 @@ section.form .container {
 }
 #menu-nq .link[aria-expanded="true"],
 #menu-nq .dropdown-item[aria-expanded="true"] {
-  color: #efefef!important;
+  color: #e5e2dd!important;
 }
 #features3-nu H4 {
   font-size: 16px;
