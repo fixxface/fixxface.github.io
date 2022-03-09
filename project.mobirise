@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page48.html",
+    "currentPage": "fixxfaceskincare.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 869,
+    "uniqCompNum": 875,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -15077,7 +15077,7 @@
             ".mbr-section-title": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#d4b2b2",
+              "color": "#7c706b",
               "font-size": "20px"
             }
           },
@@ -15129,7 +15129,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-83861517-down-1184x2096.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s-84074500-1080x688.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -15160,38 +15160,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-83861517-down-1184x2096.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_styles": {
-            "P": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            }
-          },
-          "_anchor": "image1-nz"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-83861517-down-1184x2096.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s-84074498-1080x458.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -15214,6 +15183,30 @@
             }
           },
           "_anchor": "image1-o0"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/s-84074501-1080x1163.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-o8"
         },
         {
           "_params": {
@@ -15340,29 +15333,22 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-83861517-down-1184x2096.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s-84074503-1080x655.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
               "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_styles": {
-            "P": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            }
-          },
-          "_anchor": "image1-nv"
+          "_anchor": "image1-o9"
         },
         {
           "_params": {
@@ -15370,7 +15356,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "0",
             "columns": 4,
@@ -15447,18 +15433,18 @@
               "active": true
             }
           },
-          "title1": "💫 無暇淨膚課程 💫<br><br>",
+          "title1": "💫&nbsp; 無暇淨膚課程&nbsp; 💫<br>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "卸妝➜ 洗淨➜軟化 ➜ 手清粉刺及胜肽酸二選一 ➜無暇淨膚音速槍課程➜ RF微電流導入(洋甘菊退紅舒緩精華導入)➜ 敷臉<br>",
-          "title2": "💫 煥顏提亮課程 💫<div><br></div>",
+          "title2": "💫&nbsp; 煥顏提亮課程&nbsp; 💫",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "卸妝➜ 洗淨➜軟化 ➜ 煥顏提亮音速槍課程➜軟化 手清粉刺 ➜RF微電流導入(傳明酸精華導入)➜ 黃金軟膜敷臉",
-          "title3": "💫 Ｖ型拉提課程 💫",
+          "title3": "💫 Ｖ型拉提課程&nbsp; 💫",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "卸妝➜ 洗淨➜軟化 ➜ v型拉提音速槍課程➜ 手清粉刺 ➜RF微電流導入(傳明酸精華導入)➜ 黃金軟膜敷臉",
-          "title4": "💫 天使童顏課程 💫",
+          "caption3": "卸妝➜ 洗淨➜軟化手清粉刺 ➜ v型拉提音速槍課程➜RF微電流導入(緊實拉提精華導入)➜ 軟膜敷臉",
+          "title4": "💫&nbsp; 天使童顏課程&nbsp; 💫",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "卸妝➜ 洗淨➜軟化手清粉刺 ➜天使童顏課程➜RF微電流導入(玫瑰水膜磁精華導入)➜ 軟膜敷臉",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -15488,7 +15474,8 @@
             "P": {
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "14px"
+              "font-size": "13px",
+              "color": "#545050"
             }
           },
           "_anchor": "features3-nu"
@@ -15499,7 +15486,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "0",
             "columns": 4,
@@ -15540,7 +15527,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/-1080-1080-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -15551,7 +15538,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-4-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/-1080-1080-2-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -15576,18 +15563,18 @@
               "active": true
             }
           },
-          "title1": "💫 3D俏顏課程 💫<br>",
+          "title1": "💫&nbsp; 3D俏顏課程&nbsp; 💫<br>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "首次優惠體驗＄4500 /5cc<br>10ccc優惠＄8500<br>20cc優惠$15000",
-          "title2": "💫 育活森法課程 💫<div><br></div>",
+          "title2": "💫&nbsp; 育活森法課程&nbsp; 💫",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "首次優惠體驗＄2500<br>課程六堂優惠＄13200",
-          "title3": "lashthreeblack<br>睫毛修護增長液",
+          "title3": "💫&nbsp; 美體撫紋課程&nbsp; 💫",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "唇膜/眼膜",
+          "caption3": "實際課程次數所需時間會因個人體質而有所不同<br>須與專業人士一同評估了解 以正式課程效果為依據",
+          "title4": "💫&nbsp; 美魔纖體課程 💫",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "實際課程次數所需時間會因個人體質而有所不同<br>須與專業人士一同評估了解 以正式課程效果為依據",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -15617,11 +15604,86 @@
             "P": {
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "14px",
-              "color": "#c0a375"
+              "font-size": "13px",
+              "color": "#f28281"
             }
           },
           "_anchor": "features3-nw"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/16464833216412x-961x1075.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          },
+          "_anchor": "image1-o6"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MAGIC.SONIC&nbsp;<br><br>",
+          "text": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page48.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速儀器介紹</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page54.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a> ",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-oa"
         }
       ]
     }

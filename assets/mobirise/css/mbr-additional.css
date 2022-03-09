@@ -4754,13 +4754,10 @@ section.form .container {
 }
 #header3-nt .mbr-section-title {
   font-family: 'Lora', serif;
-  color: #d4b2b2;
+  color: #7c706b;
   font-size: 20px;
 }
 #image1-ny P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#image1-nz P {
   font-family: 'Source Sans Pro', sans-serif;
 }
 #image1-o0 P {
@@ -4833,9 +4830,6 @@ section.form .container {
 #menu-nq .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
 }
-#image1-nv P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
 #features3-nu H4 {
   font-size: 16px;
   font-family: 'Lora', serif;
@@ -4845,7 +4839,8 @@ section.form .container {
 }
 #features3-nu P {
   font-family: 'Slabo 27px', serif;
-  font-size: 14px;
+  font-size: 13px;
+  color: #545050;
 }
 #features3-nw H4 {
   font-size: 16px;
@@ -4856,6 +4851,21 @@ section.form .container {
 }
 #features3-nw P {
   font-family: 'Slabo 27px', serif;
-  font-size: 14px;
-  color: #c0a375;
+  font-size: 13px;
+  color: #f28281;
+}
+#image1-o6 P {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#msg-box3-oa .mbr-section-title,
+#msg-box3-oa p {
+  color: #000;
+}
+#msg-box3-oa .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box3-oa .btn {
+  font-size: 11px;
 }
