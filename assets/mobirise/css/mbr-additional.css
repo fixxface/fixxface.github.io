@@ -4729,6 +4729,7 @@ section.form .container {
 
 
 
+
 #social-buttons1-no .mbr-section-title {
   text-align: center;
   font-size: 16px;
@@ -4827,6 +4828,9 @@ section.form .container {
 }
 #features3-nu .btn {
   font-family: 'Source Sans Pro', sans-serif;
+}
+#features3-nu P {
+  font-family: 'Slabo 27px', serif;
 }
 #features3-nw H4 {
   font-size: 16px;

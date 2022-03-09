@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page47.html",
+    "currentPage": "fixxfaceskincare.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -14336,7 +14336,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1210-1080x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19-1400x972.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -15392,7 +15392,7 @@
           },
           "title1": "無暇淨膚課程<br><br>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "卸妝➜ 洗淨➜軟化 ➜ 手清粉刺及胜肽酸二選一 ➜無暇淨膚音速槍課程➜ RF微電流導入(洋甘菊退紅舒緩精華導入)➜ 敷臉<br>",
           "title2": "煥顏提亮課程<div>Deep soothing mask</div>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
@@ -15427,6 +15427,10 @@
             ".btn": {
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_anchor": "features3-nu"
