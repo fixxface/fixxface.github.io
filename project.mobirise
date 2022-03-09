@@ -14396,7 +14396,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/19-1400x972.png",
+              "src": "@PROJECT_PATH@/assets/images/skin-care-2-1400x1980.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -14438,7 +14438,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<p>👋👋&nbsp; welcome to&nbsp;fixxface&nbsp;!!! 👋👋<br></p>",
+          "text": "<p>👋👋&nbsp; 👋👋<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -14450,37 +14450,6 @@
               "font-size": "16px"
             }
           }
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pink-and-blue-bright-outline-student-internship-graphic-designer-video-resume-talking-presentation-5-1400x788.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_styles": {
-            "P": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            }
-          },
-          "_anchor": "image1-kz"
         },
         {
           "_styles": {
@@ -14527,7 +14496,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">獨家魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;課程教學&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;服務項目&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp;網路產品販售&nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp;你可能很想知道&nbsp; &nbsp; &nbsp;</a>",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">網路產品販售</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
           "_tags": [
             "Theme"
           ],
