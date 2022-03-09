@@ -163,7 +163,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -186,7 +186,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -638,7 +638,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -661,7 +661,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -843,7 +843,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -866,7 +866,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -1343,7 +1343,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -1366,7 +1366,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -1480,7 +1480,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -1503,7 +1503,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -1884,7 +1884,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -1907,7 +1907,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -2097,7 +2097,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -2120,7 +2120,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -2344,7 +2344,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -2367,7 +2367,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -2534,7 +2534,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -2557,7 +2557,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -2678,7 +2678,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -2701,7 +2701,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -2894,7 +2894,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -2917,7 +2917,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -3271,7 +3271,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -3294,7 +3294,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -3580,7 +3580,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -3603,7 +3603,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -3948,7 +3948,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -3971,7 +3971,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -4144,7 +4144,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -4167,7 +4167,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -4427,7 +4427,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -4450,7 +4450,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -4621,7 +4621,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -4644,7 +4644,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -5078,7 +5078,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -5101,7 +5101,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -5601,7 +5601,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -5624,7 +5624,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -5979,7 +5979,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -6002,7 +6002,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -6482,7 +6482,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -6505,7 +6505,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -7012,7 +7012,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -7035,7 +7035,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -7259,7 +7259,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -7282,7 +7282,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -7453,7 +7453,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -7476,7 +7476,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -7902,7 +7902,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -7925,7 +7925,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -8096,7 +8096,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -8119,7 +8119,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -8367,7 +8367,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -8390,7 +8390,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -8686,7 +8686,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -8709,7 +8709,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -8813,7 +8813,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -8836,7 +8836,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -9099,7 +9099,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -9122,7 +9122,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -9353,7 +9353,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -9376,7 +9376,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -9706,7 +9706,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -9729,7 +9729,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -9977,7 +9977,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -10000,7 +10000,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -10216,7 +10216,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -10239,7 +10239,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -10648,7 +10648,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -10671,7 +10671,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -10886,7 +10886,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -10909,7 +10909,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -11245,7 +11245,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -11268,7 +11268,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -11702,7 +11702,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -11725,7 +11725,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -12150,7 +12150,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -12172,7 +12172,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -12660,7 +12660,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -12683,7 +12683,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -13238,7 +13238,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -13261,7 +13261,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -13838,7 +13838,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -13861,7 +13861,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -14334,7 +14334,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -14357,7 +14357,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -14576,19 +14576,19 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#28324e"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#28324e"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#28324e"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -14603,7 +14603,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#28324e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -14613,7 +14613,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#efefef!important"
+              "color": "#e5e2dd!important"
             }
           },
           "_params": {
@@ -14626,7 +14626,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -14648,7 +14648,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -14803,7 +14803,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -14826,7 +14826,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],
@@ -15144,7 +15144,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page47.html\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
@@ -15167,7 +15167,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"fixxfaceskincare.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
           "_tags": [
             "Theme"
           ],

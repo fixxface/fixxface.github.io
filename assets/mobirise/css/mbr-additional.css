@@ -4573,22 +4573,22 @@ section.form .container {
   color: #ffffff;
 }
 #menu-g4 .navbar-toggler {
-  color: #000000;
+  color: #28324e;
 }
 #menu-g4 .close-icon::before,
 #menu-g4 .close-icon::after {
-  background-color: #000000;
+  background-color: #28324e;
 }
 #menu-g4 .link,
 #menu-g4 .dropdown-item {
-  color: #000000;
+  color: #28324e;
 }
 #menu-g4 .link {
-  font-size: 0.75rem;
+  font-size: 0.9rem;
 }
 #menu-g4 .dropdown-item,
 #menu-g4 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.975rem;
 }
 #menu-g4 .link:hover,
 #menu-g4 .dropdown-item:hover,
@@ -4613,7 +4613,7 @@ section.form .container {
   background: #ffffff;
 }
 #menu-g4 .bg-color.transparent .link {
-  color: #000000;
+  color: #28324e;
   transition: none;
 }
 #menu-g4 .bg-color.transparent.opened .link {
@@ -4625,7 +4625,7 @@ section.form .container {
 }
 #menu-g4 .link[aria-expanded="true"],
 #menu-g4 .dropdown-item[aria-expanded="true"] {
-  color: #efefef!important;
+  color: #e5e2dd!important;
 }
 #image1-mz P {
   font-family: 'Source Sans Pro', sans-serif;
