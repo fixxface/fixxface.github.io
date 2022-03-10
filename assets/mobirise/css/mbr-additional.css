@@ -4995,6 +4995,7 @@ section.form .container {
 
 
 
+
 #image1-a2 P {
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -5103,4 +5104,8 @@ section.form .container {
 #social-buttons2-op .btn-social > * {
   vertical-align: middle;
   padding-right: 0;
+}
+#social-buttons2-op .mbr-section-title {
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
 }
