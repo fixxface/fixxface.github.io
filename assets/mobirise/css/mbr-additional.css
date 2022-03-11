@@ -3184,6 +3184,14 @@ section.form .container {
 }
 
 
+#msg-box3-oq .mbr-section-title,
+#msg-box3-oq p {
+  color: #000;
+}
+#msg-box3-oq .mbr-section-title {
+  font-size: 19px;
+  text-align: center;
+}
 #footer1-fv P {
   color: #282828;
   text-align: center;
@@ -4995,7 +5003,6 @@ section.form .container {
 
 
 
-
 #image1-a2 P {
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -5012,16 +5019,16 @@ section.form .container {
   font-family: 'Droid Sans', sans-serif;
   text-align: center;
 }
-#social-buttons2-fj .mbr-section-title,
-#social-buttons2-fj .btn-social {
+#social-buttons2-op .mbr-section-title,
+#social-buttons2-op .btn-social {
   color: #232323;
 }
-#social-buttons2-fj .btn-social > * {
+#social-buttons2-op .btn-social > * {
   vertical-align: middle;
   padding-right: 0;
 }
-#social-buttons2-fj .mbr-section-title {
-  font-size: 15px;
+#social-buttons2-op .mbr-section-title {
+  font-size: 16px;
   font-family: 'Raleway', sans-serif;
 }
 #footer1-1b P {
@@ -5096,16 +5103,4 @@ section.form .container {
 }
 #image1-mz P {
   font-family: 'Source Sans Pro', sans-serif;
-}
-#social-buttons2-op .mbr-section-title,
-#social-buttons2-op .btn-social {
-  color: #232323;
-}
-#social-buttons2-op .btn-social > * {
-  vertical-align: middle;
-  padding-right: 0;
-}
-#social-buttons2-op .mbr-section-title {
-  font-size: 16px;
-  font-family: 'Raleway', sans-serif;
 }

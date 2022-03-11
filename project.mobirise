@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "index.html",
+    "currentPage": "products.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#222222",
         "#fff0b4",
         "#46a1d1",
         "#232323",
         "#545050",
         "#e5e2dd",
-        "#282828",
-        "#d4b2b2"
+        "#282828"
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 890,
+    "uniqCompNum": 891,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -495,7 +495,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-600x845.png",
+              "src": "@PROJECT_PATH@/assets/images/7e11b208-ed55-4765-8b40-f93728c08a9f-600x697.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -545,7 +545,7 @@
           "title1": "爆水炸彈面膜&nbsp;<br>waterbomb mask",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "絲可拉B5抗發炎治愈面膜<div>Deep soothing mask</div>",
+          "title2": "<div>&nbsp;mask</div>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "lashthreeblack<br>睫毛修護增長液",
@@ -8838,6 +8838,45 @@
       },
       "components": [
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "19px",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;Ｑ：你可能也想知道",
+          "text": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page19.html\" data-toolbar=\"-mbrBtnMove\">你根本不是過敏肌<br></a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-oq"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 2,
@@ -15849,7 +15888,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">網路產品販售</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">你可能很想知道</a>",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">各種好用但不是fixx品牌的商品</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://fixxface.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">相見恨晚の護膚品牌</a>",
           "_tags": [
             "Theme"
           ],
@@ -15866,7 +15905,7 @@
               "padding-right": "0"
             },
             ".mbr-section-title": {
-              "font-size": "15px",
+              "font-size": "16px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
@@ -15875,21 +15914,21 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/2-1920x1080.png",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#fff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/fixface721\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fixxface/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://fixxface.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"icon54-v3-planet-orbit mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fixxface/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://lin.ee/ZmZbnHD\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span></a>     ",
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-fj"
+          "_anchor": "social-buttons2-op"
         },
         {
           "_params": {
@@ -16041,41 +16080,6 @@
             }
           },
           "_anchor": "image1-mz"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            },
-            ".btn-social > *": {
-              "vertical-align": "middle",
-              "padding-right": "0"
-            },
-            ".mbr-section-title": {
-              "font-size": "16px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape3.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://fixxface.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"icon54-v3-planet-orbit mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fixxface/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://lin.ee/ZmZbnHD\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-op"
         }
       ]
     }
