@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "products.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -15888,7 +15888,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"products.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">各種好用但不是fixx品牌的商品</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://fixxface.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">相見恨晚の護膚品牌</a>",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">各種好用推薦你們<br>（尚未整理好）✋<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://fixxface.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">相見恨晚の護膚品牌👀</a>",
           "_tags": [
             "Theme"
           ],
