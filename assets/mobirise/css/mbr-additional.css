@@ -3184,14 +3184,6 @@ section.form .container {
 }
 
 
-#msg-box3-oq .mbr-section-title,
-#msg-box3-oq p {
-  color: #000;
-}
-#msg-box3-oq .mbr-section-title {
-  font-size: 19px;
-  text-align: center;
-}
 #footer1-fv P {
   color: #282828;
   text-align: center;
@@ -3274,6 +3266,14 @@ section.form .container {
   text-align: center;
   font-size: 14px;
   font-family: 'Oswald', sans-serif;
+}
+#msg-box3-oq .mbr-section-title,
+#msg-box3-oq p {
+  color: #000;
+}
+#msg-box3-oq .mbr-section-title {
+  font-size: 19px;
+  text-align: center;
 }
 
 
