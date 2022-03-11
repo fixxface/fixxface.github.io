@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "index.html",
+    "currentPage": "page47.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 891,
+    "uniqCompNum": 893,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -15098,6 +15098,55 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "請至 instagram  查看每月限時活動方案 : )<div>(課程多堂優惠麻煩私訊詢問)</div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.instagram.com/fixxface/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>check it !</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-os",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            },
+            ".btn": {
+              "font-size": "10px"
+            },
+            "DIV": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "H2": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -15181,16 +15230,16 @@
           },
           "title1": "💫&nbsp; 無暇淨膚課程&nbsp; 💫<br>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "卸妝➜ 洗淨➜軟化 ➜ 手清粉刺及胜肽酸二選一 ➜無暇淨膚音速槍課程➜ RF微電流導入(洋甘菊退紅舒緩精華導入)➜ 敷臉<br>",
+          "caption1": "卸妝➜ 洗淨 ➜無暇淨膚音速槍課程➜ RF微電流導入(洋甘菊退紅舒緩精華導入)➜ 敷臉<br><br>🉑️＄699加購軟化手清粉刺&nbsp;<br>",
           "title2": "💫&nbsp; 煥顏提亮課程&nbsp; 💫",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "卸妝➜ 洗淨➜軟化 ➜ 煥顏提亮音速槍課程➜軟化 手清粉刺 ➜RF微電流導入(傳明酸精華導入)➜ 黃金軟膜敷臉",
           "title3": "💫 Ｖ型拉提課程&nbsp; 💫",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "卸妝➜ 洗淨➜軟化手清粉刺 ➜ v型拉提音速槍課程➜RF微電流導入(緊實拉提精華導入)➜ 軟膜敷臉",
+          "caption3": "卸妝➜ 洗淨➜ v型拉提音速槍課程➜RF微電流導入(緊實拉提精華導入)➜ 軟膜敷臉<br><br>🉑️＄699加購 軟化手清粉刺&nbsp;<br>",
           "title4": "💫&nbsp; 天使童顏課程&nbsp; 💫",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "卸妝➜ 洗淨➜軟化手清粉刺 ➜天使童顏課程➜RF微電流導入(玫瑰水膜磁精華導入)➜ 軟膜敷臉",
+          "caption4": "卸妝➜ 洗淨 ➜天使童顏課程➜RF微電流導入(玫瑰水膜磁精華導入)➜ 軟膜敷臉<br><br>🉑️＄699加購軟化手清粉刺&nbsp;<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
