@@ -2215,6 +2215,9 @@ section.form .container {
   color: #545050;
   font-size: 16px;
 }
+#msg-box5-bz B {
+  font-size: 17px;
+}
 #content1-is P {
   font-family: 'Droid Serif', serif;
   text-align: center;
@@ -5027,6 +5030,9 @@ section.form .container {
   font-size: 15px;
   font-family: 'Droid Sans', sans-serif;
   text-align: center;
+}
+#buttons1-my .btn {
+  font-size: 12px;
 }
 #social-buttons2-op .mbr-section-title,
 #social-buttons2-op .btn-social {
