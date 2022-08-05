@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page63.html",
+    "currentPage": "page62.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -16093,7 +16093,7 @@
             "timeout": "1",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/3-1080x1920.png",
+                "image": "@PROJECT_PATH@/assets/images/abstract-green-modern-inspirational-quote-video-concept-for-instagram-story-1-1080x1920.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
