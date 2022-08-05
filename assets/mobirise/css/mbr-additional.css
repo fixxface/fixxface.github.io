@@ -5132,7 +5132,7 @@ section.form .container {
 }
 
 #content1-ow P {
-  text-align: left;
+  text-align: center;
   font-size: 14px;
 }
 #footer1-p1 P {
@@ -5216,6 +5216,8 @@ section.form .container {
 
 
 
+
+
 #footer1-p8 P {
   color: #282828;
   text-align: center;
@@ -5238,7 +5240,7 @@ section.form .container {
   font-family: 'PT Sans', sans-serif;
 }
 #content2-pb BLOCKQUOTE {
-  font-family: 'Bitter', serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 13px;
 }
 #content1-pc DIV {
@@ -5314,31 +5316,33 @@ section.form .container {
   text-align: left;
   font-family: 'Bitter', serif;
   color: #f28281;
-  font-size: 14px;
+  font-size: 15px;
 }
 #content2-pj BLOCKQUOTE {
   font-family: 'Bitter', serif;
   font-size: 13px;
 }
 #content2-pj P {
-  font-size: 13px;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
 }
 #content1-pl DIV {
   text-align: left;
   font-family: 'Bitter', serif;
   color: #f28281;
-  font-size: 14px;
+  font-size: 16px;
 }
 #content2-pm BLOCKQUOTE {
   font-family: 'Bitter', serif;
   font-size: 13px;
 }
 #content2-pm P {
-  font-size: 13px;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
 }
 #content1-pn DIV {
-  text-align: left;
+  text-align: center;
   font-family: 'Bitter', serif;
   color: #f28281;
-  font-size: 14px;
+  font-size: 16px;
 }

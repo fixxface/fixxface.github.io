@@ -16129,7 +16129,7 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "14px"
             }
           },
@@ -16423,8 +16423,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "BLOCKQUOTE": {
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "13px"
             }
           },
@@ -16645,7 +16645,7 @@
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "color": "#f28281",
-              "font-size": "14px"
+              "font-size": "15px"
             }
           },
           "_anchor": "content1-pi"
@@ -16668,7 +16668,9 @@
               "font-size": "13px"
             },
             "P": {
-              "font-size": "13px"
+              "font-size": "14px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_anchor": "content2-pj"
@@ -16690,7 +16692,7 @@
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "color": "#f28281",
-              "font-size": "14px"
+              "font-size": "16px"
             }
           },
           "_anchor": "content1-pl"
@@ -16713,7 +16715,9 @@
               "font-size": "13px"
             },
             "P": {
-              "font-size": "13px"
+              "font-size": "14px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_anchor": "content2-pm"
@@ -16731,11 +16735,11 @@
           "_name": "content1",
           "_styles": {
             "DIV": {
-              "text-align": "left",
+              "text-align": "center",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "color": "#f28281",
-              "font-size": "14px"
+              "font-size": "16px"
             }
           },
           "_anchor": "content1-pn"
