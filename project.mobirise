@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page34.html",
+    "currentPage": "page63.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 894,
+    "uniqCompNum": 929,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -52,7 +52,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "news",
-        "order": 43
+        "order": 45
       },
       "components": [
         {
@@ -255,7 +255,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products",
-        "order": 31
+        "order": 33
       },
       "components": [
         {
@@ -682,7 +682,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "products1",
-        "order": 32
+        "order": 34
       },
       "components": [
         {
@@ -891,7 +891,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "pro1-1",
-        "order": 33
+        "order": 35
       },
       "components": [
         {
@@ -1395,7 +1395,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know",
-        "order": 28
+        "order": 30
       },
       "components": [
         {
@@ -1536,7 +1536,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "know1",
-        "order": 30
+        "order": 32
       },
       "components": [
         {
@@ -1944,7 +1944,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "eyelash",
-        "order": 23
+        "order": 25
       },
       "components": [
         {
@@ -2161,7 +2161,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "eyelash-1",
-        "order": 21
+        "order": 23
       },
       "components": [
         {
@@ -2412,7 +2412,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "eyelashq&amp;a",
-        "order": 22
+        "order": 24
       },
       "components": [
         {
@@ -2754,7 +2754,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class",
-        "order": 26
+        "order": 28
       },
       "components": [
         {
@@ -2974,7 +2974,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "waterbomb",
-        "order": 38
+        "order": 40
       },
       "components": [
         {
@@ -3765,7 +3765,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "vvv",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -4098,7 +4098,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "&nbsp; 療程Ｑ＆Ａ",
+          "text": "你的年齡≠你的肌膚年齡",
           "_tags": [
             "Theme"
           ],
@@ -4118,7 +4118,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>✧ &nbsp;抗衰原理是什麼？</blockquote><blockquote><p>A：利用小分子膠原蛋白容易被面部細胞吸收和奈米金箔的消除自由基，抗氧化作用，既補充了膠原蛋白，同時還有極致修復多肽，抗衰祛皺的酵母修護精華，從根本上解決皮膚衰老和下垂的問題，重新煥發肌膚年輕狀態，提升面部輪廓，提拉下顎線，淡化皺紋，從而達到逆齡抗衰的效果。</p></blockquote><blockquote><p>✧ 特色功能是什麼？</p><p><br></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">A：原液安全又靈活，提升收緊衰老的皮膚，全面減緩肌膚衰老，令肌膚恢復並停留在平滑、緊實、光彩、勻淨、潤澤的年輕狀態，美白淡斑，淡化皺紋，從而達到美容抗衰老的神奇效果。</span></p></blockquote><blockquote>✧ 核心成分是什麼？</blockquote><blockquote>A：主要的功效成分有：納米金、高效修復多肽、蛇毒肽、生物糖膠、酵母修護精華等。</blockquote><blockquote>緊致除皺，刺激膠原蛋白、彈性蛋白活性，增加大量的皮下膠原纖維，將表皮、真皮與皮下組織加以固定，提升收緊衰老的皮膚，全面減緩肌膚衰老，令肌膚恢復並停留在平滑、緊實、光彩、勻淨、潤澤的年輕狀態。</blockquote><blockquote>✧ 專利？</blockquote><blockquote>A：極致修復復合多肽與奈米金技術。</blockquote><blockquote>✧ 產品出處哪兒？</blockquote><blockquote><p>A：瑞士引進專利技術與原材料，同時還有醫學檢驗中心的質檢報告。</p><p><br></p></blockquote><blockquote>✧ 我今年25歲有效果嗎？</blockquote><blockquote><p>Ａ：當然可以用的。25面部就已經開始衰老，越早使用越抗衰老。</p><p><br></p></blockquote><blockquote>✧ 敏感皮膚能用嗎？</blockquote><blockquote><p>Ａ：適用於所有人，但敏感皮膚只要不是在急性過敏期是可以用的。</p><p><br></p></blockquote><blockquote>✧ 衰老分為幾種類型？</blockquote><blockquote>Ａ：抗衰老分為四個階段，衰老初級階段 20-25歲最好能預防衰老，衰老初級階段26-35歲需要延緩衰老，衰老高級第一階段35-45歲逆轉肌齡，衰老高級第二階段45歲以後需要對抗衰老：）</blockquote><blockquote>✧ 為什麼會出現皺紋？</blockquote><blockquote>Ａ：皺紋的產生直接原因是成纖維細胞的缺失斷裂，腦垂體的激素分泌也可以影響成纖維的生長。換言之就是與作息、心情、飲食、經期都有關係。定期做療程一定會有非常滿意的效果。</blockquote><blockquote>✧ 哪些人群是不能做療程的？<span style=\"font-family: Bitter, serif;\">&nbsp;</span></blockquote><blockquote><p><span style=\"font-family: Bitter, serif;\">&nbsp;1、痘痘爆發期</span><br></p><p>&nbsp;2、急性過敏期 &nbsp;</p><p>&nbsp;3、用過其他功效產品排毒</p><p>&nbsp;4、耳後敏感測試有敏感反應&nbsp;</p><p>&nbsp;5、皮膚有破損 &nbsp;</p><p>&nbsp;6、做過光電項目、注射項目不足15天或雖超過15 天皮膚有其他異常表現的。</p><p><br></p></blockquote><blockquote><p>✧ 產品有美白功效嗎？</p></blockquote><blockquote><p>Ａ：有的，產品里的九胜肽有美白淡斑的功效</p><p><br></p><p><br></p></blockquote><blockquote><p>✧ 做完療程臉部會不會沒有什麼變化？</p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">&nbsp; &nbsp;多久效果會明顯？</span></p></blockquote><blockquote><p>Ａ：不同的階段會有不同的變化，大部分人當場就會感到自己皮膚變緊了，用手戳會覺得彈性增加。&nbsp;</p><p><br></p></blockquote><blockquote>✧ 一般見效療程是多少天？</blockquote><blockquote><p>Ａ：當下做完立即見效</p><p><span style=\"font-family: Bitter, serif;\">&nbsp; &nbsp; &nbsp; 建議7~10天做一次療程</span><span style=\"font-family: Bitter, serif; font-size: 13px;\">&nbsp;</span><span style=\"font-family: Bitter, serif; font-size: 13px;\">（維持效果最佳）</span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">&nbsp; &nbsp; &nbsp;使用時間長短不同效果不同。</span></p></blockquote><blockquote>✧ 可以改善毛孔粗大問題嗎？</blockquote><blockquote>Ａ：可以，當下療程後皮膚立即緊致，明顯縮小毛孔。</blockquote><blockquote><br></blockquote><blockquote><p><span style=\"font-style: normal;\"><br></span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">不良的生活習慣會造成皮膚衰老。</span><br></p><p>不愛喝水，水分不足=&gt;&gt;膠原蛋白流失。\n</p><p>經常熬夜，睡眠不足，修護能力下降。\n</p><p>心情波動大，壓力焦慮，臉上皺紋早早爬滿臉\n</p><p>年齡增長，快節奏生活，護理不當\n</p><p>你的肌齡比年齡老的更快。\n</p><p><br></p><p><br></p><p><br></p><p>✧ &nbsp;抗衰原理是什麼？</p></blockquote><blockquote><p>A：利用小分子膠原蛋白容易被面部細胞吸收和奈米金箔的消除自由基，抗氧化作用，既補充了膠原蛋白，同時還有極致修復多肽，抗衰祛皺的酵母修護精華，從根本上解決皮膚衰老和下垂的問題，重新煥發肌膚年輕狀態，提升面部輪廓，提拉下顎線，淡化皺紋，從而達到逆齡抗衰的效果。</p></blockquote><blockquote><p>✧ 特色功能是什麼？</p><p><br></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">A：原液安全又靈活，提升收緊衰老的皮膚，全面減緩肌膚衰老，令肌膚恢復並停留在平滑、緊實、光彩、勻淨、潤澤的年輕狀態，美白淡斑，淡化皺紋，從而達到美容抗衰老的神奇效果。</span></p></blockquote><blockquote>✧ 核心成分是什麼？</blockquote><blockquote>A：主要的功效成分有：納米金、高效修復多肽、蛇毒肽、生物糖膠、酵母修護精華等。</blockquote><blockquote>緊致除皺，刺激膠原蛋白、彈性蛋白活性，增加大量的皮下膠原纖維，將表皮、真皮與皮下組織加以固定，提升收緊衰老的皮膚，全面減緩肌膚衰老，令肌膚恢復並停留在平滑、緊實、光彩、勻淨、潤澤的年輕狀態。</blockquote><blockquote>✧ 專利？</blockquote><blockquote>A：極致修復復合多肽與奈米金技術。</blockquote><blockquote>✧ 產品出處哪兒？</blockquote><blockquote><p>A：瑞士引進專利技術與原材料，同時還有醫學檢驗中心的質檢報告。</p><p><br></p></blockquote><blockquote>✧ 我今年25歲有效果嗎？</blockquote><blockquote><p>Ａ：當然可以用的。25面部就已經開始衰老，越早使用越抗衰老。</p><p><br></p></blockquote><blockquote>✧ 敏感皮膚能用嗎？</blockquote><blockquote><p>Ａ：適用於所有人，但敏感皮膚只要不是在急性過敏期是可以用的。</p><p><br></p></blockquote><blockquote>✧ 衰老分為幾種類型？</blockquote><blockquote>Ａ：抗衰老分為四個階段，衰老初級階段 20-25歲最好能預防衰老，衰老初級階段26-35歲需要延緩衰老，衰老高級第一階段35-45歲逆轉肌齡，衰老高級第二階段45歲以後需要對抗衰老：）</blockquote><blockquote>✧ 為什麼會出現皺紋？</blockquote><blockquote>Ａ：皺紋的產生直接原因是成纖維細胞的缺失斷裂，腦垂體的激素分泌也可以影響成纖維的生長。換言之就是與作息、心情、飲食、經期都有關係。定期做療程一定會有非常滿意的效果。</blockquote><blockquote>✧ 哪些人群是不能做療程的？<span style=\"font-family: Bitter, serif;\">&nbsp;</span></blockquote><blockquote><p><span style=\"font-family: Bitter, serif;\">&nbsp;1、痘痘爆發期</span><br></p><p>&nbsp;2、急性過敏期 &nbsp;</p><p>&nbsp;3、用過其他功效產品排毒</p><p>&nbsp;4、耳後敏感測試有敏感反應&nbsp;</p><p>&nbsp;5、皮膚有破損 &nbsp;</p><p>&nbsp;6、做過光電項目、注射項目不足15天或雖超過15 天皮膚有其他異常表現的。</p><p><br></p></blockquote><blockquote><p>✧ 產品有美白功效嗎？</p></blockquote><blockquote><p>Ａ：有的，產品里的九胜肽有美白淡斑的功效</p><p><br></p><p><br></p></blockquote><blockquote><p>✧ 做完療程臉部會不會沒有什麼變化？</p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">&nbsp; &nbsp;多久效果會明顯？</span></p></blockquote><blockquote><p>Ａ：不同的階段會有不同的變化，大部分人當場就會感到自己皮膚變緊了，用手戳會覺得彈性增加。&nbsp;</p><p><br></p></blockquote><blockquote>✧ 一般見效療程是多少天？</blockquote><blockquote><p>Ａ：當下做完立即見效</p><p><span style=\"font-family: Bitter, serif;\">&nbsp; &nbsp; &nbsp; 建議7~10天做一次療程</span><span style=\"font-family: Bitter, serif; font-size: 13px;\">&nbsp;</span><span style=\"font-family: Bitter, serif; font-size: 13px;\">（維持效果最佳）</span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">&nbsp; &nbsp; &nbsp;使用時間長短不同效果不同。</span></p></blockquote><blockquote>✧ 可以改善毛孔粗大問題嗎？</blockquote><blockquote>Ａ：可以，當下療程後皮膚立即緊致，明顯縮小毛孔。</blockquote><blockquote><br></blockquote><blockquote><p><span style=\"font-style: normal;\"><br></span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -4140,6 +4140,61 @@
             }
           },
           "_anchor": "content2-bc"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "你的年齡≠你的肌膚年齡",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#f28281",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "content1-p7"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>告別法令紋，拉提蘋果肌\r</blockquote><blockquote>別再跟細紋黯沉糾纏不清! 急性子要馬上說掰掰。\r<span style=\"font-size: 1.09rem;\">眼角細紋，浮腫眼袋，黑眼圈，熬夜臉\n</span><span style=\"font-size: 1.09rem;\">越嚴重越有效，體驗時光膜法&nbsp;</span></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-pg"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "&nbsp;",
+          "meta": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p6"
         },
         {
           "_styles": {
@@ -5583,7 +5638,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "sp50",
-        "order": 37
+        "order": 39
       },
       "components": [
         {
@@ -5965,7 +6020,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "lasftreeblack",
-        "order": 36
+        "order": 38
       },
       "components": [
         {
@@ -6472,7 +6527,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "mask",
-        "order": 35
+        "order": 37
       },
       "components": [
         {
@@ -7006,7 +7061,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 39",
-        "order": 34
+        "order": 36
       },
       "components": [
         {
@@ -8106,7 +8161,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "class00",
-        "order": 27
+        "order": 29
       },
       "components": [
         {
@@ -8381,7 +8436,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Technology Beauty",
-        "order": 42
+        "order": 44
       },
       "components": [
         {
@@ -8704,7 +8759,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Page 49",
-        "order": 44
+        "order": 46
       },
       "components": [
         {
@@ -8947,7 +9002,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "class eyebrow",
-        "order": 25
+        "order": 27
       },
       "components": [
         {
@@ -9164,7 +9219,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "item",
-        "order": 29
+        "order": 31
       },
       "components": [
         {
@@ -9447,7 +9502,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "browlift",
-        "order": 24
+        "order": 26
       },
       "components": [
         {
@@ -10054,7 +10109,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "qa",
-        "order": 40
+        "order": 42
       },
       "components": [
         {
@@ -10813,7 +10868,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "basiccare",
-        "order": 45
+        "order": 47
       },
       "components": [
         {
@@ -11042,7 +11097,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "deep shooting",
-        "order": 39
+        "order": 41
       },
       "components": [
         {
@@ -14452,7 +14507,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "magic.sonic",
-        "order": 41
+        "order": 43
       },
       "components": [
         {
@@ -14647,7 +14702,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "magicmenu",
-        "order": 46
+        "order": 48
       },
       "components": [
         {
@@ -15807,7 +15862,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page49.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約臉部前先看這<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page35.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">4/25 - 5/25<br>Mother's Day Event<br>✨🦋 母親節活動🦋✨<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://fixxface.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">相見恨晚の護膚品牌👀</a>",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page49.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fixxface 獨家Ａll in one<br>CPP生物表層肌底拉提緊實課程<br>（小熨斗課程）<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page49.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約臉部前先看這<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://fixxface.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">相見恨晚の護膚品牌👀</a>",
           "_tags": [
             "Theme"
           ],
@@ -16004,6 +16059,792 @@
             }
           },
           "_anchor": "image1-mz"
+        }
+      ]
+    },
+    "page62.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "vlinelifting",
+        "order": 22
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ou"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": "1",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-1080x1920.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-1080x1920.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bridge.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BACKGROUND VIDEO",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sparklers.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-p5"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Fixxface 獨家 All in one（小熨斗課程）</b></p><p><b><br></b></p><p><b>這是困擾你的問題嗎 ？</b></p><p><br></p><p>✓&nbsp; 從前看不到的毛孔日漸粗大</p><p>✓&nbsp; 肌膚乾癟粗糙</p><p><span style=\"font-size: 14px;\">✓&nbsp; 臉部輪廓線條鬆弛下垂</span></p><p>✓&nbsp; 細紋，表情紋日益加深</p><p><span style=\"font-size: 14px;\">✓&nbsp; 蘋果肌下垂，輪廓鬆弛</span></p><p><span style=\"font-size: 14px;\">✓&nbsp; 膚色黯淡無光，沒有光澤</span></p><p>✓&nbsp; 肌膚粗糙，毛孔粗大，不用放大鏡都看 的到</p><p><br></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-p4",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>凝水隱形法令紋\n</p><p>密集修護&nbsp; 臉部小熨斗\n</p><p><br></p><p>蘊含多肽科技奢養精華，對抗初老肌。\n</p><p>精選多重透皮吸收胜肽\n</p><p>撫平細紋，緊緻拉提\n</p><p><br></p><p>重組肌底，賦活年輕肌膚</p><p><br></p><p>從細胞入手， 真正解決皮膚問題， 效果根本徹底。\n</p><p>融合生物透皮技術， 活性強， 吸收率高， 見效快。\n</p><p><br></p><p>進而達到醫美的效果♡</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "content1-ow"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>原價$4800 獨家療程體驗 $3500&nbsp;&nbsp;</p><p><br></p><p>療程體驗後可以私訊詢問課程方案</p><p>可享更多優惠</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-oy"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page32.html\" data-toolbar=\"-mbrBtnMove\">療程效果</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">療程Q&amp;A<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-oz"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#b86a7b"
+          },
+          "text": "<blockquote></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-p0"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#282828",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-p1"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e5e2dd!important"
+            },
+            "A": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"welcometofixxface.html\" target=\"_blank\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-p2"
+        }
+      ]
+    },
+    "page63.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "原qa",
+        "order": 20
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/my-skincare-routine-retro-modern-outline-powerpoint-presentation-education-2-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-pk"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>細胞穿透增強多肽</b>利用重組DNA技術，將透皮短肽TD-1與蛋白類分子通過生物學方法連接起來。技術全球領先且獨一無二，在保持原有蛋白活性的同時透皮效率比常規細胞因數高10倍以上。\n</p><p><br></p><p>技術原理： \n</p><p>蛋白質多肽能夠促進皮膚細胞生長，膠原蛋白再生，是維持皮膚年輕態的人體內天然存在的物質。由於皮膚屏障的存在，在外補充大分子蛋白質很難被皮膚吸收。\n</p><p><br></p><p><b>細胞穿透增強多肽</b>可以啟動細胞表面的鈉鉀 ATP 酶β亞基，這個β亞基在皮膚內專門調節皮膚細胞間的縫隙。使細胞間隙從 10 納米擴大到 430 納米。有效成分穿過屏障後， 由於屏障前後的濃度接近平衡。透皮肽和β亞基結合減弱，屏障關閉。細胞間隙擴大與關閉來去自由！\n</p><p><br></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "13px"
+            },
+            "P": {
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "content2-pj"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#282828",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-p8"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "&nbsp;",
+          "meta": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p9"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/my-skincare-routine-retro-modern-outline-powerpoint-presentation-education-2-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-ps"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "✧ 你的年齡≠你的肌膚年齡",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#f28281"
+            }
+          },
+          "_anchor": "content1-pa"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">不良的生活習慣會造成皮膚衰老。</span><br></p><p>不愛喝水，水分不足=&gt;&gt;膠原蛋白流失。\n</p><p>經常熬夜，睡眠不足，修護能力下降。\n</p><p>心情波動大，壓力焦慮，臉上皺紋早早爬滿臉\n</p><p>年齡增長，快節奏生活，護理不當\n</p><p>你的肌齡比年齡老的更快。\n</p><p><br></p></blockquote><blockquote><p>✧ 特色功能是什麼？</p><p><br></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">A：利用生物學方法連接的細胞穿透增強多肽, 如同帶有開啟細胞膜大門的鑰匙, 使抗老成份快速穿透，安全又靈活，提升收緊衰老的皮膚，全面減緩肌膚衰老，搭配音速槍療程，效果加乘。快速達到美容抗衰老的神奇效果。</span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\"><br></span></p></blockquote><blockquote>✧ 我今年25歲有效果嗎？</blockquote><blockquote><p>Ａ：CPP 課程針對現在人熬夜生活習慣不佳，加速肌膚老化對症下藥。配方有效抗氧化，提升肌膚抵抗力，以及提高皮膚細胞活力，促進細胞新陳代謝，所以不是僅僅只看年齡來決定效果，凍齡保養，預防老化不是等到初老現象出現才開始喔。</p></blockquote><blockquote>✧ 敏感皮膚能用嗎？</blockquote><blockquote><p>Ａ：適用於所有人，但敏感皮膚只要不是在急性過敏期是可以用的。</p><p><br></p></blockquote><blockquote>✧ 衰老分為幾種類型？</blockquote><blockquote>Ａ：抗衰老分為四個階段，衰老初級階段 20-25歲最好能預防衰老，衰老初級階段26-35歲需要延緩衰老，衰老高級第一階段35-45歲逆轉肌齡，衰老高級第二階段45歲以後需要對抗衰老：）</blockquote><blockquote>✧ 為什麼會出現皺紋？</blockquote><blockquote>Ａ：皺紋的產生直接原因是成纖維細胞的缺失斷裂，腦垂體的激素分泌也可以影響成纖維的生長。換言之就是與作息、心情、飲食、經期都有關係。定期做療程一定會有非常滿意的效果。</blockquote><blockquote><span style=\"font-family: Bitter, serif; font-size: 13px;\">✧ 產品有美白功效嗎？</span></blockquote><blockquote><p>Ａ：有的，搭配具有抑制黑色素活性複合的草本配方，療程具有明顯提亮膚色的效果喔。</p><p><br></p></blockquote><blockquote><p>✧ 做完療程臉部會不會沒有什麼變化？</p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">&nbsp; &nbsp;多久效果會明顯？</span></p></blockquote><blockquote><p>Ａ：不同的階段會有不同的變化，大部分人當場就會感到自己皮膚變緊了，用手戳會覺得彈性增加。&nbsp;</p><p><br></p></blockquote><blockquote>✧ 一般見效療程是多少天？</blockquote><blockquote><p>Ａ：當下做完立即見效</p><p><span style=\"font-family: Bitter, serif;\">&nbsp; &nbsp; &nbsp; 建議7~10天做一次療程</span><span style=\"font-family: Bitter, serif; font-size: 13px;\">&nbsp;</span><span style=\"font-family: Bitter, serif; font-size: 13px;\">（維持效果最佳）</span></p><p><span style=\"font-family: Bitter, serif; font-size: 13px;\">&nbsp; &nbsp; &nbsp;使用時間長短不同效果不同。</span></p></blockquote><blockquote>✧ 可以改善毛孔粗大問題嗎？</blockquote><blockquote>Ａ：可以，當下療程後皮膚立即緊致，明顯縮小毛孔。</blockquote><blockquote><br></blockquote><blockquote><p><span style=\"font-style: normal;\"><br></span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "SPAN": {
+              "font-size": "12px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "13px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "BLOCKQUOTE": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "content2-pb"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<b>✧&nbsp; 別再讓肌齡掩飾你的真實年齡</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#f28281"
+            }
+          },
+          "_anchor": "content1-pc"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/my-skincare-routine-retro-modern-outline-powerpoint-presentation-education-2-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-ph"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/my-skincare-routine-retro-modern-outline-powerpoint-presentation-education-2-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-pr"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/my-skincare-routine-retro-modern-outline-powerpoint-presentation-education-2-1400x788.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-pp"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e5e2dd!important"
+            },
+            "A": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"welcometofixxface.html\" target=\"_blank\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "party-ribbon",
+              "family": "icon54",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-pe"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "✧ 課程小教室 細胞穿透增強多肽 CPP",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#f28281",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "content1-pi"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "細胞穿透增強多肽的功效",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#f28281",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "content1-pl"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>細胞穿透增強多肽的功效：\n</p><p>促進皮膚細胞生長，修復損傷性肌膚表面。 \n</p><p>增強皮膚抵抗力，改善膚質，調理皮膚敏感、刺激、過敏、發紅、瘙癢症狀。 \n</p><p>提高皮膚細胞活力，促進細胞新陳代謝，加速表層色斑代謝、提亮膚色、使皮膚透\n</p><p>亮光澤 \n</p><p>促進皮膚細胞分泌膠原蛋白，提高皮膚彈性、令肌膚緊致光滑，淡化細紋乾紋。 \n</p><p>促進皮膚細胞分泌透明質酸，提高皮膚鎖水能力，令肌膚水嫩柔潤。\n</p><p>基因美容所應用的細胞生長因數與人體 100%同源，無不良反應與副作用， 效果安全可靠！</p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "13px"
+            },
+            "P": {
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "content2-pm"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "從細胞入手， 真正解決皮膚問題， 效果根本徹底。\n<div>融合生物透皮技術， 活性強， 吸收率高， 見效快。\n</div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#f28281",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "content1-pn"
         }
       ]
     }
