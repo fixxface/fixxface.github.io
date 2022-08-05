@@ -16423,8 +16423,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "BLOCKQUOTE": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "13px"
             }
           },
@@ -16506,6 +16506,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-pr"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "✧ 課程小教室 細胞穿透增強多肽 CPP",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#f28281",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-pi"
         },
         {
           "_params": {
@@ -16634,28 +16656,6 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "✧ 課程小教室 細胞穿透增強多肽 CPP",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "text-align": "left",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "color": "#f28281",
-              "font-size": "15px"
-            }
-          },
-          "_anchor": "content1-pi"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
           "text": "<blockquote><p><b>細胞穿透增強多肽</b>利用重組DNA技術，將透皮短肽TD-1與蛋白類分子通過生物學方法連接起來。技術全球領先且獨一無二，在保持原有蛋白活性的同時透皮效率比常規細胞因數高10倍以上。\n</p><p><br></p><p>技術原理： \n</p><p>蛋白質多肽能夠促進皮膚細胞生長，膠原蛋白再生，是維持皮膚年輕態的人體內天然存在的物質。由於皮膚屏障的存在，在外補充大分子蛋白質很難被皮膚吸收。\n</p><p><br></p><p><b>細胞穿透增強多肽</b>可以啟動細胞表面的鈉鉀 ATP 酶β亞基，這個β亞基在皮膚內專門調節皮膚細胞間的縫隙。使細胞間隙從 10 納米擴大到 430 納米。有效成分穿過屏障後， 由於屏障前後的濃度接近平衡。透皮肽和β亞基結合減弱，屏障關閉。細胞間隙擴大與關閉來去自由！\n</p><p><br></p></blockquote>",
           "_tags": [
             "Theme"
@@ -16669,8 +16669,8 @@
             },
             "P": {
               "font-size": "14px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_anchor": "content2-pj"
@@ -16716,8 +16716,8 @@
             },
             "P": {
               "font-size": "14px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_anchor": "content2-pm"
