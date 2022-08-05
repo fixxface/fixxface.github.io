@@ -5133,7 +5133,7 @@ section.form .container {
 
 #content1-ow P {
   text-align: left;
-  font-size: 12px;
+  font-size: 14px;
 }
 #footer1-p1 P {
   color: #282828;
@@ -5222,15 +5222,11 @@ section.form .container {
   font-family: 'Slabo 27px', serif;
   font-size: 12px;
 }
-#header3-p9 .mbr-section-title,
-#header3-p9 .mbr-section-subtitle {
-  text-align: center;
-}
 #content1-pa DIV {
   text-align: left;
   font-family: 'Bitter', serif;
   color: #f28281;
-  font-size: 16px;
+  font-size: 18px;
 }
 #content2-pb SPAN {
   font-size: 12px;
@@ -5239,7 +5235,7 @@ section.form .container {
 #content2-pb P {
   text-align: left;
   font-size: 13px;
-  font-family: 'Lora', serif;
+  font-family: 'PT Sans', sans-serif;
 }
 #content2-pb BLOCKQUOTE {
   font-family: 'Bitter', serif;

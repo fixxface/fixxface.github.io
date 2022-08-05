@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "index.html",
+    "currentPage": "page63.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -16106,49 +16106,6 @@
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/2-1080x1920.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDER",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bridge.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BACKGROUND VIDEO",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sparklers.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOTSTRAP SLIDER",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           },
@@ -16173,7 +16130,7 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-size": "12px"
+              "font-size": "14px"
             }
           },
           "_anchor": "content1-ow"
@@ -16345,7 +16302,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/my-skincare-routine-retro-modern-outline-powerpoint-presentation-education-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/my-skincare-routine-retro-modern-outline-powerpoint-presentation-education-1-1400x788.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -16393,26 +16350,6 @@
           "_anchor": "footer1-p8"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "&nbsp;",
-          "meta": "&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-p9"
-        },
-        {
           "_params": {
             "showText": false,
             "paddingTop": "0",
@@ -16422,7 +16359,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/my-skincare-routine-retro-modern-outline-powerpoint-presentation-education-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/my-skincare-routine-retro-modern-outline-powerpoint-presentation-education-2-1400x788.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -16457,7 +16394,7 @@
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "color": "#f28281",
-              "font-size": "16px"
+              "font-size": "18px"
             }
           },
           "_anchor": "content1-pa"
@@ -16482,8 +16419,8 @@
             "P": {
               "text-align": "left",
               "font-size": "13px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "BLOCKQUOTE": {
               "font-family": "'Bitter', serif",
@@ -16524,7 +16461,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/my-skincare-routine-retro-modern-outline-powerpoint-presentation-education-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/my-skincare-routine-retro-modern-outline-powerpoint-presentation-education-1400x788.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -16580,7 +16517,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/my-skincare-routine-retro-modern-outline-powerpoint-presentation-education-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/16596750953812x-494x554.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
