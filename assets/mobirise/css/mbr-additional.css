@@ -2099,10 +2099,10 @@ section.form .container {
   text-align: center;
   font-family: 'Droid Serif', serif;
   color: #28262b;
-  font-size: 15px;
+  font-size: 13px;
 }
 #content1-c6 DIV {
-  color: #d14841;
+  color: #f97352;
 }
 #features3-bx P {
   color: #d14841;
@@ -2112,6 +2112,9 @@ section.form .container {
 #features3-bx H4 {
   font-family: 'PT Serif', serif;
   font-size: 18px;
+}
+#features3-bx DIV {
+  font-size: 17px;
 }
 #footer1-bv P {
   color: #282828;
@@ -2214,11 +2217,10 @@ section.form .container {
 
 
 
-
 #msg-box5-bz DIV {
   text-align: center;
   font-family: 'Slabo 27px', serif;
-  font-size: 46px;
+  font-size: 32px;
 }
 #msg-box5-bz P {
   text-align: center;
@@ -2228,11 +2230,6 @@ section.form .container {
 }
 #msg-box5-bz B {
   font-size: 17px;
-}
-#content1-is P {
-  font-family: 'Droid Serif', serif;
-  text-align: center;
-  font-size: 15px;
 }
 #footer1-c0 P {
   color: #282828;
