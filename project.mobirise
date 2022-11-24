@@ -15879,20 +15879,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"page35.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Happy 6th anniversary<br>休修臉6週年 活動9/15－10/31</a>  ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-pv"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#ffffff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"welcometofixxface.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">關於我們 ✹</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約須知 ❍ </a> ",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"welcometofixxface.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">關於我們 ✹</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"news.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約須知 ❍ </a> ",
           "_tags": [
             "Theme"
           ],
