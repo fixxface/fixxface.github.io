@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "index.html",
+    "currentPage": "page14.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2000,7 +2000,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
@@ -2039,9 +2039,9 @@
               "size": 0
             }
           },
-          "title": "韓國角蛋白美睫",
-          "text": "<p>uplash 翹睫毛 👁️👁️<br>韓國角蛋白美睫<br>真。睫毛 反地心吸力，睫毛自然開花.<br>😎😎😎<br>養護妳的真睫毛，可以讓睫毛更健康哦<br>過程不燻眼、溫和不刺激<br>自體睫毛無異物感、0負擔<br>捲翹度可維持5～8周以上都可以<br>（看每個人生活習慣、搓揉眼睛或是卸妝方法都會影響喔）<br><br>✔️改善睫毛弧度：令眼形更亮麗更突出<br>✔️改善睫毛下垂：因眼皮過厚/過重<br>✔️改善睫毛倒插：杜絕睫毛倒插，過度揉眼<br>✔️改善眼妝問題：無需夾睫毛，不怕睫毛膏過重<br>✔️改善植睫毛： 不怕嫁接睫毛過長/過重，導致容易脫落和不翹<br><br><br>讓妳的眼神自然放大、睫毛健康纖長～<br>只要1小時左右便可以擁有像夾過睫毛及根根分明的效果，自然又有神🧐<br>重點重點！日常生活可以不用照顧，可以正常洗臉、化妝、卸妝<br><br>不用怕嫁接睫毛那種掉到參差不齊的感覺，要多自然就多自然 ❤️<br><br>售價：$2500<br>優惠價：$1380<br><br><br><br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page23.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">常見問題</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page21.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">照片分享<br></a>",
+          "title": "韓式睫毛管理美睫術&nbsp;",
+          "text": "<p>uplash 翹睫毛 👁️👁️<br>韓式睫毛管理美睫術&nbsp;<br>真。睫毛 反地心吸力，睫毛自然開花.<br>😎😎😎<br>養護妳的真睫毛，可以讓睫毛更健康哦<br>過程不燻眼、溫和不刺激<br>自體睫毛無異物感、0負擔<br>捲翹度可維持5～8周以上都可以<br>（看每個人生活習慣、搓揉眼睛或是卸妝方法都會影響喔）<br><br>✔️改善睫毛弧度：令眼形更亮麗更突出<br>✔️改善睫毛下垂：因眼皮過厚/過重<br>✔️改善睫毛倒插：杜絕睫毛倒插，過度揉眼<br>✔️改善眼妝問題：無需夾睫毛，不怕睫毛膏過重<br>✔️改善植睫毛： 不怕嫁接睫毛過長/過重，導致容易脫落和不翹<br><br><br>讓妳的眼神自然放大、睫毛健康纖長～<br>只要1小時左右便可以擁有像夾過睫毛及根根分明的效果，自然又有神🧐<br>重點重點！日常生活可以不用照顧，可以正常洗臉、化妝、卸妝<br><br>不用怕嫁接睫毛那種掉到參差不齊的感覺，要多自然就多自然 ❤️<br><br>售價：$2500<br>優惠價：$1280<br><br><br><br></p>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page21.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">照片分享<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -2199,7 +2199,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "韓式角蛋白作品照",
+          "title": "睫毛管理作品照",
           "meta": "更多作品請至INSTAGRAM:FIXXFACE",
           "_tags": [
             "Theme"
@@ -2312,200 +2312,6 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-7h"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#28324e"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#28324e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#28324e"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#28324e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e5e2dd!important"
-            },
-            "A": {
-              "font-size": "13px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "0.9",
-            "fontName": {},
-            "fontColor": "#28324e",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">服務項目</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page49.html\" aria-expanded=\"false\" target=\"_blank\">預約臉部前先看這&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">魔力音速</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page48.html\" aria-expanded=\"false\">魔力音速儀器介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page47.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速課程介紹</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page54.html\" aria-expanded=\"false\" target=\"_blank\">魔力音速影片解說及常見問題Ｑ＆Ａ</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page56.html\" aria-expanded=\"false\" target=\"_blank\">基礎護理及煥膚</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page20.html\" aria-expanded=\"false\">FIXXFACE睫毛管理</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page52.html\" aria-expanded=\"false\" target=\"_blank\">FIXXFACE眉毛塑型<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page44.html\" aria-expanded=\"false\" target=\"_blank\">課程教學  <br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">預約須知 ❍&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"welcometofixxface.html\" target=\"_blank\">關於我們 ✹</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page44.html\">課程教學 ◒</a></li>",
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-8456-128x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "linkInNewWindow": true,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "party-ribbon",
-              "family": "icon54",
-              "active": true,
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">fixxface.</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-g4"
-        }
-      ]
-    },
-    "page23.html": {
-      "settings": {
-        "meta_descr": "Web Site Generator Description",
-        "title": "eyelashq&amp;a",
-        "order": 24
-      },
-      "components": [
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "✦&nbsp;高雄 休修臉 美學&nbsp;✦<br>since2017<br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#282828",
-              "text-align": "center",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "footer1-7p"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "&nbsp;",
-          "meta": "&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-7q"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "🏆 韓式角蛋白美睫術 🏆<div><br></div><div>是現在在韓國非常盛行的技術</div><div>可以美化～矯正～滋養～修復</div><div><br></div><div>『韓星韓妞們必備』</div><div>還在羨慕韓妞怎麼看都沒有妝感嗎？你還在夾睫毛嗎？</div><div>趕快來嘗試看看角蛋白的厲害吧～</div><div><br></div><div>此技術不用加上任何假睫毛，即可令睫毛瞬間變得豐盈！</div><div>運用自身的真睫毛做出捲翹度，並以膠原蛋白滋養修護睫毛！</div><div>把原本歪歪的睫毛矯回來，去提升自身睫毛的自然美和質感！</div><div><br></div><div>✔️全面合格拋棄式套組，用過即拋，安全衛生又方便</div><div>✔️韓式角蛋白美睫術持續1~2個月，卸妝防水塗睫毛膏都沒問題。</div>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-7r",
-          "_styles": {
-            "DIV": {
-              "text-align": "left",
-              "font-size": "12px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><span style=\"font-style: normal;\">&nbsp;💛 韓國角蛋白 問與答 💛：</span></blockquote><blockquote><p><span style=\"font-style: normal;\">1.韓國角蛋白過程時間？</span></p><p><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">依據每個人睫毛程度 下去整理 療程大約50分鐘左右。</span></p></blockquote><blockquote><p><span style=\"font-style: normal;\">&nbsp;2.過程中會痛會熱嗎？</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">過程中不會熱也不會痛喔，但有些人皮膚跟眼睛比較敏感會流眼淚或是癢癢的。</span></p><p><span style=\"font-style: normal;\">有些人眼皮比較薄，可能會因為貼了紙膠帶在眼皮上而有感覺異物感或不舒服 。</span></p></blockquote><blockquote><span style=\"font-style: normal;\">3.有嫁接睫毛還可以做嗎？</span></blockquote><blockquote><p><span style=\"font-style: normal;\">&nbsp;角蛋白美睫不能有嫁接的睫毛在眼睛上喔，一定要卸除乾淨。&nbsp;</span></p><p><span style=\"font-style: normal;\">如果有嫁接睫毛，要在前一天卸除完畢讓眼睛休息一下。</span></p></blockquote><blockquote><span style=\"font-style: normal;\">4 需要注意什麼呢？</span></blockquote><blockquote><p><span style=\"font-style: normal;\">&nbsp;✔️ 切記做完三小時請勿碰水 &nbsp;</span></p><p><span style=\"font-style: normal;\">&nbsp;✔️&nbsp;</span><span style=\"font-style: normal;\">當天別化眼妝以及卸眼妝</span></p><p><span style=\"font-style: normal;\">&nbsp;✔️&nbsp;</span><span style=\"font-style: normal;\">三天內請不要去游泳跟三溫暖潮濕的地方，盡量也不要搓揉眼睛</span></p><p><span style=\"font-style: normal;\">&nbsp;</span></p><p><span style=\"font-style: normal;\">&nbsp;✔️&nbsp;</span><span style=\"font-style: normal;\">如要刷睫毛膏，務必三天後在刷喔❤️</span></p></blockquote><blockquote><p><span style=\"font-style: normal;\"><br></span></p></blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-7s",
-          "_styles": {
-            "SPAN": {
-              "font-size": "12px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "12px"
-            }
-          }
         },
         {
           "_styles": {
@@ -2852,8 +2658,8 @@
               "size": 0
             }
           },
-          "title": "正統韓國半永久睫毛根流校正課程",
-          "text": "睫毛管理 <br>uplash 翹睫毛 👁️👁️<br><br><br>一對一教授<br>課後即時上手做客<br>零失敗紀錄，讓你有充分學習時間<br>💯學會快速上手，只需要一堂<br><br>課程內容除了教如何排睫毛、補救。<br>還有客人的眼型如何挑選捲翹度。<br>跟相關會遇到的角蛋白問題都可詢問。<br><br><br>［ 課程內容 ］<br><br>➜ 理論介紹<br>➜ 操作流程: 毛流矯正技術與產品使用方式<br>➜ 睫毛生長原理<br>➜ 眼型判斷<br>➜ 常見問題<br>➜ 拍照技巧<br>➜ 老師示範<br>➜ 學生實際操作<br>➜ 收費建議行銷技巧<br><br>*基本服務操作工具<br>*可以操作10-20位客人的材料<br>*某些副材料可以使用更多人數<br>*材料工具盒<br>報名課程需先支付訂金（請於3日內匯款）<br>讓妳收穫滿滿開心下課😊<br><br>⚠️鄭重呼籲～目前坊間有很多不明來歷且自稱「角蛋白」之產品，請大家提高警覺一分錢一分貨，本所無法與來路不明產品或廉價贋品相提並論⚠️<br><br><br>",
+          "title": "正統韓國韓式睫毛管理美睫術 課程",
+          "text": "睫毛管理 <br>uplash 翹睫毛 👁️👁️<br><br><br>一對一教授<br>課後即時上手做客<br>零失敗紀錄，讓你有充分學習時間<br>💯學會快速上手，只需要一堂<br><br>課程內容除了教如何排睫毛、補救。<br>還有客人的眼型如何挑選捲翹度。<br>跟相關會遇到的眼形問題都可詢問。<br><br><br>［ 課程內容 ］<br><br>➜ 理論介紹<br>➜ 操作流程: 睫毛養護矯正技術與產品使用方式<br>➜ 睫毛生長原理<br>➜ 眼型判斷<br>➜ 常見問題<br>➜ 拍照技巧<br>➜ 老師示範<br>➜ 學生實際操作<br>➜ 收費建議行銷技巧<br><br>*基本服務操作工具<br>*可以操作10-20位客人的材料<br>*某些副材料可以使用更多人數<br>*材料工具盒<br>報名課程需先支付訂金（請於3日內匯款）<br>讓妳收穫滿滿開心下課😊<br><br>⚠️鄭重呼籲～目前坊間有很多不明來歷且自稱「角蛋白」之產品，請大家提高警覺一分錢一分貨，本所無法與來路不明產品或廉價贋品相提並論⚠️<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程費用私訊官方line</a> ",
           "_tags": [
             "Theme"
@@ -7912,7 +7718,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page46.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">眉毛塑形教學</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\">角蛋白睫毛教學<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page46.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">眉毛塑形教學</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\">韓式睫毛管理美睫術教學<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -15473,7 +15279,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page62.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fixxface 獨家Ａll in one<br>CPP生物表層肌底拉提緊實課程<br>（小熨斗課程）<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page49.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約臉部前先看這<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://fixxface.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">相見恨晚の護膚品牌👀</a>",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page62.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fixxface 獨家<br>CPP生物表層肌底拉提緊實課程<br>（小熨斗課程）<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page49.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約臉部前先看這<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://fixxface.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">相見恨晚の護膚品牌👀</a>",
           "_tags": [
             "Theme"
           ],
