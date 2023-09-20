@@ -13681,19 +13681,6 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://fixxface.com/pages/%E9%97%9C%E6%96%BCfixxface\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">關於fixxface</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://fixxface.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">自創護膚品牌</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-n3"
-        },
-        {
-          "_params": {
             "showText": false
           },
           "media": {
@@ -13746,6 +13733,19 @@
           ],
           "_name": "image1",
           "_anchor": "image1-je"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://fixxface.com/pages/%E9%97%9C%E6%96%BCfixxface\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">關於fixxface</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://fixxface.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">自創護膚品牌</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-n3"
         },
         {
           "_params": {
