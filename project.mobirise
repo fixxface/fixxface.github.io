@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page14.html",
+    "currentPage": "welcometofixxface.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 932,
+    "uniqCompNum": 933,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7718,7 +7718,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page46.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">眉毛塑形教學</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\">韓式睫毛管理美睫術教學<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page46.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國音波教學</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page46.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">黑科技音速槍教學<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page46.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">眉毛塑形教學</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\">韓式睫毛管理美睫術教學<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -13662,7 +13662,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-1350x650.png",
+              "src": "@PROJECT_PATH@/assets/images/fixxface-6-1350x650.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -13685,7 +13685,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://fixxface.com/pages/%E9%97%9C%E6%96%BCfixxface\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">A Special Note</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://fixxface.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">timetofixx</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://fixxface.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">關於fixxface</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://fixxface.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">自創護膚品牌</a>",
           "_tags": [
             "Theme"
           ],
@@ -13699,7 +13699,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-2022-03-03-8.39.06-1400x634.png",
+              "src": "@PROJECT_PATH@/assets/images/fixxface-8-1350x650.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -13730,7 +13730,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2-1-1350x650.png",
+              "src": "@PROJECT_PATH@/assets/images/2-2-1350x650.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -13754,7 +13754,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fixxface-1-1350x650.png",
+              "src": "@PROJECT_PATH@/assets/images/3-1350x650.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -13778,7 +13778,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/5-1350x650.png",
+              "src": "@PROJECT_PATH@/assets/images/5-1-1350x650.png",
               "width": 1400,
               "link": "",
               "alt": "",
