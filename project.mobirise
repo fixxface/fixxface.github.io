@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "index.html",
+    "currentPage": "page49.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 952,
+    "uniqCompNum": 953,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -8372,7 +8372,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Fixxface skincare",
-          "text": "<p><br></p><p>以客製化臉部保養及護膚保養諮詢為主要肌膚服務，希望透過真實的狀況來瞭解和解決每一位客人肌膚問題，進而處理肌膚問題，給予肌膚最適當的處理 。臉部保養有分成快速見效零修復期的魔力音速儀器課程及基礎清粉刺課程。</p><p><br></p><p>(Ａ)&nbsp; 魔力音速儀器療程</p><p>利用微米物化科技，在不傷害肌膚狀態下，將有效成分物化成微米等級活性分子，使皮膚可有效吸收並作用，從而改善敏感，粉刺，面皰痘痘、缺水、紋路、暗沈、老化等肌膚問題。</p><p>(Ｂ)&nbsp; 基礎基本護理及煥膚管理</p><p><br></p><p>/</p><p>透過美容專業技法及儀器的堆疊下，進而達到改善肌膚狀況的效果，第一次來的姑娘們，如果不知道想做什麼療程，可以看自己想改善什麼及想達到什麼樣的效果，針對你的肌膚 和你建議適合的課程，經過討論後再決定哪個課程。</p><p>※肌膚敏感( 酒糟、脂漏等 嚴重痘痘肌肌膚易紅、閉鎖性粉刺和粉刺量較多等肌膚 )</p><p>麻煩預約前請先告知：）</p><p><br></p>",
+          "text": "<p><br></p><p>以客製化臉部保養及護膚保養諮詢為主要肌膚服務，希望透過真實的狀況來瞭解和解決每一位客人肌膚問題，進而處理肌膚問題，給予肌膚最適當的處理 。臉部保養有分成快速見效零修復期的魔力音速儀器課程及基礎清粉刺課程。</p><p><br></p><p>(Ａ)&nbsp; 魔力音速儀器療程</p><p>利用微米物化科技，在不傷害肌膚狀態下，將有效成分物化成微米等級活性分子，使皮膚可有效吸收並作用，從而改善敏感，粉刺，面皰痘痘、缺水、紋路、暗沈、老化等肌膚問題。</p><p>(Ｂ)&nbsp; ＬＤＭ水光水滴課程</p><p>透過儀器進而達到改善肌膚狀況的效果，皮膚再生，減少泛紅炎症<br><br></p><p><br></p><p>/</p><p>透過美容專業技法及儀器的堆疊下，進而達到改善肌膚狀況的效果，第一次來的姑娘們，如果不知道想做什麼療程，可以看自己想改善什麼及想達到什麼樣的效果，針對你的肌膚 和你建議適合的課程，經過討論後再決定哪個課程。</p><p>※肌膚敏感( 酒糟、脂漏等 嚴重痘痘肌肌膚易紅、閉鎖性粉刺和粉刺量較多等肌膚 )</p><p>麻煩預約前請先告知：）</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -15543,7 +15543,7 @@
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "text-align": "center",
-              "color": "#7c706b"
+              "color": "#a38f84"
             }
           },
           "_params": {
@@ -15579,16 +15579,16 @@
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1465x1920.png",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -15601,42 +15601,48 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "maid",
-              "family": "icon54-v4",
+              "name": "love-target",
+              "family": "icon54-v3",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#cccccc"
             }
           },
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "natural-history-2",
-              "family": "icon54-v3",
+              "name": "quiet",
+              "family": "icon54",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#cccccc"
             }
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "pencil",
+              "linkInNewWindow": false,
+              "name": "glitter-eye",
+              "family": "icon54",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "family": "et-line"
+              "color": "#c1c1c1"
             }
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "linkInNewWindow": false,
+              "name": "nird",
+              "family": "icon54",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "family": "et-line"
+              "color": "#c1c1c1"
             }
           },
           "media5": {
@@ -15681,7 +15687,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
