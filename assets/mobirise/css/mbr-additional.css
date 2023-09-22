@@ -15,6 +15,7 @@
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
@@ -2901,9 +2902,15 @@ section.form .container {
 }
 
 
+
 #content1-f3 DIV {
   text-align: center;
   font-family: 'Slabo 27px', serif;
+  color: #545050;
+}
+#content1-f3 P {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
 }
 #footer1-ez P {
   color: #282828;

@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 946,
+    "uniqCompNum": 950,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7582,12 +7582,64 @@
       },
       "components": [
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;</p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-qd"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>技術不斷更新 提升您在美業的專業度</b></p><p><b>FIXXFACE 教學部</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-f3",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "color": "#545050"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page46.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國音波教學</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page57.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">黑科技音速槍教學<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page46.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">眉毛塑形教學</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\">韓式睫毛管理美睫術教學<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-f0"
+        },
+        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
             "fullWidth": true,
             "spacing": "0",
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": 4,
             "filterBgColor": false,
             "bgColor": "fff",
@@ -7691,39 +7743,6 @@
           "allItem": "All",
           "_name": "gallery2",
           "_anchor": "gallery2-f2"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "( one day class )",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-f3",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page46.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">韓國音波教學</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page57.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">黑科技音速槍教學<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page46.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">眉毛塑形教學</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page26.html\" data-toolbar=\"-mbrBtnMove\">韓式睫毛管理美睫術教學<br></a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-f0"
         },
         {
           "_params": {
