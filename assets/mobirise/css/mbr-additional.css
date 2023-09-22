@@ -4940,18 +4940,15 @@ section.form .container {
 #image1-a2 P {
   font-family: 'Source Sans Pro', sans-serif;
 }
-#social-buttons1-aa .mbr-section-title {
-  text-align: center;
-  font-size: 16px;
-}
 #header3-gi .mbr-section-title,
 #header3-gi .mbr-section-subtitle {
   text-align: center;
 }
 #header3-gi .mbr-section-title {
   font-size: 15px;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Bitter', serif;
   text-align: center;
+  color: #7c706b;
 }
 #buttons1-my .btn {
   font-size: 12px;
@@ -5040,6 +5037,10 @@ section.form .container {
 }
 #image1-mz P {
   font-family: 'Source Sans Pro', sans-serif;
+}
+#social-buttons1-aa .mbr-section-title {
+  text-align: center;
+  font-size: 16px;
 }
 
 #content1-ow P {
