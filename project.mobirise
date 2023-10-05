@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page43.html",
+    "currentPage": "page57.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -12547,7 +12547,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10-1366x768.png",
+              "src": "@PROJECT_PATH@/assets/images/home-1366x768.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -12578,7 +12578,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10-1366x768.png",
+              "src": "@PROJECT_PATH@/assets/images/about-1-1366x768.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -12609,7 +12609,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10-1366x768.png",
+              "src": "@PROJECT_PATH@/assets/images/3-1-1366x768.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -12640,7 +12640,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10-1366x768.png",
+              "src": "@PROJECT_PATH@/assets/images/services-1-1366x768.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -12671,7 +12671,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10-1366x768.png",
+              "src": "@PROJECT_PATH@/assets/images/5-1-1366x768.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -12702,7 +12702,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10-1366x768.png",
+              "src": "@PROJECT_PATH@/assets/images/6-1-1366x768.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -12733,7 +12733,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10-1366x768.png",
+              "src": "@PROJECT_PATH@/assets/images/testimonials-1-1366x768.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -12764,7 +12764,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10-1366x768.png",
+              "src": "@PROJECT_PATH@/assets/images/contact-1366x768.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -12795,7 +12795,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10-1366x768.png",
+              "src": "@PROJECT_PATH@/assets/images/contact-2-1366x768.png",
               "width": 1400,
               "link": "",
               "alt": "",
