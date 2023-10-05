@@ -14,7 +14,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
@@ -2725,32 +2724,26 @@ section.form .container {
 }
 
 
-
-#msg-box4-eg P {
+#social-buttons1-qk .mbr-section-title {
   text-align: center;
-  font-family: 'Noto Sans', sans-serif;
-  color: #b8312f;
-}
-#content1-eh P {
-  text-align: center;
-  font-family: 'Droid Serif', serif;
-  color: #28262b;
   font-size: 16px;
+}
+#header6-qu .mbr-section-title {
+  color: #222222;
+  font-size: 10px;
+}
+#header6-qu .mbr-section-text {
+  color: #000000;
+  font-size: 14px;
+}
+#header6-qu .mbr-section-title SPAN {
+  font-size: 20px;
 }
 #footer1-ej P {
   color: #282828;
   text-align: center;
   font-family: 'Slabo 27px', serif;
   font-size: 12px;
-}
-#features3-ek P {
-  color: #d14841;
-  font-size: 13px;
-  text-align: center;
-}
-#features3-el P {
-  color: #d14841;
-  font-size: 14px;
 }
 #menu-g4 .hide-buttons .nav-btn {
   display: none !important;
@@ -2815,6 +2808,43 @@ section.form .container {
 }
 #menu-g4 A {
   font-size: 13px;
+}
+#testimonials1-qt .card-block P {
+  font-size: 12px;
+}
+#testimonials1-qt .mbr-section-subtitle {
+  font-size: 12px;
+  color: #7c706b;
+}
+#testimonials1-qt .mbr-section-title {
+  font-size: 24px;
+}
+#testimonials1-qt .mbr-author-name {
+  color: #28324e;
+  font-family: 'Slabo 27px', serif;
+  text-align: center;
+}
+#testimonials1-qt .card-block {
+  color: #28324e;
+}
+#features4-qm .card-subtitle {
+  color: #545050;
+  font-size: 12px;
+}
+#features4-qm .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-qm H4 {
+  color: #47eb7f;
+}
+#slider2-qy .mbr-section-title,
+#slider2-qy .mbr-section-lead {
+  color: #fff;
+}
+#header3-qp .mbr-section-title,
+#header3-qp .mbr-section-subtitle {
+  text-align: center;
 }
 
 
@@ -3068,6 +3098,7 @@ section.form .container {
 }
 
 
+
 #footer1-fv P {
   color: #282828;
   text-align: center;
@@ -3158,6 +3189,7 @@ section.form .container {
 #msg-box3-oq .mbr-section-title {
   font-size: 19px;
   text-align: center;
+  font-family: 'Slabo 27px', serif;
 }
 
 
@@ -3248,6 +3280,7 @@ section.form .container {
 }
 
 
+
 #features3-jp H4 {
   font-family: 'Slabo 27px', serif;
 }
@@ -3314,6 +3347,9 @@ section.form .container {
 }
 #menu-hc A {
   font-size: 13px;
+}
+#features3-qh H4 {
+  font-family: 'Slabo 27px', serif;
 }
 #content1-ju P {
   font-family: 'PT Serif', serif;
@@ -4695,7 +4731,7 @@ section.form .container {
 #header3-nt .mbr-section-title {
   font-family: 'Lora', serif;
   color: #7c706b;
-  font-size: 20px;
+  font-size: 18px;
 }
 #image1-ny P {
   font-family: 'Source Sans Pro', sans-serif;
