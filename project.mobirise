@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "index.html",
+    "currentPage": "page42.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 987,
+    "uniqCompNum": 989,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -3161,7 +3161,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "happy1111",
-        "order": 9
+        "order": 13
       },
       "components": [
         {
@@ -4586,7 +4586,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2023valentes",
-        "order": 11
+        "order": 14
       },
       "components": [
         {
@@ -4840,7 +4840,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2022 9/15",
-        "order": 18
+        "order": 8
       },
       "components": [
         {
@@ -6729,7 +6729,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Happy 7th anniversary",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -7520,8 +7520,8 @@
     "page45.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Happy 7th anniversary",
-        "order": 10
+        "title": "Happy 7th anniversary1",
+        "order": 11
       },
       "components": [
         {
@@ -7550,10 +7550,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/s-60178444-1080x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/purple-yellow-retro-motivation-dance-with-the-stars-portrait-poster-1400x1980.png",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -7568,7 +7569,7 @@
             }
           },
           "title": "<div><br></div><div>Happy 7 anniversary</div>",
-          "text": "<p>週年慶療程活動 <br><br>活動期間 要想優惠步驟一步一步做好<br>拍照發文打卡標記可享有以下優惠<br><br>Top1<br>眉毛塑型原價$3600 優惠2500<br>兩人同行 再折500 (單人2250)<br><br>+加購眉護增長修護液優惠999(原價1280)<br><br>Top2<br>角蛋白美睫 優惠1380<br>兩人同行 再折400 （單人1180)<br><br>+加購睫毛養護增長修護液優惠999(原價1280)<br>   限量20組<br><br>Top3<br>膠原蛋白逆齡童顏療程 原價$2500<br>即可享有優惠價 $2199<br>（包含十條膠原蛋白線 再贈送清粉刺，唇膜）<br><br>Top4<br>任一臉部保養<br>+加購黃金軟膜只要$199元（原價399）<br>+加購藍藻舒緩膜只要$199元（原價399）<br></p>",
+          "text": "<p>週年慶療程活動 <br><br>⸝⸝ ⟡.·𝙃𝙖𝙥𝙥𝙮 7𝙩𝙝 𝘼𝙣𝙣𝙞𝙫𝙚𝙧𝙨𝙖𝙧𝙮 =♡<br><br>大家最期待的時刻來哩!!<br>休修臉7歲嚕!!!也在店面邁入第3年<br><br>週年慶回饋活動來嘍<br>想趁這波變漂亮的 rigght NOW!!<br>一年一度大優惠又來哩💖<br><br><b>現場消費滿$3999好禮贈三選一</b><br>————————————————————</p><p>♡Top1<br>✨🪞除了臉部要美睫毛眉毛也要整理🪞✨<br>以下加購眉護增長修護液優惠$999(原價$1580)<br><br>眉毛塑型優惠$1380 / 雙人同行$2400<br>韓式睫毛 優惠$1280兩人同行$2500<br>（限動拍照標記再折$100)<br><br><b>套餐組合</b><br>眉毛塑型+睫毛根流校正 1'+1'套餐優惠= $1999<br><br>─────────────────<br><br>♡Top2<br>魔力音速 儀器課程 <br>快速有感對症下藥<br>（優惠方案）<br><br>Ⓐ 音速槍 𝙑𝙡𝙞𝙣𝙚小熨斗單次$2800（原價$3200）<br>「一次購買三堂 即贈洗卸套組 」<br><br>Ⓑ 音速槍 超能亮美白 單次$2199 （原價$2500）<br>「一次購買三堂 即贈洗卸套組 」<br><br>Ⓒ 音速槍保濕抗敏課程單$2299 三堂$5999<br>(限三個月內使用完畢)<br><br>Ⓓ 音速槍3D翹顏打擊脂肪神器 <br>5cc 優惠$3999 (現場打多優惠更多)<br><br>─────────────────<br><br>✨🔥本店統計客人最愛這樣混系列🔥✨<br>（需一次使用完畢 才看得到完美效果）<br>✨🦋 upgrade🦋✨<br><br>Ⓐ 韓式音波1500發+消脂5cc$6999（原價$9000）<br><br>Ⓑ 韓式音波2000發+Cpp小熨斗肌底拉提緊實$7500<i>（原價$9200）<br></i><br>Ⓒ 韓式音波1500發＋杏芙酸燈泡水光$5000<i>（原價$7199）<br><br></i>Ⓓ 音速嫩白＋Cpp 小熨斗肌底拉提緊實$3999<i>（原價$5700）<br></i><br>Ⓔ天使童顏＋小熨斗肌底拉提緊實$5000<i>（原價$7700）</i></p><p><br>♡Top3<br><br>緊膚水光課程$2699<br>杏芙酸水光課程$2699<br><br>（介紹請至限時動態）<br></p><br><p><b>韓式HIFU音波活動如圖</b></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -7590,6 +7591,37 @@
             }
           },
           "_anchor": "msg-box5-eq"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/colorful-retro-bold-style-schedule-event-flyer-1400x1961.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          },
+          "_anchor": "image1-rg"
         },
         {
           "_params": {
@@ -10050,7 +10082,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2020Mother's Day activities",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -11091,7 +11123,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "summer sale",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -12873,7 +12905,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2021 1111",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -13686,7 +13718,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "2022Valentine's Day sale",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -15959,11 +15991,11 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page62.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fixxface 獨家<br>CPP生物表層肌底拉提緊實課程<br>（小熨斗課程）<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page49.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約臉部前先看這<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>   ",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"page62.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fixxface 獨家<br>CPP生物表層肌底拉提緊實課程<br>（小熨斗課程介紹）<br></a>            ",
           "_tags": [
             "Theme"
           ],
@@ -16882,7 +16914,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "7thproduct",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -17378,7 +17410,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "改七週年產品",
-        "order": 12
+        "order": 10
       },
       "components": [
         {

@@ -2852,6 +2852,7 @@ section.form .container {
 
 
 
+
 #msg-box5-eq DIV {
   text-align: center;
   font-family: 'Slabo 27px', serif;
@@ -2862,6 +2863,9 @@ section.form .container {
   font-family: 'Droid Serif', serif;
   color: #28262b;
   font-size: 15px;
+}
+#image1-rg P {
+  font-family: 'Source Sans Pro', sans-serif;
 }
 #footer1-er P {
   color: #282828;
