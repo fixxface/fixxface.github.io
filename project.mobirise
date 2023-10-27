@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page57.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -7563,7 +7563,7 @@
               "size": 0
             }
           },
-          "title": "<div><br></div><div>Happy 6th anniversary</div>",
+          "title": "<div><br></div><div>Happy 7 anniversary</div>",
           "text": "<p>週年慶療程活動 <br><br>活動期間 要想優惠步驟一步一步做好<br>拍照發文打卡標記可享有以下優惠<br><br>Top1<br>眉毛塑型原價$3600 優惠2500<br>兩人同行 再折500 (單人2250)<br><br>+加購眉護增長修護液優惠999(原價1280)<br><br>Top2<br>角蛋白美睫 優惠1380<br>兩人同行 再折400 （單人1180)<br><br>+加購睫毛養護增長修護液優惠999(原價1280)<br>   限量20組<br><br>Top3<br>膠原蛋白逆齡童顏療程 原價$2500<br>即可享有優惠價 $2199<br>（包含十條膠原蛋白線 再贈送清粉刺，唇膜）<br><br>Top4<br>任一臉部保養<br>+加購黃金軟膜只要$199元（原價399）<br>+加購藍藻舒緩膜只要$199元（原價399）<br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
@@ -15944,10 +15944,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">7週年慶活動一覽</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page49.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">預約臉部前先看這</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page44.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">課程教學</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page51.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">服務項目</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
@@ -15959,7 +15959,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page62.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fixxface 獨家<br>CPP生物表層肌底拉提緊實課程<br>（小熨斗課程）<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page49.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約臉部前先看這<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://fixxface.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">相見恨晚の護膚品牌👀</a>",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page62.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fixxface 獨家<br>CPP生物表層肌底拉提緊實課程<br>（小熨斗課程）<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page49.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">預約臉部前先看這<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page60.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">魔力音速<br></a>     <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page44.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">課程教學</a>  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page51.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">服務項目</a>   ",
           "_tags": [
             "Theme"
           ],
