@@ -1,16 +1,16 @@
 {
   "settings": {
     "name": "fixxface官網",
-    "currentPage": "page42.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#f97352",
+        "primaryColor": "#cccccc",
         "secondaryColor": "#47eb7f",
         "successColor": "#553982",
         "infoColor": "#00a885",
-        "warningColor": "#475577",
+        "warningColor": "#f97352",
         "dangerColor": "#3d8eb9",
         "titleFont": "Montserrat",
         "subtitleFont": "Roboto Condensed",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 989,
+    "uniqCompNum": 992,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -6777,8 +6777,8 @@
             }
           },
           "title": "<div>Happy 7th anniversary<br></div>",
-          "text": "<i>2023 10/29-12/6</i><br><br>we are going to have a beauty time<br>七週年活動開跑哩&nbsp;<br>線上同步優惠<br>週年慶優惠活動<br><br>📢꙳⟡sale sale sale📢꙳⟡<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page65.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">產品活動</a>  <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page45.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;課程活動</a>",
+          "text": "<i>2023 10/29-12/6&nbsp;</i><br><br><a href=\"https://www.instagram.com/fixxface/\" class=\"text-primary\">we are going to have a beauty time</a><br>七週年活動開跑哩&nbsp;<br>線上同步優惠<br>週年慶優惠活動<br><br>📢꙳⟡sale sale sale📢꙳⟡<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page65.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">產品活動</a>  <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page45.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;課程活動</a> ",
           "_tags": [
             "Theme"
           ],
@@ -7622,6 +7622,50 @@
             }
           },
           "_anchor": "image1-rg"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "雙十一快閃活動",
+          "text": "'' 我們也有提供刷卡服務&nbsp; ''<br>私訊我們",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://lin.ee/CW6enyY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">刷卡結帳 💳 點這</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "14px"
+            },
+            "H3": {
+              "font-size": "36px",
+              "text-align": "center",
+              "color": "#282828"
+            }
+          },
+          "_anchor": "msg-box1-ri"
         },
         {
           "_params": {
@@ -15991,11 +16035,55 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "雙十一快閃活動",
+          "text": "'' 我們也有提供刷卡服務&nbsp; ''<br>私訊我們",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://lin.ee/CW6enyY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">刷卡結帳 💳 點這</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "14px"
+            },
+            "H3": {
+              "font-size": "36px",
+              "text-align": "center",
+              "color": "#282828"
+            }
+          },
+          "_anchor": "msg-box1-rj"
+        },
+        {
+          "_params": {
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"page62.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fixxface 獨家<br>CPP生物表層肌底拉提緊實課程<br>（小熨斗課程介紹）<br></a>            ",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"page62.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CPP生物表層肌底拉提緊實課程<br>（小熨斗課程介紹）<br></a>            ",
           "_tags": [
             "Theme"
           ],
@@ -17463,7 +17551,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>大促來了 人人有份</b></p><p><b>送禮自用揪團buy 請快囤貨‼️ (♡˙︶˙♡)</b><br></p><p><b><br></b></p><p><b>專研抗敏配方 以成分打動肌膚&nbsp;</b></p><p><b>任合肌膚都適合</b></p><p>🛒&nbsp;</p><p><br></p><p> </p><p><b>fixxface獨家保養品</b></p><p>讓肌膚穩定的的系列產品</p><p>5折優惠/ 同產品買二送一</p><p><br>「即期標特賣」可使用到2025/12月<br><br></p><p><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E4%BF%9D%E6%BF%95%E6%BA%AB%E5%92%8C%E5%8D%B8%E5%A6%9D%E4%B9%B3-75%E6%8A%98\" class=\"text-danger\" target=\"_blank\">1.&nbsp;&nbsp;</a><b><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E4%BF%9D%E6%BF%95%E6%BA%AB%E5%92%8C%E5%8D%B8%E5%A6%9D%E4%B9%B3-75%E6%8A%98\" class=\"text-danger text-primary\" target=\"_blank\">保濕溫和卸妝乳</a></b><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E4%BF%9D%E6%BF%95%E6%BA%AB%E5%92%8C%E5%8D%B8%E5%A6%9D%E4%B9%B3-75%E6%8A%98\" class=\"text-danger\" target=\"_blank\">&nbsp; &nbsp;| 250ml&nbsp;&nbsp;</a></p><p>NT$ 999&nbsp;&nbsp;↘︎&nbsp;ONSALE&nbsp; <b><a href=\"https://fixxface.com/page1.html\" class=\"text-success\" target=\"_blank\">&nbsp;<b>NT$ 500&nbsp;</b></a>&nbsp;/&nbsp;&nbsp;<i>二送一 NT$</i></b><i>&nbsp;999</i></p><p><br></p><p><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-9-15-10-3-%E8%8C%B6%E6%A8%B9%E6%B4%97%E9%9D%A2%E6%85%95%E6%96%AF-75%E6%8A%98\" class=\"text-danger\" target=\"_blank\">2.</a><b><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-9-15-10-3-%E8%8C%B6%E6%A8%B9%E6%B4%97%E9%9D%A2%E6%85%95%E6%96%AF-75%E6%8A%98\" class=\"text-danger\" target=\"_blank\">&nbsp; 茶樹洗面慕斯</a></b><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-9-15-10-3-%E8%8C%B6%E6%A8%B9%E6%B4%97%E9%9D%A2%E6%85%95%E6%96%AF-75%E6%8A%98\" class=\"text-danger\" target=\"_blank\">&nbsp; | 150ml</a><br></p><p>NT$ 999 ↘︎&nbsp;ONSALE<b>&nbsp;<a href=\"https://fixxface.com/page7.html#slider1-4e\" class=\"text-success\" target=\"_blank\">&nbsp;<b>NT$ 500</b></a>&nbsp;/&nbsp;<i>二件 NT$ 999</i></b></p><p><b><i><br></i></b></p><p><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E8%A0%B6%E7%B5%B2%E8%9B%8B%E7%99%BD%E7%99%BC%E5%85%89%E7%B2%BE%E8%8F%AF%E6%B0%B4-75%E6%8A%98?pr_prod_strat=copurchase&amp;pr_rec_id=cb1838860&amp;pr_rec_pid=7239036731565&amp;pr_ref_pid=7239035945133&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">3.  蠶絲蛋白發光精華水  | 100ml</a></p><p>NT$ 1299&nbsp; ↘︎&nbsp;ONSALE&nbsp;<b> <a href=\"https://fixxface.com/page9.html#slider1-4h\" class=\"text-success\" target=\"_blank\"><b>NT$650&nbsp;</b>&nbsp;</a>&nbsp;/&nbsp;&nbsp;<i>二件 NT$1299</i></b><br></p><p><br></p><p><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E5%AB%A9%E7%99%BD%E8%83%9C%E8%82%BD%E4%BF%9D%E6%BF%95%E6%A5%B5%E5%85%89%E7%B2%BE%E8%8F%AF-75%E6%8A%98?pr_prod_strat=copurchase&amp;pr_rec_id=988d4d2bc&amp;pr_rec_pid=7239035945133&amp;pr_ref_pid=7239032045741&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">4. </a><b><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E5%AB%A9%E7%99%BD%E8%83%9C%E8%82%BD%E4%BF%9D%E6%BF%95%E6%A5%B5%E5%85%89%E7%B2%BE%E8%8F%AF-75%E6%8A%98?pr_prod_strat=copurchase&amp;pr_rec_id=988d4d2bc&amp;pr_rec_pid=7239035945133&amp;pr_ref_pid=7239032045741&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">嫩白胜肽極光精華乳</a></b><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E5%AB%A9%E7%99%BD%E8%83%9C%E8%82%BD%E4%BF%9D%E6%BF%95%E6%A5%B5%E5%85%89%E7%B2%BE%E8%8F%AF-75%E6%8A%98?pr_prod_strat=copurchase&amp;pr_rec_id=988d4d2bc&amp;pr_rec_pid=7239035945133&amp;pr_ref_pid=7239032045741&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">&nbsp; | 50ml</a></p><p>NT$ 1499&nbsp; ↘︎&nbsp;ONSALE<b>&nbsp; <a href=\"https://fixxface.com/page10.html#slider1-4k\" class=\"text-success\" target=\"_blank\" style=\"\">NT$ 750</a>&nbsp;/&nbsp;&nbsp;</b><i style=\"font-weight: bold;\">二件 NT$1499</i></p><p><b><i><br></i></b></p><p><b>5.黑引力魔術霜 | 50ml</b></p><p>NT$ 2880 ↘︎ ONSALE  NT$ 2699 / 二件 NT$5100&nbsp; </p><p><b>(贈溫和卸妝乳)</b></p><p><a href=\"https://fixxface.com/page10.html#slider1-4k\" class=\"text-success\" target=\"_blank\"><b><br></b></a><br></p><p>♡ ————————————————♡</p><p><br></p><p><br></p><p>🪄 組合Ａ- 限量五組</p><p><a href=\"https://fixxface.com/products/%E5%B0%8F%E8%B3%87%E7%B5%84%E5%90%88\" class=\"text-danger\" target=\"_blank\">✨限量組合 黑引力魔術霜優惠組✨</a></p><p><br></p><p>黑引力魔術霜 | 50ml*4</p><p><br></p><p>NT$ 11520 ↘︎ ONSALE NT$9200</p><p><br></p><p><b>贈送 1/金箔爆水炸彈面膜*1片+神奇泡泡spa深層清潔面膜 *1片＋</b></p><p><b>極光有機玫瑰花水嫩白面膜 *1片＋不一樣的杏仁酸淨化毛孔面膜 *1片</b></p><p><b><br></b></p><p><b>2/ 無敵蔓越莓益生菌隨手包Ｘ6</b></p><p><b>3/【SELF-LOVE FOR ALL收納包】<br></b></p><p><br></p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>🪄 組合Ｂ</p><p>趁好價，找回肌膚好狀態</p><p><a href=\"https://fixxface.com/products/4packs%E5%A5%B3%E7%A5%9E%E7%B5%84%E5%90%88\" class=\"text-danger\" target=\"_blank\">女神4 PACKS✨＋垮臉必備魔術霜</a></p><p><br></p><p>卸妝乳 ＋洗面慕斯 ＋精華水＋ 極光精華乳＋ 黑引力魔術霜 </p><p><br></p><p>NT$ 7676&nbsp; ↘︎ ONSALE&nbsp; <b><a href=\"https://shopee.tw/Fixxface-%E5%A5%B3%E7%A5%9E%E7%B5%84%E5%90%88-i.412916376.8237134750\" class=\"text-success\">NT$4500&nbsp;</a></b></p><p><b>贈送【獨家Friendly cup sleeve環保杯套】</b></p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><a href=\"https://fixxface.com/products/%E5%91%B5%E8%AD%B7%E7%B5%84%E5%90%88\" class=\"text-danger\" target=\"_blank\">🪄煥膚有感神組合Ｃ ✨</a></p><p>&nbsp;（過敏肌也能使用）</p><p><br></p><p>胜肽酸10ml* + 2黑引力魔術霜*1</p><p><br></p><p>NT$ 5120&nbsp; ↘︎ ONSALE&nbsp; NT$<b>&nbsp;3800</b></p><p><b><i>- 贈送贈送【獨家Friendly cup sleeve環保杯套】＋保濕溫和卸妝乳   | 250ml 價值＄1200-</i></b></p><p><b><i><br></i></b></p><p><b><i>♡ ————————————————♡</i></b></p><p><b><i><br></i></b></p><p>🪄第二波優惠組合Ｄ ✨</p><p>ONSALE  NT$？？？？</p><p><b><br></b></p><p><b>♡ ————————————————♡</b></p><p><b><br></b></p><p>🪄第二波優惠組合Ｅ✨</p><p>&nbsp;ONSALE$？？？？</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><br><b>📢&nbsp;<a href=\"https://fixxface.com/collections/%E9%9D%A2%E8%86%9C%E4%BF%9D%E9%A4%8A\" class=\"text-info\" target=\"_blank\">面膜大賞</a>&nbsp;(🖐🏻'-' ) 📢&nbsp;</b></p><p><br></p><p><a href=\"https://fixxface.com/products/24k%E9%87%91%E7%AE%94%E7%88%86%E6%B0%B4%E7%82%B8%E5%BD%88%E9%9D%A2%E8%86%9C\" class=\"text-danger\" target=\"_blank\">改版上架 24K金箔爆水炸彈面膜 plus4.0</a>&nbsp;首發新品</p><p><i>（🚿補水Moisturize✨光澤Glossier🍑彈性Elasticity）</i><br></p><p>內料升級不漲價</p><p><br></p><p>單片定價$150.00 \b ( <a href=\"https://fixxface.com/products/24k%E9%87%91%E7%AE%94%E7%88%86%E6%B0%B4%E7%82%B8%E5%BD%88%E9%9D%A2%E8%86%9C?variant=42446099906733\" class=\"text-primary\" target=\"_blank\">㊕㊝ 50片送50片= $7500</a> )</p><p><a href=\"https://fixxface.com/products/24k%E9%87%91%E7%AE%94%E7%88%86%E6%B0%B4%E7%82%B8%E5%BD%88%E9%9D%A2%E8%86%9C?variant=41177095307437\" class=\"text-warning\" target=\"_blank\">五片$500</a> / <a href=\"https://fixxface.com/products/24k%E9%87%91%E7%AE%94%E7%88%86%E6%B0%B4%E7%82%B8%E5%BD%88%E9%9D%A2%E8%86%9C?variant=42446099841197\" class=\"text-warning\" target=\"_blank\">十片$850</a> /&nbsp; <a href=\"https://fixxface.com/products/24k%E9%87%91%E7%AE%94%E7%88%86%E6%B0%B4%E7%82%B8%E5%BD%88%E9%9D%A2%E8%86%9C?variant=42446099873965\" class=\"text-warning\" target=\"_blank\">三十片$2400</a> /&nbsp;&nbsp;</p><p><br></p><p><a href=\"https://fixxface.com/products/%E7%A5%9E%E5%A5%87%E6%B3%A1%E6%B3%A1spa%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E9%9D%A2%E8%86%9C?pr_prod_strat=copurchase&amp;pr_rec_id=a7eb9b999&amp;pr_rec_pid=7079140163757&amp;pr_ref_pid=7075113337005&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">神奇泡泡spa深層清潔面膜</a></p><p>🧼淨化毛孔、🧪通暢毛孔 🧬亮白配方</p><p><br></p><p>單片定價$150.00 \b ( <a href=\"https://fixxface.com/products/%E7%A5%9E%E5%A5%87%E6%B3%A1%E6%B3%A1spa%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E9%9D%A2%E8%86%9C?variant=42446116159661\" class=\"text-primary\" target=\"_blank\">㊕㊝ 50片送50片=$7500 </a>)</p><p><a href=\"https://fixxface.com/products/%E7%A5%9E%E5%A5%87%E6%B3%A1%E6%B3%A1spa%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E9%9D%A2%E8%86%9C?variant=41177097994413\" class=\"text-warning\" target=\"_blank\">五片$500</a> / <a href=\"https://fixxface.com/products/%E7%A5%9E%E5%A5%87%E6%B3%A1%E6%B3%A1spa%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E9%9D%A2%E8%86%9C?variant=42466097397933\" class=\"text-warning\" target=\"_blank\">十片$850</a> /  <a href=\"https://fixxface.com/products/%E7%A5%9E%E5%A5%87%E6%B3%A1%E6%B3%A1spa%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E9%9D%A2%E8%86%9C?variant=42194467324077\" class=\"text-warning\" target=\"_blank\">三十片$2200</a> /&nbsp;</p><p><br></p><p><a href=\"https://fixxface.com/products/%E6%A5%B5%E5%85%89%E6%9C%89%E6%A9%9F%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B0%B4%E5%AB%A9%E7%99%BD%E9%9D%A2%E8%86%9C?pr_prod_strat=copurchase&amp;pr_rec_id=229e44a72&amp;pr_rec_pid=7075113337005&amp;pr_ref_pid=7075110355117&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">極光有機玫瑰花水嫩白面膜</a></p><p><i>（💍亮白Brightening💧保濕Hydrating☘️舒緩Soothing）</i></p><p><i><br></i></p><p>單片定價$180.00 ( <a href=\"https://fixxface.com/products/%E6%A5%B5%E5%85%89%E6%9C%89%E6%A9%9F%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B0%B4%E5%AB%A9%E7%99%BD%E9%9D%A2%E8%86%9C?variant=42446135492781\" class=\"text-primary\" target=\"_blank\">㊕㊝50片送50片=$9000</a> )</p><p><a href=\"https://fixxface.com/products/%E6%A5%B5%E5%85%89%E6%9C%89%E6%A9%9F%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B0%B4%E5%AB%A9%E7%99%BD%E9%9D%A2%E8%86%9C?variant=42446135492781\" class=\"text-warning\" target=\"_blank\">五片$600 </a>/<a href=\"https://fixxface.com/products/%E6%A5%B5%E5%85%89%E6%9C%89%E6%A9%9F%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B0%B4%E5%AB%A9%E7%99%BD%E9%9D%A2%E8%86%9C?variant=42446135492781\" class=\"text-warning\" target=\"_blank\"> 十片$900</a> / <a href=\"https://fixxface.com/products/%E6%A5%B5%E5%85%89%E6%9C%89%E6%A9%9F%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B0%B4%E5%AB%A9%E7%99%BD%E9%9D%A2%E8%86%9C?variant=42446135492781\" class=\"text-warning\">三十片$2300</a> /&nbsp;</p><p><br></p><p><a href=\"https://fixxface.com/products/%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E6%9D%8F%E4%BB%81%E9%85%B8%E6%B7%A8%E5%8C%96%E6%AF%9B%E5%AD%94%E9%9D%A2%E8%86%9C?pr_prod_strat=copurchase&amp;pr_rec_id=229e44a72&amp;pr_rec_pid=7075116155053&amp;pr_ref_pid=7075110355117&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">不一樣的杏仁酸淨化毛孔面膜</a></p><p><i>（🐚淨化Anti-acne💧保濕Hydrating☘️舒緩Soothing）</i></p><p><i><br></i></p><p>單片定價$180.00 ( <a href=\"https://fixxface.com/products/%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E6%9D%8F%E4%BB%81%E9%85%B8%E6%B7%A8%E5%8C%96%E6%AF%9B%E5%AD%94%E9%9D%A2%E8%86%9C?variant=42446126284973\" class=\"text-primary\">㊕㊝50片送50片=$9000</a> )</p><p><a href=\"https://fixxface.com/products/%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E6%9D%8F%E4%BB%81%E9%85%B8%E6%B7%A8%E5%8C%96%E6%AF%9B%E5%AD%94%E9%9D%A2%E8%86%9C?variant=42446126284973\" class=\"text-warning\">五片$600</a> / <a href=\"https://fixxface.com/products/%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E6%9D%8F%E4%BB%81%E9%85%B8%E6%B7%A8%E5%8C%96%E6%AF%9B%E5%AD%94%E9%9D%A2%E8%86%9C?variant=42446126284973\" class=\"text-warning\">十片$900</a> / <a href=\"https://fixxface.com/products/%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E6%9D%8F%E4%BB%81%E9%85%B8%E6%B7%A8%E5%8C%96%E6%AF%9B%E5%AD%94%E9%9D%A2%E8%86%9C?variant=42446126284973\" class=\"text-warning\">三十片$2300</a> /&nbsp;</p><p><br></p><p>🪄面膜特別組✨ </p><p>四款各五片 $2000</p><p><br></p><p>24K金箔爆水炸彈面膜5入＋神奇泡泡spa深層清潔面膜5入</p><p>＋極光有機玫瑰花水嫩白面膜5入＋不一樣的杏仁酸淨化毛孔面膜5入</p><p><br></p><p><br></p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>✨必搶限量組✨</p><p><br></p><p>用了粉刺痘痘變少又可以拋光亮度的胜肽酸</p><p>胜肽酸10ml 單瓶定價$1120&nbsp;</p><p>&nbsp;<a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4%E6%85%B6-%E7%8D%A8%E5%AE%B6mooieco30-%E8%83%9C%E8%82%BD%E9%85%B8?variant=42197351334061\" class=\"text-primary\" target=\"_blank\">10ml *2優惠$1798</a><br></p><p><br></p><p>💡新配方 胜肽酸250ml&nbsp;</p><p><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4%E6%85%B6-%E7%8D%A8%E5%AE%B6mooieco30-%E8%83%9C%E8%82%BD%E9%85%B8?variant=41812081344685\" class=\"text-primary\">胜肽酸250ml定價$7999&nbsp; 限量優惠20組 $4999</a></p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>「妹妹發光益生菌」</p><p>女性私密益生菌護理粉包</p><p>甘露醣+蔓越莓，黃金比例</p><p><br></p><p>無敵蔓越莓益生菌隨手包*30包/盒 $1,380.00）</p><p><a href=\"https://fixxface.com/products/untilsparkling\" class=\"text-primary\">NT$ 1380 ↘︎ ONSALE   NT$ 1180 /  二盒送一盒 NT$ 1999</a></p><p><br></p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p><b>大促來了 人人有份</b></p><p><b>送禮自用揪團buy 請快囤貨‼️ (♡˙︶˙♡)</b><br></p><p><b><br></b></p><p><b>專研抗敏配方 以成分打動肌膚&nbsp;</b></p><p><b>任合肌膚都適合</b></p><p>🛒&nbsp;</p><p><br></p><p> </p><p><b>fixxface獨家保養品</b></p><p>讓肌膚穩定的的系列產品</p><p>5折優惠/ 同產品買二送一</p><p><br>「即期標特賣」可使用到2025/12月<br><br></p><p><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E4%BF%9D%E6%BF%95%E6%BA%AB%E5%92%8C%E5%8D%B8%E5%A6%9D%E4%B9%B3-75%E6%8A%98\" class=\"text-danger\" target=\"_blank\">1.&nbsp;&nbsp;</a><b><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E4%BF%9D%E6%BF%95%E6%BA%AB%E5%92%8C%E5%8D%B8%E5%A6%9D%E4%B9%B3-75%E6%8A%98\" class=\"text-danger text-primary\" target=\"_blank\">保濕溫和卸妝乳</a></b><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E4%BF%9D%E6%BF%95%E6%BA%AB%E5%92%8C%E5%8D%B8%E5%A6%9D%E4%B9%B3-75%E6%8A%98\" class=\"text-danger\" target=\"_blank\">&nbsp; &nbsp;| 250ml&nbsp;&nbsp;</a></p><p>NT$ 999&nbsp;&nbsp;↘︎&nbsp;ONSALE&nbsp; <b><a href=\"https://fixxface.com/page1.html\" class=\"text-success\" target=\"_blank\">&nbsp;<b>NT$ 500&nbsp;</b></a>&nbsp;/&nbsp;&nbsp;<i>二送一 NT$</i></b><i>&nbsp;999</i></p><p><br></p><p><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-9-15-10-3-%E8%8C%B6%E6%A8%B9%E6%B4%97%E9%9D%A2%E6%85%95%E6%96%AF-75%E6%8A%98\" class=\"text-danger\" target=\"_blank\">2.</a><b><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-9-15-10-3-%E8%8C%B6%E6%A8%B9%E6%B4%97%E9%9D%A2%E6%85%95%E6%96%AF-75%E6%8A%98\" class=\"text-danger\" target=\"_blank\">&nbsp; 茶樹洗面慕斯</a></b><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-9-15-10-3-%E8%8C%B6%E6%A8%B9%E6%B4%97%E9%9D%A2%E6%85%95%E6%96%AF-75%E6%8A%98\" class=\"text-danger\" target=\"_blank\">&nbsp; | 150ml</a><br></p><p>NT$ 999 ↘︎&nbsp;ONSALE<b>&nbsp;<a href=\"https://fixxface.com/page7.html#slider1-4e\" class=\"text-success\" target=\"_blank\">&nbsp;<b>NT$ 500</b></a>&nbsp;/&nbsp;<i>二件 NT$ 999</i></b></p><p><b><i><br></i></b></p><p><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E8%A0%B6%E7%B5%B2%E8%9B%8B%E7%99%BD%E7%99%BC%E5%85%89%E7%B2%BE%E8%8F%AF%E6%B0%B4-75%E6%8A%98?pr_prod_strat=copurchase&amp;pr_rec_id=cb1838860&amp;pr_rec_pid=7239036731565&amp;pr_ref_pid=7239035945133&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">3.  蠶絲蛋白發光精華水  | 100ml</a></p><p>NT$ 1299&nbsp; ↘︎&nbsp;ONSALE&nbsp;<b> <a href=\"https://fixxface.com/page9.html#slider1-4h\" class=\"text-success\" target=\"_blank\"><b>NT$650&nbsp;</b>&nbsp;</a>&nbsp;/&nbsp;&nbsp;<i>二件 NT$1299</i></b><br></p><p><br></p><p><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E5%AB%A9%E7%99%BD%E8%83%9C%E8%82%BD%E4%BF%9D%E6%BF%95%E6%A5%B5%E5%85%89%E7%B2%BE%E8%8F%AF-75%E6%8A%98?pr_prod_strat=copurchase&amp;pr_rec_id=988d4d2bc&amp;pr_rec_pid=7239035945133&amp;pr_ref_pid=7239032045741&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">4. </a><b><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E5%AB%A9%E7%99%BD%E8%83%9C%E8%82%BD%E4%BF%9D%E6%BF%95%E6%A5%B5%E5%85%89%E7%B2%BE%E8%8F%AF-75%E6%8A%98?pr_prod_strat=copurchase&amp;pr_rec_id=988d4d2bc&amp;pr_rec_pid=7239035945133&amp;pr_ref_pid=7239032045741&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">嫩白胜肽極光精華乳</a></b><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4-happy-6th-fixxface-%E5%AB%A9%E7%99%BD%E8%83%9C%E8%82%BD%E4%BF%9D%E6%BF%95%E6%A5%B5%E5%85%89%E7%B2%BE%E8%8F%AF-75%E6%8A%98?pr_prod_strat=copurchase&amp;pr_rec_id=988d4d2bc&amp;pr_rec_pid=7239035945133&amp;pr_ref_pid=7239032045741&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">&nbsp; | 50ml</a></p><p>NT$ 1499&nbsp; ↘︎&nbsp;ONSALE<b>&nbsp; <a href=\"https://fixxface.com/page10.html#slider1-4k\" class=\"text-success\" target=\"_blank\" style=\"\">NT$ 750</a>&nbsp;/&nbsp;&nbsp;</b><i style=\"font-weight: bold;\">二件 NT$1499</i></p><p><b><i><br></i></b></p><p><b>5.黑引力魔術霜 | 50ml</b></p><p>NT$ 2880 ↘︎ ONSALE  NT$ 2699 / 二件 NT$5100&nbsp; </p><p><b>(贈溫和卸妝乳)</b></p><p><a href=\"https://fixxface.com/page10.html#slider1-4k\" class=\"text-success\" target=\"_blank\"><b><br></b></a><br></p><p>♡ ————————————————♡</p><p><br></p><p><br></p><p>🪄 組合Ａ- 限量五組</p><p><a href=\"https://fixxface.com/products/%E5%B0%8F%E8%B3%87%E7%B5%84%E5%90%88\" class=\"text-danger\" target=\"_blank\">✨限量組合 黑引力魔術霜優惠組✨</a></p><p><br></p><p>黑引力魔術霜 | 50ml*4</p><p><br></p><p>NT$ 11520 ↘︎ ONSALE NT$9200</p><p><br></p><p><b>贈送 1/金箔爆水炸彈面膜*1片+神奇泡泡spa深層清潔面膜 *1片＋</b></p><p><b>極光有機玫瑰花水嫩白面膜 *1片＋不一樣的杏仁酸淨化毛孔面膜 *1片</b></p><p><b><br></b></p><p><b>2/ 無敵蔓越莓益生菌隨手包Ｘ6</b></p><p><b>3/【SELF-LOVE FOR ALL收納包】<br></b></p><p><br></p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>🪄 組合Ｂ</p><p>趁好價，找回肌膚好狀態</p><p><a href=\"https://fixxface.com/products/4packs%E5%A5%B3%E7%A5%9E%E7%B5%84%E5%90%88\" class=\"text-danger\" target=\"_blank\">女神4 PACKS✨＋垮臉必備魔術霜</a></p><p><br></p><p>卸妝乳 ＋洗面慕斯 ＋精華水＋ 極光精華乳＋ 黑引力魔術霜 </p><p><br></p><p>NT$ 7676&nbsp; ↘︎ ONSALE&nbsp; <b><a href=\"https://shopee.tw/Fixxface-%E5%A5%B3%E7%A5%9E%E7%B5%84%E5%90%88-i.412916376.8237134750\" class=\"text-success\">NT$4500&nbsp;</a></b></p><p><b>贈送【獨家Friendly cup sleeve環保杯套】</b></p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><a href=\"https://fixxface.com/products/%E5%91%B5%E8%AD%B7%E7%B5%84%E5%90%88\" class=\"text-danger\" target=\"_blank\">🪄煥膚有感神組合Ｃ ✨</a></p><p>&nbsp;（過敏肌也能使用）</p><p><br></p><p>胜肽酸10ml* + 2黑引力魔術霜*1</p><p><br></p><p>NT$ 5120&nbsp; ↘︎ ONSALE&nbsp; NT$<b>&nbsp;3800</b></p><p><b><i>- 贈送贈送【獨家Friendly cup sleeve環保杯套】＋保濕溫和卸妝乳   | 250ml 價值＄1200-</i></b></p><p><b><i><br></i></b></p><p><b><i>♡ ————————————————♡</i></b></p><p><b><i><br></i></b></p><p>🪄第二波優惠組合Ｄ ✨</p><p>ONSALE  NT$？？？？</p><p><b><br></b></p><p><b>♡ ————————————————♡</b></p><p><b><br></b></p><p>🪄第二波優惠組合Ｅ✨</p><p>&nbsp;ONSALE$？？？？</p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p><br><b>📢&nbsp;<a href=\"https://fixxface.com/collections/%E9%9D%A2%E8%86%9C%E4%BF%9D%E9%A4%8A\" class=\"text-black\" target=\"_blank\">面膜大賞</a>&nbsp;(🖐🏻'-' ) 📢&nbsp;</b></p><p><br></p><p><a href=\"https://fixxface.com/products/24k%E9%87%91%E7%AE%94%E7%88%86%E6%B0%B4%E7%82%B8%E5%BD%88%E9%9D%A2%E8%86%9C\" class=\"text-danger\" target=\"_blank\">改版上架 24K金箔爆水炸彈面膜 plus4.0</a>&nbsp;首發新品</p><p><i>（🚿補水Moisturize✨光澤Glossier🍑彈性Elasticity）</i><br></p><p>內料升級不漲價</p><p><br></p><p>單片定價$150.00 \b ( <a href=\"https://fixxface.com/products/24k%E9%87%91%E7%AE%94%E7%88%86%E6%B0%B4%E7%82%B8%E5%BD%88%E9%9D%A2%E8%86%9C?variant=42446099906733\" class=\"text-warning\" target=\"_blank\">㊕㊝ 50片送50片= $7500</a> )</p><p><a href=\"https://fixxface.com/products/24k%E9%87%91%E7%AE%94%E7%88%86%E6%B0%B4%E7%82%B8%E5%BD%88%E9%9D%A2%E8%86%9C?variant=41177095307437\" class=\"text-black\" target=\"_blank\">五片$500</a> / <a href=\"https://fixxface.com/products/24k%E9%87%91%E7%AE%94%E7%88%86%E6%B0%B4%E7%82%B8%E5%BD%88%E9%9D%A2%E8%86%9C?variant=42446099841197\" class=\"text-black\" target=\"_blank\">十片$850</a> /&nbsp; <a href=\"https://fixxface.com/products/24k%E9%87%91%E7%AE%94%E7%88%86%E6%B0%B4%E7%82%B8%E5%BD%88%E9%9D%A2%E8%86%9C?variant=42446099873965\" class=\"text-black\" target=\"_blank\">三十片$2400</a> /&nbsp;&nbsp;</p><p><br></p><p><a href=\"https://fixxface.com/products/%E7%A5%9E%E5%A5%87%E6%B3%A1%E6%B3%A1spa%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E9%9D%A2%E8%86%9C?pr_prod_strat=copurchase&amp;pr_rec_id=a7eb9b999&amp;pr_rec_pid=7079140163757&amp;pr_ref_pid=7075113337005&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">神奇泡泡spa深層清潔面膜</a></p><p>🧼淨化毛孔、🧪通暢毛孔 🧬亮白配方</p><p><br></p><p>單片定價$150.00 \b ( <a href=\"https://fixxface.com/products/%E7%A5%9E%E5%A5%87%E6%B3%A1%E6%B3%A1spa%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E9%9D%A2%E8%86%9C?variant=42446116159661\" class=\"text-warning\" target=\"_blank\">㊕㊝ 50片送50片=$7500 </a>)</p><p><a href=\"https://fixxface.com/products/%E7%A5%9E%E5%A5%87%E6%B3%A1%E6%B3%A1spa%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E9%9D%A2%E8%86%9C?variant=41177097994413\" class=\"text-black\" target=\"_blank\">五片$500</a> / <a href=\"https://fixxface.com/products/%E7%A5%9E%E5%A5%87%E6%B3%A1%E6%B3%A1spa%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E9%9D%A2%E8%86%9C?variant=42466097397933\" class=\"text-black\" target=\"_blank\">十片$850</a> /  <a href=\"https://fixxface.com/products/%E7%A5%9E%E5%A5%87%E6%B3%A1%E6%B3%A1spa%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94%E9%9D%A2%E8%86%9C?variant=42194467324077\" class=\"text-black\" target=\"_blank\">三十片$2200</a> /&nbsp;</p><p><br></p><p><a href=\"https://fixxface.com/products/%E6%A5%B5%E5%85%89%E6%9C%89%E6%A9%9F%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B0%B4%E5%AB%A9%E7%99%BD%E9%9D%A2%E8%86%9C?pr_prod_strat=copurchase&amp;pr_rec_id=229e44a72&amp;pr_rec_pid=7075113337005&amp;pr_ref_pid=7075110355117&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">極光有機玫瑰花水嫩白面膜</a></p><p><i>（💍亮白Brightening💧保濕Hydrating☘️舒緩Soothing）</i></p><p><i><br></i></p><p>單片定價$180.00 ( <a href=\"https://fixxface.com/products/%E6%A5%B5%E5%85%89%E6%9C%89%E6%A9%9F%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B0%B4%E5%AB%A9%E7%99%BD%E9%9D%A2%E8%86%9C?variant=42446135492781\" class=\"text-warning\" target=\"_blank\">㊕㊝50片送50片=$9000</a> )</p><p><a href=\"https://fixxface.com/products/%E6%A5%B5%E5%85%89%E6%9C%89%E6%A9%9F%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B0%B4%E5%AB%A9%E7%99%BD%E9%9D%A2%E8%86%9C?variant=42446135492781\" class=\"text-black\" target=\"_blank\">五片$600 </a>/<a href=\"https://fixxface.com/products/%E6%A5%B5%E5%85%89%E6%9C%89%E6%A9%9F%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B0%B4%E5%AB%A9%E7%99%BD%E9%9D%A2%E8%86%9C?variant=42446135492781\" class=\"text-black\" target=\"_blank\"> 十片$900</a> / <a href=\"https://fixxface.com/products/%E6%A5%B5%E5%85%89%E6%9C%89%E6%A9%9F%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B0%B4%E5%AB%A9%E7%99%BD%E9%9D%A2%E8%86%9C?variant=42446135492781\" class=\"text-black\">三十片$2300</a> /&nbsp;</p><p><br></p><p><a href=\"https://fixxface.com/products/%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E6%9D%8F%E4%BB%81%E9%85%B8%E6%B7%A8%E5%8C%96%E6%AF%9B%E5%AD%94%E9%9D%A2%E8%86%9C?pr_prod_strat=copurchase&amp;pr_rec_id=229e44a72&amp;pr_rec_pid=7075116155053&amp;pr_ref_pid=7075110355117&amp;pr_seq=uniform\" class=\"text-danger\" target=\"_blank\">不一樣的杏仁酸淨化毛孔面膜</a></p><p><i>（🐚淨化Anti-acne💧保濕Hydrating☘️舒緩Soothing）</i></p><p><i><br></i></p><p>單片定價$180.00 ( <a href=\"https://fixxface.com/products/%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E6%9D%8F%E4%BB%81%E9%85%B8%E6%B7%A8%E5%8C%96%E6%AF%9B%E5%AD%94%E9%9D%A2%E8%86%9C?variant=42446126284973\" class=\"text-warning\">㊕㊝50片送50片=$9000</a> )</p><p><a href=\"https://fixxface.com/products/%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E6%9D%8F%E4%BB%81%E9%85%B8%E6%B7%A8%E5%8C%96%E6%AF%9B%E5%AD%94%E9%9D%A2%E8%86%9C?variant=42446126284973\" class=\"text-black\">五片$600</a> / <a href=\"https://fixxface.com/products/%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E6%9D%8F%E4%BB%81%E9%85%B8%E6%B7%A8%E5%8C%96%E6%AF%9B%E5%AD%94%E9%9D%A2%E8%86%9C?variant=42446126284973\" class=\"text-black\">十片$900</a> / <a href=\"https://fixxface.com/products/%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E6%9D%8F%E4%BB%81%E9%85%B8%E6%B7%A8%E5%8C%96%E6%AF%9B%E5%AD%94%E9%9D%A2%E8%86%9C?variant=42446126284973\" class=\"text-black\">三十片$2300</a> /&nbsp;</p><p><br></p><p><br></p><p>🪄面膜特別組✨ </p><p><a href=\"https://fixxface.com/products/%E6%BD%A4%E6%BE%A4%E4%BF%AE%E8%AD%B7%E8%86%A0%E5%9B%8A-%E5%B0%8F%E7%B6%A0-9gf%E7%94%9F%E9%95%B7%E5%9B%A0%E5%AD%90%E6%99%82%E7%A9%BA%E8%86%A0%E5%9B%8A-%E5%B0%8F%E9%87%91-%E9%9B%AA%E8%82%8C%E4%BA%AE%E5%A6%8D-%E5%B0%8F%E7%99%BD\" class=\"text-warning\">四款各五片 $2000</a></p><p><br></p><p>24K金箔爆水炸彈面膜5入＋神奇泡泡spa深層清潔面膜5入</p><p>＋極光有機玫瑰花水嫩白面膜5入＋不一樣的杏仁酸淨化毛孔面膜5入</p><p><br></p><p><br></p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>✨必搶限量組✨</p><p><br></p><p>用了粉刺痘痘變少又可以拋光亮度的胜肽酸</p><p>胜肽酸10ml 單瓶定價$1120&nbsp;</p><p>&nbsp;<a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4%E6%85%B6-%E7%8D%A8%E5%AE%B6mooieco30-%E8%83%9C%E8%82%BD%E9%85%B8?variant=42197351334061\" class=\"text-warning\" target=\"_blank\">10ml *2優惠$1798</a><br></p><p><br></p><p>💡新配方 胜肽酸250ml&nbsp;</p><p><a href=\"https://fixxface.com/products/6%E9%80%B1%E5%B9%B4%E6%85%B6-%E7%8D%A8%E5%AE%B6mooieco30-%E8%83%9C%E8%82%BD%E9%85%B8?variant=41812081344685\" class=\"text-warning\">胜肽酸250ml定價$7999&nbsp; 限量優惠20組 $4999</a></p><p><br></p><p>♡ ————————————————♡</p><p><br></p><p>「妹妹發光益生菌」</p><p>女性私密益生菌護理粉包</p><p>甘露醣+蔓越莓，黃金比例</p><p><br></p><p>無敵蔓越莓益生菌隨手包*30包/盒 $1,380.00）</p><p><a href=\"https://fixxface.com/products/untilsparkling\" class=\"text-warning\">NT$ 1380 ↘︎ ONSALE   NT$ 1180 /  二盒送一盒 NT$ 1999</a></p><p><br></p><p><br></p><p>♡ ————————————————♡</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -17481,6 +17569,50 @@
             }
           },
           "_anchor": "content1-ra"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "雙十一快閃活動",
+          "text": "'' 我們也有提供刷卡服務&nbsp; ''<br>私訊我們",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://lin.ee/CW6enyY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">刷卡結帳 💳 點這</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "14px"
+            },
+            "H3": {
+              "font-size": "36px",
+              "text-align": "center",
+              "color": "#282828"
+            }
+          },
+          "_anchor": "msg-box1-rh"
         },
         {
           "_params": {
@@ -17627,36 +17759,6 @@
           ],
           "_name": "menu",
           "_anchor": "menu-rd"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            },
-            ".btn-social > *": {
-              "vertical-align": "middle",
-              "padding-right": "0"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/2-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-secondary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://line.me/R/ti/p/%40llr0044b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fixxface/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-re"
         }
       ]
     }
