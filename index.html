@@ -24,21 +24,53 @@
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   <style>
-    .heart-link {
-      position: absolute;
-      width: 80px;
-      height: 80px;
-      border-radius: 50%;
-      transform: translate(-50%, -50%);
-      cursor: pointer;
-      background-color: transparent;
-      transition: all 0.3s ease;
+    .image-container {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 1400 / 2067;
     }
-    
+
+    .image-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+    }
+
+    .heart-link {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        transform: translate(-50%, -50%);
+        cursor: pointer;
+        background-color: transparent;
+        transition: all 0.3s ease;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        opacity: 0;
+        background-blend-mode: lighten;
+    }
+
     .heart-link:hover {
-      background-color: rgba(255, 105, 180, 0.2); /* 淡粉紅 hover 效果 */
-      content: "❤";
-      border: 2px solid hotpink;
+        opacity: 0.2;
+        background-image: url('assets/images/heart.png');
+        }
+    .heart-link::after {
+        content: "❤";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 40px;
+        color: hotpink;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        pointer-events: none;
+    }
+
+    .heart-link:hover::after {
+        opacity: 1;
     }
     </style>
     
@@ -88,10 +120,10 @@
 </section>
 
 <section class="mbr-section mbr-section-nopadding" id="image1-a2" data-rv-view="39">
-    <div class="mbr-figure" style="position: relative;">
-      <img src="assets/images/fixxfacecom-skincare-42-62-1587-2343-1400x2067-2-1400x2067.png" style="width: 100%; height: auto;">
+    <div class="image-container">
+      <img src="assets/images/fixxfacecom-skincare-42-62-1587-2343-1400x2067-2-1400x2067.png" alt="fixxface" />
       
-      <!-- 精準點擊愛心區塊 -->
+      <!-- 愛心點擊區塊 -->
       <a href="welcometofixxface.html" target="_blank" class="heart-link" style="top: 59.7%; left: 32.3%;"></a>
       <a href="page47.html" target="_blank" class="heart-link" style="top: 66.9%; left: 43.5%;"></a>
       <a href="page56.html" target="_blank" class="heart-link" style="top: 72.7%; left: 49.4%;"></a>
@@ -100,6 +132,7 @@
       <a href="page44.html" target="_blank" class="heart-link" style="top: 91.3%; left: 58.8%;"></a>
     </div>
   </section>
+  
   
   
 
